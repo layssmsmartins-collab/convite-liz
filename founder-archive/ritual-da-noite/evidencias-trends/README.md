@@ -9,3 +9,8 @@
 | intestino preso criança | Brasil | −30% | Em queda e ruidoso |
 
 O Google Trends mostra **interesse relativo** (0 a 100 dentro de cada termo), não volume absoluto. Os termos não podem ser comparados entre si sem estarem no mesmo gráfico. Os zeros indicam volume baixo.
+
+## TikTok (Insights de pesquisa para criadores), 22/10/2026
+| Termo | Filtro | Popularidade | Variação | Leitura |
+|---|---|---:|---:|---|
+| melatonina para crianças | Global, últimos 6 meses | **124 mil** | **+1.000%** | Muitos picos (vídeos que viralizam). O trecho zerado de maio a agosto parece falta de dado, não queda real. Os vídeos relacionados são de médicos e pais falando sobre dar ou não dar melatonina |
