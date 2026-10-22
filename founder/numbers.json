@@ -1,42 +1,54 @@
 {
-  "business": "Marca Kids Premium (nome provisório) — plano trimestral a R$129/mês",
-  "unit": "mês de assinatura trimestral (1 criança, 3 refis por envio)",
+  "business": "Marca Kids Premium (nome provisório) — trimestral R$129/mês + Kit Teste",
+  "unit": "assinante-mês (1 criança, plano trimestral)",
   "price": 129,
   "variable": [
     {
-      "label": "Tributos 8%",
+      "label": "Tributos e perdas fiscais (8% do preço) — estimativa do documento",
       "cost": 10.32
     },
     {
-      "label": "Frete (R$15 a cada 3 meses)",
+      "label": "Frete (R$15 por envio trimestral ÷ 3) — estimativa",
       "cost": 5
     },
     {
-      "label": "Produto",
+      "label": "Produto e terceirização (30 doses) — estimativa, sem cotação",
       "cost": 35
     },
     {
-      "label": "Embalagem/refil",
+      "label": "Embalagem/refil — estimativa",
       "cost": 8
     },
     {
-      "label": "Pagamento (cobrança trimestral)",
+      "label": "Pagamento (R$6 por cobrança trimestral ÷ 3) — estimativa",
       "cost": 2
     },
     {
-      "label": "Atendimento/picking (a cada 3 meses)",
+      "label": "Atendimento/picking/perdas (R$12 por envio ÷ 3) — estimativa",
       "cost": 4
+    },
+    {
+      "label": "Garantia do 1º envio (5% × ~R$193, em 6 meses) — estimativa",
+      "cost": 1.61
+    },
+    {
+      "label": "Tampa à prova de criança (diluída) — estimativa",
+      "cost": 0.25
     }
   ],
   "fixed_monthly": [
     {
-      "label": "Despesas fixas e lançamento (R$90 mil/ano no documento, estimativa)",
-      "cost": 7500
+      "label": "Operação fixa: ferramentas, RT, contador, armazenagem, conteúdo (R$66 mil/ano: R$90 mil do documento menos R$24 mil de lançamento) — estimativa",
+      "cost": 5500
+    },
+    {
+      "label": "Aquisição: creators, mídia, Kit Teste (orçamento mensal) — estimativa",
+      "cost": 4000
     }
   ],
   "startup": [
     {
-      "label": "Formulação, RT, regulatório, laudos",
+      "label": "Formulação, RT, regulatório, laudos, notificação",
       "cost": 18000
     },
     {
@@ -58,19 +70,39 @@
   ],
   "days_per_month": 30,
   "capacity_per_day": 66.67,
-  "plan_per_day": 11.67,
+  "plan_per_day": 10.539,
   "ramp_per_day": [
-    1.0,
-    2.0,
-    3.33,
-    4.67,
-    6.0,
-    7.33,
-    8.33,
-    9.33,
-    10.0,
-    10.67,
-    11.33,
-    11.67
-  ]
+    1.333,
+    2.56,
+    3.689,
+    4.727,
+    5.682,
+    6.561,
+    7.369,
+    8.113,
+    8.797,
+    9.427,
+    10.006,
+    10.539
+  ],
+  "_assumptions": {
+    "marketing_month": 4000,
+    "cac_per_subscriber": 100,
+    "monthly_churn": 0.08,
+    "subscribers_by_month": [
+      40,
+      77,
+      111,
+      142,
+      170,
+      197,
+      221,
+      243,
+      264,
+      283,
+      300,
+      316
+    ],
+    "cac_build": "R$25 de mídia/creator por Kit Teste + R$5 de prejuízo do kit = R$30 por kit; 30% kit→assinatura = R$100 por assinante (estimativa)"
+  }
 }
