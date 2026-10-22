@@ -36,6 +36,8 @@ The input (see example-ideas.json in this folder):
                         licence or notification; required when regulatory >= 3
       spike             true if the demand rose and already fell (a fad)
       needs_paid_ads    true if it only sells through paid media
+      gatekeeper        true if someone other than the buyer must approve the
+                        purchase (a doctor, nutritionist, school, employer)
       reasons           {field: "one line"} for every score above
       kill              optional, a deal-breaker found while screening
 """
@@ -107,6 +109,8 @@ def evaluate(data):
             kills.append("demand spiked and fell: a fad")
         if idea.get("needs_paid_ads"):
             kills.append("sells only through paid media")
+        if idea.get("gatekeeper"):
+            kills.append("a third party decides the purchase (doctor, school...): reaching them costs far more than a small budget")
         if s["regulatory"] >= 3 and not idea.get("regulatory_outsourced"):
             kills.append("regulated and the licence cannot sit with a contract manufacturer")
         if idea.get("kill"):

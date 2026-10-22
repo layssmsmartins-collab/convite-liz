@@ -106,24 +106,30 @@ For every idea, in one pass (a filter, not the full board):
    video, do customers make their own content, does it carry an identity, a
    hobby or a daily ritual people talk about? Mark `needs_paid_ads: true` if it
    only sells through paid media.
-3. **Three lenses** 1 to 10 each, with the method in
+3. **Who decides the purchase**: mark `gatekeeper: true` when the buyer will
+   not buy without someone else's approval (a paediatrician for children's
+   supplements, a nutritionist, a school, an employer). Winning those people
+   is medical or institutional marketing: sales teams, samples, studies, years.
+   A small budget cannot pay for it, so the tool kills the idea.
+4. **Three lenses** 1 to 10 each, with the method in
    `${CLAUDE_SKILL_DIR}/../founder-board/lenses.md`. Apply the published
    frameworks, never speak as their authors.
-4. **Brazil fit** 1 to 5: local demand signals and room for a premium brand.
+5. **Brazil fit** 1 to 5: local demand signals and room for a premium brand.
    Name the nearest local alternatives with links. If nothing could be reached,
    say so and score 2, not higher.
-5. **Repeat purchase** 1 to 5: consumables, refills and collections compound;
+6. **Repeat purchase** 1 to 5: consumables, refills and collections compound;
    one-off purchases have to win a new customer every time.
-6. **Unit margin**: price and variable cost, each marked as an estimate with its
+7. **Unit margin**: price and variable cost, each marked as an estimate with its
    basis, plus a rough startup cost (first batch, development, brand, launch).
-7. **Founder fit** 1 to 5 (kill rule only) and **regulatory weight** 1 to 5,
+8. **Founder fit** 1 to 5 (kill rule only) and **regulatory weight** 1 to 5,
    with `regulatory_outsourced: true` when a contract manufacturer holds the
    licence or notification.
 
 Write every score with a one-line reason into `founder/discover/ideas.json`
 (shape: `example-ideas.json` in this folder) and run the tool. It kills ideas
 that lose money per unit, cost more than the budget, score 3 or less on a lens,
-cannot be run by the founder, are fads, sell only through paid media, or need a
+cannot be run by the founder, are fads, sell only through paid media, need a
+third party's approval to be bought, or need a
 licence that cannot sit with a manufacturer. It ranks the rest with fixed
 weights: sustained demand 25%, virality and community 20%, lenses 20%, Brazil
 fit 15%, repeat 10%, margin 5%, light regulation 5%. The ranking is arithmetic;

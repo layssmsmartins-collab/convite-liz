@@ -14,3 +14,7 @@
 - **Comunidade sem marca pessoal** (confirmado): puxada pela marca, por creators e pelo conteúdo dos próprios clientes.
 - **Anvisa aceita só se terceirizável:** a notificação fica com o fabricante terceirizado (confirmado).
 - A rodada 1 (ideias a partir da vantagem dela) foi recusada e está guardada em `rodada-1/`.
+
+## Ajuste da rodada 3
+- **Nova regra de corte (confirmada):** se a compra depende da aprovação de um terceiro (pediatra, nutricionista, escola, empregador), a ideia é cortada. Conquistar esse terceiro é marketing médico ou institucional, com equipe, amostras, estudos e anos, e R$100 mil não pagam isso. Por isso saem suplementos infantis e produtos de "saúde" infantil (o Rotulim e o Ritual da Noite).
+- A rodada 2 está guardada em `rodada-2/`.

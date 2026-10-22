@@ -32,7 +32,8 @@
     "regulatory": "Cosmético (provável grau 1), notificado pelo terceirista: confirmar a classificação",
     "variable_cost": "Estimativa: terceirização R$12 + embalagem R$4 + frete e taxas R$8"
    },
-   "regulatory_outsourced": true
+   "regulatory_outsourced": true,
+   "gatekeeper": false
   },
   {
    "id": "R02",
@@ -65,7 +66,8 @@
     "regulatory": "Alimento importado: importador/envasador habilitado faz a regularização e a rotulagem",
     "variable_cost": "Estimativa: matcha importado R$40 + embalagem R$6 + frete e taxas R$12 (sobe com a falta de oferta)"
    },
-   "regulatory_outsourced": true
+   "regulatory_outsourced": true,
+   "gatekeeper": false
   },
   {
    "id": "R03",
@@ -97,7 +99,8 @@
     "fit": "Especificação técnica e importação OEM são forças dela; o ticket alto exige estoque",
     "regulatory": "Sem regulação específica",
     "variable_cost": "Estimativa: OEM R$150 + imposto de importação e frete ~R$100 + taxas R$40"
-   }
+   },
+   "gatekeeper": false
   },
   {
    "id": "R04",
@@ -129,7 +132,8 @@
     "fit": "Molde, material e teste de atenuação são engenharia pura; ela não precisa aparecer",
     "regulatory": "Confirmar: vendido como EPI precisa de CA; como acessório de consumo, não. Não fazer alegação de saúde",
     "variable_cost": "Estimativa: OEM silicone + estojo R$25 + frete R$15 + taxas R$15"
-   }
+   },
+   "gatekeeper": false
   },
   {
    "id": "R05",
@@ -162,7 +166,8 @@
     "regulatory": "Sabonete grau 1 notificado pelo terceirista; desodorante antitranspirante seria grau 2 (evitar)",
     "variable_cost": "Estimativa: 3 barras terceirizadas R$18 + embalagem R$6 + frete e taxas R$14"
    },
-   "regulatory_outsourced": true
+   "regulatory_outsourced": true,
+   "gatekeeper": false
   },
   {
    "id": "R06",
@@ -195,7 +200,8 @@
     "regulatory": "Hidratante grau 1 com o terceirista; versão antisséptica (álcool) mudaria a classe, evitar",
     "variable_cost": "Estimativa: envase terceirizado R$9 + frasco R$5 + frete e taxas R$8"
    },
-   "regulatory_outsourced": true
+   "regulatory_outsourced": true,
+   "gatekeeper": false
   },
   {
    "id": "R07",
@@ -227,7 +233,8 @@
     "fit": "Fornecedor OEM e coleção; operável",
     "regulatory": "Acessório; a cola pode ser cosmético: confirmar",
     "variable_cost": "Estimativa: OEM R$10 + embalagem R$4 + frete e taxas R$10"
-   }
+   },
+   "gatekeeper": false
   },
   {
    "id": "R08",
@@ -259,7 +266,8 @@
     "fit": "Operável",
     "regulatory": "Sem regulação",
     "variable_cost": "Estimativa: OEM R$40 + frete R$15 + taxas R$15"
-   }
+   },
+   "gatekeeper": false
   },
   {
    "id": "R09",
@@ -291,7 +299,8 @@
     "fit": "Operável",
     "regulatory": "Contato com alimento, leve",
     "variable_cost": "Estimativa: OEM R$55 + frete R$20 + taxas R$15"
-   }
+   },
+   "gatekeeper": false
   },
   {
    "id": "R10",
@@ -323,7 +332,107 @@
     "fit": "Malharia nacional e controle de qualidade; tamanhos complicam o estoque",
     "regulatory": "Só a etiqueta têxtil",
     "variable_cost": "Estimativa: 3 pares e boné de malharia nacional R$45 + frete R$12 + taxas R$13"
-   }
+   },
+   "gatekeeper": false
+  },
+  {
+   "id": "N01",
+   "name": "Meias de pilates premium",
+   "one_line": "Meias antiderrapantes de pilates com design, coleções e kits para alunas de estúdio, R$79 o par / R$199 o kit de 3",
+   "model": "grip socks de estúdio (ToeSox e marcas de boutique nos EUA)",
+   "price": 79,
+   "variable_cost": 22,
+   "startup_cost": 30000,
+   "lenses": {
+    "offers": 6,
+    "monopoly": 4,
+    "product": 6
+   },
+   "demand": 4,
+   "virality": 4,
+   "brazil_fit": 4,
+   "repeat": 4,
+   "fit": 4,
+   "regulatory": 1,
+   "reasons": {
+    "offers": "Item obrigatório em muitos estúdios, compra sem pensar, ótimo presente",
+    "monopoly": "Lupo, Trifil e Selene podem copiar; a defesa é design, coleção e comunidade de estúdio",
+    "product": "Grip, tecido e caimento são especificáveis; o design transforma commodity em desejo",
+    "demand": "Brasil: check-ins de pilates +141% entre 2022 e 2024 na Wellhub (https://ohoje.com/2026/09/03/pilates-vira-febre-entre-jovens-no-brasil-com-aulas-coletivas-e-crescimento-de-141-em-dois-anos/); categoria global de meias de pilates em crescimento, com estimativas divergentes (https://www.gminsights.com/industry-analysis/yoga-and-pilates-socks-market)",
+    "virality": "Estúdio é comunidade; aluna posta o pé na máquina; coleções viram conversa",
+    "brazil_fit": "Só marcas de commodity: Lupo a R$34,90, Selene, Trifil (https://www.centauro.com.br/nav/modalidade/ginastica); nenhuma premium encontrada",
+    "repeat": "A meia gasta com o uso; coleções e cores novas",
+    "fit": "Malharia nacional, especificação de grip e controle de qualidade: operação pura; venda também B2B para estúdios",
+    "regulatory": "Só a etiqueta têxtil",
+    "variable_cost": "Estimativa: malharia nacional R$12 + embalagem R$2 + frete e taxas R$8"
+   },
+   "gatekeeper": false
+  },
+  {
+   "id": "N02",
+   "name": "Seda para cabelos cacheados",
+   "one_line": "Fronha, touca e scrunchies de seda pura (mulberry) para cacheadas e crespas, R$289 o kit",
+   "model": "Kitsch e Slip (EUA)",
+   "price": 289,
+   "variable_cost": 95,
+   "startup_cost": 40000,
+   "lenses": {
+    "offers": 6,
+    "monopoly": 4,
+    "product": 6
+   },
+   "demand": 4,
+   "virality": 4,
+   "brazil_fit": 4,
+   "repeat": 3,
+   "fit": 4,
+   "regulatory": 1,
+   "reasons": {
+    "offers": "Resultado visível de manhã (menos frizz, cacho definido) que dá para comparar",
+    "monopoly": "O cetim barato domina; a seda pura premium é um degrau que poucas marcas ocupam, mas é copiável",
+    "product": "Gramatura, fecho, elástico e caimento da touca são especificáveis",
+    "demand": "Brasil: interesse por 'cachos' +300% em 10 anos no Google Trends (https://www.tupi.fm/?p=1848526); 70% dos brasileiros têm cabelo cacheado, ondulado ou crespo (https://consumidormoderno.com.br/um-mercado-de-140-milhoes-de-pessoas/); modelo: a Kitsch cresceu em acessórios e foi listada entre as mais inovadoras (https://www.fastcompany.com/91034781/kitsch-most-innovative-companies-2024)",
+    "virality": "Antes e depois do cacho é o formato mais forte da comunidade cacheada",
+    "brazil_fit": "Toucas de cetim a R$8–85 no Magalu (https://m.magazineluiza.com.br/busca/touca/); nenhuma marca de seda premium para cacheadas encontrada",
+    "repeat": "Touca e scrunchie se repõem; a fronha dura",
+    "fit": "Importação OEM de seda e controle de qualidade de tecido",
+    "regulatory": "Só a etiqueta têxtil",
+    "variable_cost": "Estimativa: seda OEM R$55 + importação R$20 + embalagem e frete R$20"
+   },
+   "gatekeeper": false
+  },
+  {
+   "id": "N03",
+   "name": "Acessórios premium de padel",
+   "one_line": "Overgrips, raqueteiras e munhequeiras de design para quem joga padel, R$129 o kit",
+   "model": "boom de padel na Europa e nos EUA",
+   "price": 129,
+   "variable_cost": 45,
+   "startup_cost": 35000,
+   "lenses": {
+    "offers": 5,
+    "monopoly": 4,
+    "product": 5
+   },
+   "demand": 4,
+   "virality": 3,
+   "brazil_fit": 3,
+   "repeat": 4,
+   "fit": 3,
+   "regulatory": 1,
+   "reasons": {
+    "offers": "Quem joga troca overgrip sempre e quer equipamento bonito",
+    "monopoly": "Bullpadel, Adidas e Head dominam o equipamento; acessório é copiável",
+    "product": "Overgrip e raqueteira têm pouco espaço de diferenciação",
+    "demand": "Brasil: mais de 600 mil praticantes, crescimento de 15–20% ao ano e cerca de 3 quadras inauguradas por dia, segundo a confederação (https://www.gazetasp.com.br/esportes/mais-de-600-mil-praticantes-padel-dispara-no-brasil-e-e-o-esporte-que/)",
+    "virality": "Esporte social, mas o acessório aparece pouco",
+    "brazil_fit": "Mercado já atendido pelas marcas de raquete",
+    "repeat": "Overgrip é consumível",
+    "fit": "Importação OEM operável",
+    "regulatory": "Sem regulação",
+    "variable_cost": "Estimativa: OEM R$25 + frete e taxas R$20"
+   },
+   "gatekeeper": false
   }
  ]
 }

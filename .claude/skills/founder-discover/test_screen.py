@@ -39,6 +39,12 @@ class ScreenTest(unittest.TestCase):
         first(data)["needs_paid_ads"] = True
         self.assertFalse(screen.evaluate(data)["alive"])
 
+    def test_gatekeeper_is_killed(self):
+        data = copy.deepcopy(EXAMPLE)
+        first(data)["gatekeeper"] = True
+        res = screen.evaluate(data)
+        self.assertTrue(any("third party" in k for k in res["killed"][0]["kills"]))
+
     def test_demand_above_2_needs_a_link(self):
         data = copy.deepcopy(EXAMPLE)
         first(data)["reasons"]["demand"] = "It is growing a lot"
