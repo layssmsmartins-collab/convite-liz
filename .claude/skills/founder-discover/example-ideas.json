@@ -1,0 +1,47 @@
+{
+  "budget": 100000,
+  "ideas": [
+    {
+      "id": "I01",
+      "name": "Rotulim (example)",
+      "one_line": "Kids' daily chewable multivitamin by quarterly subscription, for label-reading parents",
+      "price": 129,
+      "variable_cost": 66.18,
+      "startup_cost": 76000,
+      "lenses": {"offers": 4, "monopoly": 4, "product": 6},
+      "fit": 3,
+      "gap": 3,
+      "regulatory": 4,
+      "reasons": {
+        "offers": "Real pain (guilt, picky eaters) but regulation forbids the outcome claims parents pay for",
+        "monopoly": "No moat beyond brand; Alpha Kids already premium at ~R$58/month",
+        "product": "Tight focus (1 SKU, 1 channel) and a designed daily ritual",
+        "fit": "Founder has budget and a written study, no supplement experience yet",
+        "gap": "No Brazilian brand found combining per-lot lab reports, taste guarantee and a kids' ritual",
+        "regulatory": "Anvisa notification, child-specific limits, claim review on every ad",
+        "variable_cost": "Founder's study hypotheses, no manufacturer quote"
+      }
+    },
+    {
+      "id": "I02",
+      "name": "Example that fails",
+      "one_line": "A café that would need a lease bigger than the budget",
+      "price": 12,
+      "variable_cost": 4,
+      "startup_cost": 180000,
+      "lenses": {"offers": 6, "monopoly": 3, "product": 6},
+      "fit": 2,
+      "gap": 2,
+      "regulatory": 2,
+      "reasons": {
+        "offers": "Clear treat, easy to buy",
+        "monopoly": "Many cafés within walking distance",
+        "product": "Simple menu",
+        "fit": "No hospitality experience",
+        "gap": "Crowded street",
+        "regulatory": "Food permit and fire inspection",
+        "variable_cost": "Public supplier prices"
+      }
+    }
+  ]
+}
