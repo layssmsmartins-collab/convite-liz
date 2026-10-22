@@ -1,0 +1,13 @@
+{
+  "id": "P082",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "R$149 por mês num multivitamínico infantil é quase cinco vezes o que pago num frasco de farmácia em promoção, que dura dois meses. Marca nova, só no site e sem cupom, eu nem testo.",
+  "objection": "Fazendo a conta por comprimido, sai uns R$5 por dia, e eu não vejo prova de que isso faz meu filho comer verdura ou que é melhor que o da farmácia com desconto. Além disso, mastigável gostoso vira doce e ele vai querer mais de um.",
+  "would_change_my_mind": "Um primeiro mês bem barato, tipo R$49 com cupom, e uma assinatura fixa abaixo de R$80 por mês.",
+  "price_too_cheap": 20,
+  "price_cheap": 45,
+  "price_expensive": 85,
+  "price_too_expensive": 120
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P081",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Tenho dois filhos, então seriam quase R$300 por mês, enquanto o Lavitan ou o Alpha Kids que compro na farmácia sai por uma fração disso e as crianças já tomam sem reclamar. Frasco com adesivo e laudo por QR code são legais, mas não valem pagar três ou quatro vezes mais.",
+  "objection": "R$149 por criança por mês é caro demais para um multivitamínico, e assinatura sempre promete 'cancela quando quiser', mas na prática dá trabalho e eu acabo pagando meses sem usar.",
+  "would_change_my_mind": "Um preço por família ou desconto forte a partir do segundo filho, algo perto de R$80 a R$100 por criança, com compra avulsa sem assinatura para testar primeiro.",
+  "price_too_cheap": 30,
+  "price_cheap": 60,
+  "price_expensive": 100,
+  "price_too_expensive": 140
+}

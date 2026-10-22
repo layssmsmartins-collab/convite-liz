@@ -1,0 +1,13 @@
+{
+  "id": "P021",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "O pediatra não pediu isso. Eu só dou suplemento quando ele indica, e aí compro a marca ou as gotas que ele recomenda, não uma marca nova que nunca ouvi falar e que só vende pelo site.",
+  "objection": "Não sei se meu filho precisa disso, nem se essa marca é confiável; laudo por QR code e adesivo não substituem a opinião do médico que acompanha meu filho.",
+  "would_change_my_mind": "O pediatra indicar esse produto especificamente, ou pelo menos aprovar a fórmula quando eu mostrar a ele.",
+  "price_too_cheap": 40,
+  "price_cheap": 70,
+  "price_expensive": 120,
+  "price_too_expensive": 180
+}

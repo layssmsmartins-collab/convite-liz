@@ -1,0 +1,13 @@
+{
+  "id": "P026",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Dinheiro não é o problema, mas só vende por assinatura e eu não assino mais nada depois da dor de cabeça para cancelar. E é uma marca que eu nunca ouvi falar para dar ao meu filho todo dia; prefiro o que o pediatra indica e que chega no meu app de mercado.",
+  "objection": "Marca nova, sem histórico, para dar a uma criança diariamente, e ainda me prendendo numa assinatura. O laudo por QR code é legal, mas não substitui a indicação do pediatra.",
+  "would_change_my_mind": "Poder comprar um frasco avulso, sem assinatura, de preferência com recomendação do pediatra do meu filho.",
+  "price_too_cheap": 40,
+  "price_cheap": 80,
+  "price_expensive": 150,
+  "price_too_expensive": 230
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P070",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "convenience",
+  "reason": "Chegar em casa todo mês sem eu ter que lembrar e o meu filho achar divertido marcar os adesivos vale alguma coisa pra mim, e como cancela pelo site eu testo um mês. Mas é teste, não compromisso: se no segundo mês eu não vir diferença, cancelo.",
+  "objection": "Na farmácia tem por R$30, então o que tem nesse comprimido que justifica pagar cinco vezes mais? Laudo e sem corante é legal, mas não sei se isso vale R$119 a mais por mês.",
+  "would_change_my_mind": "Uma comparação clara, lado a lado, da fórmula com as marcas de farmácia, ou o pediatra do meu filho recomendando; sem isso eu cancelo depois do primeiro mês.",
+  "price_too_cheap": 30,
+  "price_cheap": 69,
+  "price_expensive": 119,
+  "price_too_expensive": 179
+}

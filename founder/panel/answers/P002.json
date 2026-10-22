@@ -1,0 +1,13 @@
+{
+  "id": "P002",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "O pediatra nunca pediu multivitamínico pro meu filho, ele come bem. Ainda por cima é assinatura de R$149 por mês de uma marca que ninguém conhece, e eu fujo de assinatura.",
+  "objection": "Se o pediatra não indicou, por que eu daria vitamina todo dia? E não quero mais uma assinatura pra lembrar de cancelar.",
+  "would_change_my_mind": "O pediatra recomendar, e poder comprar um frasco avulso sem assinatura pra testar.",
+  "price_too_cheap": 40,
+  "price_cheap": 70,
+  "price_expensive": 120,
+  "price_too_expensive": 180
+}

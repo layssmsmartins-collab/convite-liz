@@ -1,0 +1,13 @@
+{
+  "id": "P063",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "R$149 por mês por criança é caro pra um multivitamínico, o Alpha Kids que eu já conheço sai bem mais barato. E ainda é assinatura, coisa que eu evito depois de já ter me irritado pra cancelar.",
+  "objection": "Pagar quase o triplo de uma marca conhecida e ainda ficar presa numa assinatura de uma marca nova, que nem nome definitivo tem, só porque vem num frasco bonito com adesivos.",
+  "would_change_my_mind": "Poder comprar avulso, um frasco quando eu precisar, a um preço mais perto do Alpha Kids, e o pediatra recomendar na consulta.",
+  "price_too_cheap": 30,
+  "price_cheap": 60,
+  "price_expensive": 100,
+  "price_too_expensive": 140
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P024",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "R$149 por mês por um mastigável infantil é o dobro ou mais do que pago na farmácia com cupom, e eu sempre comparo o preço por comprimido. Laudo e frasco com adesivo são legais, mas não justificam essa diferença todo mês.",
+  "objection": "Preço por unidade muito alto para algo que só complementa a alimentação, e ainda tenho medo de o mastigável virar doce e meu filho pedir mais de um.",
+  "would_change_my_mind": "Um primeiro mês com bom desconto ou um plano trimestral que deixe o preço perto de R$80 por mês, sem fidelidade.",
+  "price_too_cheap": 30,
+  "price_cheap": 60,
+  "price_expensive": 95,
+  "price_too_expensive": 130
+}

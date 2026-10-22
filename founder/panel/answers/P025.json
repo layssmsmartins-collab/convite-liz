@@ -1,0 +1,13 @@
+{
+  "id": "P025",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Não dou suplemento nenhum sem o pediatra indicar, e marca nova vendida só pelo site ele nunca vai ter citado. O preço nem é o problema, é que eu não troco o que o pediatra recomendou por uma marca que vi rolando o feed.",
+  "objection": "Meu pediatra não conhece essa marca, e ainda tem o risco do meu filho cuspir o mastigável como já aconteceu com outra vitamina, aí é dinheiro jogado fora numa assinatura.",
+  "would_change_my_mind": "O meu pediatra indicar essa marca pelo nome, e de preferência uma amostra pequena para ver se meu filho aceita o sabor antes de assinar.",
+  "price_too_cheap": 40,
+  "price_cheap": 80,
+  "price_expensive": 180,
+  "price_too_expensive": 300
+}

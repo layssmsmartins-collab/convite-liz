@@ -1,0 +1,13 @@
+{
+  "id": "P008",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "R$149 por mês por um multivitamínico infantil é muito acima do que eu pago na farmácia, ainda mais na promoção com cupom. E assinatura sem eu saber se meu filho vai aceitar o sabor é pedir para perder dinheiro de novo.",
+  "objection": "E se ele cuspir igual cuspiu a última vitamina? Não vou pagar R$149 para descobrir, e o frasco com adesivo não muda o gosto.",
+  "would_change_my_mind": "Um kit de amostra barato ou o primeiro mês com desconto forte e devolução do dinheiro se ele não gostar do sabor, e o pediatra recomendar na consulta.",
+  "price_too_cheap": 25,
+  "price_cheap": 50,
+  "price_expensive": 80,
+  "price_too_expensive": 110
+}

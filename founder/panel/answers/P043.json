@@ -1,0 +1,13 @@
+{
+  "id": "P043",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Gostei de não ter açúcar nem corante e do laudo por QR code, mas R$149 por mês é cinco vezes o que pago na farmácia por um mastigável parecido. Frasco com adesivo não justifica essa diferença pra mim.",
+  "objection": "Na farmácia tem por R$30, qual a diferença de verdade? Não vi a dosagem nem a lista de ingredientes pra comparar, e marca nova que só vende pelo site eu ainda não conheço.",
+  "would_change_my_mind": "Ver a tabela nutricional e os ingredientes lado a lado com os da farmácia mostrando uma vantagem concreta, e o preço cair para perto de R$70 a R$80 por mês.",
+  "price_too_cheap": 25,
+  "price_cheap": 50,
+  "price_expensive": 85,
+  "price_too_expensive": 130
+}

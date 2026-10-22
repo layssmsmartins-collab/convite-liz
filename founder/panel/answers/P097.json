@@ -1,0 +1,13 @@
+{
+  "id": "P097",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Marca que eu nunca ouvi falar, vendida só pelo site, para meu filho tomar todo dia? Não. E ainda vem como assinatura, que eu evito; prefiro comprar avulso uma marca que o pediatra indique na farmácia.",
+  "objection": "Não conheço a marca e não sei quem está por trás; o laudo por QR code é a própria empresa me mostrando, e eu não vou testar suplemento novo no meu filho sem o pediatra recomendar.",
+  "would_change_my_mind": "Meu pediatra indicar a marca e eu poder comprar um frasco avulso, sem assinatura, para testar.",
+  "price_too_cheap": 40,
+  "price_cheap": 70,
+  "price_expensive": 120,
+  "price_too_expensive": 170
+}

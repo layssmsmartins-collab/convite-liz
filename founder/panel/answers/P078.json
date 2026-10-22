@@ -1,0 +1,13 @@
+{
+  "id": "P078",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Já dou um multivitamínico de farmácia que o pediatra conhece e que custa bem menos. Trocar por uma marca que eu nunca ouvi falar, vendida só pelo site, para dar todo dia ao meu filho, não faz sentido sem uma boa razão.",
+  "objection": "Marca nova, sem nome, sem estar na farmácia e sem indicação do pediatra. O laudo por QR code é legal, mas quem garante quem é esse laboratório? E R$149 por mês é muito mais do que eu pago hoje.",
+  "would_change_my_mind": "O pediatra do meu filho recomendar a marca, ou pais conhecidos da escola usando e falando bem.",
+  "price_too_cheap": 30,
+  "price_cheap": 50,
+  "price_expensive": 90,
+  "price_too_expensive": 130
+}

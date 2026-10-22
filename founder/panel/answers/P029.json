@@ -1,0 +1,13 @@
+{
+  "id": "P029",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Eu só dou suplemento quando o pediatra indica, e aí compro a marca que ele recomendou. Uma marca nova vendida só pelo site, que ele nunca mencionou, eu não coloco na boca dos meus filhos, ainda mais com R$149 por criança por mês numa assinatura.",
+  "objection": "O pediatra não indicou, e com dois filhos são uns R$300 por mês numa assinatura de marca que eu não conheço; e assinatura sempre dá trabalho pra cancelar, por mais que digam que é pelo site.",
+  "would_change_my_mind": "O pediatra dos meus filhos recomendar essa marca especificamente.",
+  "price_too_cheap": 30,
+  "price_cheap": 60,
+  "price_expensive": 100,
+  "price_too_expensive": 140
+}

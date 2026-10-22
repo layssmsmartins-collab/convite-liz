@@ -1,0 +1,270 @@
+{
+ "business": "Marca Kids Premium (nome provisório): multivitamínico infantil diário por assinatura, vendido online no Brasil",
+ "seed": 20502,
+ "dealt": 100,
+ "answered": 100,
+ "skipped": [],
+ "buys": 6,
+ "passes": 94,
+ "buy_rate": 0.06,
+ "by_segment": [
+  [
+   "Renda muito alta",
+   10,
+   0.1
+  ],
+  [
+   "Classe média alta, dois salários, um filho",
+   40,
+   0.075
+  ],
+  [
+   "Alta renda",
+   25,
+   0.04
+  ],
+  [
+   "Classe média alta, dois ou mais filhos",
+   25,
+   0.04
+  ]
+ ],
+ "by_behaviour": [
+  [
+   "Conveniência acima de tudo",
+   10,
+   0.5
+  ],
+  [
+   "Lê rótulo",
+   18,
+   0.05555555555555555
+  ],
+  [
+   "Evita assinatura",
+   10,
+   0.0
+  ],
+  [
+   "Segue o pediatra",
+   22,
+   0.0
+  ],
+  [
+   "Já usa um concorrente",
+   15,
+   0.0
+  ],
+  [
+   "Caçador de desconto",
+   10,
+   0.0
+  ],
+  [
+   "Compra pelo Instagram",
+   15,
+   0.0
+  ]
+ ],
+ "by_income": [
+  [
+   "$284,000 to $509,000",
+   33,
+   0.09090909090909091
+  ],
+  [
+   "$509,000 and up",
+   34,
+   0.058823529411764705
+  ],
+  [
+   "under $284,000",
+   33,
+   0.030303030303030304
+  ]
+ ],
+ "why_not": [
+  [
+   "trust",
+   32,
+   [
+    "Eu só dou suplemento quando o pediatra indica, e aí compro o que ele recomendou. Uma marca nova, que só vende pelo site e que eu nunca ouvi falar, não entra na rotina dos meus filhos sem o aval dele, ainda mais a R$149 por criança, que com dois filhos vira quase R$300 por mês.",
+    "O pediatra não pediu isso. Lá em casa suplemento só entra se ele indicar, e aí eu compro exatamente a marca ou as gotas que ele recomendou, não uma marca nova vendida só por site."
+   ],
+   [
+    "P003",
+    "P004"
+   ]
+  ],
+  [
+   "price",
+   27,
+   [
+    "Gosto do sem açúcar, sem corante e do laudo por lote, é exatamente o que eu procuro. Mas R$149 por mês é cinco vezes o que pago na farmácia, e o anúncio não me mostra a tabela com as doses nem por que isso vale tanto mais.",
+    "Gostei do rótulo limpo e do laudo por QR code, e meu filho que recusa verdura até precisaria de algo assim. Mas são R$149 por criança, e com dois filhos isso vira quase R$300 por mês por um multivitamínico que na farmácia encontro sem açúcar por bem menos."
+   ],
+   [
+    "P005",
+    "P006"
+   ]
+  ],
+  [
+   "need",
+   18,
+   [
+    "O pediatra nunca pediu multivitamínico para meu filho, ele come bem. Gostei do sem açúcar e do laudo, mas não vou dar suplemento todo dia sem indicação médica, ainda mais de uma marca nova que só vende pelo site.",
+    "O pediatra nunca pediu multivitamínico pro meu filho, ele come bem. Ainda por cima é assinatura de R$149 por mês de uma marca que ninguém conhece, e eu fujo de assinatura."
+   ],
+   [
+    "P001",
+    "P002"
+   ]
+  ],
+  [
+   "habit",
+   11,
+   [
+    "Aqui em casa suplemento só entra se o pediatra mandar, e aí eu compro exatamente o que ele indicou. Uma marca nova que eu vi no Instagram não passa por cima disso, o preço nem é o problema.",
+    "Já compro o Alpha Kids na farmácia, meus filhos tomam sem reclamar e o pediatra aprovou. Não vou trocar por uma marca que nunca ouvi falar, ainda mais pagando R$149 por criança, que com dois filhos vira quase R$300 por mês."
+   ],
+   [
+    "P011",
+    "P020"
+   ]
+  ],
+  [
+   "quality",
+   6,
+   [
+    "Adoro assinatura e frete grátis, mas R$149 num frasco inteiro sem saber se meu filho vai aceitar o sabor é aposta demais. Já joguei vitamina fora porque ele cuspiu, não quero repetir isso pagando o dobro.",
+    "Gostei do sem açúcar, sem corante e do laudo por QR code, mas não falam nada do sabor e eu já joguei dinheiro fora com vitamina que meu filho cuspiu. R$149 por mês sem poder testar antes, e sem eu ter falado com o pediatra, eu não assino."
+   ],
+   [
+    "P017",
+    "P028"
+   ]
+  ]
+ ],
+ "why_yes": [
+  [
+   "convenience",
+   5,
+   [
+    "Chegar todo mês em casa sem eu ter que lembrar é exatamente o que eu quero, e R$149 não pesa pra mim. Testo um mês: se cancela fácil pelo site, o risco é pequeno.",
+    "Chegar todo mês sem eu ter que lembrar nem ir à farmácia é exatamente o que eu quero, e o laudo por QR code me dá alguma segurança. Testaria primeiro com um filho só, porque com dois fica uns R$300 por mês."
+   ],
+   [
+    "P036",
+    "P037"
+   ]
+  ],
+  [
+   "quality",
+   1,
+   [
+    "Sem açúcar adicionado, sem corante e com laudo de lote por QR code é exatamente o que eu procuro no rótulo; R$149 não pesa pra mim, então assino um mês pra testar, mas só depois de ler a lista completa de ingredientes no site e ver qual adoçante e aroma usam."
+   ],
+   [
+    "P066"
+   ]
+  ]
+ ],
+ "flip": [
+  "O pediatra indicar um multivitamínico para ele, e eu poder ver a lista completa de ingredientes e o laudo antes de assinar.",
+  "O pediatra recomendar, e poder comprar um frasco avulso sem assinatura pra testar.",
+  "Meu pediatra indicar essa marca especificamente na consulta.",
+  "O pediatra do meu filho indicar essa marca especificamente.",
+  "Ver no site a tabela nutricional completa com o adoçante usado e um laudo de verdade, e poder comprar um primeiro frasco avulso mais barato, sem assinatura, para testar se meu filho aceita o sabor.",
+  "Um preço por família com desconto a partir do segundo filho (algo perto de R$89 por criança) e uma compra avulsa de teste sem assinatura, para ver se ele aceita mastigar.",
+  "Um preço perto de R$69 por criança, ou desconto forte para o segundo filho, e vender também no app de mercado que eu já uso.",
+  "Um kit de amostra barato ou o primeiro mês com desconto forte e devolução do dinheiro se ele não gostar do sabor, e o pediatra recomendar na consulta.",
+  "O pediatra dele recomendar, ou uma das criadoras que eu sigo mostrar o laudo e contar que usa há meses, com um primeiro mês mais barato pra testar.",
+  "Ver uma criadora de maternidade que eu confio usando de verdade com os filhos dela por alguns meses, de preferência com o aval de um pediatra, e um link direto dela.",
+  "Se o pediatra do meu filho indicasse essa marca pelo nome.",
+  "O pediatra recomendar um multivitamínico depois de um exame de sangue mostrando alguma carência.",
+  "A pediatra do meu filho indicar ou aprovar a fórmula depois de ver a lista completa de ingredientes e doses, de preferência com um primeiro mês mais barato para testar se ele aceita o sabor.",
+  "Um kit de amostra barato ou grátis pra ele provar o sabor antes, e o pediatra dizendo que vale a troca.",
+  "Ver o pediatra do meu filho ou uma criadora de maternidade que eu sigo há tempo recomendando de verdade, com um kit de teste de um mês sem assinatura.",
+  "O pediatra recomendar um multivitamínico para ele depois de um exame mostrar alguma deficiência.",
+  "Um kit de teste barato com poucos comprimidos ou garantia de reembolso se meu filho não aceitar o sabor na primeira semana.",
+  "Poder comprar um frasco avulso, sem assinatura, por um preço perto de R$80 para testar se meu filho aceita.",
+  "Um primeiro mês com desconto forte ou preço perto de R$60-70 na assinatura, com comparação clara de dose por dose contra as marcas da farmácia.",
+  "O pediatra dos meus filhos recomendar a marca na consulta, e um preço com desconto para o segundo filho.",
+  "O pediatra indicar esse produto especificamente, ou pelo menos aprovar a fórmula quando eu mostrar a ele.",
+  "Ver uma criadora de maternidade que eu confio mostrando o filho dela mastigando de verdade, com cupom pelo link, ou uma garantia de reembolso se a criança não aceitar o sabor.",
+  "O pediatra recomendar a marca na próxima consulta, mostrando que a fórmula é melhor que a que eu já uso.",
+  "Um primeiro mês com bom desconto ou um plano trimestral que deixe o preço perto de R$80 por mês, sem fidelidade.",
+  "O meu pediatra indicar essa marca pelo nome, e de preferência uma amostra pequena para ver se meu filho aceita o sabor antes de assinar.",
+  "Poder comprar um frasco avulso, sem assinatura, de preferência com recomendação do pediatra do meu filho.",
+  "Uma criadora de maternidade que eu sigo, de preferência com pediatra junto, mostrando a diferença real na fórmula, com um primeiro mês bem mais barato para testar sem compromisso.",
+  "Um kit de amostra barato ou garantia de devolução do primeiro mês se meu filho não aceitar o sabor, junto com a tabela nutricional completa para eu mostrar ao pediatra.",
+  "O pediatra dos meus filhos recomendar essa marca especificamente.",
+  "O pediatra recomendar essa marca especificamente, ou um preço perto de R$60 por criança com desconto para irmãos.",
+  "Um kit de amostra barato, ou garantia de devolução do dinheiro se ele recusar no primeiro mês, com a lista completa de ingredientes e o adoçante visíveis no site.",
+  "Meu pediatra indicar essa marca especificamente na consulta.",
+  "Uma pediatra ou uma das criadoras que eu sigo recomendando de verdade, com um primeiro mês avulso sem assinatura e preço perto de R$80 depois.",
+  "Desconto real para o segundo filho e um preço por volta de R$70 a R$80 por criança, ou uma primeira caixa de teste bem barata recomendada por uma das criadoras que eu sigo.",
+  "O pediatra dizer que meu filho precisa de suplementação e indicar essa marca especificamente.",
+  "O pediatra recomendar essa marca especificamente, ou mostrar que a fórmula é claramente melhor que a do Alpha Kids ou Lavitan.",
+  "Poder comprar um frasco avulso ou um kit pequeno de prova do sabor, sem assinatura, com devolução se ele não gostar.",
+  "O pediatra indicar suplementação para o meu filho e eu conseguir ver a fórmula completa, com o adoçante usado, antes de assinar, de preferência com uma opção de compra avulsa para testar.",
+  "O pediatra do meu filho aprovar a fórmula, ou uma das criadoras de maternidade que eu sigo usar com o filho dela há alguns meses e mostrar o laudo.",
+  "O pediatra do meu filho recomendar essa marca especificamente.",
+  "Ver a tabela nutricional e os ingredientes lado a lado com os da farmácia mostrando uma vantagem concreta, e o preço cair para perto de R$70 a R$80 por mês.",
+  "O pediatra do meu filho recomendar essa marca especificamente.",
+  "O pediatra do meu filho recomendar especificamente essa marca, ou um exame mostrar que ele tem alguma deficiência que o da farmácia não cobre.",
+  "O pediatra do meu filho recomendar essa marca especificamente na consulta.",
+  "Um primeiro frasco avulso bem mais barato, sem assinatura, ou um cupom forte no primeiro mês, e o preço mensal caindo para perto de R$80.",
+  "Um preço bem mais perto do que eu pago hoje, tipo R$60 a R$70 por criança, com desconto para o segundo filho, e indicação do pediatra.",
+  "O pediatra recomendar um multivitamínico para eles, e eu ver uma criadora de maternidade em quem confio usando com os filhos dela há meses, com desconto para o segundo filho.",
+  "Meu pediatra recomendar essa marca especificamente na consulta.",
+  "O pediatra recomendar essa marca na consulta e eu poder comprar um frasco avulso sem assinatura para testar.",
+  "O pediatra dele recomendar essa marca especificamente, e eu poder comprar um frasco avulso ou amostra pra testar o sabor antes de assinar.",
+  "Se o pediatra recomendasse especificamente e houvesse desconto forte para o segundo filho, deixando o custo perto do que já pago na farmácia.",
+  "Um kit de teste pequeno e barato, ou garantia de dinheiro de volta se a criança não aceitar o sabor, junto com a lista completa de ingredientes no site.",
+  "A pediatra do meu filho recomendar a marca, ou um kit de teste mais barato no primeiro mês.",
+  "O pediatra do meu filho indicar essa marca especificamente.",
+  "Ver uma criadora de maternidade que eu sigo mostrando o filho seletivo tomando de verdade, com um cupom que trouxesse o preço para perto de R$80 por mês.",
+  "O pediatra indicar um multivitamínico ou um exame mostrar alguma deficiência; aí, com uma criadora que eu confio mostrando o laudo, eu assinaria.",
+  "Poder comprar o frasco avulso, sem assinatura, e decidir depois se quero repetir.",
+  "O pediatra recomendar um suplemento para meu filho e o preço cair para perto de R$60-70 por mês, ou um primeiro mês com desconto forte para testar.",
+  "A pediatra do meu filho indicar, ou uma criadora de maternidade em quem eu confio de verdade mostrar que usa há meses com o filho dela.",
+  "Poder comprar um frasco avulso, sem assinatura, por uns R$80 a R$90, com a lista de ingredientes completa no site e o aval do pediatra.",
+  "Poder comprar avulso, um frasco quando eu precisar, a um preço mais perto do Alpha Kids, e o pediatra recomendar na consulta.",
+  "Poder comprar um frasco avulso, sem assinatura, por um preço menor, e o pediatra dos meus filhos indicar.",
+  "O pediatra recomendar essa marca especificamente numa consulta.",
+  "Meu pediatra recomendar essa marca especificamente na próxima consulta.",
+  "O pediatra recomendar um suplemento para eles e eu poder comprar um frasco avulso, sem assinatura.",
+  "O pediatra recomendar um multivitamínico e esse ter tampa à prova de criança, com a fórmula aprovada por ele.",
+  "Um preço perto de R$89 por mês, ou a tabela nutricional completa mostrando que a fórmula é claramente melhor, de preferência com indicação do pediatra.",
+  "Preço perto de R$69 a R$79 por criança, ou desconto forte para o segundo filho, junto com uma recomendação de pediatra ou de uma criadora que eu sigo mostrando a fórmula comparada às de farmácia.",
+  "O nosso pediatra indicar essa marca especificamente na consulta.",
+  "O pediatra do meu filho indicar essa marca especificamente.",
+  "Se o pediatra do meu filho recomendasse especificamente essa marca e o preço ficasse mais perto de R$70 a R$80 por mês.",
+  "O pediatra do meu filho recomendar a marca, ou pais conhecidos da escola usando e falando bem.",
+  "O pediatra recomendar um multivitamínico para meu filho, e aí eu compararia o preço por comprimido; só valeria se ficasse perto de R$70 por mês.",
+  "O pediatra recomendar um multivitamínico para meu filho e o preço cair para perto do que eu pago na farmácia, ou um bom desconto no plano anual.",
+  "Um preço por família ou desconto forte a partir do segundo filho, algo perto de R$80 a R$100 por criança, com compra avulsa sem assinatura para testar primeiro.",
+  "Um primeiro mês bem barato, tipo R$49 com cupom, e uma assinatura fixa abaixo de R$80 por mês.",
+  "A pediatra do meu filho olhar a fórmula e aprovar, ou uma das criadoras de maternidade que eu sigo usar de verdade com o filho por alguns meses.",
+  "O pediatra do meu filho indicar essa marca na consulta, e ter um kit de teste pequeno para ver se ele aceita o sabor antes de assinar.",
+  "O pediatra dos meus filhos recomendar a marca, ou um kit de teste barato por um mês sem assinatura, com a tabela nutricional completa publicada no site.",
+  "Se o pediatra do meu filho indicasse essa marca especificamente.",
+  "Ver a tabela nutricional e a lista completa de ingredientes no site, sem adoçante artificial, e o pediatra dos meus filhos recomendar, com desconto para o segundo filho.",
+  "A pediatra dizer que vale a pena para o caso dele, ou uma criadora de maternidade que eu confio mostrando o laudo e o filho usando de verdade.",
+  "O pediatra do meu filho indicar essa marca pelo nome, ou um kit pequeno de amostra pra testar o sabor antes de assinar.",
+  "Um primeiro mês com desconto forte ou kit de teste barato, e uma comparação clara de fórmula e preço por dose contra as marcas da farmácia, com preço perto de R$70.",
+  "O pediatra dizer numa consulta que vale a pena suplementar, aí eu assinaria direto pela praticidade de chegar em casa.",
+  "O pediatra indicar suplementação na próxima consulta, e eu ver a tabela de doses e a lista completa de ingredientes antes de assinar.",
+  "O pediatra do meu filho recomendar a marca e eu poder comprar um frasco avulso, sem assinatura, para testar.",
+  "O pediatra dizer que meu filho precisa de multivitamínico e recomendar essa marca especificamente.",
+  "Ver uma criadora de maternidade que eu sigo e confio usando com os filhos dela há alguns meses, de preferência com um pediatra falando da fórmula, e um link para comprar ali mesmo.",
+  "Ver o rótulo completo com doses e adoçante antes de assinar, e o meu pediatra aprovar a fórmula; uma amostra ou primeiro mês com desconto para testar se meu filho aceita o sabor.",
+  "Meu pediatra indicar a marca e eu poder comprar um frasco avulso, sem assinatura, para testar.",
+  "A pediatra recomendar ou um exame mostrar alguma deficiência, e uma criadora de maternidade que eu sigo usando de verdade com o filho dela.",
+  "Ver a lista completa de ingredientes e doses no site, com adoçante natural, e um preço perto de R$89 por mês, ou um primeiro mês com desconto forte pra testar.",
+  "Uma amostra ou kit de teste de poucos dias, ou garantia de devolução se a criança não aceitar o sabor, divulgada por uma criadora de maternidade que eu confio."
+ ],
+ "purchases_first_month_per_buyer": 1.0,
+ "price_answers": 100
+}

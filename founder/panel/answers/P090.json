@@ -1,0 +1,13 @@
+{
+  "id": "P090",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Na farmácia eu acho multivitamínico infantil mastigável por uns R$30, e com cupom sai menos ainda. Pagar R$149 todo mês por um frasco com adesivo e um QR code não fecha a conta pra mim, mesmo podendo pagar.",
+  "objection": "Qual a diferença de verdade para o de R$30 da farmácia? Sem açúcar e sem corante já tem opção mais barata, e laudo por QR code não me prova que vale cinco vezes mais.",
+  "would_change_my_mind": "Um primeiro mês com desconto forte ou kit de teste barato, e uma comparação clara de fórmula e preço por dose contra as marcas da farmácia, com preço perto de R$70.",
+  "price_too_cheap": 20,
+  "price_cheap": 45,
+  "price_expensive": 79,
+  "price_too_expensive": 110
+}

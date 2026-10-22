@@ -1,0 +1,13 @@
+{
+  "id": "P059",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "O preço nem é o problema pra mim, mas eu não entro em mais uma assinatura. Já perdi tempo demais tentando cancelar coisa; se eu quiser vitamina pro meu filho, compro um frasco na farmácia ou avulso quando precisar.",
+  "objection": "Assinatura é difícil de cancelar. 'Cancela quando quiser pelo site' todo mundo diz, e na prática vira uma cobrança que eu esqueço no cartão.",
+  "would_change_my_mind": "Poder comprar o frasco avulso, sem assinatura, e decidir depois se quero repetir.",
+  "price_too_cheap": 40,
+  "price_cheap": 79,
+  "price_expensive": 159,
+  "price_too_expensive": 249
+}

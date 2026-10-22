@@ -1,0 +1,13 @@
+{
+  "id": "P027",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "R$149 por mês é cinco vezes o que eu pago na farmácia por um multivitamínico infantil, e o frasco com adesivo e o laudo não me mostram por que meu filho precisa de algo tão mais caro. Assinatura por criança de uma marca que eu nunca vi, vendida só no site, não me convence numa rolagem.",
+  "objection": "Na farmácia tem por R$30, qual a diferença de verdade? Sem açúcar e sem corante já existe em marca conhecida, e não sei se o pediatra recomendaria essa.",
+  "would_change_my_mind": "Uma criadora de maternidade que eu sigo, de preferência com pediatra junto, mostrando a diferença real na fórmula, com um primeiro mês bem mais barato para testar sem compromisso.",
+  "price_too_cheap": 25,
+  "price_cheap": 50,
+  "price_expensive": 90,
+  "price_too_expensive": 130
+}

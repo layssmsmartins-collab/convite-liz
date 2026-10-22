@@ -1,0 +1,13 @@
+{
+  "id": "P039",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Não entro em mais uma assinatura, já passei raiva demais tentando cancelar. E pagar R$149 por um frasco inteiro sem saber se meu filho vai aceitar o sabor é jogar dinheiro fora de novo.",
+  "objection": "E se ele cuspir igual cuspiu a última vitamina? Não tem amostra nem compra avulsa, só assinatura, e 'cancela quando quiser' toda marca promete.",
+  "would_change_my_mind": "Poder comprar um frasco avulso ou um kit pequeno de prova do sabor, sem assinatura, com devolução se ele não gostar.",
+  "price_too_cheap": 40,
+  "price_cheap": 80,
+  "price_expensive": 130,
+  "price_too_expensive": 190
+}

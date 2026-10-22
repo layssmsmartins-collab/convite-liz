@@ -1,0 +1,39 @@
+{
+  "business": "Marca Kids Premium (nome provisório): multivitamínico infantil diário por assinatura, vendido online no Brasil",
+  "target": "mães e pais de 28 a 45 anos, com filhos de 4 a 8 anos, em capitais do Sudeste/Sul/DF, de classe média alta e alta, que já compram produtos infantis premium ou clean label (você é brasileiro, pensa em reais e responde em português; os valores de renda e preço estão em reais)",
+  "where": "São Paulo, Rio de Janeiro, Belo Horizonte, Curitiba e Brasília",
+  "age": [28, 45],
+  "segments": [
+    {"name": "Classe média alta, dois salários, um filho", "share": 0.40, "income": [180000, 360000]},
+    {"name": "Classe média alta, dois ou mais filhos", "share": 0.25, "income": [200000, 400000]},
+    {"name": "Alta renda", "share": 0.25, "income": [400000, 800000]},
+    {"name": "Renda muito alta", "share": 0.10, "income": [800000, 1500000]}
+  ],
+  "behaviours": [
+    {"name": "Segue o pediatra", "share": 0.22, "how": "Só dá suplemento se o pediatra indicar, e compra a marca ou as gotas que ele recomendou."},
+    {"name": "Lê rótulo", "share": 0.18, "how": "Confere açúcar, corante e lista de ingredientes antes de qualquer compra para o filho."},
+    {"name": "Já usa um concorrente", "share": 0.15, "how": "Já compra um multivitamínico infantil na farmácia (Alpha Kids, Lavitan, Dr. Good) e está razoavelmente satisfeito."},
+    {"name": "Compra pelo Instagram", "share": 0.15, "how": "Descobre produtos infantis por criadoras de conteúdo de maternidade e compra pelo link."},
+    {"name": "Caçador de desconto", "share": 0.10, "how": "Compara preço por unidade, espera promoção da farmácia e usa cupom."},
+    {"name": "Evita assinatura", "share": 0.10, "how": "Já se irritou para cancelar assinatura e prefere comprar avulso quando precisa."},
+    {"name": "Conveniência acima de tudo", "share": 0.10, "how": "Paga mais para não ter que lembrar nem ir à farmácia; já assina várias coisas."}
+  ],
+  "objections": [
+    "R$149 por mês é caro; o Alpha Kids que eu já conheço sai bem mais barato por mês",
+    "Meu filho come bem, será que precisa de suplemento?",
+    "E se meu filho não gostar do sabor? Já perdi dinheiro com vitamina que ele cuspiu",
+    "Marca nova que eu nunca ouvi falar, para dar ao meu filho todo dia?",
+    "O pediatra não pediu isso",
+    "Assinatura é difícil de cancelar",
+    "Goma ou mastigável vira doce, e criança pede mais de um",
+    "Na farmácia tem por R$30, qual a diferença de verdade?"
+  ],
+  "habits": [
+    "você leva o filho na escola de carro de manhã e a rotina é corrida",
+    "você faz compra de supermercado por aplicativo toda semana",
+    "seu filho é seletivo para comer e recusa verduras",
+    "você segue duas ou três criadoras de conteúdo de maternidade no Instagram",
+    "a consulta com o pediatra é a cada seis meses",
+    "você já assina pelo menos um serviço de entrega recorrente (ração, café, fraldas)"
+  ]
+}

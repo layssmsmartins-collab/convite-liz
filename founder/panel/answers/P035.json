@@ -1,0 +1,13 @@
+{
+  "id": "P035",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Meu filho come bem e o pediatra nunca indicou suplemento. Não vou dar multivitamínico de uma marca nova que vi no site só porque é sem açúcar e tem adesivo.",
+  "objection": "Ele precisa mesmo disso? Se o pediatra não recomendou, eu não dou, e não conheço essa marca.",
+  "would_change_my_mind": "O pediatra dizer que meu filho precisa de suplementação e indicar essa marca especificamente.",
+  "price_too_cheap": 40,
+  "price_cheap": 70,
+  "price_expensive": 130,
+  "price_too_expensive": 200
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P077",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "convenience",
+  "reason": "Chegar todo mês em casa sem eu ter que lembrar de passar na farmácia é exatamente o que eu quero, e sem açúcar e sem corante com laudo no QR code me dá segurança para testar um mês. R$149 é caro para vitamina, mas cabe no meu orçamento se meu filho realmente tomar.",
+  "objection": "Assinatura é difícil de cancelar: diz que cancela pelo site, mas eu já caí em marca que esconde o botão de cancelar. E é marca nova, só no site, então vou perguntar para a pediatra antes de continuar no segundo mês.",
+  "would_change_my_mind": "Se na hora de assinar eu não visse claramente como cancelar em um clique, ou se a pediatra dissesse que não precisa, eu cancelo ou nem começo.",
+  "price_too_cheap": 40,
+  "price_cheap": 79,
+  "price_expensive": 149,
+  "price_too_expensive": 220
+}

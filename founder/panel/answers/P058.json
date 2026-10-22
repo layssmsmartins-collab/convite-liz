@@ -1,0 +1,13 @@
+{
+  "id": "P058",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Meu filho come bem e o pediatra nunca falou em suplemento. Dinheiro não é o problema, mas não vou dar comprimido todo dia sem motivo só porque o frasco é bonito.",
+  "objection": "Não sei se ele precisa disso; uma marca nova, sem nome, sem recomendação do pediatra, me deixa na dúvida se vale dar algo diário para uma criança que já se alimenta bem.",
+  "would_change_my_mind": "O pediatra indicar um multivitamínico ou um exame mostrar alguma deficiência; aí, com uma criadora que eu confio mostrando o laudo, eu assinaria.",
+  "price_too_cheap": 40,
+  "price_cheap": 80,
+  "price_expensive": 160,
+  "price_too_expensive": 250
+}

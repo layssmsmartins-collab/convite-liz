@@ -1,0 +1,13 @@
+{
+  "id": "P005",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Gosto do sem açúcar, sem corante e do laudo por lote, é exatamente o que eu procuro. Mas R$149 por mês é cinco vezes o que pago na farmácia, e o anúncio não me mostra a tabela com as doses nem por que isso vale tanto mais.",
+  "objection": "Na farmácia tem por R$30, qual a diferença de verdade? Sem ver a lista de ingredientes, as quantidades de cada vitamina e o que usam para adoçar, não sei se estou pagando por fórmula melhor ou por frasco bonito e adesivo. E meu filho é seletivo: se ele não gostar do sabor do mastigável, perdi o mês.",
+  "would_change_my_mind": "Ver no site a tabela nutricional completa com o adoçante usado e um laudo de verdade, e poder comprar um primeiro frasco avulso mais barato, sem assinatura, para testar se meu filho aceita o sabor.",
+  "price_too_cheap": 25,
+  "price_cheap": 60,
+  "price_expensive": 99,
+  "price_too_expensive": 140
+}
