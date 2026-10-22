@@ -116,7 +116,16 @@ For every idea, in one pass (a filter, not the full board):
    frameworks, never speak as their authors.
 5. **Brazil fit** 1 to 5: local demand signals and room for a premium brand.
    Name the nearest local alternatives with links. If nothing could be reached,
-   say so and score 2, not higher.
+   say so and score 2, not higher. The absence of a premium brand is not room
+   by itself: in a commodity category it usually means nobody pays more. Count
+   it as room only with proof that Brazilians already pay a premium for the
+   same job (premium items selling at a higher price, with links).
+   **Commodity check**: look the product up on Shopee and Mercado Livre. If the
+   same function sells cheaply in bulk and the premium version would add only
+   design or brand, with no new benefit in use and no new format, mark
+   `commodity: true`; the tool kills it. A new format (a tablet instead of a
+   liquid, a solid instead of a bottle) or a clearly better result is not a
+   commodity.
 6. **Repeat purchase** 1 to 5: consumables, refills and collections compound;
    one-off purchases have to win a new customer every time.
 7. **Unit margin**: price and variable cost, each marked as an estimate with its
@@ -129,8 +138,8 @@ Write every score with a one-line reason into `founder/discover/ideas.json`
 (shape: `example-ideas.json` in this folder) and run the tool. It kills ideas
 that lose money per unit, cost more than the budget, score 3 or less on a lens,
 cannot be run by the founder, are fads, sell only through paid media, need a
-third party's approval to be bought, or need a
-licence that cannot sit with a manufacturer. It ranks the rest with fixed
+third party's approval to be bought, are commodities dressed up as premium,
+or need a licence that cannot sit with a manufacturer. It ranks the rest with fixed
 weights: sustained demand 25%, virality and community 20%, lenses 20%, Brazil
 fit 15%, repeat 10%, margin 5%, light regulation 5%. The ranking is arithmetic;
 argue with the scores, never with the order. If fewer than three survive, go

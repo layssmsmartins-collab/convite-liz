@@ -33,7 +33,8 @@
     "variable_cost": "Estimativa: terceirização R$12 + embalagem R$4 + frete e taxas R$8"
    },
    "regulatory_outsourced": true,
-   "gatekeeper": false
+   "gatekeeper": false,
+   "commodity": false
   },
   {
    "id": "R02",
@@ -67,7 +68,8 @@
     "variable_cost": "Estimativa: matcha importado R$40 + embalagem R$6 + frete e taxas R$12 (sobe com a falta de oferta)"
    },
    "regulatory_outsourced": true,
-   "gatekeeper": false
+   "gatekeeper": false,
+   "commodity": false
   },
   {
    "id": "R03",
@@ -100,7 +102,8 @@
     "regulatory": "Sem regulação específica",
     "variable_cost": "Estimativa: OEM R$150 + imposto de importação e frete ~R$100 + taxas R$40"
    },
-   "gatekeeper": false
+   "gatekeeper": false,
+   "commodity": false
   },
   {
    "id": "R04",
@@ -131,9 +134,11 @@
     "repeat": "Ponteiras de reposição e novas cores; o produto em si dura",
     "fit": "Molde, material e teste de atenuação são engenharia pura; ela não precisa aparecer",
     "regulatory": "Confirmar: vendido como EPI precisa de CA; como acessório de consumo, não. Não fazer alegação de saúde",
-    "variable_cost": "Estimativa: OEM silicone + estojo R$25 + frete R$15 + taxas R$15"
+    "variable_cost": "Estimativa: OEM silicone + estojo R$25 + frete R$15 + taxas R$15",
+    "commodity": "Protetor de espuma e silicone vendido barato em farmácia e marketplace; a versão premium só acrescenta estilo"
    },
-   "gatekeeper": false
+   "gatekeeper": false,
+   "commodity": true
   },
   {
    "id": "R05",
@@ -167,7 +172,8 @@
     "variable_cost": "Estimativa: 3 barras terceirizadas R$18 + embalagem R$6 + frete e taxas R$14"
    },
    "regulatory_outsourced": true,
-   "gatekeeper": false
+   "gatekeeper": false,
+   "commodity": false
   },
   {
    "id": "R06",
@@ -201,7 +207,8 @@
     "variable_cost": "Estimativa: envase terceirizado R$9 + frasco R$5 + frete e taxas R$8"
    },
    "regulatory_outsourced": true,
-   "gatekeeper": false
+   "gatekeeper": false,
+   "commodity": false
   },
   {
    "id": "R07",
@@ -232,9 +239,11 @@
     "repeat": "Coleções e reposição",
     "fit": "Fornecedor OEM e coleção; operável",
     "regulatory": "Acessório; a cola pode ser cosmético: confirmar",
-    "variable_cost": "Estimativa: OEM R$10 + embalagem R$4 + frete e taxas R$10"
+    "variable_cost": "Estimativa: OEM R$10 + embalagem R$4 + frete e taxas R$10",
+    "commodity": "Unha postiça é vendida a granel na Shopee; o premium é desenho e acabamento"
    },
-   "gatekeeper": false
+   "gatekeeper": false,
+   "commodity": true
   },
   {
    "id": "R08",
@@ -265,9 +274,11 @@
     "repeat": "Compra única, com reposição rara",
     "fit": "Operável",
     "regulatory": "Sem regulação",
-    "variable_cost": "Estimativa: OEM R$40 + frete R$15 + taxas R$15"
+    "variable_cost": "Estimativa: OEM R$40 + frete R$15 + taxas R$15",
+    "commodity": "Máscara de dormir vendida em loja de conveniência e varejo de moda; o premium é só acabamento"
    },
-   "gatekeeper": false
+   "gatekeeper": false,
+   "commodity": true
   },
   {
    "id": "R09",
@@ -300,7 +311,8 @@
     "regulatory": "Contato com alimento, leve",
     "variable_cost": "Estimativa: OEM R$55 + frete R$20 + taxas R$15"
    },
-   "gatekeeper": false
+   "gatekeeper": false,
+   "commodity": false
   },
   {
    "id": "R10",
@@ -331,9 +343,11 @@
     "repeat": "Meia se gasta; novas cores e edições de prova",
     "fit": "Malharia nacional e controle de qualidade; tamanhos complicam o estoque",
     "regulatory": "Só a etiqueta têxtil",
-    "variable_cost": "Estimativa: 3 pares e boné de malharia nacional R$45 + frete R$12 + taxas R$13"
+    "variable_cost": "Estimativa: 3 pares e boné de malharia nacional R$45 + frete R$12 + taxas R$13",
+    "commodity": "Meia esportiva vendida em quantidade; meia de corrida premium é design e marca sobre a mesma função"
    },
-   "gatekeeper": false
+   "gatekeeper": false,
+   "commodity": true
   },
   {
    "id": "N01",
@@ -364,9 +378,11 @@
     "repeat": "A meia gasta com o uso; coleções e cores novas",
     "fit": "Malharia nacional, especificação de grip e controle de qualidade: operação pura; venda também B2B para estúdios",
     "regulatory": "Só a etiqueta têxtil",
-    "variable_cost": "Estimativa: malharia nacional R$12 + embalagem R$2 + frete e taxas R$8"
+    "variable_cost": "Estimativa: malharia nacional R$12 + embalagem R$2 + frete e taxas R$8",
+    "commodity": "Meia antiderrapante existe há décadas e é vendida em dúzia na Shopee; a versão premium só acrescenta design"
    },
-   "gatekeeper": false
+   "gatekeeper": false,
+   "commodity": true
   },
   {
    "id": "N02",
@@ -399,7 +415,8 @@
     "regulatory": "Só a etiqueta têxtil",
     "variable_cost": "Estimativa: seda OEM R$55 + importação R$20 + embalagem e frete R$20"
    },
-   "gatekeeper": false
+   "gatekeeper": false,
+   "commodity": false
   },
   {
    "id": "N03",
@@ -430,9 +447,11 @@
     "repeat": "Overgrip é consumível",
     "fit": "Importação OEM operável",
     "regulatory": "Sem regulação",
-    "variable_cost": "Estimativa: OEM R$25 + frete e taxas R$20"
+    "variable_cost": "Estimativa: OEM R$25 + frete e taxas R$20",
+    "commodity": "Overgrip e munhequeira são vendidos barato em quantidade"
    },
-   "gatekeeper": false
+   "gatekeeper": false,
+   "commodity": true
   },
   {
    "id": "N04",
@@ -466,7 +485,8 @@
     "fit": "Terceirista fabrica; ela opera",
     "regulatory": "Suplemento: notificação na Anvisa (RDC 843/2024). Não está claro se a notificação pode ficar só com o terceirista; suplementos lideram as denúncias de infração (https://www.camara.leg.br/noticias/1190374-anvisa-alerta-sobre-a-baixa-qualidade-de-suplementos-alimentares-no-mercado-nacional)",
     "variable_cost": "Estimativa: goma proteica terceirizada R$35 (proteína encarece) + pote R$5 + frete e taxas R$12"
-   }
+   },
+   "commodity": false
   },
   {
    "id": "N05",
@@ -500,7 +520,8 @@
     "fit": "O frasco e a pastilha leve são cadeia de suprimento e logística; frete leve (Mini Envios)",
     "regulatory": "Sabonete é cosmético grau 1: notificação pelo terceirista. Se a pastilha for importada, precisa de importador habilitado. Pastilha de limpeza multiuso seria saneante (evitar no início)",
     "variable_cost": "Estimativa: 6 pastilhas R$12 + embalagem R$3 + frete leve R$9 + taxas R$6 (margem ~49%, menor que a de acessórios)"
-   }
+   },
+   "commodity": false
   }
  ]
 }
