@@ -1,0 +1,7 @@
+# Marca Lancheira (nome provisório)
+
+- O que é: marca própria premium de versões saudáveis dos alimentos que as crianças já amam (por exemplo, um "achocolatado de caixinha saudável", um "salgadinho saudável"), que continuem divertidas e gostosas de comer e entrem na rotina e na lancheira escolar.
+- Para quem: pais e mães de crianças em idade de lancheira (hipótese: 3 a 10 anos) que querem trocar o lanche industrializado comum por uma opção mais saudável sem briga com o filho. Faixa de idade e classe social ainda a definir.
+- O que vende, a que preço: linha de snacks infantis "saudáveis" de formatos conhecidos (achocolatado pronto, salgadinho e similares). **SKU inicial, fórmula e preço não definidos**: são hipóteses para `/founder-competitors`, `/founder-consumer` e `/founder-pricing`.
+- Onde e como: venda 100% online, no Brasil todo, com crescimento por comunidade, creators e conteúdo de clientes (sem marca pessoal da fundadora). Produção terceirizada; a regularização sanitária deve ficar com o fabricante terceirizado.
+- Orçamento e restrições: R$100 mil no total (é todo o dinheiro da fundadora), com **R$40 mil de reserva intocável**, então até R$60 mil antes da primeira venda. Fundadora engenheira e gerente de operações, dedicação em paralelo ao emprego (janelas durante o dia). Quer marca própria premium, margem alta, sem loja física, aceita estoque em casa, e um negócio que rode sem ela com o tempo.
