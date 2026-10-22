@@ -1,0 +1,11 @@
+# Evidências do Google Trends (enviadas pela fundadora em 22/10/2026, últimos 5 anos)
+
+| Termo | Região | Variação contra os 5 anos anteriores | Leitura |
+|---|---|---:|---|
+| magnésio infantil | Mundo | +250% | Sobe de forma contínua de 2022 a 2026, com pico em 2025 |
+| magnésio infantil | Brasil | **+550%** | Sobe de ~25 para 60–90 no índice; média do último ano 44 contra 31 no anterior |
+| melatonina infantil | Brasil | **+1.200%** | Subida contínua de 2022 a 2025, pico em 2025 e ainda alto (60–80) em 2026 |
+| fibra criança | Brasil | +70% | Muito ruidoso, com zeros frequentes: volume de busca baixo |
+| intestino preso criança | Brasil | −30% | Em queda e ruidoso |
+
+O Google Trends mostra **interesse relativo** (0 a 100 dentro de cada termo), não volume absoluto. Os termos não podem ser comparados entre si sem estarem no mesmo gráfico. Os zeros indicam volume baixo.
