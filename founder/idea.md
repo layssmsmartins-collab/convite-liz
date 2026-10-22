@@ -1,0 +1,7 @@
+# Marca Kids Premium (nome provisório)
+
+- O que é: marca digital (D2C) de multivitamínico infantil diário premium, por assinatura, inspirada no modelo da Hiya (EUA), adaptada à regulação brasileira.
+- Para quem: pais e mães urbanos de classe média alta e alta, com filhos de 4 a 8 anos (ou 4 a 10), que já compram produtos clean label, alimentos funcionais, itens infantis premium ou suplementos para si; inicialmente em São Paulo, Rio de Janeiro, Belo Horizonte, Curitiba e Brasília.
+- O que vende, a que preço: 1 SKU — multivitamínico mastigável (comprimido mastigável ou goma, a decidir por teste), sem açúcar adicionado e sem corantes artificiais, 30 doses. Frasco inicial reutilizável + refil mensal, adesivos colecionáveis, QR code com laudos. Assinatura R$149/mês por criança; avulso R$179; duas crianças ~R$269/mês; kit de descoberta R$59–79 (opcional).
+- Onde e como: online, loja própria com assinatura; aquisição por 50–100 microcreators de parentalidade/nutrição, lista de espera e pré-venda; marketplace só para descoberta; farmácia só depois. Fabricação terceirizada em indústria habilitada, notificação na Anvisa (RDC 843/2024, IN 281/2024).
+- Orçamento e restrições: R$100.000 no total (inclui formulação/regulatório, marca, primeiro lote, loja, lançamento e reserva). Liberação em duas etapas: até R$25 mil para regulação, protótipos, entrevistas, landing page e pré-venda; o resto só após sinais de demanda. Sem promessa clínica, sem farmácia no início, um único SKU.
