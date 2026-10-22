@@ -433,6 +433,40 @@
     "variable_cost": "Estimativa: OEM R$25 + frete e taxas R$20"
    },
    "gatekeeper": false
+  },
+  {
+   "id": "N04",
+   "name": "Gomas de proteína (adulto)",
+   "one_line": "Gomas de proteína para adultos que querem bater a meta de proteína sem shake, R$149 o pote",
+   "model": "protein gummies (EUA/Reino Unido, ex.: Myprotein)",
+   "price": 149,
+   "variable_cost": 52,
+   "startup_cost": 45000,
+   "lenses": {
+    "offers": 5,
+    "monopoly": 3,
+    "product": 4
+   },
+   "demand": 2,
+   "virality": 3,
+   "brazil_fit": 2,
+   "repeat": 5,
+   "fit": 3,
+   "regulatory": 4,
+   "regulatory_outsourced": true,
+   "gatekeeper": false,
+   "reasons": {
+    "offers": "Desejo real (comer mais proteína sem shake), mas a dose é fraca: ~10 g de proteína em 8 gomas, contra ~25 g num scoop de whey (https://www.myprotein.co.il/p/sports-nutrition/protein-gummies-sample/13791314/)",
+    "monopoly": "Growth, Integral Médica, Optimum, IDN e Max já vendem gomas no Brasil e fazem preço; a fórmula é do terceirista",
+    "product": "Proteína em goma é tecnicamente difícil (textura, açúcar, calorias por grama de proteína); o segmento de gomas de creatina tem histórico de falhar em teste de laboratório (https://athletechnews.com/creatine-gummies-amazon-suppco-report/)",
+    "demand": "Estimativas do mercado global divergem de US$0,45 bi a US$4,9 bi; não há série confiável de crescimento sustentado",
+    "virality": "Formato divertido, mas é categoria de suplemento, não de identidade",
+    "brazil_fit": "Prateleira já cheia de marcas grandes de suplemento em goma (https://lista.mercadolivre.com.br/creatina-em-goma)",
+    "repeat": "Consumível diário",
+    "fit": "Terceirista fabrica; ela opera",
+    "regulatory": "Suplemento: notificação na Anvisa (RDC 843/2024). Não está claro se a notificação pode ficar só com o terceirista; suplementos lideram as denúncias de infração (https://www.camara.leg.br/noticias/1190374-anvisa-alerta-sobre-a-baixa-qualidade-de-suplementos-alimentares-no-mercado-nacional)",
+    "variable_cost": "Estimativa: goma proteica terceirizada R$35 (proteína encarece) + pote R$5 + frete e taxas R$12"
+   }
   }
  ]
 }

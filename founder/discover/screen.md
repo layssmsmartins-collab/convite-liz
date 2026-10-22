@@ -22,5 +22,6 @@ Ranked by arithmetic on the screening scores (weights: sustained demand 25%, vir
 | id | idea | why |
 | --- | --- | --- |
 | R09 | Garrafa de design | a lens scores 3 or less: monopoly |
+| N04 | Gomas de proteína (adulto) | a lens scores 3 or less: monopoly |
 
 **Finalists for the quick panel: R04, N01, R10, R03, R06.**
