@@ -15,7 +15,8 @@ Ranked by arithmetic on the screening scores (weights: sustained demand 25%, vir
 | 9 | R01 | Cuidado de pele para corredores | 62.7 | 4 | 3 | 6/4/6 | 3 | 5 | 3 | 70% | 35,000 |
 | 10 | R07 | Unhas postiças premium | 61.7 | 3 | 5 | 6/4/6 | 2 | 4 | 2 | 73% | 30,000 |
 | 11 | N03 | Acessórios premium de padel | 61.0 | 4 | 3 | 5/4/5 | 3 | 4 | 1 | 65% | 35,000 |
-| 12 | R08 | Máscara de dormir 3D | 51.6 | 3 | 3 | 6/4/6 | 3 | 2 | 1 | 72% | 30,000 |
+| 12 | N05 | Sabonete de mãos em pastilha | 60.9 | 3 | 4 | 6/4/7 | 3 | 5 | 3 | 49% | 40,000 |
+| 13 | R08 | Máscara de dormir 3D | 51.6 | 3 | 3 | 6/4/6 | 3 | 2 | 1 | 72% | 30,000 |
 
 ## Killed
 

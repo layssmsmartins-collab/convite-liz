@@ -467,6 +467,40 @@
     "regulatory": "Suplemento: notificação na Anvisa (RDC 843/2024). Não está claro se a notificação pode ficar só com o terceirista; suplementos lideram as denúncias de infração (https://www.camara.leg.br/noticias/1190374-anvisa-alerta-sobre-a-baixa-qualidade-de-suplementos-alimentares-no-mercado-nacional)",
     "variable_cost": "Estimativa: goma proteica terceirizada R$35 (proteína encarece) + pote R$5 + frete e taxas R$12"
    }
+  },
+  {
+   "id": "N05",
+   "name": "Sabonete de mãos em pastilha",
+   "one_line": "Frasco de vidro bonito para a pia + pastilhas de sabonete que dissolvem em água, enviadas por assinatura; kit inicial R$149, refil de 6 pastilhas R$59",
+   "model": "Everdrop (Alemanha) e Blueland (EUA)",
+   "price": 59,
+   "variable_cost": 30,
+   "startup_cost": 40000,
+   "lenses": {
+    "offers": 6,
+    "monopoly": 4,
+    "product": 7
+   },
+   "demand": 3,
+   "virality": 4,
+   "brazil_fit": 3,
+   "repeat": 5,
+   "fit": 4,
+   "regulatory": 3,
+   "regulatory_outsourced": true,
+   "gatekeeper": false,
+   "reasons": {
+    "offers": "Banheiro bonito + menos plástico + não ter que lembrar de comprar; por uso, fica no preço de um refil comum (Lux: 240 ml por ~R$12)",
+    "monopoly": "Copiável por Positiv.a, Natura ou O Boticário; a barreira é fornecedor de pastilha e marca, não tecnologia",
+    "product": "O sistema frasco + pastilha é elegante, e o vídeo da pastilha dissolvendo explica o produto em 3 segundos",
+    "demand": "Everdrop: crescimento de 300% em 2021, assinaturas na casa das centenas de milhares e rodadas de €18 mi e €80 mi (https://techcrunch.com/?p=2117083, https://en.munich-startup.de/?p=5554); Blueland nos EUA com números de receita não confirmados (https://ecdb.com/resources/sample-data/retailer/blueland). Os dados de crescimento são de 2021–2022",
+    "virality": "Pastilha dissolvendo e banheiro organizado são conteúdo satisfatório; tema sustentável gera conversa",
+    "brazil_fit": "Nenhuma marca de sabonete em pastilha encontrada no Brasil; refil líquido de massa é baratíssimo (https://www.drogariasaopaulo.com.br/sabonete-liquido-lux-essencials-dama-da-noite-240ml/p); a Positiv.a prova que existe público para limpeza ecológica e concentrada (https://www.suno.com.br/noticias/positiva-startup-sustentabilidade-lucro-limpeza)",
+    "repeat": "Consumível; a assinatura de refil é o centro do modelo",
+    "fit": "O frasco e a pastilha leve são cadeia de suprimento e logística; frete leve (Mini Envios)",
+    "regulatory": "Sabonete é cosmético grau 1: notificação pelo terceirista. Se a pastilha for importada, precisa de importador habilitado. Pastilha de limpeza multiuso seria saneante (evitar no início)",
+    "variable_cost": "Estimativa: 6 pastilhas R$12 + embalagem R$3 + frete leve R$9 + taxas R$6 (margem ~49%, menor que a de acessórios)"
+   }
   }
  ]
 }
