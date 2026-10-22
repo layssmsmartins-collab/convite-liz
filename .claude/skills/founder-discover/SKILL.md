@@ -2,25 +2,28 @@
 name: founder-discover
 description: >-
   The founder pack in reverse: finds a business to launch when the founder does
-  not have an idea yet. Takes the founder's constraints (money, time, skills,
-  access, interests, place), generates 10 to 15 ideas that fit them, screens each
-  with the board's three lenses, a competitor check and a quick margin estimate,
-  ranks them with a fixed rule, runs a quick buyer panel on 3 to 5 finalists and
-  hands the winner to /founder-board. Use when the user says "find me a business",
-  "what could I launch", "I have money but no idea", "give me business ideas",
+  not have an idea yet. Takes the founder's constraints (money, reserve, time,
+  skills, interests, regulation they accept), looks for products and brands that
+  grew steadily in the US (not one viral spike) and match Brazil, screens each
+  for sustained demand, virality and community, the board's three lenses, Brazil
+  fit, repeat purchase and margin, ranks them with a fixed rule, runs a quick
+  buyer panel on 3 to 5 finalists and hands the winner to /founder-board. Use
+  when the user says "find me a business", "what could I launch", "I have money
+  but no idea", "give me business ideas", "find a viral product to model",
   "que negócio eu posso abrir", "me ajude a encontrar um produto para lançar",
-  "quero empreender mas não sei em quê", or asks to run the founder pack
-  backwards.
+  "produto viral nos EUA para trazer ao Brasil", "quero empreender mas não sei
+  em quê", or asks to run the founder pack backwards.
 argument-hint: "<constraints, or leave blank to be asked>"
 ---
 
 # founder-discover
 
 Every other skill in the pack starts from an idea and tries to break it. This one
-starts from the founder and works backwards: what can this person, with this
-money and this time, credibly launch? The output is not a list of trendy ideas;
-it is one idea that survived the same tests the rest of the pack will run, with
-the runners-up and why they lost.
+starts from the market and the founder and works backwards: what is already
+selling, growing for years rather than spiking, and could be launched by this
+person, with this money and this time, as a premium brand of their own? The
+output is one idea that survived the same tests the rest of the pack will run,
+with the runners-up and why they lost.
 
 What the user typed after `/founder-discover`: `$ARGUMENTS`.
 
@@ -42,60 +45,90 @@ to keep discovering without handing off. Never delete a previous project.
 
 ## Step 1: the founder's constraints
 
-Ideas are only as good as the constraints they answer. Write
-`founder/discover/constraints.md` from the conversation and ask for what is
-missing, at most five questions in one message:
+Write `founder/discover/constraints.md` from the conversation and ask for what
+is missing, at most five questions in one message:
 
-- **Money**: the cash available, and how much the founder can lose without harm.
-- **Time**: full time or alongside a job; how soon the first sale must happen.
-- **Edge**: profession, skills, industry access, an audience, suppliers, a
-  language, anything that makes this founder better placed than a stranger.
-- **Wants and won'ts**: sectors they like; things they refuse (stock in the
-  house, night shifts, regulated health claims, selling to businesses...).
-- **Where**: a city (for a physical business) or a country for online.
-- **What they liked before**: if the pack ran on an earlier idea, what attracted
-  them (the subscription, the audience, premium) and what wore them down.
+- **Money and reserve**: the cash available and how much must stay untouched as
+  a reserve. The screen's `budget` is cash minus reserve: the most the startup
+  can cost. If this is all the founder's money, say so and keep the reserve.
+- **Time**: full time or alongside a job; working windows; how soon the first
+  sale must happen.
+- **Edge**: profession, skills, access, an audience, suppliers. Here it decides
+  what the founder can *run*, not what they should *sell*: market evidence
+  chooses the product, the edge only rules out what they cannot operate.
+- **Wants and won'ts**: own brand or not, premium or not, physical store or
+  online only, stock at home, B2B selling, a personal brand (if the business
+  must not depend on the founder's face, community has to be brand-led: creators,
+  customers' own content, a ritual, not the founder on camera).
+- **Regulation accepted**: none, or regulated categories only when a contract
+  manufacturer holds the licence or notification (for example a grade 1
+  cosmetic notified by the manufacturer). Record which.
+- **Where**: a country or city.
 
-The edge matters most. An idea that any reader of the same article could start
-has no reason to work for this founder; ideas that use their edge do.
+## Step 2: the long list (modelling, by default)
 
-## Step 2: the long list
+Start from evidence, not imagination. Look for products and brands that grew
+in the US over the last two to five years and could be modelled for Brazil
+(a new brand of your own built on the same insight, never a copy of a name,
+look or formula):
 
-Generate 10 to 15 ideas that fit the constraints, spread across at least four
-shapes so the list is not ten versions of one thing: physical product online,
-local service, digital product, subscription, B2B service, marketplace or
-community, a physical place. For each, in `founder/discover/ideas.md`:
+1. **Where to look**: fast-growing DTC brands in the news (revenue, funding,
+   acquisitions, retail launches), TikTok Shop and Amazon best-seller and
+   movers lists, Kickstarter and Product Hunt hits that became companies,
+   consumer trend reports. Two to four searches per category the founder accepts.
+2. **Keep only sustained growth**: several years of growth, repeat customers, a
+   category that keeps getting new brands. One viral video, a holiday peak or a
+   celebrity spike is a fad: note it and drop it.
+3. **Check the Brazil match**: is anyone searching for it here, is it on
+   Brazilian marketplaces, is there already a strong premium local brand, can it
+   be made or imported at a price Brazilian premium buyers pay, and can the
+   regulation sit with a contract manufacturer.
 
-- a working name and one line: what it is, for whom, at what price;
-- why this founder (which part of the edge it uses);
-- why now (a change in regulation, habit, price or technology), only if there is
-  a real one.
+Write 10 to 15 ideas in `founder/discover/ideas.md`, each with: a working name
+and one line (what, for whom, at what price); **the model** (the US brand or
+product, with a link); the evidence of sustained demand (links); the Brazil
+signal; how it spreads without paid media (the video it makes, the community or
+ritual around it); and why this founder can run it. Give a Google Trends link
+for the US and for Brazil so the founder can check the curve; this environment
+cannot read Trends itself, so never claim a curve you have not seen.
 
-Do not invent market sizes or competitors. Where a fact would decide it, write
-it as a question for Step 3.
+If the founder asks for ideas from their own edge instead, generate those the
+same way, but still screen them on demand evidence.
 
 ## Step 3: the screen
 
-For every idea, quickly and in one pass (this is a filter, not the full board):
+For every idea, in one pass (a filter, not the full board):
 
-1. **Three lenses**, scored 1 to 10 each, with the method in
-   `${CLAUDE_SKILL_DIR}/../founder-board/lenses.md`. Same rule as the board:
-   apply the published frameworks, never speak as their authors.
-2. **Competitor check**: two or three public searches the way a buyer would
-   search. Name the nearest alternatives with a link and score the gap 1 to 5.
-   If nothing can be reached, say so and score the gap 2, not higher.
-3. **Unit margin**: price and variable cost per unit, each marked as an estimate
-   with its basis, plus a rough startup cost. No quote yet is fine; a made-up
-   precise number is not.
-4. **Founder fit** 1 to 5 and **regulatory weight** 1 to 5 (5 = heavy:
-   licences, health or financial claims, certifications).
+1. **Sustained demand** 1 to 5. Above 2 only with a linked source (revenue
+   growth over years, repeat purchase data, a steadily growing category). Mark
+   `spike: true` if it rose and already fell.
+2. **Virality and community** 1 to 5: does it show itself in a few seconds of
+   video, do customers make their own content, does it carry an identity, a
+   hobby or a daily ritual people talk about? Mark `needs_paid_ads: true` if it
+   only sells through paid media.
+3. **Three lenses** 1 to 10 each, with the method in
+   `${CLAUDE_SKILL_DIR}/../founder-board/lenses.md`. Apply the published
+   frameworks, never speak as their authors.
+4. **Brazil fit** 1 to 5: local demand signals and room for a premium brand.
+   Name the nearest local alternatives with links. If nothing could be reached,
+   say so and score 2, not higher.
+5. **Repeat purchase** 1 to 5: consumables, refills and collections compound;
+   one-off purchases have to win a new customer every time.
+6. **Unit margin**: price and variable cost, each marked as an estimate with its
+   basis, plus a rough startup cost (first batch, development, brand, launch).
+7. **Founder fit** 1 to 5 (kill rule only) and **regulatory weight** 1 to 5,
+   with `regulatory_outsourced: true` when a contract manufacturer holds the
+   licence or notification.
 
 Write every score with a one-line reason into `founder/discover/ideas.json`
-(shape: `example-ideas.json` in this folder) and run the tool. It applies the
-kill rules (a unit that loses money, a startup above the budget, any lens at 3
-or less, no founder fit, a deal-breaker you found) and ranks the rest. The
-ranking is arithmetic; argue with the scores, never with the order. If fewer
-than three ideas survive, go back to Step 2 with what killed the others.
+(shape: `example-ideas.json` in this folder) and run the tool. It kills ideas
+that lose money per unit, cost more than the budget, score 3 or less on a lens,
+cannot be run by the founder, are fads, sell only through paid media, or need a
+licence that cannot sit with a manufacturer. It ranks the rest with fixed
+weights: sustained demand 25%, virality and community 20%, lenses 20%, Brazil
+fit 15%, repeat 10%, margin 5%, light regulation 5%. The ranking is arithmetic;
+argue with the scores, never with the order. If fewer than three survive, go
+back to Step 2 with what killed the others.
 
 ## Step 4: quick panels on the finalists
 
@@ -127,7 +160,7 @@ Write `founder/discover/decision.md`:
    forcing a pick.
 3. **The runner-up** and what would have to be true for it to win.
 4. What the founder should check this week that would change the pick (one
-   phone call, one quote, one search).
+   phone call, one quote, one look at the Trends curve).
 
 The panel is simulated buyers, so the buy rates rank finalists; they do not
 forecast sales. Say that once.
@@ -142,12 +175,15 @@ cfo, marketing, brand, ops, launch, plan.
 
 ## Rules
 
-- Ideas fit the founder, not the headlines. Each one names the edge it uses.
-- No made-up facts: competitors, prices and regulations come with links or are
-  marked as questions.
+- Evidence picks the product; the founder's edge only rules out what they
+  cannot run.
+- Model the insight, never the brand: no copied names, logos, packaging,
+  formulas or claims.
+- No made-up facts: growth numbers, competitors, prices and regulations come
+  with links or are marked as questions.
 - Kill rules are applied by the tool, not softened by hand.
 - Steer clear of ideas whose main risk is legal or harmful to others; flag
-  regulated sectors (health, finance, food, children) with their regulator.
+  regulated sectors (health, cosmetics, food, children) with their regulator.
 - Not financial, legal or tax advice.
 
 ## Output
