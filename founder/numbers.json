@@ -1,0 +1,76 @@
+{
+  "business": "Marca Kids Premium (nome provisório) — plano trimestral a R$129/mês",
+  "unit": "mês de assinatura trimestral (1 criança, 3 refis por envio)",
+  "price": 129,
+  "variable": [
+    {
+      "label": "Tributos 8%",
+      "cost": 10.32
+    },
+    {
+      "label": "Frete (R$15 a cada 3 meses)",
+      "cost": 5
+    },
+    {
+      "label": "Produto",
+      "cost": 35
+    },
+    {
+      "label": "Embalagem/refil",
+      "cost": 8
+    },
+    {
+      "label": "Pagamento (cobrança trimestral)",
+      "cost": 2
+    },
+    {
+      "label": "Atendimento/picking (a cada 3 meses)",
+      "cost": 4
+    }
+  ],
+  "fixed_monthly": [
+    {
+      "label": "Despesas fixas e lançamento (R$90 mil/ano no documento, estimativa)",
+      "cost": 7500
+    }
+  ],
+  "startup": [
+    {
+      "label": "Formulação, RT, regulatório, laudos",
+      "cost": 18000
+    },
+    {
+      "label": "Identidade, embalagem, ilustrações",
+      "cost": 20000
+    },
+    {
+      "label": "Primeiro lote / sinal de produção",
+      "cost": 25000
+    },
+    {
+      "label": "Loja, CRM, assinatura, fotos",
+      "cost": 8000
+    },
+    {
+      "label": "Reserva",
+      "cost": 5000
+    }
+  ],
+  "days_per_month": 30,
+  "capacity_per_day": 66.67,
+  "plan_per_day": 11.67,
+  "ramp_per_day": [
+    1.0,
+    2.0,
+    3.33,
+    4.67,
+    6.0,
+    7.33,
+    8.33,
+    9.33,
+    10.0,
+    10.67,
+    11.33,
+    11.67
+  ]
+}
