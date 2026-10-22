@@ -1,47 +1,32 @@
-# Briefing do conselho — Rotulim v2: goma multivitamínica infantil (nome provisório)
+# Briefing do conselho — Ferro para Bebê (nome provisório)
 
-Responda em português. Esta é a **segunda vez** que a ideia do multivitamínico infantil vem ao conselho. A versão anterior foi testada com o pacote completo (os resultados estão abaixo). A fundadora volta com uma proposta diferente.
+Responda em português.
 
-## A proposta nova
-- **Produto:** goma multivitamínica infantil comprada **pronta de um fabricante white label**: Ekobé / C J Marchette, código Focco 9748, "suplemento em pastilha de goma", sabor cereja. A ficha técnica está em `founder/ref/ficha-goma-polivitaminico-infantil-cereja.pdf`.
-  - Uso: 1 goma por dia. Indicada para 4 a 8 anos e 9 a 18 anos.
-  - Por goma (5 g), em %VD para 4 a 8 anos: vitamina A 200 µg (50%), E 7 mg (100%), B1 0,6 mg (100%), niacina 8 mg (100%), B5 2,2 mg (73%), B6 0,6 mg (100%), biotina 12 µg (100%), ácido fólico 200 µg (100%), B12 1,2 µg (100%), cromo 15 µg (100%), molibdênio 20 µg (91%), selênio 30 µg (100%), zinco 5 mg (100%).
-  - Sem açúcar: adoçada com maltitol, sorbitol e **sucralose**. Tem corante carmim e aroma idêntico ao natural. Pode conter traços de peixe, crustáceos, leite, soja, avelã e pistache.
-  - A ficha lista as **alegações funcionais** do fabricante, como "a vitamina A auxilia no funcionamento do sistema imune", "a vitamina A auxilia na visão" e "a B6 auxilia no metabolismo energético". Se e como essas alegações podem ir para a embalagem e o anúncio da marca própria precisa ser confirmado por um consultor regulatório.
-- **Custo informado pela fundadora:** R$22 por pote. O número de gomas por pote ainda não foi confirmado.
-- **Preço:** R$75.
-- **Embalagem:** mais bonita, colorida, falando com a criança. A referência visual de estilo é o pote da Guday Creatina em Gummies (marca brasileira, adulta), vendido na Amazon a R$129,90 por 60 gomas, com nota 4,4 em 420 avaliações (`founder/ref/referencia-embalagem-guday.png`).
-- **Lançamento:** UGC (conteúdo de clientes e creators) e **parcerias com pediatras que produzem conteúdo** para o Instagram e o site da marca.
+## A proposta da fundadora
+"Lançar um suplemento de ferro para bebê que não mancha a roupa, pode ser ingerido junto com leite, ou seja, direto na mamadeira, não mancha o dente, através de UGC."
+
+- **Produto:** gotas de ferro de um fabricante white label. A ficha técnica que a fundadora recebeu de uma representante comercial está em `founder/ref/ficha-ferro-gotas.png`:
+  - **Ingredientes:** água purificada, pirofosfato férrico (Lipofer®), glicerol (estabilizante), aromatizante e ácido cítrico.
+  - **Uso:** 5 gotas (0,3 ml) por dia, que dão 5 mg de ferro: 50% do valor diário para 4 a 8 anos e 33% para 9 a 18 anos. São 100 porções por embalagem.
+  - **Faixa etária na ficha: "Produto indicado para grupo populacional entre 4 e 18 anos."**
+  - **Alérgicos:** pode conter trigo, centeio, cevada, aveia, crustáceos, ovos, peixes, leite, amêndoas, amendoim, avelãs, castanhas, macadâmias, nozes, pecãs, pinoli, pistaches e soja. **Contém glúten.**
+- **Preço e custo:** não informados.
+- **Canal:** online, lançamento por UGC (conteúdo de pais e creators).
 - **Orçamento:**
   - R$100 mil no total, todo o dinheiro da fundadora, com R$40 mil de reserva intocável. Ou seja, até R$60 mil antes da primeira venda.
   - A fundadora é engenheira e gerente de operações e vai se dedicar em paralelo ao emprego.
 
-## Conta simples com os números da fundadora (estimativa, não é o CFO)
-Por pote vendido: R$75 de preço.
-- Custo do produto: R$22.
-- Frete: ~R$15 (estimativa do estudo anterior).
-- Pagamento e taxas: ~R$6.
-- Tributos de ~8%: ~R$6.
+## Fatos levantados (fontes públicas)
+- **Concorrente direto já no varejo:** Ferrix Kids (Flora Nativa), em gotas com pirofosfato férrico micronizado Lipofer®. A página diz que **não mancha dentes e roupas**, com 5 gotas por dia, por **R$49,40 / 30 ml** em Drogasil e Raia, além de kits de 2 a 6 unidades. Uma página indica "a partir de 4 anos" e o rótulo diz que crianças só devem consumir sob orientação de nutricionista ou médico (https://www.drogaraia.com.br/ferro-em-gotas-ferrix-kids-30ml-flora-nativa-737685.html, https://www.drogaraia.com.br/kit-3-ferrix-kids-vitamina-ferro-30ml-sabor-uva-flora-nativa-1308610.html).
+- **Programa público:** o Programa Nacional de Suplementação de Ferro do Ministério da Saúde cobre **todas as crianças de 6 a 24 meses** atendidas na atenção básica, com sulfato ferroso **gratuito** distribuído pelos municípios (https://portal.conasems.org.br/orientacoes-tecnicas/noticias/5601_ministerio-da-saude-publica-caderno-dos-programas-nacionais-de-suplementacao-de-micronutrientes, https://goias.gov.br/saude/wp-content/uploads/sites/34/vigilancia-em-saude/alimentacao-nutricao/fluxograma-alimentacao-nutricao.pdf).
+- **Regulação para bebês:** na norma da Anvisa de constituintes de suplementos (IN 28/2018), a lista geral **exclui** os suplementos para **lactentes (0 a 12 meses) e crianças de primeira infância (1 a 3 anos)**, que têm uma lista própria (Anexo II). O conteúdo dessa lista não foi verificado (https://members.wto.org/crnattachments/2024/SPS/BRA/24_01693_00_x.pdf).
 
-Sobram cerca de **R$26 por pote (~35%) antes do custo de aquisição de cliente e dos custos fixos**. O custo de aquisição não é conhecido.
-
-## O que a primeira versão já mostrou (pacote completo, compradores simulados e busca pública)
-- **Painel de 100 compradores simulados** (assinatura de R$149/mês, comprimido mastigável):
-  - só 6% assinariam;
-  - 76 de 100 disseram que mudariam de ideia se **o pediatra indicasse**;
-  - os perfis "segue o pediatra" (22% do público) e "já usa um concorrente" (15%) compraram 0%.
-- **Reteste com Kit Teste de R$39** (20 compradores): 50% comprariam o kit e 0% assinariam de imediato, todos condicionando ao sabor e ao pediatra. Três compradores desistiriam se o site mostrasse **sucralose**.
-- **Faixa de preço aceita pelos compradores simulados:** R$45 a R$131, com o preço "normal" na cabeça deles em ~R$80.
-- **Concorrentes e preços** (busca pública):
-  - Alpha Kids (Puravida, premium): R$145,47 por 150 minicápsulas, 2 por dia, ~R$58/mês;
-  - Dr. Good Multigood Kids, em goma: R$42–62 por 30 gomas;
-  - Vita Bear (Vitafor), em goma: R$97–109 por 60;
-  - Neo Química Kids: R$33 por 60;
-  - Lavitan Kids: R$14–44 por 60.
-  - A reclamação mais repetida sobre o Alpha Kids é sabor, cheiro e textura.
-- **Critério que a fundadora aprovou depois:** com R$100 mil, "se a compra depende da aprovação de um terceiro (pediatra, escola), a ideia é cortada", porque conquistar esse terceiro em escala é marketing médico e custa muito mais. A proposta nova responde a isso com pediatras **produzindo conteúdo**, não prescrevendo.
+## Critérios que a fundadora já aprovou para ideias novas
+- **Se a compra depende da aprovação de um terceiro** (pediatra, nutricionista, escola), a ideia é cortada, porque conquistar esse terceiro em escala custa muito mais que R$100 mil.
+- **Se é commodity** (a mesma função já é vendida barata e a versão premium só acrescenta design), a ideia é cortada.
+- A regulação da Anvisa só é aceita se o fabricante terceirizado ficar com a notificação.
 
 ## O que ainda não se sabe
-- Quantas gomas vêm no pote de R$22, qual o lote mínimo e se o fabricante entrega com a marca dela (quem é o detentor da notificação na Anvisa).
-- O que as regras do conselho de medicina permitem a um pediatra em parcerias de conteúdo com marcas, e quanto custa cada parceria.
-- O custo de aquisição de cliente, a recompra e o cancelamento.
+- Se o fabricante tem (ou pode fazer) uma versão notificada para bebês de 0 a 3 anos, e quem seria o detentor da notificação.
+- Preço, custo, lote mínimo, custo de aquisição e recompra.
+- Se misturar o produto ao leite na mamadeira é uma indicação permitida no rótulo.
