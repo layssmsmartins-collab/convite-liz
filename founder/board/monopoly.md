@@ -1,25 +1,26 @@
 # Lente Monopoly
-Score: 2/10 | Vote: PASS
+Score: 3/10 | Vote: PASS
 
 ## O que é forte
-- A dor existe e tem nome: ferro que mancha dente e roupa e que a criança rejeita. Tem um "pequeno mercado" nítido: pais que já compram ferro e odeiam o sulfato ferroso.
-- O orçamento é disciplinado (R$60 mil de teto, R$40 mil de reserva) e a fundadora já tem critérios de corte claros. Isso protege o caixa.
-- O UGC de pais pode virar uma marca, que é a única das quatro fontes de durabilidade ao alcance aqui.
+- **Um nicho pequeno e bem definido:** pais de crianças de 4+ anos que querem uma rotina de hora de dormir. É o tipo de mercado pequeno que dá para dominar primeiro, se existir de verdade.
+- **O ritual como ativo de marca:** um produto ligado a um hábito diário, toda noite, pode criar recompra e uma marca, que é a única defesa que esta lente vê ao alcance.
+- **Modelo leve:** 100% online, produção terceirizada, sem loja. Isso protege os R$60 mil, mas não cria vantagem nenhuma.
 
 ## O que mataria o negócio (top 3, o mais perigoso primeiro)
-1. **Não há segredo nem tecnologia própria, e o concorrente já chegou.** A mesma fórmula white label (pirofosfato férrico Lipofer®) já é vendida pela Ferrix Kids na Drogasil e na Raia por R$49,40 / 30 ml, com a mesma promessa: "não mancha dentes e roupas", 5 gotas por dia. Melhora zero sobre a próxima opção, nada 10x. Pelo critério da própria fundadora, é commodity. Um copiador no sexto mês não precisa nem copiar: ele já existe.
-2. **O mercado "bebê" não está acessível.** A ficha diz "4 a 18 anos". Para 0 a 3 anos a Anvisa tem uma lista própria (IN 28/2018, Anexo II) que ninguém verificou, e não se sabe se o fabricante tem versão notificada nem quem seria o detentor. O uso na mamadeira não está confirmado como indicação permitida. Além disso, o rótulo contém glúten e uma longa lista de alérgicos, o que pesa no público mais sensível.
-3. **O substituto é grátis, e a compra passa por um terceiro.** Toda criança de 6 a 24 meses na atenção básica recebe sulfato ferroso gratuito. Quem quiser pagar por uma alternativa provavelmente pergunta ao pediatra, e o próprio concorrente diz "sob orientação de nutricionista ou médico". Pelo critério já aprovado (compra dependente de terceiro), é corte.
+1. **Nenhum segredo, nenhuma tecnologia própria.** Magnésio, cálcio, B6 e zinco em comprimido mastigável é uma fórmula de prateleira. Qualquer fabricante terceirizado faz igual, e o mesmo fabricante pode vender para um concorrente. Não há nada dez vezes melhor; é uma melhoria incremental. Um imitador no mês seis custa pouco.
+2. **A promessa central pode ser proibida.** Se a Anvisa não permitir alegação ligada a sono para suplemento infantil, o produto perde o "porquê" e vira um multivitamínico mineral, o mesmo bloqueio que derrubou o projeto anterior. Pergunta aberta: limites de dose para 4 a 8 anos e alegações permitidas (consultor regulatório).
+3. **Distribuição sem vantagem e sem número.** Creators e comunidade são o canal de todo mundo; sem a marca pessoal da fundadora, cada cliente é comprado. Ninguém sabe ainda o custo do cliente nem se o pediatra volta a ser a porta de entrada (/founder-consumer, /founder-cfo). Quem já vende suplemento infantil de sono ou magnésio infantil para o mesmo pai também não foi pesquisado (/founder-competitors).
 
 ## Perguntas que eu faria à fundadora
-- O que você sabe sobre esse comprador que a Flora Nativa não sabe? Qual é o segredo?
-- Se a versão para 0 a 3 anos não existir, ainda há negócio vendendo para 4 a 18 contra a Ferrix Kids? (Pergunta aberta para o fabricante e para um consultor regulatório.)
-- Quantos pais compram sem perguntar ao pediatra? (Pergunta aberta: /founder-consumer.)
-- Quanto custa cada um dos primeiros 100 clientes via UGC e quantos recompram? (Pergunta aberta: /founder-cfo e /founder-consumer.)
-- Quais concorrentes, além da Ferrix Kids, já ocupam "ferro que não mancha"? (Pergunta aberta: /founder-competitors.)
+- O que você sabe sobre sono infantil ou sobre esses pais que ninguém mais sabe?
+- Por que agora? O que mudou para que esse produto faça sentido em 2026?
+- Qual é o menor mercado que você consegue dominar no primeiro ano, e quantos clientes ele tem?
+- Como chegam os primeiros 100 clientes, e quanto custa cada um?
+- O que impede o seu fabricante de vender a mesma fórmula para outra marca?
+- Em dez anos, o que faz esta marca ainda estar na frente?
 
 ## Se FUND IF: as condições
-O voto é PASS. Para reabrir, seriam necessárias três coisas:
-1. Confirmação por escrito de que o fabricante detém uma notificação válida para 0 a 3 anos, sem glúten, com uso no leite permitido no rótulo (consultor regulatório + /founder-ops).
-2. Uma diferença real e defensável sobre a Ferrix Kids, que não se reduza a design ou marketing (/founder-competitors).
-3. Evidência de que os pais compram sem aval do pediatra, com custo de aquisição e recompra que fechem dentro de R$60 mil (/founder-consumer, /founder-cfo).
+Voto é PASS. Ele mudaria para FUND IF com três provas:
+1. Parecer regulatório confirmando que a fórmula cabe nos limites para a faixa etária e que alguma alegação de rotina ou sono é permitida.
+2. Uma vantagem que não se copia em seis meses: exclusividade de formulação ou de formato com o fabricante, ou um canal próprio (por exemplo, uma comunidade de pais ou parceria com pediatras) já com tração.
+3. Mapa de concorrentes mostrando um espaço vazio real, e um teste pago com custo por cliente que a margem do /founder-cfo suporte.

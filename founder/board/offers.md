@@ -1,25 +1,25 @@
 # Lente Offers
-Score: 3/10 | Vote: PASS
+Score: 4 | Vote: FUND IF
 
 ## O que é forte
-- **A dor é real e fácil de mostrar.** Ferro que mancha dente e roupa e que o bebê recusa é um atrito visível, bom para UGC de pais.
-- **O sonho é claro:** dar o ferro sem briga, misturado à mamadeira, sem manchas. Na equação de valor, isso reduz muito o **esforço** do comprador.
-- **Pais são fáceis de achar online**, e a fundadora tem um caixa definido (até R$60 mil antes da primeira venda), o que limita o tamanho do erro.
+- **Dor real, comprador com dinheiro:** noites difíceis com criança pequena são uma dor diária e emocional, e quem compra suplemento premium para o filho costuma ter renda para isso. Esses pais estão online e em comunidades, o que combina com a venda 100% digital.
+- **Esforço baixo para o comprador:** um comprimido macio, sem açúcar, com sabor, encaixado num ritual que muitos pais já tentam montar. Na equação de valor, esforço e sacrifício estão a favor.
+- **O "ritual" dá matéria-prima para a pilha de valor:** guia de rotina de sono, história ou áudio para a hora de dormir, quadro de rotina para a criança. Coisas digitais, baratas de entregar e valiosas para quem está cansado. É aí que a oferta pode deixar de ser "mais um magnésio".
 
 ## O que mataria o negócio (top 3, o mais perigoso primeiro)
-1. **O produto não é para bebê.** A ficha diz "indicado para 4 a 18 anos" e "contém glúten". A oferta inteira ("para bebê, na mamadeira") não pode ser feita com este produto. A lista de constituintes para 0 a 3 anos (Anexo II da IN 28/2018) não foi verificada, e não se sabe se o fabricante tem uma versão notificada nem quem seria o detentor. Sem isso, não existe oferta para vender. Quem responde: um consultor regulatório e o fabricante (/founder-ops).
-2. **Mercado ruim para essa faixa.** De 6 a 24 meses, o sulfato ferroso é **gratuito** pelo SUS e chega via atenção básica, ou seja, via profissional de saúde. A compra depende de um terceiro (pediatra ou nutricionista), e esse é um critério que a própria fundadora já definiu como corte. Para crianças maiores, o rótulo do concorrente também pede orientação de médico ou nutricionista.
-3. **É commodity.** O Ferrix Kids já usa o mesmo Lipofer®, já diz "não mancha dentes e roupas", tem as mesmas 5 gotas e está na Drogasil e na Raia por R$49,40. O único diferencial que sobra ("na mamadeira") não se sabe se é uma indicação permitida no rótulo. Sem esse diferencial, a disputa vira preço, e esta lente não aposta nisso. É o segundo critério de corte da fundadora.
+1. **Não poder prometer o resultado dos sonhos.** Se a Anvisa não permitir nenhuma alegação ligada a sono para suplemento infantil, a oferta perde o resultado que vende o produto, e a "probabilidade percebida" fica sem base. Isso já pesou contra o projeto anterior. Quem responde: um consultor regulatório, antes de gastar qualquer real.
+2. **Probabilidade percebida baixa: falta prova e falta o pediatra.** No projeto anterior, 76 de 100 compradores simulados só comprariam com indicação do pediatra. Não há nenhum dado de que este produto escape desse bloqueio, e não há prova de que funcione (estudos, depoimentos, nada). Quem responde: /founder-consumer.
+3. **Virar commodity.** Magnésio, cálcio e zinco não são segredo. Se a única diferença for preço ou embalagem, a briga é por preço, com R$60 mil e um lote mínimo que ninguém conhece. Concorrentes e preços não foram pesquisados. Quem responde: /founder-competitors e /founder-cfo.
 
 ## Perguntas que eu faria à fundadora
-- Qual é a dor de quem compra: dos pais que recusam o sulfato gratuito, ou de quem já paga R$49,40 pelo Ferrix? Quantos são? (/founder-consumer)
-- Por que um pai acreditaria que funciona sem o aval do pediatra? Que prova existe? (/founder-consumer)
-- O fabricante consegue uma fórmula sem glúten, notificada para 0 a 3 anos e com a notificação em nome dele? E dá para pôr "pode misturar ao leite" no rótulo? (consultor regulatório, /founder-ops)
-- Qual é o preço, o custo, o lote mínimo, o CAC via UGC e a recompra? Nada disso foi informado. (/founder-cfo, /founder-competitors)
-- Com o produto em mãos, daria para cobrar o dobro do Ferrix e ainda ser a escolha óbvia? O que faria a oferta valer esse preço?
+- Que frase, exatamente, você pode colocar na embalagem sem violar a regra da Anvisa? Sem "dormir melhor", o que o pai compra?
+- Por que um pai acreditaria que funciona sem o pediatra dizer que sim? Que prova você teria no dia 1?
+- Em quantas noites o pai percebe alguma diferença? Se for "talvez em semanas", como ele sobrevive até lá sem desistir?
+- Qual garantia você pode bancar (ex.: devolução se a rotina não melhorar em 30 noites) e quanto ela custa?
+- Se você dobrasse o preço, o que teria na caixa para continuar sendo a escolha óbvia?
 
 ## Se FUND IF: as condições
-Não se aplica. O voto é PASS. A ideia só volta à mesa se, ao mesmo tempo:
-1. Existir uma versão notificada para 0 a 3 anos, sem glúten, com o fabricante como detentor da notificação.
-2. O uso na mamadeira for uma indicação permitida no rótulo, porque é o único diferencial que o Ferrix não tem.
-3. O painel de consumidores mostrar que os pais compram sem precisar da indicação do pediatra.
+1. Parecer de consultor regulatório confirmando fórmula, doses para 4 a 8 anos e as alegações permitidas, antes de qualquer pedido ao fabricante.
+2. Oferta reescrita em torno do ritual (produto + guia + material para a criança), com uma promessa legal e uma garantia que o /founder-cfo confirme ser pagável.
+3. /founder-consumer mostrando que a oferta convence sem indicação do pediatra, ou um plano concreto para conquistar essa indicação.
+4. /founder-competitors mostrando uma diferença que não seja preço.

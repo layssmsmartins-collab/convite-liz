@@ -1,22 +1,33 @@
-# Conselho — Ferro para Bebê (nome provisório)
+# Conselho — Ritual da Noite (nome provisório)
 
 ## A votação
-**3 PASS.** Nota média **2,3/10** (Offers 3, Monopoly 2, Product 2).
+**2 FUND IF, 1 PASS.** Nota média **4,0/10** (Product 5, Offers 4, Monopoly 3).
 
-É a primeira ideia com voto unânime contra. Os três membros chegam às mesmas três razões por caminhos diferentes, e duas delas são os critérios de corte que você mesma aprovou.
+Ninguém aprova o investimento antes de uma resposta: **a Anvisa permite dizer algo sobre sono num suplemento infantil?** Os três membros colocam isso como a primeira condição.
 
-## Os riscos que os três membros levantaram
-1. **O produto que existe não é o produto prometido.** A ficha diz **"indicado para 4 a 18 anos"** e **"contém glúten"**, com quase todos os alergênicos principais. Para 0 a 3 anos, a Anvisa tem uma lista própria (IN 28/2018, Anexo II) que ninguém verificou. Também não se sabe se o fabricante tem uma versão para bebê, quem seria o detentor da notificação nem se o rótulo pode indicar a mistura no leite. Sem isso, a oferta "para bebê, na mamadeira" não pode ser feita.
-2. **É commodity.** O **Ferrix Kids** já usa o mesmo Lipofer®, já promete "não mancha dentes e roupas", já tem as mesmas 5 gotas e já está na Drogasil e na Raia por R$49,40. A única diferença que sobra é "na mamadeira", e essa não está confirmada.
-3. **A compra passa por um terceiro, e o substituto é gratuito.** De 6 a 24 meses, o SUS dá sulfato ferroso de graça. Quem quer pagar por outro ferro pergunta ao pediatra, e o próprio rótulo do concorrente pede orientação de médico ou nutricionista. Os membros lembram que UGC não fecha isso: o pai dá ferro ao bebê depois de ouvir o pediatra, não um creator.
+## Os riscos que mais de um membro levantou (primeiro)
+1. **A promessa central pode ser proibida** (os três membros). O produto inteiro é "dormir melhor". Se nenhuma alegação ligada a sono for permitida para suplemento infantil, sobra "um comprimido de minerais sem história". Foi o mesmo bloqueio do multivitamínico (imunidade, foco e energia proibidas). Também não se sabe se as doses cabem nos limites para 4 a 8 anos. **Quem responde: um consultor regulatório, antes de gastar qualquer real.**
+2. **Fórmula de prateleira, fácil de copiar** (os três membros). Magnésio, cálcio, B6 e zinco não são segredo. O mesmo fabricante pode vender a mesma fórmula para outra marca, e sem diferença real a briga vira preço.
+3. **O pediatra de novo** (Offers e Product). No projeto anterior, 76 de 100 compradores simulados só comprariam com a indicação dele. Nada indica que este produto escape disso, e ainda não há prova de que funcione.
+4. **Sabor, textura e tamanho** (Product, com apoio de Offers). Talvez 100 mg de cálcio e 60 mg de magnésio elementares não caibam num comprimido "pequeno e macio" e gostoso para uma criança de 4 anos. Se a criança cuspir, o ritual vira briga e não há recompra. Quem responde é o fabricante, com uma amostra.
+5. **Custo do cliente desconhecido** (Monopoly e Offers). Creators e comunidade são o canal de todo mundo, e sem marca pessoal cada cliente é comprado. O custo de aquisição ainda não é conhecido.
 
-Não houve divergência relevante. Os três reconhecem que a dor é real e fácil de mostrar em vídeo (ferro que mancha e que o bebê recusa), e que o "não mancha" é tecnicamente possível com o Lipofer®.
+Onde o conselho discorda:
+- **Product** acha esta a ideia mais bem focada das três que você trouxe: um produto, um momento do dia, um uso. Para essa lente, o problema é provar a promessa e o sabor.
+- **Offers** vê no "ritual" a matéria-prima de uma oferta forte: guia de rotina de sono, história ou áudio para dormir, quadro para a criança. São bônus digitais, baratos, que tiram o produto de "mais um magnésio".
+- **Monopoly** não vê defesa: é uma fórmula de prateleira, sem segredo e sem canal próprio. Só mudaria o voto com exclusividade de fórmula ou um canal com tração, como uma comunidade de pais ou uma parceria com pediatras.
 
-## O que reabriria a análise (tudo ao mesmo tempo)
-- [ ] Uma fórmula **notificada para 0 a 3 anos**, sem glúten, com o fabricante como detentor. → fabricante + consultor regulatório
-- [ ] O **uso no leite permitido no rótulo**, que é a única diferença que o Ferrix não tem. → consultor regulatório
-- [ ] **Prova de que pais compram sem a indicação do pediatra**, com custo de aquisição e recompra que fechem dentro de R$60 mil. → `/founder-consumer`, `/founder-cfo`
-- [ ] Uma **diferença defensável** sobre o Ferrix Kids que não seja design. → `/founder-competitors`
+## As condições (checklist para o resto do pacote)
+- [ ] **Parecer regulatório por escrito** sobre a fórmula, as doses para a faixa etária escolhida e quais alegações (se houver alguma) ligadas a rotina ou sono são permitidas. **Antes de qualquer gasto.** → consultor regulatório (ver `/founder-ops`)
+- [ ] **Confirmar que um fabricante faz o comprimido mastigável** com essa fórmula e pode ficar com a notificação na Anvisa, e o que acontece com a marca se ele perder ou mudar a notificação. → `/founder-ops`
+- [ ] **Reduzir a fórmula ao mínimo** que entrega a promessa permitida: se um ativo não muda a experiência nem a alegação, sai. Isso ajuda no tamanho e no sabor. → fabricante + consultor
+- [ ] **Amostra com a fórmula final aprovada em prova de sabor e textura** por crianças reais, com a intenção de recompra medida. → `/founder-launch`, `/founder-consumer`
+- [ ] **Mapear quem já vende suplemento infantil de sono ou magnésio infantil**, com preços, e mostrar uma diferença que não seja preço. → `/founder-competitors`
+- [ ] **Mostrar que a oferta convence sem o pediatra**, ou ter um plano concreto para conquistar a indicação dele. → `/founder-consumer`, `/founder-marketing`
+- [ ] **Oferta construída em torno do ritual:** produto, guia de rotina e material para a criança, com uma promessa legal e uma garantia que o CFO confirme ser pagável. → `/founder-offer`, `/founder-cfo`
+- [ ] **O ritual descrito de ponta a ponta** (do anúncio à segunda compra), mostrando o que a marca controla e o que depende de terceiros. → `/founder-offer`, `/founder-ops`
+- [ ] **Uma vantagem que não se copie em seis meses:** exclusividade de fórmula ou de formato com o fabricante, ou um canal próprio com tração. → `/founder-ops`, `/founder-marketing`
+- [ ] **Teste pago com custo por cliente** que a margem suporte, dentro dos R$60 mil. → `/founder-launch`, `/founder-cfo`
 
 ## A versão mais forte que o conselho enxerga
-Nenhuma versão deste negócio cabe nas suas restrições hoje. O conselho prefere dizer isso claramente a inventar uma saída. O único fio aproveitável é a **dor**: ferro que mancha, tem gosto ruim e o filho recusa. Ela é real e visual. Mas quem resolve essa dor já existe (o Ferrix Kids, a R$49,40), e quem decide a compra é o pediatra. Se um dia houver uma fórmula para 0 a 3 anos, notificada, que a regra permita misturar no leite, essa seria a única diferença real. Mesmo assim, o produto continuaria passando pelo pediatra.
+Não é um "suplemento para dormir". É uma **marca de rotina da hora de dormir** em que o comprimido é uma parte, não o todo. A caixa traria o comprimido com a fórmula mais enxuta que a Anvisa permitir, um quadro de rotina com adesivos e um guia para os pais. Também viria um áudio ou uma história para a hora de dormir, que é o que a criança pede e o que a marca controla. A promessa seria **apenas o que o parecer regulatório autorizar**: "uma rotina da noite que a criança espera" no lugar de "dormir melhor", se for o caso. A entrada seria um kit de teste com garantia de sabor, e a fórmula teria exclusividade em contrato. Isso é diferente do que você propôs, porque desloca o valor do comprimido para o ritual. É de propósito: o comprimido se copia em seis meses, mas a rotina que a criança pede pelo nome é mais difícil de copiar. E se o parecer disser que nada sobre sono pode ser dito, o conselho recomenda decidir com essa informação antes de seguir. Foi esse ponto que derrubou o projeto anterior.

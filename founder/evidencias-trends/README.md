@@ -21,3 +21,12 @@ O Google Trends mostra **interesse relativo** (0 a 100 dentro de cada termo), n�
 - Gênero: feminino 51%, masculino 10%, outros/não informado 39%.
 - Idade: 18–24 anos 39%, 35+ 22%, 25–34 20%, outros 17%, 4–15 anos 2%.
 - Leitura: quem procura é mulher. A faixa de 18 a 24 anos é a maior, mais jovem do que a mãe típica de criança de 4 a 12 anos; 25+ soma 42%. A amostra parece ser de uma semana só, então trate como indício.
+
+### Busca "Magnesio crianca" no TikTok (aba Top, 22/10/2026)
+O filtro Brasil não aparece para esse termo no Insights, então ficamos com a aba de busca:
+- drbrunopita..., "Meu filho dorme mal, posso dar magnésio pra ele?": 14,4 mil curtidas.
+- drlucianoquin..., vídeo com o xarope **Neurix** e uma criança, "Seu filho pode ter dificuldade de foco...": 21 mil curtidas.
+- Farmacêutico na farmácia: "A partir dos 2 anos de idade, magnésio... cada gota fornece 4 mg".
+- Anúncio de **sal amargo** (sulfato de magnésio): "um aliado para o sono".
+
+Leitura: no Brasil a conversa existe e é puxada por **médicos e farmacêuticos criadores de conteúdo**. Eles atuam como influenciadores, não como uma prescrição obrigatória, mas mostram que o pai quer o aval de um profissional. Já há produto infantil de magnésio sendo promovido (Neurix).
