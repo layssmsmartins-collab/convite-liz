@@ -1,0 +1,208 @@
+{
+ "business": "Marca Kids Premium (nome provisório): multivitamínico infantil diário por assinatura, vendido online no Brasil",
+ "seed": 20502,
+ "dealt": 20,
+ "answered": 20,
+ "skipped": [],
+ "buys": 10,
+ "passes": 10,
+ "buy_rate": 0.5,
+ "by_segment": [
+  [
+   "Classe média alta, dois salários, um filho",
+   8,
+   0.625
+  ],
+  [
+   "Renda muito alta",
+   2,
+   0.5
+  ],
+  [
+   "Alta renda",
+   5,
+   0.4
+  ],
+  [
+   "Classe média alta, dois ou mais filhos",
+   5,
+   0.4
+  ]
+ ],
+ "by_behaviour": [
+  [
+   "Lê rótulo",
+   4,
+   1.0
+  ],
+  [
+   "Conveniência acima de tudo",
+   2,
+   1.0
+  ],
+  [
+   "Compra pelo Instagram",
+   3,
+   0.6666666666666666
+  ],
+  [
+   "Evita assinatura",
+   2,
+   0.5
+  ],
+  [
+   "Caçador de desconto",
+   2,
+   0.5
+  ],
+  [
+   "Segue o pediatra",
+   4,
+   0.0
+  ],
+  [
+   "Já usa um concorrente",
+   3,
+   0.0
+  ]
+ ],
+ "by_income": [
+  [
+   "$280,000 to $402,000",
+   7,
+   0.7142857142857143
+  ],
+  [
+   "$402,000 and up",
+   7,
+   0.42857142857142855
+  ],
+  [
+   "under $280,000",
+   6,
+   0.3333333333333333
+  ]
+ ],
+ "why_not": [
+  [
+   "habit",
+   4,
+   [
+    "Aqui em casa suplemento só entra se o pediatra mandar, e ele já indicou o que meu filho usa. Não vou trocar por uma marca nova de site só porque é sem açúcar e tem laudo.",
+    "Já compro o Lavitan Kids na farmácia, as crianças tomam sem reclamar e custa bem menos. O kit de R$39 até é barato, mas não vejo motivo para trocar algo que funciona por uma assinatura de R$129 por mês por filho."
+   ],
+   [
+    "P003",
+    "P006"
+   ]
+  ],
+  [
+   "trust",
+   3,
+   [
+    "R$39 não pesa no meu bolso, mas é uma marca que eu nunca ouvi falar e é para o meu filho tomar todo dia. Antes de dar qualquer coisa nova, eu pergunto ao pediatra, e o kit só no pré-venda, primeiro lote, me deixa com o pé atrás.",
+    "Eu só dou suplemento que o pediatra indica, e o que ele conhece é o Alpha Kids, que já sai bem mais barato. Os R$39 não me pesam, mas não vou comprar uma marca nova de site antes de ele aprovar."
+   ],
+   [
+    "P001",
+    "P005"
+   ]
+  ],
+  [
+   "price",
+   2,
+   [
+    "Fiz a conta por dose: R$129 por mês dá uns R$4,30 por dia, e o multivitamínico da farmácia sai por menos da metade disso, ainda mais com cupom ou promoção. Não vou pagar o Kit Teste de R$39 pra testar um produto que eu já sei que não vou assinar nesse preço.",
+    "Já compro o Alpha Kids na farmácia por uns R$30 e meus filhos tomam sem reclamar. Pagar R$39 por uma semana e depois R$129 por mês por criança é quatro vezes mais por algo que, no fim, é vitamina; não vejo motivo para trocar o que já funciona."
+   ],
+   [
+    "P004",
+    "P009"
+   ]
+  ],
+  [
+   "need",
+   1,
+   [
+    "R$39 não pesa nada pra mim, mas o pediatra nunca falou que meu filho precisa de vitamina e ele come bem. Não vou dar suplemento por conta própria só porque apareceu no feed de uma marca que eu nem conheço."
+   ],
+   [
+    "P011"
+   ]
+  ]
+ ],
+ "why_yes": [
+  [
+   "trust",
+   3,
+   [
+    "Com a devolução dos R$39 se ele cuspir, eu pago o Kit Teste uma vez só para ver se ele aceita o sabor e levo a ficha na consulta. Agora, assinar a R$129 por mês eu não assino sem antes comparar o preço por dose com o da farmácia na promoção.",
+    "R$39 com devolução se não aceitar o sabor é um risco baixo pra mim, e a fórmula publicada lado a lado com as de farmácia mais o laudo do lote me passam confiança. Compro um Kit Teste pro mais velho e levo a ficha pro pediatra antes de pensar em assinar pros dois."
+   ],
+   [
+    "P013",
+    "P018"
+   ]
+  ],
+  [
+   "quality",
+   2,
+   [
+    "Compro o Kit Teste de R$39 porque a fórmula publicada lado a lado com a de farmácia e o laudo do lote é exatamente o que eu checaria sozinha, e com devolução se ele não aceitar o risco é baixo. A assinatura eu só decido depois de mostrar a ficha para o pediatra.",
+    "Compraria só o Kit Teste de R$39: fórmula publicada ao lado das de farmácia e laudo por lote é exatamente o que eu confiro, e sem assinatura não tenho medo de ficar preso. Assinar a R$129 por mês já é outra conversa, só depois de ler o rótulo inteiro e mostrar ao pediatra."
+   ],
+   [
+    "P002",
+    "P019"
+   ]
+  ],
+  [
+   "convenience",
+   2,
+   [
+    "R$39 sem assinatura e com devolução se ele não aceitar é um risco que eu nem penso duas vezes; compro o Kit Teste e levo a ficha pro pediatra. Mas a assinatura de R$129 por mês só sai se o pediatra disser que vale a pena, porque meu filho come bem.",
+    "R$39 sem assinatura e com devolução se ele não aceitar é um teste barato pra mim, e chegar em casa sem eu ter que lembrar da farmácia vale muito. Compro o kit, mas a assinatura de R$129 por criança eu ainda não fecho de cara."
+   ],
+   [
+    "P007",
+    "P010"
+   ]
+  ],
+  [
+   "need",
+   2,
+   [
+    "R$39 com devolução se ele cuspir é o único jeito de eu testar vitamina de novo depois do que já perdi. Mas antes vou conferir no site qual adoçante usam e levar a ficha pro pediatra; só assino o trimestral se ele aceitar a semana inteira e o médico aprovar.",
+    "R$39 com devolução se ele não aceitar o sabor é um risco que nem sinto, e a ficha para levar ao pediatra me dá a desculpa certa para testar. Compro o Kit Teste, mas assinar só depois que o pediatra disser que faz sentido."
+   ],
+   [
+    "P015",
+    "P017"
+   ]
+  ],
+  [
+   "price",
+   1,
+   [
+    "R$39 avulso, sem assinatura e com devolução se ele não aceitar, eu compro para testar e levar a ficha ao pediatra. Mas assinar a R$129 ou R$149 por mês eu não assino: o Alpha Kids que já conheço sai bem mais barato e eu fujo de assinatura."
+   ],
+   [
+    "P014"
+   ]
+  ]
+ ],
+ "flip": [
+  "O pediatra do meu filho olhar a fórmula e aprovar, ou uma das criadoras de maternidade que eu sigo usar de verdade com os filhos dela por alguns meses.",
+  "O pediatra olhar a ficha e dizer que pode usar ou que é melhor que o atual; aí eu assinaria sem pensar muito.",
+  "Um cupom de lançamento forte que deixasse a assinatura perto de R$70 a R$80 por mês, ou a pediatra do meu filho recomendando essa marca especificamente.",
+  "O pediatra olhar a ficha e a fórmula e me dizer que é melhor que o Alpha Kids para o meu filho, que é seletivo para comer. Se ele indicar, eu compro o kit e assino.",
+  "O pediatra olhar a ficha e dizer que a fórmula é claramente melhor que a que eu uso hoje.",
+  "O pediatra dele recomendar essa fórmula especificamente em vez da que ele já toma.",
+  "Se o meu pediatra olhasse a comparação de fórmula e dissesse que faz diferença real em relação ao que eles já tomam, e o preço da assinatura ficasse perto de R$60 por mês por criança.",
+  "O pediatra dizer na consulta que vale complementar, ou uma criadora de maternidade em quem eu confio mostrando que usa com os filhos dela e que o pediatra dela aprovou.",
+  "O pediatra olhar a ficha e dizer que recomenda essa fórmula para eles; aí eu compraria o kit e provavelmente assinaria.",
+  "O meu pediatra olhar a ficha e indicar essa marca especificamente."
+ ],
+ "purchases_first_month_per_buyer": 1.0,
+ "price_answers": 20
+}

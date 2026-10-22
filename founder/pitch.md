@@ -1,4 +1,5 @@
-Marca Kids Premium (nome provisório), uma nova marca brasileira de multivitamínico infantil, vendida só pelo site.
-Um comprimido mastigável por dia, para crianças de 4 a 8 anos, com vitaminas e minerais essenciais, sem açúcar adicionado e sem corantes artificiais. Complementa a alimentação; não é remédio.
-O primeiro pedido vem num frasco reutilizável com adesivos para a criança marcar a rotina de 30 dias; depois chega um refil todo mês. Cada lote tem laudo de laboratório independente, acessível por QR code no frasco.
-Assinatura: R$149 por mês por criança, frete grátis no primeiro pedido, cancela quando quiser pelo site.
+Marca Kids Premium (nome provisório), uma nova marca brasileira de multivitamínico infantil, vendida só pelo site. Primeiro lote pequeno, em pré-venda.
+Um comprimido mastigável por dia, para crianças de 4 a 8 anos, sem açúcar adicionado e sem corantes artificiais. Complementa a alimentação; não é remédio. A fórmula completa (dose de cada vitamina e mineral, adoçante usado) está publicada no site, lado a lado com as marcas de farmácia, e cada lote tem laudo de laboratório independente.
+Comece pelo Kit Teste: 7 doses por R$39, sem assinatura. Se seu filho não aceitar o sabor, devolvemos os R$39. O kit vem com a Ficha para o Pediatra: fórmula, doses por idade e laudo do lote, para você levar na próxima consulta.
+Se ele aceitar, assine: trimestral por R$129/mês por criança (R$387 a cada 3 meses, 3 refis num só envio, os R$39 do kit são descontados), R$99/mês para o 2º filho, ou mensal por R$149. Se no primeiro envio ele deixar de aceitar, devolvemos o valor em até 30 dias.
+Pausa ou cancelamento em um clique no site, e aviso por e-mail 7 dias antes de cada cobrança. Frasco com tampa à prova de criança e cartão de adesivos que marca uma dose por dia.

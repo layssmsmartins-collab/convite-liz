@@ -1,0 +1,13 @@
+{
+  "id": "P007",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "convenience",
+  "reason": "R$39 sem assinatura e com devolução se ele não aceitar é um risco que eu nem penso duas vezes; compro o Kit Teste e levo a ficha pro pediatra. Mas a assinatura de R$129 por mês só sai se o pediatra disser que vale a pena, porque meu filho come bem.",
+  "objection": "Não sei se meu filho precisa de suplemento. R$129 por mês é muito pra uma coisa que talvez seja só xixi caro, e marca nova que só vende no site eu não conheço.",
+  "would_change_my_mind": "O pediatra olhar a ficha e dizer que faz sentido pra idade dele; aí eu assino o trimestral sem pensar.",
+  "price_too_cheap": 30,
+  "price_cheap": 60,
+  "price_expensive": 110,
+  "price_too_expensive": 170
+}

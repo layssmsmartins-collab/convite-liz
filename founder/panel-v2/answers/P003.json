@@ -1,0 +1,13 @@
+{
+  "id": "P003",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Aqui em casa suplemento só entra se o pediatra mandar, e ele já indicou o que meu filho usa. Não vou trocar por uma marca nova de site só porque é sem açúcar e tem laudo.",
+  "objection": "Meu pediatra nunca ouviu falar dessa marca, e R$129 a R$149 por mês é bem mais do que o Alpha Kids que eu já conheço para algo que ele não pediu.",
+  "would_change_my_mind": "O pediatra olhar a ficha e dizer que pode usar ou que é melhor que o atual; aí eu assinaria sem pensar muito.",
+  "price_too_cheap": 30,
+  "price_cheap": 60,
+  "price_expensive": 110,
+  "price_too_expensive": 160
+}

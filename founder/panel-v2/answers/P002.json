@@ -1,0 +1,13 @@
+{
+  "id": "P002",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "quality",
+  "reason": "Compro o Kit Teste de R$39 porque a fórmula publicada lado a lado com a de farmácia e o laudo do lote é exatamente o que eu checaria sozinha, e com devolução se ele não aceitar o risco é baixo. A assinatura eu só decido depois de mostrar a ficha para o pediatra.",
+  "objection": "R$129 por mês é quatro vezes o que pago na farmácia por R$30; se as doses forem parecidas, estou pagando pela ausência de açúcar e corante e por uma marca que ninguém conhece ainda.",
+  "would_change_my_mind": "Se o pediatra olhar a ficha e disser que a versão de farmácia sem açúcar resolve igual, eu não assino.",
+  "price_too_cheap": 35,
+  "price_cheap": 69,
+  "price_expensive": 119,
+  "price_too_expensive": 169
+}
