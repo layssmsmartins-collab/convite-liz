@@ -1,7 +1,7 @@
-# Sabonete em Pastilha (nome provisório)
+# Rotulim v2 — goma multivitamínica infantil (nome provisório)
 
-- O que é: marca própria premium de sabonete de mãos em pastilha. O cliente compra uma vez um frasco bonito para a pia, dissolve uma pastilha em água da torneira e tem um frasco de sabonete líquido. Depois recebe só os refis de pastilhas, leves, por assinatura.
-- Para quem: moradores urbanos que cuidam da estética do banheiro e da cozinha e se importam com menos plástico e menos peso para carregar (público exato a definir).
-- O que vende, a que preço (hipótese): kit inicial com frasco e pastilhas por ~R$149; refil de 6 pastilhas por ~R$59, cada pastilha rendendo ~250 ml. Hipótese a testar em `/founder-pricing`.
-- Onde e como: 100% online, Brasil todo, com crescimento por comunidade, creators e conteúdo de clientes (sem marca pessoal da fundadora). Produção terceirizada; a notificação na Anvisa fica com o fabricante terceirizado.
-- Orçamento e restrições: R$100 mil no total (todo o dinheiro da fundadora), com R$40 mil de reserva intocável, então até R$60 mil antes da primeira venda. Fundadora engenheira e gerente de operações, em paralelo ao emprego. Quer margem alta, sem loja física, aceita estoque em casa, e um negócio que rode sem ela com o tempo.
+- O que é: multivitamínico infantil em goma, 1 por dia, comprado pronto de um fabricante white label (Ekobé / C J Marchette, código Focco 9748, sabor cereja), com marca própria, embalagem bonita, colorida e que conversa com a criança.
+- Para quem: pais de crianças de 4 a 8 anos (o produto também é indicado para 9 a 18), classe média alta e alta, online.
+- O que vende, a que preço: um pote de goma multivitamínica a **R$75**, com **custo informado pela fundadora de R$22** por unidade (número de gomas por pote a confirmar).
+- Onde e como: venda online; lançamento por UGC (conteúdo de clientes e creators) e **parcerias com pediatras** que produzem conteúdo para o Instagram e o site da marca.
+- Orçamento e restrições: R$100 mil no total (todo o dinheiro da fundadora), com R$40 mil de reserva intocável, então até R$60 mil antes da primeira venda. Fundadora engenheira e gerente de operações, em paralelo ao emprego.
