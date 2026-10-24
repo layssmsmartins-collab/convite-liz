@@ -38,3 +38,9 @@ Mesma fórmula (Ourocaps SL 023, pó, 30 doses), mesmo preço (R$149 o pote, R$1
 
 ## Problemas do teste
 - O gerador de compradores dá nomes estrangeiros e às vezes masculinos a personas femininas, e mostra a renda com "$". Os compradores responderam em reais e em português, e o problema é igual nos três encaixes, então a comparação continua justa.
+
+## Correção (24/10/2026): o "guardião" do encaixe B foi inflado pelo próprio teste
+- O perfil do encaixe B colocava "Segue a ginecologista" em 25% das compradoras e "A minha médica não pediu isso" como objeção pronta. Mesmo assim, 11 de 20 citaram a médica: compradores simulados tendem a ser cautelosos com saúde e amplificaram o que o perfil sugeria.
+- **Dado real:** na pesquisa ABIAD 2020, 51% das recomendações de consumo de suplementos vieram de profissionais de saúde, ou seja, cerca de metade não veio. https://abiad.org.br/segunda-edicao-da-pesquisa-sobre-habitos-de-consumo-de-suplementos-alimentares-no-brasil-traz-numeros-animadores-para-o-mercado/
+- **Na menopausa:** 44% das brasileiras não fazem nenhum tratamento, e metade ouviu que os sintomas eram "exagero" ou "normal" (Ipsos/Bayer, 800 mulheres). https://www.cnnbrasil.com.br/saude/44-das-brasileiras-com-menopausa-nao-fazem-tratamento-diz-estudo/
+- **Conclusão:** o médico influencia, mas não é uma trava universal. O resultado do encaixe B não deve ser lido como "essa mulher só compra com receita".
