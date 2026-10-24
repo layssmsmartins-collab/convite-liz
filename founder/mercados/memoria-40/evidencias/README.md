@@ -14,3 +14,15 @@
 - "Uma em cada três mulheres não sabe que está na perimenopausa" (Medicina S/A). https://medicinasa.com.br/mulheres-perimenopausa/
 - 44% das brasileiras na menopausa não fazem nenhum tratamento, e metade ouviu que os sintomas eram "exagero" ou "normal" (Ipsos/Bayer, 800 mulheres). https://www.cnnbrasil.com.br/saude/44-das-brasileiras-com-menopausa-nao-fazem-tratamento-diz-estudo/
 - Falta de conhecimento e busca de informação são 28% das dificuldades relatadas (SBEM, no mesmo texto da Medicina S/A).
+
+## Google Trends: tópico "Perimenopause", Brasil, últimos 5 anos (prints 1 a 8)
+- **+600% contra os 5 anos anteriores.** Fica plano (índice ~5) de 2022 a 2024, sobe em 2025 (20–30), salta para ~60 no início de 2026 e chega a **100 agora (outubro de 2026)**. É uma subida contínua e acelerando, sem pico seguido de queda.
+- **Consultas relacionadas que sobem** (a variação é relativa dentro da lista; alguns termos aparecem cortados no print):
+  - "o que é perimenopausa" +30% e "what is perimenopause" GRANDE AUMENTO: busca por **explicação**.
+  - "perimenopausa" +20%, "peri menopausa" +20%, "perimenopausia" +20% e "perimenopausa c…" +40%.
+  - **Hormônios:** "estradiol" +120%, "progesterona" +60%, "reposição hormonal" +50%, "utrogestan" GRANDE AUMENTO e "estrogênio" +10%.
+- **Termos que caem:** "climatério" −60%, "pré-menopausa" −50% a −60%, "sintomas da menopausa" −60%, "fogachos" −40%, "pós-menopausa" −70%.
+- **Leitura:**
+  1. A palavra está mudando: as brasileiras trocaram "climatério" e "pré-menopausa" por **"perimenopausa"**. Uma marca deve usar essa palavra.
+  2. A busca por "o que é" confirma que muitas ainda estão descobrindo o que é a fase.
+  3. A conversa também puxa a **reposição hormonal**, que está ganhando espaço. Um suplemento entra como complemento à rotina, não como substituto do tratamento médico.
