@@ -40,8 +40,8 @@
  ],
  "startup": [
   {
-   "label": "Primeiro lote (1.000 potes × R$30, lote mínimo não confirmado)",
-   "cost": 30000
+   "label": "Primeiro lote (300 potes × R$30, lote mínimo informado pela fundadora)",
+   "cost": 9000
   },
   {
    "label": "Marca, embalagem, fotos",

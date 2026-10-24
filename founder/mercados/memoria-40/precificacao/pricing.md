@@ -29,12 +29,16 @@ Por perfil, a mediana de "começa a ficar caro" foi:
 
 ## 3. O que o negócio precisa (ferramenta do CFO, com custos estimados)
 
-| Preço do pote | Sobra por pote | Margem de contribuição | Equilíbrio | Margem no plano (10/dia) | Caixa necessário |
-|---:|---:|---:|---:|---:|---:|
-| R$119 | R$48 | 40% | 5,9 potes/dia | 17% | R$87 mil |
-| R$139 | R$65 | 47% | 4,4 potes/dia | 26% | R$80 mil |
-| **R$159** | **R$81** | **51%** | **3,5 potes/dia (~105/mês)** | **33%** | **R$76 mil** |
-| R$179 | R$98 | 55% | 2,9 potes/dia | 39% | R$72 mil |
+**Atualizado:** o lote mínimo é de **300 potes** (R$9 mil), informado pela fundadora. O investimento inicial fica em R$39 mil: lote R$9 mil, marca e embalagem R$12 mil, site R$5 mil, regulatório R$5 mil, lançamento R$8 mil.
+
+| Preço do pote | Sobra por pote | Margem de contribuição | Equilíbrio | Caixa necessário | Retorno |
+|---:|---:|---:|---:|---:|---|
+| R$119 | R$48 | 40% | 5,9 potes/dia | R$66 mil | não paga em 12 meses |
+| R$129 | R$56 | 44% | 5,0 potes/dia (~150/mês) | R$62 mil | não paga em 12 meses |
+| R$139 | R$65 | 47% | 4,4 potes/dia | R$59 mil | não paga em 12 meses |
+| **R$149** | **R$73** | **49%** | **3,9 potes/dia (~117/mês)** | **R$57 mil** | **mês 12** |
+| R$159 | R$81 | 51% | 3,5 potes/dia | R$55 mil | mês 11 |
+| R$179 | R$98 | 55% | 2,9 potes/dia | R$51 mil | mês 10 |
 
 Custos variáveis por pote:
 - produto R$30;
@@ -44,9 +48,9 @@ Custos variáveis por pote:
 - caixa e insumos R$5;
 - reserva de garantia ~3%.
 
-Custos fixos de R$8,5 mil por mês: R$3,5 mil de operação e R$5 mil de aquisição.
+Custos fixos de R$8,5 mil por mês: R$3,5 mil de operação e R$5 mil de aquisição. A subida das vendas vai de 1 a 10 potes por dia em 12 meses (estimativa).
 
-**Alerta de caixa:** em todos os preços, o caixa necessário passa dos **R$60 mil** disponíveis. O motivo é o primeiro lote (estimado em 1.000 potes, R$30 mil) somado aos meses de prejuízo durante a subida das vendas. Para caber, é preciso **um lote mínimo menor**, menos gasto fixo no início ou uma pré-venda que financie o lote.
+**Caixa:** com o lote de 300, **a partir de R$139 o caixa necessário fica dentro dos R$60 mil**. A R$149 a folga é de só ~R$3 mil. Abaixo disso não cabe, então a assinatura de R$129 só funciona se o pote avulso a R$149 for parte relevante das vendas. Qualquer número real pior que o estimado (frete, aquisição) estoura o orçamento, então a pré-venda continua sendo a proteção.
 
 ## 4. A recomendação
 

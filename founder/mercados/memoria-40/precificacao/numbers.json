@@ -1,7 +1,7 @@
 {
  "business": "Marca da perimenopausa (nome provisório): pote de 30 doses",
  "unit": "pote (30 doses, 1 mês)",
- "price": 159,
+ "price": 149,
  "variable": [
   {
    "label": "Produto (custo informado pela fundadora)",
@@ -9,11 +9,11 @@
   },
   {
    "label": "Impostos ~10% do preço (estimativa Simples Nacional, confirmar com contador)",
-   "cost": 15.9
+   "cost": 14.9
   },
   {
    "label": "Pagamento/gateway ~4,5% (estimativa)",
-   "cost": 7.15
+   "cost": 6.71
   },
   {
    "label": "Frete subsidiado (estimativa R$15 por pedido)",
@@ -25,7 +25,7 @@
   },
   {
    "label": "Reserva para garantia/devolução ~3% (estimativa)",
-   "cost": 4.77
+   "cost": 4.47
   }
  ],
  "fixed_monthly": [
@@ -40,8 +40,8 @@
  ],
  "startup": [
   {
-   "label": "Primeiro lote (1.000 potes × R$30, lote mínimo não confirmado)",
-   "cost": 30000
+   "label": "Primeiro lote (300 potes × R$30, lote mínimo informado pela fundadora)",
+   "cost": 9000
   },
   {
    "label": "Marca, embalagem, fotos",
