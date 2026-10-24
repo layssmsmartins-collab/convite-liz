@@ -1,0 +1,13 @@
+{
+  "id": "P002",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Eu já tomo magnésio em cápsula quando preciso e um pote desses sai uns 40, 50 reais. Pagar R$149 por um pó de tutti-frutti que nem promete que vou dormir melhor não cabe no meu mês, ganhando o que ganho.",
+  "objection": "É basicamente magnésio com vitaminas e sabor, e a própria marca diz que não promete sono melhor. Por que pagar três vezes mais do que a cápsula que eu já tenho em casa? E tutti-frutti de noite me parece coisa de criança.",
+  "would_change_my_mind": "Um preço perto de R$69 a R$79 o pote, ou uma amostra grátis de poucas doses para eu ver se o ritual faz diferença antes de pagar o pote cheio.",
+  "price_too_cheap": 25,
+  "price_cheap": 55,
+  "price_expensive": 89,
+  "price_too_expensive": 129
+}

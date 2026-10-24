@@ -1,0 +1,13 @@
+{
+  "id": "P017",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "O rótulo é bom, bisglicinato 420 mg é a forma e a dose certas, mas isso eu compro em cápsula por uns R$30 a R$50. Pagar R$129 a R$149 por mês pelo sabor de morango e um monte de vitamina que eu nem preciso não fecha a conta, mesmo ganhando bem.",
+  "objection": "Estou pagando uns R$100 a mais por mês por um ritual e um sabor, porque o ingrediente que importa custa uma fração disso em cápsula. E o resto é multivitamínico em dose que o site não mostra direito.",
+  "would_change_my_mind": "Preço perto de R$69 a R$79 na assinatura, com a tabela nutricional completa mostrando a dose de cada vitamina e do ômega 3 por colher.",
+  "price_too_cheap": 35,
+  "price_cheap": 59,
+  "price_expensive": 89,
+  "price_too_expensive": 129
+}

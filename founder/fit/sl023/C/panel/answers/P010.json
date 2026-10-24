@@ -1,0 +1,13 @@
+{
+  "id": "P010",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Eu já tomo magnésio em cápsula quando preciso e um pote sai uns R$40 a R$60; pagar R$149 num pó que nem promete que eu vou dormir melhor não cabe no meu mês agora. Achei o ritual bonitinho, mas é basicamente um multivitamínico com sabor.",
+  "objection": "Vitamina B à noite não me deixa mais ligada? E se a própria marca não diz que ajuda no sono, estou pagando caro por um suco de morango com magnésio.",
+  "would_change_my_mind": "Um primeiro pote menor ou kit de teste por uns R$60 a R$70, para eu ver se o sabor e o efeito valem antes de assinar.",
+  "price_too_cheap": 35,
+  "price_cheap": 69,
+  "price_expensive": 109,
+  "price_too_expensive": 149
+}

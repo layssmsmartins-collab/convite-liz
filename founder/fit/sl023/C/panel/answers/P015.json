@@ -1,0 +1,13 @@
+{
+  "id": "P015",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Eu acordo cansada, mas acho que isso é rotina: celular na cama, horário bagunçado. Não vou pagar R$149 por um pó sabor tutti-frutti que nem a própria marca promete que me faz dormir melhor.",
+  "objection": "Se nem a marca diz que melhora o sono, estou pagando caro por um multivitamínico com gosto de chiclete. Um magnésio genérico na farmácia sai bem mais barato.",
+  "would_change_my_mind": "Uma amostra grátis ou um kit de 7 doses barato para testar o ritual sem compromisso, e um preço mais perto de R$70 por mês.",
+  "price_too_cheap": 30,
+  "price_cheap": 60,
+  "price_expensive": 90,
+  "price_too_expensive": 130
+}

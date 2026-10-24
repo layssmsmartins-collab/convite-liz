@@ -1,0 +1,13 @@
+{
+  "id": "P004",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Eu já tenho magnésio em cápsula em casa e tomo quando preciso; pagar R$149 por um pó com sabor que nem promete que eu vou dormir melhor não faz sentido pra mim agora.",
+  "objection": "Sem melatonina, e a própria marca dizendo que não promete sono melhor, no fundo é um magnésio com vitaminas e sabor de morango por três vezes o preço da cápsula que eu já uso.",
+  "would_change_my_mind": "Um estudo ou avaliação séria mostrando que essa combinação melhora o sono de verdade, ou uma amostra grátis de uma semana para eu testar antes de pagar.",
+  "price_too_cheap": 39,
+  "price_cheap": 69,
+  "price_expensive": 109,
+  "price_too_expensive": 149
+}
