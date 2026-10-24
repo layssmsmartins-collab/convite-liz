@@ -1,0 +1,13 @@
+{
+  "id": "P011",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "convenience",
+  "reason": "Eu já tomo cápsula de magnésio e vitamina D e vivo esquecendo de manhã correndo; um copo de água com tudo junto me parece prático, e R$149 avulso não pesa pra mim. Compro um pote avulso pra testar, assinatura nem pensar.",
+  "objection": "Não sei se isso dá energia de verdade ou se é só multivitamínico com marketing bonito; marca nova, vendida só pelo site, e o rótulo fala em 'auxilia', não promete nada. Também desconfio se o ômega 3 em pó tem dose que faça diferença.",
+  "would_change_my_mind": "Se o primeiro pote não fizer diferença nenhuma em como eu me sinto em umas três semanas, não recompro; laudo de laboratório independente mostrando as doses reais me faria continuar.",
+  "price_too_cheap": 50,
+  "price_cheap": 99,
+  "price_expensive": 169,
+  "price_too_expensive": 220
+}

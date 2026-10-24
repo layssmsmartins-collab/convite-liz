@@ -1,0 +1,13 @@
+{
+  "id": "P010",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Marca nova que eu nunca ouvi falar, vendida só pelo site, e eu não tomo nada sem a minha ginecologista aprovar. Eu levaria o rótulo na próxima consulta antes de pensar em comprar, então nesta semana não compro.",
+  "objection": "Não conheço a marca e não sei se a dose dessas vitaminas combina com o que a minha médica já me passou, principalmente a vitamina D.",
+  "would_change_my_mind": "A minha ginecologista olhar a fórmula e dizer que posso tomar no lugar das cápsulas.",
+  "price_too_cheap": 50,
+  "price_cheap": 90,
+  "price_expensive": 140,
+  "price_too_expensive": 190
+}

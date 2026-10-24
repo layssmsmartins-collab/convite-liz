@@ -1,0 +1,13 @@
+{
+  "id": "P015",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Isso é um multivitamínico comum com rótulo de 'mulher 40+' e preço de produto premium. Se eu quiser magnésio e vitamina D, compro na farmácia por uma fração disso, com marca que eu conheço.",
+  "objection": "Marca nova, sem nome, vendida só pelo site, prometendo substituir minhas cápsulas: parece marketing de menopausa. E tutti-frutti com estévia parece coisa de criança, não algo que eu tomaria todo dia.",
+  "would_change_my_mind": "Minha ginecologista recomendar especificamente, com doses de cada nutriente claras e laudo de análise independente, e um preço perto de R$70 por mês.",
+  "price_too_cheap": 35,
+  "price_cheap": 60,
+  "price_expensive": 99,
+  "price_too_expensive": 130
+}

@@ -1,0 +1,33 @@
+{
+  "business": "Marca nova (nome provisório) de drink diário em pó com vitaminas e minerais para mulheres adultas, vendido online no Brasil",
+  "target": "mulheres de 25 a 40 anos, que trabalham fora, rotina corrida, classe média e média alta, que já compram algum suplemento ou produto de bem-estar (você é brasileira, pensa em reais e responde em português; renda anual em reais)",
+  "where": "capitais e grandes cidades do Brasil",
+  "age": [25, 40],
+  "segments": [
+    {"name": "Início de carreira, mora sozinha ou divide apê", "share": 0.35, "income": [48000, 96000]},
+    {"name": "Carreira consolidada, sem filhos", "share": 0.35, "income": [96000, 216000]},
+    {"name": "Carreira consolidada, com filho pequeno", "share": 0.30, "income": [120000, 300000]}
+  ],
+  "behaviours": [
+    {"name": "Já toma várias cápsulas", "share": 0.20, "how": "Toma magnésio, vitamina D e um multivitamínico de farmácia separados e às vezes esquece."},
+    {"name": "Segue criadoras de bem-estar", "share": 0.20, "how": "Descobre produtos no TikTok e Instagram e compra pelo link."},
+    {"name": "Lê rótulo", "share": 0.15, "how": "Confere dose, forma do mineral e adoçante antes de comprar."},
+    {"name": "Caçadora de desconto", "share": 0.15, "how": "Compara preço por dose e compra o genérico de farmácia ou da Shopee."},
+    {"name": "Não toma nada", "share": 0.15, "how": "Acha que suplemento é desnecessário se come razoavelmente bem."},
+    {"name": "Evita assinatura", "share": 0.15, "how": "Prefere comprar avulso quando acaba."}
+  ],
+  "objections": [
+    "R$149 por mês é caro; um multivitamínico de farmácia custa R$30",
+    "Será que eu preciso disso? Faço exame e está tudo normal",
+    "Pó tem gosto ruim e dá trabalho de misturar",
+    "Marca nova que eu nunca ouvi falar",
+    "Isso dá energia mesmo ou é marketing?",
+    "Já tenho magnésio e vitamina D em casa"
+  ],
+  "habits": [
+    "você toma café correndo antes de sair",
+    "você vai à academia duas ou três vezes por semana",
+    "você trabalha em home office parte da semana",
+    "você assiste vídeos de rotina matinal no TikTok"
+  ]
+}

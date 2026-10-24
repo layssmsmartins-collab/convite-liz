@@ -1,0 +1,13 @@
+{
+  "id": "P012",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Eu só tomo o que a minha ginecologista indica, e ela já cuida da minha reposição e dos meus exames. Uma marca nova de pó que eu vi no Instagram não entra na minha rotina sem passar por ela antes.",
+  "objection": "Não sei se essas doses de vitamina D, B12 e magnésio batem com o que eu já tomo ou com o que meus exames mostram, e a marca é desconhecida, sem nenhum médico por trás que eu conheça.",
+  "would_change_my_mind": "Minha ginecologista olhar o rótulo e me dizer que posso trocar as cápsulas por isso.",
+  "price_too_cheap": 50,
+  "price_cheap": 90,
+  "price_expensive": 180,
+  "price_too_expensive": 260
+}

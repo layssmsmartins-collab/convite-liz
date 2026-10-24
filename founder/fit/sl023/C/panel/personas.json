@@ -1,0 +1,222 @@
+[
+ {
+  "id": "P001",
+  "name": "Daniel",
+  "age": 40,
+  "segment": "Início de carreira",
+  "income": 68000,
+  "behaviour": "Segue trends de bem-estar",
+  "behaviour_how": "Viu o 'drink do sono' com magnésio no TikTok e quer testar.",
+  "objection": "Sem melatonina, será que ajuda a dormir?",
+  "habit": "você assiste vídeos de rotina noturna no TikTok"
+ },
+ {
+  "id": "P002",
+  "name": "Pablo",
+  "age": 44,
+  "segment": "Início de carreira",
+  "income": 82000,
+  "behaviour": "Já toma magnésio ou melatonina",
+  "behaviour_how": "Toma magnésio em cápsula ou melatonina de vez em quando para dormir.",
+  "objection": "Sabor tutti-frutti de noite?",
+  "habit": "você assiste vídeos de rotina noturna no TikTok"
+ },
+ {
+  "id": "P003",
+  "name": "Theo",
+  "age": 34,
+  "segment": "Carreira consolidada",
+  "income": 130000,
+  "behaviour": "Cético",
+  "behaviour_how": "Acha que dormir mal se resolve com rotina, não com pó.",
+  "objection": "Sabor tutti-frutti de noite?",
+  "habit": "você acorda cansado ou cansada"
+ },
+ {
+  "id": "P004",
+  "name": "Zara",
+  "age": 43,
+  "segment": "Carreira consolidada",
+  "income": 153000,
+  "behaviour": "Já toma magnésio ou melatonina",
+  "behaviour_how": "Toma magnésio em cápsula ou melatonina de vez em quando para dormir.",
+  "objection": "Sem melatonina, será que ajuda a dormir?",
+  "habit": "você acorda cansado ou cansada"
+ },
+ {
+  "id": "P005",
+  "name": "Callum",
+  "age": 42,
+  "segment": "Carreira consolidada",
+  "income": 230000,
+  "behaviour": "Lê rótulo",
+  "behaviour_how": "Confere dose e forma do magnésio.",
+  "objection": "Sabor tutti-frutti de noite?",
+  "habit": "você acorda cansado ou cansada"
+ },
+ {
+  "id": "P006",
+  "name": "Iris",
+  "age": 37,
+  "segment": "Mãe ou pai com filho pequeno",
+  "income": 250000,
+  "behaviour": "Segue trends de bem-estar",
+  "behaviour_how": "Viu o 'drink do sono' com magnésio no TikTok e quer testar.",
+  "objection": "Já tentei magnésio e não senti nada",
+  "habit": "você toma chá à noite às vezes"
+ },
+ {
+  "id": "P007",
+  "name": "Nora",
+  "age": 41,
+  "segment": "Carreira consolidada",
+  "income": 127000,
+  "behaviour": "Caçador de desconto",
+  "behaviour_how": "Compra magnésio genérico barato em farmácia ou na Shopee.",
+  "objection": "Marca nova que eu nunca ouvi falar",
+  "habit": "você fica no celular até tarde"
+ },
+ {
+  "id": "P008",
+  "name": "Noah",
+  "age": 28,
+  "segment": "Início de carreira",
+  "income": 53000,
+  "behaviour": "Evita assinatura",
+  "behaviour_how": "Prefere comprar avulso quando acaba.",
+  "objection": "Sem melatonina, será que ajuda a dormir?",
+  "habit": "você fica no celular até tarde"
+ },
+ {
+  "id": "P009",
+  "name": "Wes",
+  "age": 45,
+  "segment": "Início de carreira",
+  "income": 59000,
+  "behaviour": "Caçador de desconto",
+  "behaviour_how": "Compra magnésio genérico barato em farmácia ou na Shopee.",
+  "objection": "Marca nova que eu nunca ouvi falar",
+  "habit": "você acorda cansado ou cansada"
+ },
+ {
+  "id": "P010",
+  "name": "Sofia",
+  "age": 26,
+  "segment": "Início de carreira",
+  "income": 78000,
+  "behaviour": "Já toma magnésio ou melatonina",
+  "behaviour_how": "Toma magnésio em cápsula ou melatonina de vez em quando para dormir.",
+  "objection": "Pó com vitamina B à noite não tira o sono?",
+  "habit": "você fica no celular até tarde"
+ },
+ {
+  "id": "P011",
+  "name": "Rohan",
+  "age": 28,
+  "segment": "Mãe ou pai com filho pequeno",
+  "income": 168000,
+  "behaviour": "Cético",
+  "behaviour_how": "Acha que dormir mal se resolve com rotina, não com pó.",
+  "objection": "Já tentei magnésio e não senti nada",
+  "habit": "você acorda cansado ou cansada"
+ },
+ {
+  "id": "P012",
+  "name": "Darius",
+  "age": 44,
+  "segment": "Mãe ou pai com filho pequeno",
+  "income": 250000,
+  "behaviour": "Já toma magnésio ou melatonina",
+  "behaviour_how": "Toma magnésio em cápsula ou melatonina de vez em quando para dormir.",
+  "objection": "Pó com vitamina B à noite não tira o sono?",
+  "habit": "você toma chá à noite às vezes"
+ },
+ {
+  "id": "P013",
+  "name": "Eli",
+  "age": 41,
+  "segment": "Carreira consolidada",
+  "income": 217000,
+  "behaviour": "Segue trends de bem-estar",
+  "behaviour_how": "Viu o 'drink do sono' com magnésio no TikTok e quer testar.",
+  "objection": "Marca nova que eu nunca ouvi falar",
+  "habit": "você fica no celular até tarde"
+ },
+ {
+  "id": "P014",
+  "name": "Noor",
+  "age": 45,
+  "segment": "Início de carreira",
+  "income": 78000,
+  "behaviour": "Segue trends de bem-estar",
+  "behaviour_how": "Viu o 'drink do sono' com magnésio no TikTok e quer testar.",
+  "objection": "Marca nova que eu nunca ouvi falar",
+  "habit": "você acorda cansado ou cansada"
+ },
+ {
+  "id": "P015",
+  "name": "Priya",
+  "age": 30,
+  "segment": "Início de carreira",
+  "income": 92000,
+  "behaviour": "Cético",
+  "behaviour_how": "Acha que dormir mal se resolve com rotina, não com pó.",
+  "objection": "Sabor tutti-frutti de noite?",
+  "habit": "você acorda cansado ou cansada"
+ },
+ {
+  "id": "P016",
+  "name": "Nia",
+  "age": 34,
+  "segment": "Carreira consolidada",
+  "income": 130000,
+  "behaviour": "Evita assinatura",
+  "behaviour_how": "Prefere comprar avulso quando acaba.",
+  "objection": "Marca nova que eu nunca ouvi falar",
+  "habit": "você fica no celular até tarde"
+ },
+ {
+  "id": "P017",
+  "name": "Omar",
+  "age": 25,
+  "segment": "Carreira consolidada",
+  "income": 171000,
+  "behaviour": "Lê rótulo",
+  "behaviour_how": "Confere dose e forma do magnésio.",
+  "objection": "R$149 por mês é caro; magnésio em cápsula custa R$30",
+  "habit": "você assiste vídeos de rotina noturna no TikTok"
+ },
+ {
+  "id": "P018",
+  "name": "Sienna",
+  "age": 36,
+  "segment": "Mãe ou pai com filho pequeno",
+  "income": 205000,
+  "behaviour": "Caçador de desconto",
+  "behaviour_how": "Compra magnésio genérico barato em farmácia ou na Shopee.",
+  "objection": "R$149 por mês é caro; magnésio em cápsula custa R$30",
+  "habit": "você toma chá à noite às vezes"
+ },
+ {
+  "id": "P019",
+  "name": "Caleb",
+  "age": 32,
+  "segment": "Mãe ou pai com filho pequeno",
+  "income": 123000,
+  "behaviour": "Já toma magnésio ou melatonina",
+  "behaviour_how": "Toma magnésio em cápsula ou melatonina de vez em quando para dormir.",
+  "objection": "Pó com vitamina B à noite não tira o sono?",
+  "habit": "você fica no celular até tarde"
+ },
+ {
+  "id": "P020",
+  "name": "Jordan",
+  "age": 45,
+  "segment": "Carreira consolidada",
+  "income": 205000,
+  "behaviour": "Lê rótulo",
+  "behaviour_how": "Confere dose e forma do magnésio.",
+  "objection": "Pó com vitamina B à noite não tira o sono?",
+  "habit": "você acorda cansado ou cansada"
+ }
+]

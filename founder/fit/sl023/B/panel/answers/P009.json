@@ -1,0 +1,13 @@
+{
+  "id": "P009",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Gostei de ser sem açúcar e de ter a dose certinha de magnésio bisglicinato, mas R$149 por mês num polivitamínico é caro pra mim; na farmácia eu monto magnésio e vitamina D por menos da metade.",
+  "objection": "Estou pagando muito pelo sabor e pela embalagem bonita de uma marca nova que ninguém conhece, e a garantia só cobre o sabor, não se eu continuar acordando cansada.",
+  "would_change_my_mind": "Preço da assinatura perto de R$79 a R$89 por mês, com a tabela nutricional completa mostrando as doses de cada item, inclusive quanto de DHA.",
+  "price_too_cheap": 35,
+  "price_cheap": 69,
+  "price_expensive": 99,
+  "price_too_expensive": 129
+}

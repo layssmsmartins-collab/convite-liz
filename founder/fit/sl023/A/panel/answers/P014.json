@@ -1,0 +1,13 @@
+{
+  "id": "P014",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Achei a ideia fofa e prática pra minha manhã corrida, mas R$129 a R$149 por mês pesa no meu orçamento quando um multivitamínico de farmácia sai uns R$30. Marca nova, só no site, sem eu ver ninguém que eu sigo usando, não me convence a pagar cinco vezes mais.",
+  "objection": "Pagar quase R$150 por mês num pó de marca que ninguém conhece, sendo que no fundo são as mesmas vitaminas que eu acho bem mais barato na farmácia.",
+  "would_change_my_mind": "Ver criadoras que eu confio usando de verdade por semanas, com um cupom ou um kit de teste mais barato (tipo 7 doses por uns R$30) pra eu provar o sabor antes de assinar.",
+  "price_too_cheap": 35,
+  "price_cheap": 59,
+  "price_expensive": 89,
+  "price_too_expensive": 129
+}

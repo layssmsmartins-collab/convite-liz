@@ -1,0 +1,33 @@
+{
+  "business": "Marca nova (nome provisório) de drink diário em pó com vitaminas e minerais para mulheres de 40 anos ou mais, vendido online no Brasil",
+  "target": "mulheres de 40 a 55 anos, em perimenopausa ou menopausa, classe média e média alta, que se preocupam com saúde e já procuram informação sobre a fase (você é brasileira, pensa em reais e responde em português; renda anual em reais)",
+  "where": "capitais e grandes cidades do Brasil",
+  "age": [40, 55],
+  "segments": [
+    {"name": "Classe média, trabalha fora", "share": 0.40, "income": [72000, 150000]},
+    {"name": "Média alta, gestora ou profissional liberal", "share": 0.40, "income": [150000, 360000]},
+    {"name": "Alta renda", "share": 0.20, "income": [360000, 700000]}
+  ],
+  "behaviours": [
+    {"name": "Segue a ginecologista", "share": 0.25, "how": "Só toma o que a médica indica e leva tudo para ela olhar."},
+    {"name": "Já toma várias cápsulas", "share": 0.20, "how": "Toma vitamina D, magnésio e cálcio separados."},
+    {"name": "Busca comunidade da fase", "share": 0.15, "how": "Segue perfis sobre menopausa e participa de grupos de mulheres 40+."},
+    {"name": "Lê rótulo", "share": 0.15, "how": "Confere dose e se tem açúcar."},
+    {"name": "Cética com suplemento", "share": 0.15, "how": "Desconfia de produto 'para a menopausa' e acha que é marketing."},
+    {"name": "Evita assinatura", "share": 0.10, "how": "Prefere comprar avulso quando acaba."}
+  ],
+  "objections": [
+    "R$149 por mês é caro",
+    "A minha médica não pediu isso",
+    "Isso resolve calor, insônia e humor mesmo?",
+    "Já faço reposição hormonal ou estou pensando em fazer",
+    "Sabor tutti-frutti parece coisa de criança",
+    "Marca nova que eu nunca ouvi falar"
+  ],
+  "habits": [
+    "você acorda cansada várias vezes por semana",
+    "você faz caminhada ou pilates",
+    "você tem filhos adolescentes ou adultos",
+    "você segue perfis sobre menopausa no Instagram"
+  ]
+}

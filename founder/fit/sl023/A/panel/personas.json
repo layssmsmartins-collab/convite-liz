@@ -1,0 +1,222 @@
+[
+ {
+  "id": "P001",
+  "name": "Daniel",
+  "age": 40,
+  "segment": "Início de carreira, mora sozinha ou divide apê",
+  "income": 68000,
+  "behaviour": "Lê rótulo",
+  "behaviour_how": "Confere dose, forma do mineral e adoçante antes de comprar.",
+  "objection": "Será que eu preciso disso? Faço exame e está tudo normal",
+  "habit": "você assiste vídeos de rotina matinal no TikTok"
+ },
+ {
+  "id": "P002",
+  "name": "Pablo",
+  "age": 25,
+  "segment": "Início de carreira, mora sozinha ou divide apê",
+  "income": 69000,
+  "behaviour": "Já toma várias cápsulas",
+  "behaviour_how": "Toma magnésio, vitamina D e um multivitamínico de farmácia separados e às vezes esquece.",
+  "objection": "Já tenho magnésio e vitamina D em casa",
+  "habit": "você trabalha em home office parte da semana"
+ },
+ {
+  "id": "P003",
+  "name": "Theo",
+  "age": 32,
+  "segment": "Carreira consolidada, sem filhos",
+  "income": 100000,
+  "behaviour": "Não toma nada",
+  "behaviour_how": "Acha que suplemento é desnecessário se come razoavelmente bem.",
+  "objection": "Já tenho magnésio e vitamina D em casa",
+  "habit": "você vai à academia duas ou três vezes por semana"
+ },
+ {
+  "id": "P004",
+  "name": "Zara",
+  "age": 37,
+  "segment": "Carreira consolidada, sem filhos",
+  "income": 183000,
+  "behaviour": "Já toma várias cápsulas",
+  "behaviour_how": "Toma magnésio, vitamina D e um multivitamínico de farmácia separados e às vezes esquece.",
+  "objection": "Será que eu preciso disso? Faço exame e está tudo normal",
+  "habit": "você vai à academia duas ou três vezes por semana"
+ },
+ {
+  "id": "P005",
+  "name": "Callum",
+  "age": 39,
+  "segment": "Carreira consolidada, sem filhos",
+  "income": 120000,
+  "behaviour": "Lê rótulo",
+  "behaviour_how": "Confere dose, forma do mineral e adoçante antes de comprar.",
+  "objection": "Isso dá energia mesmo ou é marketing?",
+  "habit": "você trabalha em home office parte da semana"
+ },
+ {
+  "id": "P006",
+  "name": "Iris",
+  "age": 31,
+  "segment": "Carreira consolidada, com filho pequeno",
+  "income": 184000,
+  "behaviour": "Segue criadoras de bem-estar",
+  "behaviour_how": "Descobre produtos no TikTok e Instagram e compra pelo link.",
+  "objection": "R$149 por mês é caro; um multivitamínico de farmácia custa R$30",
+  "habit": "você toma café correndo antes de sair"
+ },
+ {
+  "id": "P007",
+  "name": "Nora",
+  "age": 28,
+  "segment": "Carreira consolidada, com filho pequeno",
+  "income": 175000,
+  "behaviour": "Caçadora de desconto",
+  "behaviour_how": "Compara preço por dose e compra o genérico de farmácia ou da Shopee.",
+  "objection": "R$149 por mês é caro; um multivitamínico de farmácia custa R$30",
+  "habit": "você vai à academia duas ou três vezes por semana"
+ },
+ {
+  "id": "P008",
+  "name": "Noah",
+  "age": 32,
+  "segment": "Início de carreira, mora sozinha ou divide apê",
+  "income": 96000,
+  "behaviour": "Evita assinatura",
+  "behaviour_how": "Prefere comprar avulso quando acaba.",
+  "objection": "Isso dá energia mesmo ou é marketing?",
+  "habit": "você trabalha em home office parte da semana"
+ },
+ {
+  "id": "P009",
+  "name": "Wes",
+  "age": 35,
+  "segment": "Início de carreira, mora sozinha ou divide apê",
+  "income": 85000,
+  "behaviour": "Não toma nada",
+  "behaviour_how": "Acha que suplemento é desnecessário se come razoavelmente bem.",
+  "objection": "R$149 por mês é caro; um multivitamínico de farmácia custa R$30",
+  "habit": "você toma café correndo antes de sair"
+ },
+ {
+  "id": "P010",
+  "name": "Sofia",
+  "age": 36,
+  "segment": "Início de carreira, mora sozinha ou divide apê",
+  "income": 57000,
+  "behaviour": "Segue criadoras de bem-estar",
+  "behaviour_how": "Descobre produtos no TikTok e Instagram e compra pelo link.",
+  "objection": "Já tenho magnésio e vitamina D em casa",
+  "habit": "você vai à academia duas ou três vezes por semana"
+ },
+ {
+  "id": "P011",
+  "name": "Rohan",
+  "age": 35,
+  "segment": "Carreira consolidada, com filho pequeno",
+  "income": 255000,
+  "behaviour": "Evita assinatura",
+  "behaviour_how": "Prefere comprar avulso quando acaba.",
+  "objection": "Isso dá energia mesmo ou é marketing?",
+  "habit": "você toma café correndo antes de sair"
+ },
+ {
+  "id": "P012",
+  "name": "Darius",
+  "age": 30,
+  "segment": "Carreira consolidada, com filho pequeno",
+  "income": 153000,
+  "behaviour": "Já toma várias cápsulas",
+  "behaviour_how": "Toma magnésio, vitamina D e um multivitamínico de farmácia separados e às vezes esquece.",
+  "objection": "Marca nova que eu nunca ouvi falar",
+  "habit": "você assiste vídeos de rotina matinal no TikTok"
+ },
+ {
+  "id": "P013",
+  "name": "Eli",
+  "age": 30,
+  "segment": "Carreira consolidada, sem filhos",
+  "income": 205000,
+  "behaviour": "Segue criadoras de bem-estar",
+  "behaviour_how": "Descobre produtos no TikTok e Instagram e compra pelo link.",
+  "objection": "Pó tem gosto ruim e dá trabalho de misturar",
+  "habit": "você vai à academia duas ou três vezes por semana"
+ },
+ {
+  "id": "P014",
+  "name": "Noor",
+  "age": 27,
+  "segment": "Início de carreira, mora sozinha ou divide apê",
+  "income": 74000,
+  "behaviour": "Segue criadoras de bem-estar",
+  "behaviour_how": "Descobre produtos no TikTok e Instagram e compra pelo link.",
+  "objection": "R$149 por mês é caro; um multivitamínico de farmácia custa R$30",
+  "habit": "você toma café correndo antes de sair"
+ },
+ {
+  "id": "P015",
+  "name": "Priya",
+  "age": 28,
+  "segment": "Início de carreira, mora sozinha ou divide apê",
+  "income": 69000,
+  "behaviour": "Não toma nada",
+  "behaviour_how": "Acha que suplemento é desnecessário se come razoavelmente bem.",
+  "objection": "Isso dá energia mesmo ou é marketing?",
+  "habit": "você toma café correndo antes de sair"
+ },
+ {
+  "id": "P016",
+  "name": "Nia",
+  "age": 35,
+  "segment": "Carreira consolidada, sem filhos",
+  "income": 124000,
+  "behaviour": "Evita assinatura",
+  "behaviour_how": "Prefere comprar avulso quando acaba.",
+  "objection": "Pó tem gosto ruim e dá trabalho de misturar",
+  "habit": "você toma café correndo antes de sair"
+ },
+ {
+  "id": "P017",
+  "name": "Omar",
+  "age": 35,
+  "segment": "Carreira consolidada, sem filhos",
+  "income": 166000,
+  "behaviour": "Caçadora de desconto",
+  "behaviour_how": "Compara preço por dose e compra o genérico de farmácia ou da Shopee.",
+  "objection": "Já tenho magnésio e vitamina D em casa",
+  "habit": "você assiste vídeos de rotina matinal no TikTok"
+ },
+ {
+  "id": "P018",
+  "name": "Sienna",
+  "age": 37,
+  "segment": "Carreira consolidada, com filho pequeno",
+  "income": 289000,
+  "behaviour": "Caçadora de desconto",
+  "behaviour_how": "Compara preço por dose e compra o genérico de farmácia ou da Shopee.",
+  "objection": "Isso dá energia mesmo ou é marketing?",
+  "habit": "você assiste vídeos de rotina matinal no TikTok"
+ },
+ {
+  "id": "P019",
+  "name": "Caleb",
+  "age": 38,
+  "segment": "Carreira consolidada, com filho pequeno",
+  "income": 244000,
+  "behaviour": "Já toma várias cápsulas",
+  "behaviour_how": "Toma magnésio, vitamina D e um multivitamínico de farmácia separados e às vezes esquece.",
+  "objection": "Já tenho magnésio e vitamina D em casa",
+  "habit": "você vai à academia duas ou três vezes por semana"
+ },
+ {
+  "id": "P020",
+  "name": "Jordan",
+  "age": 35,
+  "segment": "Carreira consolidada, sem filhos",
+  "income": 112000,
+  "behaviour": "Lê rótulo",
+  "behaviour_how": "Confere dose, forma do mineral e adoçante antes de comprar.",
+  "objection": "Marca nova que eu nunca ouvi falar",
+  "habit": "você toma café correndo antes de sair"
+ }
+]

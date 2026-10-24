@@ -1,0 +1,13 @@
+{
+  "id": "P011",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Marca nova, só no site, me vendendo pó 'para mulher de 40+' com sabor tutti-frutti: soa mais como marketing de menopausa do que como algo que vai mudar meu cansaço. Dinheiro não é o problema; o problema é que não vejo por que isso seria melhor do que o que meu médico já me passou.",
+  "objection": "Não acredito que um pó com vitaminas genéricas resolva o cansaço da menopausa; o rótulo só promete coisas vagas tipo 'auxilia no sistema imune', e marca desconhecida sem nenhum estudo ou laudo de dosagem não me convence.",
+  "would_change_my_mind": "Minha ginecologista recomendar a fórmula especificamente, com laudo de análise independente mostrando que as doses do rótulo estão de fato no pote.",
+  "price_too_cheap": 50,
+  "price_cheap": 90,
+  "price_expensive": 180,
+  "price_too_expensive": 260
+}

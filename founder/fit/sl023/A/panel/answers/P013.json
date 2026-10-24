@@ -1,0 +1,13 @@
+{
+  "id": "P013",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "convenience",
+  "reason": "Eu já tomo magnésio e vitamina D em cápsula e esqueço metade dos dias; um copo de manhã que junta tudo e ainda tem ômega de algas me resolve. R$149 não pesa pra mim, e a devolução se eu não gostar do sabor tira o risco de testar um pote.",
+  "objection": "Pó com gosto de vitamina e que empelota no copo. Morango com estévia costuma ficar com aquele amargo no fundo, e se for chato de misturar eu largo na segunda semana.",
+  "would_change_my_mind": "Se o primeiro pote tiver gosto ruim ou não dissolver fácil em água, eu peço o dinheiro de volta e não assino.",
+  "price_too_cheap": 49,
+  "price_cheap": 99,
+  "price_expensive": 169,
+  "price_too_expensive": 229
+}
