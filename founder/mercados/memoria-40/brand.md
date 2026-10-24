@@ -35,7 +35,7 @@ O nome da fundadora não entra, porque a marca precisa rodar sem ela.
 
 ## 2. As três finalistas
 
-| | **Meio-Dia** (recomendada) | **Perivê** | **Maré** |
+| | **Meio-Dia** | **PeriVê (escolhida)** | **Maré** |
 |---|---|---|---|
 | Por que | Vira posicionamento e conteúdo: "aos 45 você está ao meio-dia da vida". Responde ao "ouvi que é normal" com orgulho, não com medo. Premium e adulta | É dona da palavra "peri" sem ser descritiva; mais fácil de registrar e de achar domínio e perfis | Emocional e bonita; fala de ciclos sem falar de doença |
 | Risco | Palavra comum: o registro pode exigir nome com elemento figurativo (logo); domínio sem hífen | Precisa ensinar a pronúncia; não conta história sozinha | Provavelmente ocupada em perfis e domínios; registro mais difícil |
@@ -87,7 +87,7 @@ Nesta busca apareceram concorrentes novos, que entram na próxima atualização 
 |---|---|---|---|
 | Ameixa | `#4A1F3D` | Texto, logo, fundo de embalagem: adulta e premium, longe do rosa "feminino" | 11,8:1 sobre areia; branco sobre ameixa 13,5:1 (AA e AAA) |
 | Areia | `#F6EFE6` | Fundo de site e embalagem, quente e calmo | — |
-| Sol do meio-dia | `#E8A33D` | Destaque: o "sol" do logo, selos, ícones | Ameixa sobre sol 6,3:1 (AA). **Nunca usar texto sol sobre areia (1,9:1)** |
+| Sol | `#E8A33D` | Destaque: o acento do "Ê" no logo, selos, ícones | Ameixa sobre sol 6,3:1 (AA). **Nunca usar texto sol sobre areia (1,9:1)** |
 | Terracota | `#A0472A` | Botões e links | 5,4:1 sobre areia; branco sobre terracota 6,1:1 (AA) |
 
 **Tipografia (gratuitas, licença SIL Open Font, no Google Fonts):**
