@@ -1,0 +1,222 @@
+[
+ {
+  "id": "P001",
+  "name": "Jasper",
+  "age": 38,
+  "segment": "Alta renda",
+  "income": 668000,
+  "behaviour": "Compara preço por dose",
+  "behaviour_how": "Faz a conta por dose e compra genérico de farmácia ou Shopee quando dá.",
+  "objection": "Já tomo magnésio e vitamina D separados",
+  "habit": "você esquece palavras no meio da frase e isso te irrita"
+ },
+ {
+  "id": "P002",
+  "name": "Elena",
+  "age": 53,
+  "segment": "Média alta, gestora ou profissional liberal",
+  "income": 166000,
+  "behaviour": "Compara preço por dose",
+  "behaviour_how": "Faz a conta por dose e compra genérico de farmácia ou Shopee quando dá.",
+  "objection": "Já tomo magnésio e vitamina D separados",
+  "habit": "você já gasta entre R$80 e R$250 por mês com suplementos"
+ },
+ {
+  "id": "P003",
+  "name": "Pablo",
+  "age": 42,
+  "segment": "Classe média, trabalha fora",
+  "income": 99000,
+  "behaviour": "Monta a própria rotina de suplementos",
+  "behaviour_how": "Pesquisa no Instagram e TikTok e compra magnésio, vitamina D e colágeno por conta própria.",
+  "objection": "Já tomo magnésio e vitamina D separados",
+  "habit": "você acorda cansada mesmo dormindo 7 horas"
+ },
+ {
+  "id": "P004",
+  "name": "Callum",
+  "age": 55,
+  "segment": "Média alta, gestora ou profissional liberal",
+  "income": 224000,
+  "behaviour": "Evita assinatura",
+  "behaviour_how": "Prefere comprar avulso quando acaba.",
+  "objection": "Já tomo magnésio e vitamina D separados",
+  "habit": "você acorda cansada mesmo dormindo 7 horas"
+ },
+ {
+  "id": "P005",
+  "name": "Jonah",
+  "age": 54,
+  "segment": "Alta renda",
+  "income": 691000,
+  "behaviour": "Compra marca premium",
+  "behaviour_how": "Já paga mais por Essential Nutrition, Puravida ou Ocean Drop porque confia na qualidade.",
+  "objection": "Não sei se estou mesmo na perimenopausa",
+  "habit": "você acorda cansada mesmo dormindo 7 horas"
+ },
+ {
+  "id": "P006",
+  "name": "Selin",
+  "age": 48,
+  "segment": "Classe média, trabalha fora",
+  "income": 127000,
+  "behaviour": "Monta a própria rotina de suplementos",
+  "behaviour_how": "Pesquisa no Instagram e TikTok e compra magnésio, vitamina D e colágeno por conta própria.",
+  "objection": "Não sei se estou mesmo na perimenopausa",
+  "habit": "você já gasta entre R$80 e R$250 por mês com suplementos"
+ },
+ {
+  "id": "P007",
+  "name": "Raj",
+  "age": 38,
+  "segment": "Média alta, gestora ou profissional liberal",
+  "income": 191000,
+  "behaviour": "Monta a própria rotina de suplementos",
+  "behaviour_how": "Pesquisa no Instagram e TikTok e compra magnésio, vitamina D e colágeno por conta própria.",
+  "objection": "Pó ou sachê dá trabalho / gosto ruim",
+  "habit": "você já gasta entre R$80 e R$250 por mês com suplementos"
+ },
+ {
+  "id": "P008",
+  "name": "Ethan",
+  "age": 54,
+  "segment": "Média alta, gestora ou profissional liberal",
+  "income": 354000,
+  "behaviour": "Compara preço por dose",
+  "behaviour_how": "Faz a conta por dose e compra genérico de farmácia ou Shopee quando dá.",
+  "objection": "Será que funciona ou é só marketing de menopausa?",
+  "habit": "você acorda cansada mesmo dormindo 7 horas"
+ },
+ {
+  "id": "P009",
+  "name": "June",
+  "age": 40,
+  "segment": "Classe média, trabalha fora",
+  "income": 144000,
+  "behaviour": "Evita assinatura",
+  "behaviour_how": "Prefere comprar avulso quando acaba.",
+  "objection": "Pó ou sachê dá trabalho / gosto ruim",
+  "habit": "você já gasta entre R$80 e R$250 por mês com suplementos"
+ },
+ {
+  "id": "P010",
+  "name": "Jordan",
+  "age": 40,
+  "segment": "Classe média, trabalha fora",
+  "income": 98000,
+  "behaviour": "Segue criadoras de saúde feminina",
+  "behaviour_how": "Salva vídeos de médicas e nutricionistas que falam de menopausa e compra o que elas citam.",
+  "objection": "Não sei se estou mesmo na perimenopausa",
+  "habit": "você salvou vídeos sobre perimenopausa no TikTok ou Instagram"
+ },
+ {
+  "id": "P011",
+  "name": "Dev",
+  "age": 54,
+  "segment": "Classe média, trabalha fora",
+  "income": 117000,
+  "behaviour": "Compra marca premium",
+  "behaviour_how": "Já paga mais por Essential Nutrition, Puravida ou Ocean Drop porque confia na qualidade.",
+  "objection": "Quanto custa por mês comparado com o que eu já gasto?",
+  "habit": "você salvou vídeos sobre perimenopausa no TikTok ou Instagram"
+ },
+ {
+  "id": "P012",
+  "name": "Jade",
+  "age": 48,
+  "segment": "Média alta, gestora ou profissional liberal",
+  "income": 353000,
+  "behaviour": "Segue criadoras de saúde feminina",
+  "behaviour_how": "Salva vídeos de médicas e nutricionistas que falam de menopausa e compra o que elas citam.",
+  "objection": "Marca nova que eu nunca ouvi falar",
+  "habit": "você acorda cansada mesmo dormindo 7 horas"
+ },
+ {
+  "id": "P013",
+  "name": "Yusuf",
+  "age": 38,
+  "segment": "Classe média, trabalha fora",
+  "income": 131000,
+  "behaviour": "Leva para a médica olhar",
+  "behaviour_how": "Compra sozinha, mas mostra os rótulos para a ginecologista na consulta anual.",
+  "objection": "Quanto custa por mês comparado com o que eu já gasto?",
+  "habit": "você salvou vídeos sobre perimenopausa no TikTok ou Instagram"
+ },
+ {
+  "id": "P014",
+  "name": "Ruby",
+  "age": 53,
+  "segment": "Alta renda",
+  "income": 555000,
+  "behaviour": "Compra marca premium",
+  "behaviour_how": "Já paga mais por Essential Nutrition, Puravida ou Ocean Drop porque confia na qualidade.",
+  "objection": "Pó ou sachê dá trabalho / gosto ruim",
+  "habit": "você esquece palavras no meio da frase e isso te irrita"
+ },
+ {
+  "id": "P015",
+  "name": "Caleb",
+  "age": 48,
+  "segment": "Média alta, gestora ou profissional liberal",
+  "income": 187000,
+  "behaviour": "Leva para a médica olhar",
+  "behaviour_how": "Compra sozinha, mas mostra os rótulos para a ginecologista na consulta anual.",
+  "objection": "Será que funciona ou é só marketing de menopausa?",
+  "habit": "você já gasta entre R$80 e R$250 por mês com suplementos"
+ },
+ {
+  "id": "P016",
+  "name": "Malik",
+  "age": 53,
+  "segment": "Média alta, gestora ou profissional liberal",
+  "income": 173000,
+  "behaviour": "Monta a própria rotina de suplementos",
+  "behaviour_how": "Pesquisa no Instagram e TikTok e compra magnésio, vitamina D e colágeno por conta própria.",
+  "objection": "Marca nova que eu nunca ouvi falar",
+  "habit": "você acorda cansada mesmo dormindo 7 horas"
+ },
+ {
+  "id": "P017",
+  "name": "Ava",
+  "age": 46,
+  "segment": "Média alta, gestora ou profissional liberal",
+  "income": 289000,
+  "behaviour": "Segue criadoras de saúde feminina",
+  "behaviour_how": "Salva vídeos de médicas e nutricionistas que falam de menopausa e compra o que elas citam.",
+  "objection": "Será que funciona ou é só marketing de menopausa?",
+  "habit": "você salvou vídeos sobre perimenopausa no TikTok ou Instagram"
+ },
+ {
+  "id": "P018",
+  "name": "Alma",
+  "age": 47,
+  "segment": "Classe média, trabalha fora",
+  "income": 85000,
+  "behaviour": "Segue criadoras de saúde feminina",
+  "behaviour_how": "Salva vídeos de médicas e nutricionistas que falam de menopausa e compra o que elas citam.",
+  "objection": "Marca nova que eu nunca ouvi falar",
+  "habit": "você salvou vídeos sobre perimenopausa no TikTok ou Instagram"
+ },
+ {
+  "id": "P019",
+  "name": "Nora",
+  "age": 40,
+  "segment": "Alta renda",
+  "income": 696000,
+  "behaviour": "Leva para a médica olhar",
+  "behaviour_how": "Compra sozinha, mas mostra os rótulos para a ginecologista na consulta anual.",
+  "objection": "Marca nova que eu nunca ouvi falar",
+  "habit": "você esquece palavras no meio da frase e isso te irrita"
+ },
+ {
+  "id": "P020",
+  "name": "Lina",
+  "age": 52,
+  "segment": "Classe média, trabalha fora",
+  "income": 141000,
+  "behaviour": "Monta a própria rotina de suplementos",
+  "behaviour_how": "Pesquisa no Instagram e TikTok e compra magnésio, vitamina D e colágeno por conta própria.",
+  "objection": "Marca nova que eu nunca ouvi falar",
+  "habit": "você esquece palavras no meio da frase e isso te irrita"
+ }
+]

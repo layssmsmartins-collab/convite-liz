@@ -1,0 +1,13 @@
+{
+  "id": "P001",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Já tomo magnésio e vitamina D separados, e se eu quiser creatina compro um pote genérico na Shopee e sai bem mais barato por dose. Juntar tudo num pó com cara de perimenopausa não me dá nada que eu não monte sozinha.",
+  "objection": "Fazendo a conta por dose, isso é magnésio, D, B6, B12 e creatina que eu acho em qualquer farmácia; tenho certeza que vão cobrar um prêmio pela marca e pelo guia, e nada no rótulo fala da névoa mental que é o que me incomoda.",
+  "would_change_my_mind": "Um preço por dose igual ou menor do que eu gasto comprando os genéricos separados, tipo até uns R$ 70 o pote de 30 doses.",
+  "price_too_cheap": 35,
+  "price_cheap": 60,
+  "price_expensive": 95,
+  "price_too_expensive": 130
+}

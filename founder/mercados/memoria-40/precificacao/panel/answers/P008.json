@@ -1,0 +1,13 @@
+{
+  "id": "P008",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Já tomo magnésio, vitamina D e creatina comprando genérico na farmácia e na Shopee; fazendo a conta por dose, monto essa mesma fórmula por uns 60 a 70 reais por mês. Pagar mais caro pelo rótulo de perimenopausa num pote só não fecha a conta para mim.",
+  "objection": "Não tem nada aí que eu não compre separado mais barato. Parece fórmula comum com embalagem de menopausa e preço de marca, e o rótulo mesmo só promete o básico de qualquer vitamina.",
+  "would_change_my_mind": "Se o preço ficasse perto do que eu gasto comprando os ingredientes separados, uns 70 a 80 reais por mês, aí a praticidade de um pote só e o laudo de cada lote valeriam a troca.",
+  "price_too_cheap": 35,
+  "price_cheap": 65,
+  "price_expensive": 95,
+  "price_too_expensive": 130
+}
