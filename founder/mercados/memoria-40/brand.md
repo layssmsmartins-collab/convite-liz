@@ -1,4 +1,12 @@
-# Marca: a marca da perimenopausa (25/10/2026)
+# Marca: PeriVê (25/10/2026)
+
+**Decisão da fundadora: PeriVê** (o nome inventado, finalista nº 2). As seções 3 e 4 abaixo estão escritas para PeriVê.
+
+**Grafia:**
+- **Na marca:** "PeriVê", com o V maiúsculo e o acento. O acento ensina a pronúncia "pe-ri-VÊ". Sem ele, muita gente vai ler "PÉ-ri-ve".
+- **Em domínio e perfis:** "perive", porque domínio não leva acento.
+- **No INPI:** depositar "PERIVÊ" e checar também "PERIVE" e "PERI VÊ".
+
 
 Parte do posicionamento escolhido em `marketing.md`: "a primeira marca brasileira feita para a perimenopausa: explica o que está acontecendo e transforma isso numa rotina diária simples", sem prometer memória.
 
@@ -49,14 +57,16 @@ Nesta busca apareceram concorrentes novos, que entram na próxima atualização 
 - Meno Libid, que usa "perimenopausa" no anúncio: https://www.drogariasaopaulo.com.br/suplemento-alimentar-meno-libid-30-capsulas/p
 - Meno Aliv (Zolve), indicado a partir dos 45 anos: https://www.drogasil.com.br/zolve-meno-aliv-3-potes-suplemento-em-softgel-vitamina-1150252.html
 
-## 3. Promessa, slogan e voz (escritos para Meio-Dia; adaptar se o nome mudar)
+## 3. Promessa, slogan e voz (para PeriVê)
+
+**A história do nome:** "Peri" vem de perimenopausa; "Vê" vem de ver, de enxergar o que está acontecendo. Junto, é quase um pedido: *peri, vê*, olha para essa fase. A marca existe para que a mulher **veja a perimenopausa com nome, explicação e rotina**.
 
 **Promessa (o que ela pode esperar sempre):**
 > Você vai entender o que está acontecendo com você e ter uma rotina simples para atravessar essa fase. Sem drama, sem promessa milagrosa, com a dose de cada coisa à vista.
 
 **Slogan, três opções:**
 1. "Perimenopausa, explicada." (recomendado: curto, dono da palavra, não promete efeito)
-2. "A metade mais clara." (bonito; checar se "clara" soa como alegação cognitiva)
+2. "Agora você vê." (brinca com o nome; usar em campanha, não no rótulo)
 3. "Você não está exagerando."
 
 **Voz em três adjetivos:**
@@ -68,7 +78,7 @@ Nesta busca apareceram concorrentes novos, que entram na próxima atualização 
 
 **Antes e depois de uma linha do texto de venda (`precificacao/pitch.md`):**
 - Antes: "Marca nova brasileira (nome provisório), feita só para a perimenopausa, vendida pelo site."
-- Depois: "Perimenopausa começa anos antes da menopausa e quase ninguém explica. A Meio-Dia explica, e transforma isso numa rotina de um copo por dia."
+- Depois: "Perimenopausa começa anos antes da menopausa e quase ninguém explica. A PeriVê explica, e transforma isso numa rotina de um copo por dia."
 
 ## 4. Visual (briefing)
 
@@ -85,15 +95,21 @@ Nesta busca apareceram concorrentes novos, que entram na próxima atualização 
 - **Inter** para textos: legível em telas pequenas e em rótulo. https://fonts.google.com/specimen/Inter
 
 **Briefing do logo:**
-- **O que precisa dizer:** "meio-dia", ou seja, o ponto alto e claro; adulta, calma, confiante.
-- **Ideia:** um círculo (sol) exatamente no meio de uma linha do horizonte, ou o "o" do nome como sol a pino.
+- **O que precisa dizer:** "ver com clareza a fase"; adulta, calma, confiante; uma marca e não um remédio.
+- **Ideias:**
+  1. Logotipo em Fraunces, com o acento circunflexo do "Ê" desenhado como um pequeno arco de horizonte ou de abertura, em sol `#E8A33D`.
+  2. Monograma "PV" para o ícone de 32 px e a tampa.
+  3. O "V" como uma abertura, de algo que se revela.
 - **Onde precisa funcionar:** tampa do pote, rótulo pequeno, ícone de 32 px no perfil, selo do laudo, favicon.
-- **Evitar:** flor, silhueta feminina, rosa-choque, ampulheta ou qualquer símbolo de "tempo acabando", cérebro, raio ou lâmpada (sugerem cognição e energia).
+- **Evitar:**
+  - olho ou lupa, porque podem sugerir efeito na visão ou soar como clínica;
+  - flor, silhueta feminina, rosa-choque, ampulheta;
+  - cérebro, raio ou lâmpada, que sugerem cognição e energia.
 - Se quiser, gero conceitos com uma ferramenta de imagem. Seriam conceitos, não o logo final.
 
 **As primeiras cinco coisas que a cliente vê:**
 1. **Página inicial:** título "Perimenopausa, explicada.", um teste de 2 minutos ("pode ser perimenopausa?", que leva à lista de espera e ao guia) e, abaixo, a rotina com a tabela de doses aberta.
-2. **Embalagem:** pote ameixa com o sol no meio. No verso: a tabela completa, o QR code do laudo do lote e uma frase: "Isto não substitui sua médica. Leve este rótulo na próxima consulta."
+2. **Embalagem:** pote ameixa com o logotipo PeriVê em areia e o acento em sol. No verso: a tabela completa, o QR code do laudo do lote e uma frase: "Isto não substitui sua médica. Leve este rótulo na próxima consulta."
 3. **Confirmação do pedido:** "Recebido. Enquanto o pote chega, aqui está o capítulo 1 do guia: o que muda no seu corpo agora."
 4. **Primeiro post:** gancho 2 do marketing ("Perimenopausa começa até 10 anos antes da menopausa. Ninguém te contou isso.") em texto ameixa sobre areia.
 5. **Resposta à primeira reclamação** (por exemplo, sabor): "Obrigada por contar. Você está dentro da garantia do primeiro pote: devolvemos o valor, sem formulário. Se topar, nos diga o que achou do sabor para a gente melhorar."
