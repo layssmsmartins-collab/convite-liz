@@ -83,3 +83,14 @@ O formulário pergunta o **gasto mensal com suplementos** e a **faixa de renda**
   - pergunta 18: o formato (pó contra cápsula contra sachê);
   - pergunta 19: o que gera desconfiança (o que a página e o rótulo precisam mostrar).
 - Quem disser "sim" na pergunta 21 vai para as entrevistas de `validacao.md`.
+
+## Recorte de classe social (25/10/2026)
+- **Público para decidir preço e produto:** renda familiar de **R$10 mil por mês ou mais** (classe B e A), que **já gasta R$100 ou mais por mês com suplementos**.
+  - A conta: R$149 por mês somam cerca de R$1.800 por ano. Para não pesar, isso deveria ficar perto de 1% a 1,5% da renda familiar, o que dá R$10–15 mil por mês para cima.
+  - O painel de preço também mostrou que quem já paga marca premium aceita até R$220.
+- **O recorte é feito na análise, não no convite.** No TikTok não dá para escolher quem responde. As perguntas 12 (gasto) e 20 (renda, opcional) fazem o filtro. Como a renda é opcional, o **gasto com suplementos** é o filtro principal.
+- **Como puxar o público certo no convite:**
+  - comentar em vídeos de criadoras com público de renda mais alta: ginecologistas e nutricionistas de consultório particular, conteúdo de reposição hormonal, pilates, marcas premium (Essential, Puravida, Ocean Drop);
+  - completar com Instagram, LinkedIn e a sua rede de trabalho, onde o perfil de renda é mais próximo.
+- **Meta:** pelo menos 50 respostas dentro do recorte (R$10 mil ou mais de renda, ou R$100 ou mais de gasto com suplementos). Se o TikTok trouxer pouca gente desse perfil, aumente as outras fontes.
+- **As respostas abaixo do recorte continuam úteis** para entender a fase e a linguagem, mas não entram na decisão de preço.
