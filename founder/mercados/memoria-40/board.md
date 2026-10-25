@@ -26,8 +26,8 @@
 - **Monopoly** quer saber qual é o ativo que a cópia não leva (conteúdo, comunidade ou rede de profissionais) e "o que você sabe sobre essa mulher que a Essential não sabe".
 
 ## As condições (checklist para o resto do pacote)
-- [ ] **Prova antes do lote:** lista de espera e pré-venda ou kit de teste de R$39 com preço real, com **meta escrita antes de abrir** (inscrições, conversão, pagantes). Seguir só se o custo por cliente medido ficar **em até R$70**. → `/founder-launch`
-- [ ] **Entrevistas e teste de sabor com mulheres reais do perfil,** incluindo a primeira semana inteira: anúncio, página, caixa, dia 1, dia 7, convite para assinar. → `/founder-launch`
+- [ ] ~~Pré-venda paga antes do lote~~ **Revisado (objeção da fundadora, aceita):** pré-venda de marca desconhecida sem produto não é uma premissa validável. A validação passa a ser entrevistas, teste de sabor e **o primeiro lote de 300 potes como experimento**, com metas escritas antes (vender 200 em 90 dias, recompra de 30% ou mais, custo por cliente medido). Ver `validacao.md`. → `/founder-launch`
+- [ ] **Entrevistas (10 a 15) e teste de sabor e de uso (5 a 8 mulheres, 7 dias)** com mulheres reais do perfil, antes de fechar a fórmula e o lote. Ver `validacao.md`.
 - [ ] **Texto de rótulo aprovado por escrito pelo responsável técnico,** incluindo se "perimenopausa" pode aparecer no rótulo. → fabricante, `/founder-ops`
 - [ ] **Nome garantido:** busca no INPI (classes 5, 35, 41) e domínio `perive`. → fundadora, com uma advogada
 - [ ] **Fórmula, formato e sabor fechados** e comparados com o custo dos genéricos: o que a PeriVê tem que não dá para montar sozinha. → fabricante, `/founder-offer`
