@@ -29,7 +29,7 @@
 4. **O sistema de saúde não resolve.** **39%** nunca falaram com médico sobre os sintomas e **27%** ouviram que era "normal". São **67% sem ajuda**.
 5. **Conhecem a palavra, mas não sabem se estão na fase.**
    - **96%** já tinham ouvido "perimenopausa", e 76% sabem o que é.
-   - Mesmo assim, só **42%** acham que estão na fase (sim + acho que sim). Entre as de 40 anos ou mais, **60%**.
+   - Mesmo assim, só **41%** acham que estão na fase (sim + acho que sim). Entre as de 40 anos ou mais, **60%**.
    - O que mais querem saber: **como confirmar** ("exames normais, de onde vêm os sintomas?"), **como aliviar** e **opções de reposição hormonal**.
 6. **Dinheiro existe.** **49%** gastam mais de R$100 por mês com suplementos; **66% no recorte**. Uma em cada dez gasta mais de R$300.
 7. **Onde se informam:** médica ou médico **57%**, **Google 33%**, Instagram 20%, **TikTok 0%**.
@@ -47,7 +47,7 @@
 |---|---|
 | Pó de dose única | **Cápsula pequena, uma por dia** (71% preferem cápsula; 2% preferem pó) |
 | Canal principal: TikTok e criadoras | **Nutricionistas e médicas recomendando** (88% compram por indicação profissional); **Google e Instagram** como apoio (0% citaram TikTok) |
-| Mensagem "o que é perimenopausa" | **"Exames normais e você exausta? Como saber se é perimenopausa e o que perguntar à sua médica"** (96% já conhecem a palavra; só 42% sabem se estão na fase) |
+| Mensagem "o que é perimenopausa" | **"Exames normais e você exausta? Como saber se é perimenopausa e o que perguntar à sua médica"** (96% já conhecem a palavra; só 41% acham que estão na fase) |
 | Laudo e dose como detalhe | **Laudo e dose como argumento principal** (as duas maiores desconfianças: 55% e 47%) |
 | Sintomas amplos | **Cabeça, sono, cansaço e humor**; calor em segundo plano (18%) |
 
@@ -68,6 +68,50 @@ Uma respondente comprou a **Happy Mammoth** (marca australiana de suplementos pa
 
 ## Por que largaram um suplemento (pergunta 14, temas)
 Esquecimento e falta de hábito; não sentiu diferença; cápsulas grandes; gosto forte (ômega 3); orientação médica ou exames.
+
+
+## O que já está confirmado e o que ainda é hipótese
+
+**Regra usada:**
+- **Confirmado** é o que não muda de lado nem no pior caso do intervalo de confiança de 95%.
+- O intervalo responde à pergunta "e se eu entrevistar mais mulheres **como estas**?". Ele **não** resolve o viés de quem respondeu (Minas Gerais, 35–44 anos, a rede da fundadora). Por isso, "confirmado" quer dizer **confirmado para este perfil**. Para outro perfil, a pergunta não é ter mais gente, é ter **outra gente**.
+
+### Confirmado (mais respostas do mesmo perfil não mudam a conclusão)
+| Achado | Resultado | Pior caso (IC 95%) |
+|---|---|---|
+| Preferem cápsula | 71% | pelo menos 57% |
+| **Pó é rejeitado** | 2% | no máximo 10% |
+| **Compram por indicação de médica ou nutricionista** (quem toma) | 88% | pelo menos 74% |
+| Não compraram nada por indicação da internet | 79% | pelo menos 64% |
+| Esquecer palavras é frequente | 71% | pelo menos 57% |
+| Dormir mal é frequente | 67% | pelo menos 53% |
+| Irritabilidade ou oscilação de humor | 65% | pelo menos 51% |
+| **Ondas de calor são minoria** | 18% | no máximo 30% |
+| **A maioria não teve ajuda médica** (não falou ou ouviu "normal") | 67% | pelo menos 53% |
+| Conhecem a palavra "perimenopausa" | 96% | pelo menos 87% |
+| **TikTok não é fonte de informação** | 0% | no máximo 7% |
+| Vender só pelo site não gera desconfiança | 4% | no máximo 13% |
+| Laudo, promessa exagerada e dose estão entre as maiores desconfianças, muito acima de "só pelo site" | 47–55% | pelo menos 40% contra no máximo 13% |
+
+### Ainda é hipótese: precisa de **mais respostas**
+| Pergunta | Hoje | Por que não fecha |
+|---|---|---|
+| A maioria acha que está na perimenopausa? | 41% (40+: 60%) | o intervalo vai de 29% a 55% (40+: 42% a 75%), então pode ser maioria ou minoria |
+| A maioria gasta mais de R$100 por mês com suplementos? | 49% | o intervalo vai de 36% a 62% |
+| A médica pesa mais que a nutricionista? | 60% contra 40% | o intervalo vai de 44% a 74% |
+| Cansaço passa de metade? | 59% | o intervalo vai de 45% a 71% |
+| Google é mais usado que Instagram? | 33% contra 20% | os intervalos se sobrepõem |
+
+### Ainda é hipótese: precisa de **outra gente** (mais respostas iguais não resolvem)
+- **Mulheres de 45 a 55 anos:** só 12 respostas. Tudo o que vale para elas (sintomas, se acham que estão na fase, indicação) ainda é hipótese.
+- **Fora de Minas Gerais:** 14 respostas. O peso da indicação profissional e o 0% de TikTok podem ser hábitos regionais ou da rede da fundadora.
+- **"Elas nem sabem que estão vivendo isso":** 96% conhecem a palavra **nesta** amostra, que é informada. Na população em geral, a pesquisa Medicina S/A diz que 1 em cada 3 não sabe. A hipótese segue aberta para o público mais amplo.
+
+### Ainda é hipótese: **esta pesquisa não mede** (precisa de outro método)
+- **Se elas pagariam R$149 pela PeriVê:** o formulário não mostrou o produto nem o preço. Medir com a versão do painel (teste de conceito e de preço) ou com venda real.
+- **Se a nutricionista ou a médica indicaria uma marca nova:** perguntar a elas, com 5 a 10 entrevistas com nutricionistas.
+- **Como a profissional escolhe a marca que indica:** entrevistas com as 15 que aceitaram conversar.
+- **Custo por cliente, conversão e recompra:** só com o primeiro lote no mercado.
 
 <div class="newpage"></div>
 
