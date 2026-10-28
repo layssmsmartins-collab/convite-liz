@@ -25,6 +25,7 @@ Resumo do que eu uso para ler um catálogo. "Alegação Anvisa" é o que o rótu
 | Ingrediente | Forma preferida | Sintomas que apoia (plausibilidade) | Alegação Anvisa que cabe | Observação regulatória |
 |---|---|---|---|---|
 | Magnésio | bisglicinato ou glicil-glutamina; evitar óxido | sono, irritabilidade, ansiedade, cansaço | função muscular, metabolismo energético, ossos | L-treonato: **proibido/recolhido** em 2026 |
+| Melatonina | 0,21 mg (máximo legal) | sono | nenhuma | permitida só para 19+; rótulo com avisos; não combina com "sem melatonina" como posicionamento |
 | Vitamina B6 (piridoxina ou P5P) | P5P melhor | humor, cansaço | "auxilia no funcionamento do sistema nervoso", metabolismo energético | dose alta prolongada tem limite |
 | Vitamina B12 (metilcobalamina) | metil | cansaço, concentração | sistema nervoso, formação do sangue | — |
 | Folato (metilfolato) | metil | humor, cansaço | formação do sangue | — |
@@ -53,12 +54,12 @@ Resumo do que eu uso para ler um catálogo. "Alegação Anvisa" é o que o rótu
 - sem ingredientes contrários ao sintoma nº 1 (cafeína, taurina): 5.
 
 **Regulatório e viabilidade (até 15 pontos):**
-- todos os ingredientes na lista da Anvisa e nenhum restrito: até 8 (zero e nota final travada em "não lançável" se tiver ashwagandha, treonato ou melatonina);
+- todos os ingredientes na lista da Anvisa e nenhum restrito: até 8 (zero e nota final travada em "não lançável" se tiver ashwagandha ou magnésio L-treonato; **melatonina é permitida para 19+ até 0,21 mg/dia**, sem alegação e com avisos no rótulo);
 - doses dentro dos máximos para 19+: até 4;
 - pelo menos uma alegação permitida que faça sentido para a marca (B6/B12 sistema nervoso): 3.
 
 **Mata na hora, independente da nota:**
-- ingrediente proibido ou restrito;
+- ingrediente proibido ou restrito (ashwagandha, L-treonato; melatonina acima de 0,21 mg);
 - cafeína ou estimulante;
 - fórmula de "calor" (isoflavona como centro), porque o alvo é a perimenopausa inicial, não a menopausa.
 
