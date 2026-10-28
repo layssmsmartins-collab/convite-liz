@@ -40,7 +40,8 @@ Resumo do que eu uso para ler um catálogo. "Alegação Anvisa" é o que o rótu
 | Isoflavonas de soja, trevo vermelho, cimicífuga | — | calor (não é alvo) | nenhuma | produto "de menopausa" clássico; não é o foco |
 | Fosfatidilserina | — | concentração, memória | nenhuma | vendida no Brasil (Neurofan); confirmar |
 | Colina | — | concentração | nenhuma? | confirmar |
-| Taurina, cafeína, tirosina | — | foco e energia | — | **evitar**: são o "nootrópico de performance" dos concorrentes, e cafeína atrapalha o sono, o sintoma nº 1 |
+| Cafeína, guaraná, tirosina (em fórmula de performance) | — | foco e energia | — | **evitar**: são o "nootrópico de performance" dos concorrentes, e cafeína atrapalha o sono, o sintoma nº 1 |
+| Taurina | — | calmante leve (sozinha); em fórmula de energia é só acompanhante da cafeína | — | não mata; avaliar pelo contexto |
 | Ferro | — | cansaço, só com deficiência | formação do sangue | não dar "no escuro"; exclusão provável |
 | Colágeno | — | pele, articulação | — | não é alvo; comum em "fórmulas femininas" como enfeite |
 
@@ -51,7 +52,7 @@ Resumo do que eu uso para ler um catálogo. "Alegação Anvisa" é o que o rótu
 **Qualidade da fórmula (até 25 pontos):**
 - formas químicas boas (bisglicinato, metil, P5P, TG): até 10;
 - doses em nível útil, não "pó de fada" (lista longa com miligramas simbólicos): até 10;
-- sem ingredientes contrários ao sintoma nº 1 (cafeína, taurina): 5.
+- sem ingredientes contrários ao sintoma nº 1 (cafeína, guaraná, estimulantes): 5.
 
 **Regulatório e viabilidade (até 15 pontos):**
 - todos os ingredientes na lista da Anvisa e nenhum restrito: até 8 (zero e nota final travada em "não lançável" se tiver ashwagandha ou magnésio L-treonato; **melatonina é permitida para 19+ até 0,21 mg/dia**, sem alegação e com avisos no rótulo);
@@ -60,7 +61,7 @@ Resumo do que eu uso para ler um catálogo. "Alegação Anvisa" é o que o rótu
 
 **Mata na hora, independente da nota:**
 - ingrediente proibido ou restrito (ashwagandha, L-treonato; melatonina acima de 0,21 mg);
-- cafeína ou estimulante;
+- cafeína, guaraná ou estimulante;
 - fórmula de "calor" (isoflavona como centro), porque o alvo é a perimenopausa inicial, não a menopausa.
 
 **Observações separadas (não entram na nota):** formato, número de doses, custo, lote mínimo, exclusividade, se o fabricante tem estudo de estabilidade, se faz cápsula pequena.

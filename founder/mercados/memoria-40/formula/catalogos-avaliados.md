@@ -42,15 +42,65 @@ O catálogo é por **linha pronta** (gomas, cápsulas, flaconetes, pós, chás) 
 - **Três status a confirmar com o responsável técnico deles** antes de qualquer desenho: PEA, GABA e L-teanina na lista de constituintes da Anvisa. Se a teanina for permitida, ela entra na fórmula de noite.
 - **Uma ideia que o catálogo sugere:** separar em **dois produtos**. Um de dia (Mg + B6 + B12 + folato + D3 + ômega 3, para humor, cansaço e concentração) e um de noite (Mg bisglicinato + melatonina 0,21 mg + triptofano ou teanina, para o sintoma nº 1). A pesquisa deu sono como o sintoma mais frequente; a O Positiv cresceu exatamente assim, com um produto por sintoma.
 
-## Ranking até agora
+
+## Catálogo 3: Personalize (Campinas), 2026 (12 páginas)
+
+O que o catálogo diz de relevante: **portfólio centrado em cápsula dura** (o formato que 66% da pesquisa pediu), produtos **notificados na Anvisa ou com estabilidade em fase final**, e **industrializam fórmula exclusiva** ("possui uma fórmula exclusiva? Fale com a gente"). Lote mínimo, preço e prazo: só por contato. **As doses dos "complexes" não aparecem**, só dos mono-ingredientes; por isso quase tudo é provisório.
+
+**Ajuste nos critérios:** taurina sozinha **não** é estimulante (é um aminoácido com efeito calmante); o "mata" vale para cafeína, guaraná e combinações de performance. Corrigido em `criterios.md`.
+
+| Fórmula Personalize | Ingredientes (doses) | Sintomas cobertos | Nota | Contra | Formato |
+|---|---|---|---|---|---|
+| **Nigth Complex** (30 ou 60 cáps) | triptofano, niacinamida, B6, glicina, magnésio, melatonina (doses: não informadas) | **Sono** ●●● (quatro ingredientes plausíveis) · Ansiedade ◐ · Humor ◐ · Cansaço ◐ | **53** (prov.) | Produto de noite, não a fórmula completa; forma do Mg não informada; confirmar melatonina ≤ 0,21 mg | **Cápsula**: certo |
+| **Metilfolato Complex** (30 ou 60 cáps) | metilfolato 1.000 mcg, B6, B12 | **Humor** ●● · **Cansaço** ●● · Esquecer palavras ◐ | **53** | Sem magnésio, nada para sono; é componente de dia | Cápsula |
+| **Shot Noturno** (pó, 30 doses) | inositol, triptofano, Mg, L-teanina, B6, melatonina | Sono ●●● · Ansiedade ◐ · Humor ◐ · Cansaço ◐ | 51 (prov.) | **Pó**; L-teanina a confirmar na lista | Pó: rejeitado pela pesquisa |
+| **Bye TPM Complex** (60 cáps) | triptofano, Mg dimalato, L-metilfolato de cálcio, B6 | Sono ◐ · Humor ◐ · Ansiedade ◐ · Cansaço ◐ | 50 (prov.) | O nome é deles (marca própria pode renomear); doses desconhecidas; dimalato é forma boa para cansaço, menos para sono | Cápsula |
+| **Trio de Magnésio** (60 cáps) | Mg dimalato + taurato + bisglicinato | Sono ◐ · Ansiedade ◐ · Cansaço ◐ · Humor ◐ | 49 (prov.) | Só magnésio; há versão com CoQ10 | Cápsula |
+| **Ômega 3 concentrado** (60 softgel 1.000 mg) | EPA 330 / DHA 220 por cápsula; versão Ultra DHA 200/500 | Esquecer palavras ◐ · Humor ◐ · Concentração ◐ | 48 | Só a parte "cabeça" | Softgel |
+| **Calm Complex** (60 cáps) | inositol, L-teanina, Mg dimalato, triptofano, B6 | Ansiedade ◐ · Sono ◐ · Humor ◐ · Cansaço ◐ | 47 (prov.) | L-teanina a confirmar; doses desconhecidas | Cápsula |
+| Caramelo Insônia | melatonina, triptofano, Mg, B6 | Sono ●●● · Humor ◐ | 45 (prov.) | Formato caramelo (açúcar?); produto de noite | Caramelo |
+| Magnésio Quelado 350 mg; Magnésio Dimalato 300 mg; Vitamina D 2000 UI; D3+K2; B12 9,94 mcg; Metilfolato 1.000 mcg; Creatina (4 cáps = 3 g) | mono-ingredientes com dose | componentes | — | Cada um cobre um pedaço; servem para montar a fórmula própria | Cápsula |
+| Memory Complex | bitartarato de colina, ácido glutâmico, B6 | Esquecer palavras ◐ · Concentração ◐ | 32 (prov.) | Ácido glutâmico: status a confirmar; nada para sono ou humor | Cápsula |
+| Libid Complex | feno grego, ácido aspártico, Mg, vit. C, zinco, B6 | Libido ◐ | 25 | Só o sintomo nº 8 | Cápsula |
+| Serena (bebida funcional "acalmar, ansiedade, insônia") | camomila, melissa, lavanda, lúpulo, passiflora, Mg, cobre, B6, abacate, leite de coco, cacau | Sono ◐ · Ansiedade ◐ | 30 | Pó, alimento, ervas em dose não informada | Pó |
+| Meno Complex (softgel: linhaça, prímula, borragem, TCM, triptofano, A, D, E, K); Ciclos (bebida "menopausa": amora, camomila, linhaça, maca, framboesa, cálcio, B9, B12, D, K) | — | calor (não é alvo) | — | Produtos de climatério, fora do alvo | — |
+| Nootropic Complex, Energy Complex, MindUP, Pré Workout, Instant Coffee | com cafeína e/ou taurina + tirosina | — | **mata** | Estimulantes: contra o sintoma nº 1 | — |
+| Gummy Melatonina; Night Drop (melatonina 210 mcg líquida); Florais | — | sono | — | Melatonina sozinha; florais não são regulados pela Anvisa | — |
+
+**Leitura do catálogo Personalize:**
+- Também **não tem a fórmula completa pronta**, mas tem **os blocos certos, em cápsula, e industrializa fórmula própria** com estabilidade e notificação. É o fornecedor mais alinhado ao formato que a pesquisa pediu.
+- **Dois produtos quase prontos** cobrem a maior parte da lista:
+  - **Noite:** Nigth Complex (ou Calm Complex, se a teanina for permitida): sono, ansiedade.
+  - **Dia:** Metilfolato Complex + magnésio quelado + vitamina D: humor, cansaço, com Mg para o sono também.
+- **Ideia de fórmula própria para pedir a eles (1 cápsula de dia + 1 de noite):**
+  - Dia: Mg bisglicinato 150 mg + metilfolato 400 mcg + B6 (P5P) 5 mg + B12 (metil) 10 mcg + D3 2.000 UI. Alegações: sistema nervoso (B6, B12), função muscular (Mg), ossos (D).
+  - Noite: Mg bisglicinato 200 mg + glicina 1 g (se couber em cápsula; senão, pó de noite) + triptofano + melatonina 0,21 mg. Sem alegação.
+  - A dividir com o responsável técnico deles: doses dentro dos máximos da IN 28; se cabe tudo numa cápsula; se glicina é constituinte permitido.
+- **Perguntas para a Personalize:** doses dos complexes (Nigth, Calm, Bye TPM); forma do magnésio em cada um; melatonina por cápsula; lote mínimo por SKU; custo por cápsula; prazo e custo de fórmula própria; exclusividade; status de L-teanina, glicina, ácido glutâmico na lista; tamanho da cápsula (nº 0 ou nº 1).
+
+## Ranking até agora (3 catálogos)
+
+**Fórmula única, pronta:**
 
 | # | Fórmula | Nota | Por quê |
 |---|---|---:|---|
-| 1 | **Ourocaps SL 023** | 78 | Única fórmula pronta que cobre sono, humor, ansiedade e cansaço com dose real e formas boas. Só falha no formato (pó) e na ausência de exclusividade |
-| 2 | Ekobé Melatonina + Triptofano + Mg | 50 (prov.) | Melhor cobertura do sintoma nº 1; vira um "produto de noite" |
-| 3 | Ekobé Tri-Magnésio | 49 (prov.) | Bom componente de magnésio em cápsula |
+| 1 | **Ourocaps SL 023** | 78 | Única pronta que cobre sono, humor, ansiedade e cansaço com dose real. Falha no formato (pó) |
+| 2 | Personalize Nigth Complex | 53 (prov.) | Melhor produto de noite em cápsula |
+| 2 | Personalize Metilfolato Complex | 53 | Melhor componente de dia, com dose |
+| 4 | Personalize Shot Noturno | 51 (prov.) | Noite completa, mas em pó |
+| 5 | Ekobé Melatonina + Triptofano + Mg | 50 (prov.) | Noite, em flaconete |
+| 5 | Personalize Bye TPM Complex | 50 (prov.) | Dia/noite misto, cápsula |
 
-**O que falta em todas:** um ingrediente com plausibilidade forte para **"esquecer palavras"** (nº 2 da lista). Os candidatos legais são fracos (DHA, B12); os fortes (fosfatidilserina, colina em dose alta, bacopa) ou não estão confirmados na lista ou são o território do "nootrópico". Esta é a pergunta técnica para o responsável técnico: **o que pode entrar, em que dose, para a função cognitiva, dentro da lista da Anvisa?**
+**Composição de dois produtos (a opção que mais respeita a pesquisa):**
+
+| Composição | Cobertura | Nota estimada | Por quê |
+|---|---|---:|---|
+| **Personalize: Nigth Complex (noite) + Metilfolato Complex com Mg quelado e D (dia)** | sono ●●●, humor ●●, cansaço ●●, ansiedade ◐, esquecer ◐ | **~65** (prov.) | Cápsula, dois produtos quase prontos, fornecedor que faz fórmula própria com estabilidade. Perde para o SL 023 em "tudo num só" e ganha em formato e em cobrir o sono de verdade |
+| Ourocaps SL 023 (dia) + Ekobé ou Personalize noite | sono ●●●, humor ●●, ansiedade ●●, cansaço ●● | ~75 | Melhor cobertura, mas mistura dois fornecedores e o dia continua em pó |
+
+**O que falta em todos os três:** um ingrediente forte e permitido para **"esquecer palavras"** (nº 2). Continua sendo a pergunta técnica para o responsável técnico: o que pode entrar, em que dose, para função cognitiva, dentro da lista da Anvisa.
+
+**Decisão que os catálogos colocam na mesa:** um produto ou dois? A pesquisa diz que o sono é o sintoma nº 1 e a cápsula é o formato. Nenhum fornecedor tem "tudo num só em cápsula, uma por dia". Dois produtos (dia e noite) é o caminho que os três catálogos permitem hoje, e é o modelo da O Positiv (um produto por sintoma). O custo é dobrar SKU, lote mínimo e estoque.
 
 ## Próximos catálogos
 Quando os outros chegarem, entram nesta mesma tabela. O que mais vale procurar neles: uma fórmula pronta com **Mg bisglicinato ≥ 300 mg + B6 + B12 + folato + D3 em cápsula, 1 ou 2 por dia**, e qualquer fornecedor que já tenha **melatonina 0,21 mg + Mg em cápsula**.
