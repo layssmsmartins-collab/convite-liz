@@ -78,29 +78,64 @@ O que o catálogo diz de relevante: **portfólio centrado em cápsula dura** (o 
   - A dividir com o responsável técnico deles: doses dentro dos máximos da IN 28; se cabe tudo numa cápsula; se glicina é constituinte permitido.
 - **Perguntas para a Personalize:** doses dos complexes (Nigth, Calm, Bye TPM); forma do magnésio em cada um; melatonina por cápsula; lote mínimo por SKU; custo por cápsula; prazo e custo de fórmula própria; exclusividade; status de L-teanina, glicina, ácido glutâmico na lista; tamanho da cápsula (nº 0 ou nº 1).
 
-## Ranking até agora (3 catálogos)
+
+## Catálogo 4: Nutrion (set/2026, 69 páginas)
+
+O que o catálogo diz de relevante: **tudo em softgel** (cápsula gelatinosa), quase sempre **1 cápsula por dia**, e **todas as fórmulas trazem a tabela nutricional com dose por ingrediente**. Produtos já notificados; há uma lista "aguardando estudo de estabilidade" com conclusão em **01/02/2027** (Trio Magnésio + B6 em cápsula dura, Complexo B, Bebida Noturna em pó, D3 + K2). Não diz se faz fórmula própria: perguntar. Lote mínimo e preço: por contato. Não li em detalhe as seções de ômegas, coração, imunidade, ossos, beleza, peso, gestante, homem, kids, olhos, performance e reparação celular; são fora do alvo.
+
+**Achado importante:** a **fosfatidilserina** aparece em dois produtos notificados da Nutrion (50 mg e 100 mg). Isso indica que ela **é constituinte permitido** no Brasil (confirmar com o responsável técnico). É o primeiro candidato legal e com plausibilidade razoável para o sintoma nº 2, "esquecer palavras", que faltava em todos os catálogos anteriores.
+
+| Fórmula Nutrion | Ingredientes por dose | Sintomas cobertos | Nota | Contra | Formato |
+|---|---|---|---|---|---|
+| **Sonnus Caps Premium** (1 softgel/dia, cód. 1500248) | melatonina 0,21 mg, triptofano 250 mg, Mg 65 mg (**óxido**), B3 16 mg, B6 1,3 mg | **Sono** ●●● · Humor ◐ · Ansiedade ◐ · Cansaço ◐ | **54** | Magnésio em óxido e só 65 mg (dose simbólica, forma ruim); nada para cabeça | 1 softgel/dia: ideal |
+| **Sonnus Caps** (1 softgel, maracujá) | melatonina 0,21 mg, triptofano 430 mg, B3, B6 | Sono ●●● · Humor ◐ · Ansiedade ◐ | 52 | Sem magnésio | 1 softgel/dia |
+| **Cognição** (1 softgel/dia, cód. 1500147) | **fosfatidilserina 100 mg**, colina 83 mg, triptofano 100 mg, taurina 100 mg, B3 16 mg, B6 5 mg, B9 1.025 mcg (ácido fólico), B12 9,9 mcg | **Esquecer palavras** ◐ (o melhor candidato legal até agora) · Humor ◐ (B6 alta, B9, B12) · Cansaço ◐ (B12) · Concentração ◐ · Sono ◐ | **49** | Sem magnésio; B9 em ácido fólico a 1.025 mcg: **conferir o máximo da IN 28 para 19+**; B12 em cianocobalamina; taurina aqui não é estimulante | 1 softgel/dia |
+| **Fosfatidilserina + Ômega 3** (1 softgel, cód. 1500104) | EPA 100 mg, DHA 250 mg, fosfatidilserina 50 mg | Esquecer palavras ◐ · Humor ◐ · Concentração ◐ | 47 | Só a parte "cabeça"; sem vitaminas B | 1 softgel/dia |
+| **Triptofano + Mg + B3 + B6** (2 softgels) | triptofano 500 mg, Mg 130 mg (óxido), B3, B6 | Sono ◐ · Humor ◐ · Ansiedade ◐ · Cansaço ◐ | 47 | Mg em óxido; 2 cápsulas; sem melatonina | 2 softgels |
+| **T.P.M. Control** (2 softgels) | óleos de borragem e prímula, triptofano 200 mg, B6 2 mg, ácido fólico 407 mcg, Mg 65 mg (bisglicinato + óxido), cromo 250 mcg, vit. E | Humor ◐ · Sono ◐ · Ansiedade ◐ · Peso ◐ | 45 | Fórmula de TPM (óleos de GLA); magnésio baixo; 2 cápsulas | 2 softgels |
+| **AZ Super Mulher** (2 softgels) | 13 vitaminas, 9 minerais, ômega 3 140 mg, luteína; Mg 55 mg, B6 2,3 mg, B9 600 mcg, B12 4,8 mcg | Humor ◐ · Cansaço ◐ · Esquecer ◐ | 42 | Multivitamínico genérico; magnésio simbólico | 2 softgels |
+| **GABA + Triptofano + B3 + B6** (1 softgel) | GABA 150 mg, triptofano 50 mg, B3 4 mg, B6 4 mg | Sono ◐ · Ansiedade ◐ | 40 | GABA: produto notificado, então deve ser permitido, mas a plausibilidade por via oral é fraca; triptofano simbólico | 1 softgel |
+| **D-Limoneno** (Serenzo, 100 mg, 1 softgel) | d-limoneno 100 mg | Sono ◐ · Ansiedade ◐ | 30 | Ingrediente de marca, um só ativo, evidência fraca | 1 softgel |
+| Prímula; Linhaça + Prímula + Borragem; Ciclo-Zen (curcumina, d-limoneno, B6 10 mg); Cranberry | — | fora do alvo (TPM, calor, urinário) | — | — | — |
+| **Brain Up** (cafeína 75 mg + taurina + fosfatidilserina + colina) | — | — | **mata** | cafeína | — |
+| ENERGY (pó, com guaraná) | — | — | mata | guaraná | — |
+| Aguardando estabilidade (02/2027): Trio Magnésio + B6 (cápsula dura 00), Complexo B, Bebida Noturna (pó), D3 + K2 | — | componentes | — | Só a partir de fev/2027 | — |
+
+**Leitura do catálogo Nutrion:**
+- É o único dos quatro em que **toda fórmula vem com dose** e em que **o formato padrão é 1 cápsula por dia**. Isso tira o "provisório" das notas.
+- **Também não tem a fórmula completa**, mas tem **os dois melhores produtos prontos de cada lado**: Sonnus Caps Premium (noite) e Cognição (dia, com fosfatidilserina 100 mg). Os dois são 1 softgel por dia e já estão notificados.
+- **O ponto fraco é o magnésio:** em óxido (forma de pior absorção) e em dose simbólica (65 mg). O Trio Magnésio + B6 em cápsula dura só fica pronto em fev/2027.
+- **Perguntas para a Nutrion:** fazem fórmula própria? Trocar o óxido por bisglicinato no Sonnus Premium e subir para 150–200 mg (cabe no softgel?); a Cognição com metilfolato 400 mcg no lugar do ácido fólico 1.025 mcg e metilcobalamina; lote mínimo por SKU; custo por cápsula; tamanho real das cápsulas "16 oblonga" e "20 oblonga" em mm (podem ser grandes); exclusividade; prazo do Trio Magnésio.
+
+## Ranking até agora (4 catálogos)
 
 **Fórmula única, pronta:**
 
 | # | Fórmula | Nota | Por quê |
 |---|---|---:|---|
 | 1 | **Ourocaps SL 023** | 78 | Única pronta que cobre sono, humor, ansiedade e cansaço com dose real. Falha no formato (pó) |
-| 2 | Personalize Nigth Complex | 53 (prov.) | Melhor produto de noite em cápsula |
-| 2 | Personalize Metilfolato Complex | 53 | Melhor componente de dia, com dose |
-| 4 | Personalize Shot Noturno | 51 (prov.) | Noite completa, mas em pó |
-| 5 | Ekobé Melatonina + Triptofano + Mg | 50 (prov.) | Noite, em flaconete |
-| 5 | Personalize Bye TPM Complex | 50 (prov.) | Dia/noite misto, cápsula |
+| 2 | **Nutrion Sonnus Caps Premium** | 54 | Melhor produto de noite com dose conhecida, 1 softgel, já notificado |
+| 3 | Personalize Nigth Complex | 53 (prov.) | Noite em cápsula, sem dose |
+| 3 | Personalize Metilfolato Complex | 53 | Dia, com dose |
+| 5 | Nutrion Sonnus Caps | 52 | Noite, sem magnésio |
+| 6 | Personalize Shot Noturno | 51 (prov.) | Noite em pó |
+| 7 | Ekobé Melatonina + Triptofano + Mg | 50 (prov.) | Noite em flaconete |
+| 7 | Personalize Bye TPM Complex | 50 (prov.) | — |
+| 9 | **Nutrion Cognição** | 49 | **Único com fosfatidilserina 100 mg**, o candidato legal para "esquecer palavras"; 1 softgel |
 
-**Composição de dois produtos (a opção que mais respeita a pesquisa):**
+**Composição de dois produtos (dia + noite):**
 
 | Composição | Cobertura | Nota estimada | Por quê |
 |---|---|---:|---|
-| **Personalize: Nigth Complex (noite) + Metilfolato Complex com Mg quelado e D (dia)** | sono ●●●, humor ●●, cansaço ●●, ansiedade ◐, esquecer ◐ | **~65** (prov.) | Cápsula, dois produtos quase prontos, fornecedor que faz fórmula própria com estabilidade. Perde para o SL 023 em "tudo num só" e ganha em formato e em cobrir o sono de verdade |
-| Ourocaps SL 023 (dia) + Ekobé ou Personalize noite | sono ●●●, humor ●●, ansiedade ●●, cansaço ●● | ~75 | Melhor cobertura, mas mistura dois fornecedores e o dia continua em pó |
+| **Nutrion: Cognição (dia) + Sonnus Caps Premium (noite)** | sono ●●●, esquecer ◐, humor ●●, cansaço ◐, ansiedade ◐, concentração ◐ | **~68** | **Um fornecedor, dois softgels por dia, doses conhecidas, os dois já notificados.** É a composição mais pronta para lançar. Fraqueza: magnésio em óxido e simbólico; pedir troca por bisglicinato |
+| Personalize: Nigth Complex (noite) + Metilfolato Complex com Mg quelado e D (dia) | sono ●●●, humor ●●, cansaço ●●, ansiedade ◐, esquecer ◐ | ~65 (prov.) | Cápsula dura, fornecedor que faz fórmula própria; sem dose nos complexes |
+| Ourocaps SL 023 (dia) + Nutrion Sonnus Premium (noite) | sono ●●●, humor ●●, ansiedade ●●, cansaço ●● | ~75 | Melhor cobertura, mas dois fornecedores e o dia em pó |
 
-**O que falta em todos os três:** um ingrediente forte e permitido para **"esquecer palavras"** (nº 2). Continua sendo a pergunta técnica para o responsável técnico: o que pode entrar, em que dose, para função cognitiva, dentro da lista da Anvisa.
+**O que mudou com a Nutrion:** o buraco do sintomo nº 2 ("esquecer palavras") ganhou um candidato legal, a **fosfatidilserina**, que aparece em produtos notificados. Confirmar com o responsável técnico e perguntar à Personalize e à Ekobé se também trabalham com ela.
 
-**Decisão que os catálogos colocam na mesa:** um produto ou dois? A pesquisa diz que o sono é o sintoma nº 1 e a cápsula é o formato. Nenhum fornecedor tem "tudo num só em cápsula, uma por dia". Dois produtos (dia e noite) é o caminho que os três catálogos permitem hoje, e é o modelo da O Positiv (um produto por sintoma). O custo é dobrar SKU, lote mínimo e estoque.
+**O que falta em todos:** um magnésio bom (bisglicinato, 150–300 mg) **dentro** da fórmula de dia ou de noite, em cápsula. Hoje ou o magnésio é bom e vem em pó (Ourocaps), ou vem em cápsula e é óxido simbólico (Nutrion), ou vem sem dose (Personalize, Ekobé).
+
+**A decisão continua a mesma: um produto ou dois?** Com quatro catálogos lidos, nenhum tem "tudo num só em cápsula, uma por dia". Dois produtos (dia e noite) é o que o mercado de terceirização entrega pronto, com a Nutrion na frente por ter dose e notificação. Um produto só exige fórmula própria (Personalize ou Ekobé), com os custos e prazos de estabilidade que já mapeamos.
 
 ## Próximos catálogos
 Quando os outros chegarem, entram nesta mesma tabela. O que mais vale procurar neles: uma fórmula pronta com **Mg bisglicinato ≥ 300 mg + B6 + B12 + folato + D3 em cápsula, 1 ou 2 por dia**, e qualquer fornecedor que já tenha **melatonina 0,21 mg + Mg em cápsula**.
