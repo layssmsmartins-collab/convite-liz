@@ -139,3 +139,26 @@ O que o catálogo diz de relevante: **tudo em softgel** (cápsula gelatinosa), q
 
 ## Próximos catálogos
 Quando os outros chegarem, entram nesta mesma tabela. O que mais vale procurar neles: uma fórmula pronta com **Mg bisglicinato ≥ 300 mg + B6 + B12 + folato + D3 em cápsula, 1 ou 2 por dia**, e qualquer fornecedor que já tenha **melatonina 0,21 mg + Mg em cápsula**.
+
+## Critério do MVP (decisão da fundadora, 28/10)
+
+**Regras:** um produto só; **fórmula como está no catálogo, sem nenhuma troca** (toda alteração exige novo estudo de estabilidade e nova notificação, que é caro e lento); o objetivo é **validar se há demanda e se as mulheres compram**. Dois produtos e fórmula própria ficam para depois da validação.
+
+Com esse filtro, só entram fórmulas **prontas, já notificadas, com estabilidade concluída**. As ideias de "trocar o óxido por bisglicinato", "metilfolato no lugar do ácido fólico" e a composição dia + noite saem da mesa por ora.
+
+| # | Candidata ao MVP | Nota da fórmula | Formato | Status regulatório (a confirmar) | O que valida | Risco |
+|---|---|---:|---|---|---|---|
+| 1 | **Ourocaps SL 023** | 78 | pó, 30 doses | produto de linha; perguntar se já notificado e com estabilidade | A promessa inteira da marca: sono, humor, ansiedade, cansaço numa dose | **Formato:** 1% da pesquisa prefere pó, 66% cápsula. A rejeição ao pó pode mascarar a demanda pela marca |
+| 2 | **Nutrion Sonnus Caps Premium** | 54 | 1 softgel/dia | notificado, dose conhecida | O sintoma nº 1 (sono, 71%) com o formato que a pesquisa pediu | Promessa mais estreita: vira "o produto de noite da PeriVê", não a rotina da fase |
+| 3 | Nutrion Cognição | 49 | 1 softgel/dia | notificado | O sintoma nº 2 (esquecer palavras, 70%) com fosfatidilserina | Sem nada para sono; B9 em 1.025 mcg a conferir |
+| 4 | Personalize Nigth Complex | 53 (prov.) | cápsula dura | "notificado ou estabilidade em fase final": confirmar qual | Sono em cápsula | Sem dose publicada; se a estabilidade ainda não acabou, não serve para MVP |
+
+**Recomendação para o MVP:**
+- **Se a Ourocaps confirmar que o SL 023 já está notificado com estabilidade concluída,** ele é o MVP: é a única fórmula pronta que entrega a promessa da marca inteira, e o teste de demanda fica mais limpo (a mulher compra "a rotina da perimenopausa", não "um produto de sono"). O pó é um risco real, mas pode ser trabalhado na experiência: dosador, sabor, "um copo de manhã". Se a recompra do primeiro lote for baixa por causa do formato, isso aparece nas entrevistas e vira o argumento para a cápsula no lote 2.
+- **Se o SL 023 não estiver pronto, ou se a fundadora julgar o pó inaceitável,** o MVP é o **Sonnus Caps Premium**: 1 softgel por dia, notificado, dose conhecida, e cobre o sintoma mais frequente. A marca lança como "PeriVê Noite" e a promessa mais larga fica para o lote 2.
+- Antes de decidir, **perguntar à Ourocaps uma coisa só:** existe o SL 023, com a mesma fórmula, **já notificado em cápsula**? Se existir, a decisão fica fácil.
+
+**As três perguntas que decidem, para cada fornecedor (nada de fórmula):**
+1. O produto está **notificado na Anvisa com estudo de estabilidade concluído**? Qual o número da notificação e a validade?
+2. **Lote mínimo, custo por unidade e prazo** para marca própria com o rótulo da PeriVê.
+3. **Quantas marcas já vendem essa mesma fórmula**, e se há alguma exclusividade possível de rótulo, sabor ou canal.
