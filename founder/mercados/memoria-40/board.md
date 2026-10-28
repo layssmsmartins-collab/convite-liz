@@ -1,55 +1,44 @@
-# Conselho: PeriVê, a marca da perimenopausa (25/10/2026)
+# Conselho, rodada 2: PeriVê, a marca da perimenopausa (28/10/2026)
 
 ## A votação
-**3 FUND IF.** Nota média **4,7/10** (Offers 5, Product 5, Monopoly 4).
+**3 FUND IF.** Nota média **5,3/10** (Offers 6, Monopoly 5, Product 5).
 
-É a melhor nota entre as ideias testadas até aqui:
-- Ritual da Noite: 4,3 na rodada 2;
-- multivitamínico infantil: 2,3 na versão de ferro.
+Na rodada 1 (25/10) foi 3 FUND IF com média 4,7. Subiu 0,6 ponto, e é a nota mais alta de todas as ideias testadas (Ritual da Noite 4,3; ferro infantil 2,3).
 
-É também a primeira vez que **o mercado é o ponto forte**. A lente Offers diz que ele passa nos quatro critérios: dor ignorada, dinheiro, compradoras fáceis de achar e crescimento. Ninguém aprova antes de **prova com mulheres reais**.
+**O que fez a nota subir:** a pesquisa com 62 mulheres reais confirmou o mercado (dor, dinheiro, 65% sem ajuda médica), simplificou o produto (cápsula, uma por dia) e deu um canal concreto para a prova de confiança (85% compram por indicação profissional). A tese EUA→Brasil deu à lente Monopoly um "segredo" plausível: o mercado parece doutor-led porque não existe outra voz.
+
+**O que impediu de subir mais:** o conselho inteiro aponta que **o plano foi ficando mais largo quando deveria ter ficado mais estreito**, e que a peça central, a nutricionista que indica, ainda não foi testada com uma única nutricionista.
 
 ## Os riscos que mais de um membro levantou (primeiro)
-1. **"É o que eu já compro separado" (os três).** O pó é a parte mais fácil de copiar e a menos diferente. Os genéricos montados saem por R$60–70. Se a diferença for só o pote, o premium não se sustenta, e Essential, Puravida, Cimed ou Kunda trocam o rótulo em seis meses.
-2. **Confiança e prova (os três).** 1 de 20 compraria no painel, e 11 citaram confiança. A marca não pode prometer o que ela mais quer (memória, névoa mental). A voz de confiança seriam nutricionistas e criadoras, que os concorrentes também podem contratar.
-3. **Caixa sem folga (Offers e Monopoly).** A R$149 sobram cerca de R$3 mil sobre os R$60 mil; a R$129 o orçamento estoura. O custo por cliente (alvo de R$70) e a retenção da assinatura são metas, não dados.
-4. **Tudo depende de terceiros (Product, com apoio de Monopoly):**
-   - fórmula não fechada;
-   - sachê não confirmado;
-   - rótulo não aprovado, talvez sem a palavra "perimenopausa";
-   - sabor do pó não testado.
-5. **Três produtos em um (Product):** suplemento, guia e comunidade. A comunidade não roda sem alguém presente, e a fundadora quer um negócio que rode sem ela.
+1. **Canais demais para R$60 mil (os três, e é a crítica mais dura).** A rodada 1 pediu corte. A rodada 2 acrescentou TikTok Shop, comunidade própria e programa de profissionais. Monopoly: "três canais com R$5 mil/mês de aquisição é zero canais". Product: "cinco experiências pela metade". Os três mandam o TikTok Shop sair do lançamento: é fonte de informação para 2% dessas mulheres, nenhum suplemento acima de R$100 vende lá no Brasil, e a margem não suporta taxa mais comissão.
+2. **A prova depende de uma profissional que ninguém entrevistou (os três).** 85% compram por indicação, só 5% comprariam em site de marca nova. Logo a primeira experiência real da marca é o que a nutricionista recebe: amostra, material técnico, cupom. Nada disso existe, e não se sabe como ela escolhe uma marca. Monopoly acrescenta a ameaça: **ela já tem fornecedor, a farmácia de manipulação** (R$7–11 bi), onde ela ganha legitimidade receitando em vez de indicar um pote.
+3. **Commodity sem resposta (Offers e Monopoly).** Cápsula de magnésio, B6, B12 e D é o que qualquer terceirizado faz, e o rótulo não pode dizer o que o produto é para. Se a Kunda lançar "Peri" com o mesmo fabricante em seis meses, o que fica é o conteúdo.
+4. **Números abertos (os três).** Custo da cápsula não cotado; conta não refeita; INPI e rótulo não confirmados. A folga de R$3 mil da rodada 1 pode nem existir.
+5. **O mês 1 não foi desenhado (Product).** Sem sabor, sem sintoma no rótulo e sem efeito perceptível em 30 dias, o que produz recompra é a explicação: carta na caixa, e-mails, o que ela aprende sobre si. A meta é 30% de recompra e nada foi desenhado para gerar isso.
 
 **Onde discordam:**
-- **Offers** quer *mais* pilha em torno da probabilidade de resultado: diário de sintomas de 30 dias, guia para a consulta, comunidade com profissional e uma garantia de devolução.
-- **Product** quer *menos*: cortar a comunidade e lançar só pote, kit de teste e um percurso educativo curto.
-- **Monopoly** quer saber qual é o ativo que a cópia não leva (conteúdo, comunidade ou rede de profissionais) e "o que você sabe sobre essa mulher que a Essential não sabe".
+- **Offers** é a mais otimista (6): vê que a oferta agora tem um caminho de prova e peças de pilha baratas que as próprias compradoras pediram (laudo, dose, prova social). Pergunta: "se dobrasse para R$298, o que teria de estar na caixa?".
+- **Monopoly** duvida que a nutricionista troque a manipulação pela indicação, e quer o fosso medido em número de profissionais indicando.
+- **Product** quer o corte mais radical: um produto, uma frase, dois canais, e a jornada de 30 dias desenhada antes do lote.
 
 ## As condições (checklist para o resto do pacote)
-- [ ] ~~Pré-venda paga antes do lote~~ **Revisado (objeção da fundadora, aceita):** pré-venda de marca desconhecida sem produto não é uma premissa validável. A validação passa a ser entrevistas, teste de sabor e **o primeiro lote de 300 potes como experimento**, com metas escritas antes (vender 200 em 90 dias, recompra de 30% ou mais, custo por cliente medido). Ver `validacao.md`. → `/founder-launch`
-- [ ] **Entrevistas (10 a 15) e teste de sabor e de uso (5 a 8 mulheres, 7 dias)** com mulheres reais do perfil, antes de fechar a fórmula e o lote. Ver `validacao.md`.
-- [ ] **Texto de rótulo aprovado por escrito pelo responsável técnico,** incluindo se "perimenopausa" pode aparecer no rótulo. → fabricante, `/founder-ops`
-- [ ] **Nome garantido:** busca no INPI (classes 5, 35, 41) e domínio `perive`. → fundadora, com uma advogada
-- [ ] **Fórmula, formato e sabor fechados** e comparados com o custo dos genéricos: o que a PeriVê tem que não dá para montar sozinha. → fabricante, `/founder-offer`
-- [ ] **Cortar para o essencial no lançamento:** pote, kit de teste e um percurso educativo curto, na caixa e no e-mail. A comunidade e o trimestral ficam para quando houver retenção medida. (Product contra Offers: decidir na oferta.) → `/founder-offer`
-- [ ] **Uma garantia que caiba no caixa** (por exemplo, devolução no primeiro mês), com o custo na conta. → `/founder-offer`, `/founder-cfo`
-- [ ] **Nomear o ativo durável** (conteúdo, comunidade ou rede de nutricionistas), com um plano de 12 meses. → `/founder-marketing`
-- [ ] **Folga de caixa:** cortar fixos ou subir a margem até cobrir dois meses de custo por cliente acima do previsto. → `/founder-cfo`
-- [ ] **Uma dona da experiência que não seja a fundadora:** quem responde às clientes e quem é a voz de confiança. → `/founder-ops`
+- [ ] **Dez conversas com nutricionistas e médicas antes do lote** (os três), com uma pergunta escrita: "você indicaria uma marca nova com laudo e tabela de doses, em vez de manipular? Como escolhe a marca? O que recebe?". Meta definida antes; se a maioria disser não, parar. → `/founder-launch`
+- [ ] **Um produto, uma frase, dois canais no lançamento** (Product, apoiado pelos outros): pote de 30 cápsulas; conteúdo próprio; programa de profissionais. **TikTok Shop, meio pote e comunidade só depois de medir a recompra do lote de 300.** → `/founder-offer`, `/founder-marketing`
+- [ ] **Desenhar a jornada da profissional** (amostra, material técnico, cupom ou afiliação dentro das regras do CFN e do CFM) e testar nas 10 conversas. → `/founder-offer`
+- [ ] **Desenhar a primeira recompra:** o percurso de 30 dias (caixa, carta, e-mails, convite à assinatura), testado com as 16 mulheres que aceitaram entrevista, com uma dona da experiência que não seja a fundadora. → `/founder-offer`, `/founder-ops`
+- [ ] **Entrevistar as 16 sobre intenção e preço** (R$149 avulso, R$129 assinatura) antes de fechar a fórmula. → `/founder-launch`
+- [ ] **Fechar antes do lote:** fórmula; custo real da cápsula; rótulo aprovado pelo responsável técnico (com ou sem "perimenopausa"); INPI e domínio. → fabricante, `/founder-ops`
+- [ ] **Conta refeita para cápsula**, com garantia incluída e folga mínima de R$10 mil (Offers) ou dois meses de custo de aquisição (Monopoly). Se não fechar a R$149, não lançar. → `/founder-cfo`
+- [ ] **Experimento do lote de 300 com as metas já escritas** (200 em 90 dias, recompra ≥ 30%, custo por cliente ≤ R$100) **mais a métrica do fosso: número de profissionais indicando ativamente.** Parada automática se duas falharem. → `/founder-launch`
 
 ## A versão mais forte que o conselho enxerga
-**A PeriVê vende primeiro a explicação, e o pó é a parte diária dela.** O produto que ela quer é entender a fase. O que faz isso ser diferente de "o que eu já compro separado" é o **percurso**:
-- o teste "pode ser perimenopausa?";
-- o diário de 30 dias;
-- o guia para levar à ginecologista;
-- o pote com as doses à vista e o laudo do lote.
+**Uma explicação com um suplemento, não um suplemento com conteúdo.** A frase "Perimenopausa, explicada." é a experiência, e a pesquisa provou que ela é certa: 97% conhecem a palavra, 40% não sabem se estão na fase, 65% nunca foram ajudadas. A cápsula é o objeto diário que sustenta a explicação.
 
-O lançamento seria enxuto:
-1. **Lista de espera com o guia grátis.**
-2. **Kit de teste de 7 dias** para provar o sabor.
-3. **Pote avulso a R$149.**
-4. **Assinatura só depois de ver quem volta.**
+O lançamento mais forte é o mais estreito:
+1. **Conteúdo próprio** (Instagram e Google, sem rosto) que faz a mulher se reconhecer e levar perguntas à consulta.
+2. **Programa de nutricionistas e médicas** que recebem amostra, laudo e tabela de doses, e indicam. É o único canal alinhado ao dado de 85%, e é o fosso: a Kunda copia a cápsula em seis meses, não copia 200 profissionais indicando.
+3. **Pote de 30 cápsulas a R$149 no site**, com um percurso de 30 dias dentro da caixa e no e-mail que leva à assinatura.
 
-O que a cópia não leva em seis meses não é a fórmula. É ser **a marca que explicou a perimenopausa para as brasileiras primeiro**, no momento em que a palavra está nascendo.
+O TikTok Shop e o meio pote ficam guardados para quando o Brasil tiver o primeiro suplemento de R$100+ vendendo lá, e para quando a recompra do primeiro lote for conhecida. A tese do oceano azul continua válida; o conselho só pede que o oceano seja atravessado por um canal de cada vez.
 
-O próximo gasto não é o lote. É uma lista de espera e uma pré-venda que custam pouco e mostram se mulheres reais confiam o suficiente para pagar.
+**O próximo gasto não é o lote nem a marca. São dez conversas com nutricionistas.** Se elas disserem "eu indicaria, e é assim que escolho", a nota sobe de novo; se disserem "eu manipulo", o plano muda antes de custar R$9 mil.

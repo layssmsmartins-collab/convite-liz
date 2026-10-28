@@ -1,27 +1,35 @@
 # Offers lens
-Score: 5/10 | Vote: FUND IF
+Score: 6/10 | Vote: FUND IF
+
+## O que mudou desde a rodada 1
+- **Mercado reconfirmado com dados próprios:** dor real (sono 71%, palavras 69%, irritabilidade 65%), dinheiro (47% gastam mais de R$100/mês; 63% com renda ≥ R$10 mil) e 65% sem ajuda médica. Mercado forte nos quatro critérios.
+- **Esforço caiu:** cápsula uma por dia (66% preferem; pó, 2%).
+- **A probabilidade percebida ganhou um caminho:** 85% compram por indicação de médica ou nutricionista. A oferta agora tem um canal de prova (programa de profissionais), não só promessa.
+- **Mas o canal de prova é hipótese:** nenhuma nutricionista entrevistada; intenção de compra e preço não medidos; conta não refeita para cápsula nem meio pote.
 
 ## O que é forte
-- **Mercado bom nos quatro critérios do Offers lens.** Dor real e ignorada (44% sem tratamento, metade ouviu "exagero"); compradoras com dinheiro (já pagam suplemento todo mês; premium aceita até R$220); fáceis de achar (TikTok com busca diária constante, criadoras 40+); e crescendo (+600% em "Perimenopause", no pico agora, a palavra trocando de "climatério").
-- **Esforço baixo:** uma dose por dia, um pote no lugar de vários.
-- **Peças de pilha baratas e pedidas pelas próprias compradoras:** kit de teste, tabela de doses, laudo por lote, guia que explica a fase.
+- Dor massiva, ignorada e nomeável: 97% conhecem "perimenopausa", só 40% acham que estão na fase. "Perimenopausa, explicada." vende o diagnóstico que a médica não deu; isso é o sonho, não o magnésio.
+- Compradoras já pagam todo mês; a R$149 sobram R$73/pote (49%).
+- Peças de pilha baratas e pedidas pelas próprias compradoras: tabela de doses (44% desconfiam sem), laudo por lote (50%), prova social (45%), guia "estou nessa fase?".
+- Escada de tamanho no TikTok Shop, não desconto.
 
 ## O que mataria (top 3, o mais perigoso primeiro)
-1. **Probabilidade percebida quase zero.** 1 de 20 compraria; 11 citaram confiança. Sem prova nem profissional recomendando, e a regulação proíbe falar do que ela mais quer (memória, névoa mental). Sem promessa nem prova, o valor desaba.
-2. **Commodity.** Hoje a oferta é "o que eu já compro separado, num pote só". Montar com genéricos sai por R$60–70; a R$129–149 a diferença é rótulo. Se a única vantagem é juntar, a comparação vira preço, e aí Lavitan e Essential vencem.
-3. **Tempo até o resultado é longo e a conta não tem folga.** Suplemento leva semanas para ser sentido; a assinatura depende de retenção que ninguém mediu. A R$149 a folga de caixa é ~R$3 mil e a R$129 estoura o orçamento: não cabe garantia nem custo por cliente acima de R$70.
+1. **A prova depende de uma profissional que ainda não existe.** 85% compram por indicação; 5% comprariam só pelo site. Se nutricionistas não indicarem marca nova (zero entrevistas), a probabilidade percebida volta ao nível da rodada 1. E a Anvisa proíbe alegar sono, memória ou "menopausa": a oferta não pode dizer o que ela quer ouvir.
+2. **Commodity ainda não resolvida.** Magnésio + B6 + B12 + D é o que ela compra separado. A R$149 a diferença é conteúdo e comunidade; sem resultado sentido em 30 dias, a comparação vira preço e Essential/Puravida/Cimed vencem.
+3. **Três canais com R$60 mil e sem folga.** Conteúdo, programa de profissionais e TikTok Shop (margem apertada; fonte de informação para só 2% deste perfil). O orçamento de aquisição comporta um canal. A R$129 o caixa estoura; garantia e recompra de 30% são metas sem dado.
 
 ## As perguntas que eu faria à fundadora
-- O que ela sente em 7 dias? E em 30? O que dá para mostrar sem alegação proibida?
-- Por que ela acreditaria? Quem é a primeira profissional que endossa, e com que regras éticas?
-- Qual é a garantia? Quanto custa ao CFO devolver o dinheiro de quem não sentir diferença em 30 dias?
-- Qual é a retenção esperada no mês 3, e de onde vem esse número?
-- Qual é o custo real por cliente? O alvo de R$70 vem de onde?
-- Se dobrasse o preço, o que teria de estar na caixa para ela ainda achar óbvio? A resposta é a oferta que falta.
+- Qual é o resultado que ela sente em 30 dias, dizível dentro da Anvisa? Se nenhum, o que ela ganha no dia 1 (guia, diário, clareza)?
+- Que nutricionista já disse "eu indicaria"? Como ela escolhe marca e o que recebe por isso, dentro da ética?
+- Qual é o custo da cápsula e do meio pote? A margem de 49% sobrevive?
+- Qual é a garantia e quanto custa ao caixa?
+- Qual é o custo por cliente estimado e de onde vem?
+- Se dobrasse para R$298, o que teria de estar na caixa? A resposta é a oferta.
 
 ## Se FUND IF: as condições
-1. **Prova antes do lote:** lista de espera ou pré-venda real com o kit de R$39, e uma meta escrita (taxa de conversão e número de pagantes) definida antes de abrir.
-2. **Reconstruir a pilha em torno da probabilidade, não da fórmula:** diário de sintomas de 30 dias, guia para levar à consulta, comunidade com profissional (dentro das regras), conteúdo que responde "estou nessa fase?".
-3. **Uma garantia que o CFO aprove** (por exemplo, devolução no primeiro mês) com o custo incluído na conta de caixa.
-4. **Texto de rótulo e anúncio aprovado pelo responsável técnico** antes de gastar com marca, incluindo se "perimenopausa" pode aparecer.
-5. **Medir o custo por cliente e a retenção** em teste pago pequeno; se o custo passar de R$70 ou a retenção não sustentar a assinatura, parar antes do segundo lote.
+1. **Dez conversas com nutricionistas antes do lote**, com uma pergunta escrita: "indicaria uma marca nova com laudo e tabela de doses, e por quê?". Meta definida antes.
+2. **Um canal, não três.** O programa de profissionais é o único alinhado com o dado de 85%; conteúdo serve a ele; TikTok Shop fica para depois do segundo lote.
+3. **Entrevistar as 16 mulheres sobre intenção e preço** (R$149 avulso, R$129 assinatura) antes de fechar a fórmula.
+4. **Rótulo e anúncio aprovados pelo responsável técnico**, incluindo se "perimenopausa" pode aparecer.
+5. **Conta refeita para cápsula**, com custo cotado, garantia incluída e folga mínima de R$10 mil; se não fechar a R$149, não lançar.
+6. **Experimento do lote de 300 com as metas já escritas** (200 em 90 dias, recompra ≥ 30%, custo por cliente ≤ R$100) e parada automática se duas falharem.

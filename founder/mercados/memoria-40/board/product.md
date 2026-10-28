@@ -1,29 +1,33 @@
 # Product lens
 Score: 5/10 | Vote: FUND IF
 
+## O que mudou desde a rodada 1
+- **Formato mais simples:** pó virou cápsula, uma por dia. Some a objeção de sabor e grumos; o kit de 7 sachês sumiu e nada o substituiu.
+- **Voz de confiança nomeada:** 85% compram por indicação de médica ou nutricionista; 5% comprariam só pelo site. Entrou o programa de profissionais.
+- **A dor mudou:** sono, palavras que somem, irritabilidade, não ondas de calor. "Perimenopausa, explicada." continua certa; o rótulo continua sem poder dizê-la.
+- **O canal ficou mais largo, não mais estreito:** Instagram, Google, comunidade, nutricionistas e TikTok Shop. A rodada 1 pediu corte; a rodada 2 acrescentou.
+- Fórmula, custo da cápsula, meio pote, INPI e rótulo seguem abertos.
+
 ## O que é forte
-- **A frase cabe em uma linha:** "Perimenopausa, explicada." É clara, adulta e diz o que a marca faz sem prometer efeito que a regulação não permite.
-- **O ritual é simples:** uma dose por dia, num pote só. Tem a forma certa de um hábito diário.
-- **Transparência como acabamento:** tabela de doses publicada e laudo de cada lote são cuidado nas partes que ninguém vê. As compradoras simuladas pediram exatamente isso.
-- **O kit de teste de 7 sachês** é um bom primeiro contato: pouco risco para quem compra e uma experiência curta e completa.
+- Uma frase que cabe em uma linha e que a pesquisa validou: 97% conhecem a palavra, 65% nunca tiveram ajuda. Explicar a fase é a experiência; a cápsula é o objeto que a sustenta.
+- Ritual mínimo: uma cápsula por dia. Nada a aprender.
+- "Conteúdo abre a conversa, nutricionista legitima" é uma jornada coerente: ela lê, se reconhece, leva à consulta, recebe a indicação.
 
 ## O que mataria (top 3, o mais perigoso primeiro)
-1. **O produto em si não é a coisa que ela quer.** 11 de 20 disseram "é o que eu já compro separado, num pote só". O pó é a parte mais fácil de copiar e a menos diferente. O que a cliente busca é entender a fase, e isso hoje é o "guia digital", um acessório. Se a experiência central for o pote, a marca vira um multivitamínico com rótulo bonito.
-2. **Três produtos em um, com R$60 mil.** Suplemento, guia e comunidade são três experiências para desenhar, manter e animar. Comunidade, em especial, não roda sem alguém presente, e a fundadora quer um negócio que rode sem ela e sem o rosto dela. Algo precisa sair.
-3. **As emendas estão todas fora do controle.** Fabricante (fórmula não fechada, sachê não confirmado), responsável técnico (rótulo não aprovado, "perimenopausa" talvez não possa aparecer), criadoras e nutricionistas (a voz de confiança é de terceiros) e frete. A primeira experiência, que é abrir o pó e sentir o sabor, ainda nem foi testada, e já apareceram objeções a pó e sabor.
+1. **Cinco canais, um produto sem fórmula.** TikTok Shop entrou contra a própria pesquisa (fonte para 2% dessas mulheres; nenhum suplemento acima de R$100 no canal; menopausa não encontrada). Cada canal é uma experiência inteira. Com R$60 mil e uma fundadora em tempo parcial, são cinco experiências pela metade.
+2. **A experiência central passa por uma profissional que ninguém entrevistou.** Se a nutricionista é a voz, o primeiro contato real da marca é a amostra, o material técnico e o cupom que ela recebe. Esse material não existe e o critério de escolha dela é desconhecido. A emenda mais importante está sem desenho.
+3. **O mês 1 não foi definido.** A cápsula tira o sabor e também o momento em que a rotina é notada. Sem sintoma no rótulo e sem efeito perceptível em 30 dias, o que gera recompra é a explicação (carta, e-mails, o que ela entende sobre si). Esse percurso não aparece. A meta é 30% de recompra; nada foi desenhado para produzi-la.
 
 ## As perguntas que eu faria à fundadora
-- Em uma frase: qual é a única coisa que a PeriVê precisa fazer de forma brilhante, o pó ou a explicação?
-- Como são os primeiros cinco minutos? Da caixa aberta ao primeiro gole: o que ela lê, o que ela sente, o que ela entende sobre a própria fase?
-- O que você cortaria hoje: a comunidade, o trimestral, o pote avulso?
-- Qual é o sabor, a textura e a solubilidade da fórmula? Alguma mulher real já provou?
-- Se o rótulo não puder dizer "perimenopausa", o que sobra da experiência?
-- Quem responde quando a cliente pergunta "isso é para mim?", sem você e sem um médico no anúncio?
-- Qual é a retenção esperada no mês 2 e no mês 3, e de onde vem esse número? (hoje não existe)
-- O guia é uma experiência que muda a rotina ou um PDF?
+- Em uma frase: a PeriVê é um suplemento com conteúdo ou uma explicação com um suplemento? A resposta decide o corte.
+- Qual é a primeira coisa que a nutricionista recebe de você? Já mostrou a alguma?
+- Os primeiros cinco minutos: caixa aberta, cápsula, o que ela lê, o que aprende sobre a própria fase?
+- O que a cliente recebe no dia 7, no dia 20 e na véspera da recompra?
+- Por que TikTok Shop agora, se 2% das suas mulheres estão lá e nenhum pote de R$149 vende lá?
+- Se "perimenopausa" não couber no rótulo, cabe na caixa, na carta e no site? Quem confirmou?
 
 ## Se FUND IF: as condições
-1. **Cortar para uma coisa.** Lançar com pote e kit de teste mais um percurso educativo curto, dentro da caixa e no e-mail, em vez de uma comunidade. Assinatura e trimestral só depois de haver retenção medida.
-2. **Fechar a fórmula, o formato e o sabor antes do lote.** Sachê confirmado com o fabricante, teste de sabor com mulheres reais do perfil e rótulo aprovado pelo responsável técnico, incluindo o uso da palavra "perimenopausa".
-3. **Desenhar e testar a primeira semana inteira** (anúncio, página, caixa, dia 1, dia 7, convite para assinar) com uma lista de espera real e entrevistas, antes de gastar o lote de R$9 mil.
-4. **Uma dona da experiência que não seja a fundadora:** definir quem responde às clientes e a voz de confiança, já que o rosto não será o dela.
+1. **Um produto, uma frase, dois canais.** Pote de 30 cápsulas, conteúdo próprio e programa de profissionais. TikTok Shop, meio pote e comunidade só depois de medir a recompra do lote de 300.
+2. **Fechar antes do lote:** fórmula, custo real da cápsula, rótulo aprovado pelo responsável técnico (com ou sem a palavra), INPI e domínio; números refeitos.
+3. **Desenhar e testar a jornada da profissional** com 10 nutricionistas e médicas reais: amostra, material, cupom. Critério escrito: quantas indicariam uma marca nova.
+4. **Desenhar a primeira recompra:** percurso de 30 dias (caixa, carta, e-mails, convite à assinatura) testado nas 16 entrevistas antes dos R$9 mil, com uma dona da experiência que não seja a fundadora.
