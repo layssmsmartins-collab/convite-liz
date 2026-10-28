@@ -21,6 +21,9 @@ Na rodada 1 (25/10) foi 3 FUND IF com média 4,7. Subiu 0,6 ponto, e é a nota m
 - **Monopoly** duvida que a nutricionista troque a manipulação pela indicação, e quer o fosso medido em número de profissionais indicando.
 - **Product** quer o corte mais radical: um produto, uma frase, dois canais, e a jornada de 30 dias desenhada antes do lote.
 
+## Nota da fundadora (28/10, depois do voto)
+A fundadora decidiu que a PeriVê é **100% digital, sem programa de profissionais**. As conversas com nutricionistas e médicas ficam, mas como **pesquisa do mecanismo de indicação** (o que faz a profissional dizer "pode tomar" quando a paciente chega com a marca), não como canal. O modelo passa a ser: conteúdo faz a mulher se reconhecer → ela leva a marca à consulta → a marca já chega aprovável (rótulo, laudo, tabela de doses). O conselho não foi reconsultado sobre isso; é uma aposta consciente na tese do oceano azul, e o lote de 300 vira o teste dela. Roteiro em `entrevistas-nutricionistas.md`.
+
 ## As condições (checklist para o resto do pacote)
 - [ ] **Dez conversas com nutricionistas e médicas antes do lote** (os três), com uma pergunta escrita: "você indicaria uma marca nova com laudo e tabela de doses, em vez de manipular? Como escolhe a marca? O que recebe?". Meta definida antes; se a maioria disser não, parar. → `/founder-launch`
 - [ ] **Um produto, uma frase, dois canais no lançamento** (Product, apoiado pelos outros): pote de 30 cápsulas; conteúdo próprio; programa de profissionais. **TikTok Shop, meio pote e comunidade só depois de medir a recompra do lote de 300.** → `/founder-offer`, `/founder-marketing`
