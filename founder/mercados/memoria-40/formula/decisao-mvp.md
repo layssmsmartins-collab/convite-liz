@@ -42,3 +42,23 @@ Pela nota da fórmula, a B ganha (54 contra 49). Pelo **objetivo do MVP**, que �
 - `precificacao/numbers.json`: custo de produto R$30 era hipótese; refazer com o custo real da Nutrion quando vier.
 - `marketing.md` e `brand.md`: o produto nº 1 passa a falar de "clareza" e "fio da meada", não de sono. As alegações usáveis dependem da lista da Nutrion.
 - `board/brief.md`: a próxima rodada entra com "um produto, Nutrion Cognição, notificado", que resolve a condição "fórmula fechada" da rodada 1.
+
+## Nota de eficácia da Cognição sem o sono (pergunta da fundadora, 30/10)
+
+Régua: cobertura ponderada (60) + qualidade da fórmula (25), sem o bloco regulatório (15). Pesos sem o sono: esquecer 3, humor 2, ansiedade 2, cansaço 2, concentração 1, peso 1, libido 1 = 12.
+
+| Sintoma (peso) | Ingrediente | Força | Pontos |
+|---|---|---|---:|
+| Esquecer palavras (3) | fosfatidilserina 100 mg, colina 83 mg, B12 | meio (100 mg é o piso das doses estudadas; colina baixa) | 1,5 |
+| Humor (2) | B6 5 mg, B9, B12, triptofano 100 mg | meio (B's em dose real, triptofano simbólico) | 1 |
+| Ansiedade (2) | taurina 100 mg | fraco demais para contar | 0 |
+| Cansaço (2) | B12 9,9 mcg, B3, B6 | meio (sem magnésio, sem D) | 1 |
+| Concentração (1) | fosfatidilserina, colina | meio | 0,5 |
+| Peso, libido (2) | — | — | 0 |
+| **Cobertura** | | 4 de 12 | **20 / 60** |
+| Qualidade | formas: cianocobalamina e ácido fólico em vez de metil (5/10); doses: fosfatidilserina e B's úteis, colina e triptofano simbólicos (6/10); sem estimulante (5/5) | | **16 / 25** |
+| **Eficácia** | | 36 / 85 | **42 / 100** |
+
+Com o sono dentro a eficácia era 45; a diferença é pequena porque o sono já contava só meio ponto (triptofano 100 mg). Leitura otimista, se o RT aceitar 100 mg de fosfatidilserina como dose plena para "esquecer palavras": cobertura 27,5/60, eficácia **51**.
+
+Comparação na mesma régua sem o sono: Sonnus Caps Premium cai para 3/12 de cobertura, eficácia **~30**. Tirando o sono, a Cognição é a melhor fórmula pronta por larga margem, mas é uma fórmula **modesta**: cobre metade da lista pela metade. O que lhe falta para ser forte: magnésio bisglicinato (sono, ansiedade, cansaço), metilfolato e metilcobalamina, colina em dose maior. Isso é fórmula própria, lote 2.
