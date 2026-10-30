@@ -142,6 +142,8 @@ Quando os outros chegarem, entram nesta mesma tabela. O que mais vale procurar n
 
 ## Critério do MVP (decisão da fundadora, 28/10)
 
+> **Atualização 30/10:** a Ourocaps confirmou que só existe o SL 023 KIDS (4–18 anos); não há versão adulta notificada. O SL 023 sai do MVP. A decisão revisada está em `decisao-mvp.md`: **MVP = Nutrion Cognição**, com Sonnus Caps Premium como segundo SKU depois da validação.
+
 **Regras:** um produto só; **fórmula como está no catálogo, sem nenhuma troca** (toda alteração exige novo estudo de estabilidade e nova notificação, que é caro e lento); o objetivo é **validar se há demanda e se as mulheres compram**. Dois produtos e fórmula própria ficam para depois da validação.
 
 Com esse filtro, só entram fórmulas **prontas, já notificadas, com estabilidade concluída**. As ideias de "trocar o óxido por bisglicinato", "metilfolato no lugar do ácido fólico" e a composição dia + noite saem da mesa por ora.
