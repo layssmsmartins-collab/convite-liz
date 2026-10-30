@@ -181,3 +181,46 @@ Transcrição (resumo fiel): o produto foi desenvolvido nas doses para criança;
 O SL 023 **segue como a melhor opção disponível (eficácia 64 sem sono)**, condicionado à resposta 1 por escrito. "É só tirar o kids" não basta como base para um lote de 300 potes com a marca PeriVê no rótulo. Se a Ourocaps não notificar para adulto, a fórmula sai e o que resta são Personalize e Ekobé, depois de confirmarem que atendem Minas.
 
 **Correção (30/10):** a fundadora informou que o áudio é da **química e do nutricionista da equipe técnica** da Ourocaps, não do comercial. Isso muda o peso da resposta: é a leitura de quem assina. Não muda o que falta: a resposta foi oral e genérica ("é só não colocar kids"). O que fecha o assunto é **(a)** o parecer por escrito do RT dizendo que o SL 023 pode ser rotulado para 19+ sem nova notificação, ou que eles farão a notificação para 19+ com a mesma composição, e **(b)** a minuta do rótulo adulto com a tabela de %VD para 19+, que é onde o magnésio (62 mg = 14,8%) e a colina (40 mg = 7%) vão ter de passar pelo mínimo de 15%. Se o RT devolver esse rótulo e a notificação, o ponto está resolvido e a responsabilidade regulatória fica documentada com o fabricante.
+
+## Rótulo da amostra que a Ourocaps vai enviar (foto, 30/10)
+
+É **uma terceira composição**, diferente da ficha KIDS e do catálogo:
+
+| Por 5 g | Catálogo (adulto) | Ficha KIDS | **Rótulo da amostra** |
+|---|---:|---:|---:|
+| Magnésio bisglicinato | 420 mg | 62 mg | **110 mg** |
+| Fibra (inulina) | — | 4 g | 3 g |
+| Ácido fólico | 400 mcg | 400 mcg | 200 mcg |
+| B6 | 1,3 mg | 1,3 mg | 1,3 mg |
+| B12 | 2,4 mcg metil | 1,8 mcg metil | **1,2 mcg cianocobalamina** |
+| D3 | 15 mcg | 15 mcg | 15 mcg |
+| E | 15 mg | 15 mg | 14 mg |
+| Zinco bisglicinato | 11 mg | 7 mg | 5 mg |
+| Selênio (selenometionina) | 60 mcg | 60 mcg | 40 mcg |
+| Ômega 3 | DHA 167 | ALA 167 | ALA 167 |
+| Vitamina C, colina, iodo | — | 100 mg / 40 mg / 90 mcg | **não tem** |
+| Adoçante | — | estévia | sucralose |
+| Alergênicos | — | leite e soja | **crustáceos (caranguejo), soja e pinoli** |
+| Energia | — | 12 kcal | 30 kcal |
+
+**A pista sobre o público:** a coluna de %VD do rótulo foi calculada com os **valores diários de adulto (19+)**, não de criança. A prova: fibra 3 g = 12% (VD adulto 25 g); e os outros percentuais são os de adulto, só que **impressos deslocados uma linha para cima** (D 100% aparece na linha do B9; E 93% na do D; B6 100% na do E; B12 50% na do B6; Mg 26% na do B12; Se 67% na do Mg; Zn 45% na do Se; e o zinco ficou sem %VD). Com VD infantil (4–8 anos) os números não fecham. Ou seja: **esta versão foi rotulada para adulto**. Se ela tem notificação própria para 19+, a pergunta do grupo populacional está respondida por este produto, não pela ficha KIDS.
+
+**E ela passa nos mínimos de adulto** que travavam a ficha KIDS: magnésio 110 mg = 26% (mínimo 15%); não tem colina. Todos os demais entre 26% e 100%.
+
+**Erros do rótulo que a PeriVê não pode herdar** (a arte da marca é nova, mas mostram o nível de revisão do fornecedor):
+- coluna %VD deslocada uma linha e zinco sem percentual;
+- diz "não contém quantidades significativas de [...] fibra alimentar" e declara 3 g de fibra na tabela;
+- nenhuma indicação de grupo populacional, advertências obrigatórias, alegações ou número de regularização nesta face (podem estar na frente: pedir foto);
+- alergênicos "crustáceos e pinoli" numa fórmula sem nenhum dos dois: é contaminação cruzada da planta, e vai para o rótulo da PeriVê também.
+
+### Nota desta versão (sem sono)
+Esquecer ◐ (ALA, B12 baixa) 1,5 · humor ●● (B6, D, folato 50%) 2 · ansiedade ◐ (Mg 110) 1 · cansaço ●● (B12, D, Mg, B6) 2 · concentração ◐ (Zn) 0,5 · peso ◐ (fibra 3 g) 0,5 = 7,5/12 → 37,5/60. Qualidade: bisglicinato e selenometionina a favor, cianocobalamina e ácido fólico contra (6/10); doses de adulto pela metade, Mg melhor que a KIDS (5/10); sem estimulante (5/5) = 16/25. **Eficácia 63.** Igual à ficha KIDS na prática; o magnésio melhor compensa a B12 pior e a perda de C e colina.
+
+### Perguntas que a amostra levanta
+1. **Qual é o número de regularização deste rótulo e para qual grupo populacional?** (Foto da frente do pote.) Se for 19+, é o produto do MVP.
+2. Este rótulo e a ficha KIDS são dois produtos diferentes ou duas versões do mesmo código SL 023? Qual deles a Ourocaps produziria para a PeriVê?
+3. A versão da amostra tem estudo de estabilidade concluído? Validade?
+4. Por que B12 em cianocobalamina aqui e metilcobalamina na ficha? (Não pedir troca; só entender qual é a fórmula real.)
+5. Lista de alegações aprovadas para esta composição (zinco e função cognitiva; magnésio muscular; metabolismo energético).
+
+**Ao receber a amostra:** provar com a lista de teste sensorial de `validacao.md` (sabor tutti-frutti com sucralose, solubilidade em 200 mL, textura da inulina), fotografar todas as faces do rótulo e conferir lote/validade.
