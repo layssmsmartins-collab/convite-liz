@@ -1,6 +1,6 @@
 # Briefing do conselho, rodada 2: PeriVê, a marca da perimenopausa (28/10/2026)
 
-Responda em português. Você não viu nenhuma conversa anterior; este briefing basta. Os arquivos citados existem em `/home/user/convite-liz/founder/mercados/memoria-40/` e podem ser lidos se precisar de detalhe: `pesquisa-resultados-parcial.md`, `tese-oceano-azul.md`, `tiktok-shop-ticket.md`, `competitors.md`, `precificacao/pricing.md`, `marketing.md`, `brand.md`, `validacao.md`, e a rodada anterior em `board/rodada-1/board.md`.
+Responda em português. Você não viu nenhuma conversa anterior; este briefing basta. Os arquivos citados existem em `/home/user/convite-liz/founder/mercados/memoria-40/` e podem ser lidos se precisar de detalhe: `pesquisa-resultados-final.md`, `tese-oceano-azul.md`, `tiktok-shop-ticket.md`, `competitors.md`, `precificacao/pricing.md`, `marketing.md`, `brand.md`, `validacao.md`, e a rodada anterior em `board/rodada-1/board.md`.
 
 ## A ideia (atualizada)
 - **O que é:** marca brasileira premium feita para a **perimenopausa**. Explica a fase ("Perimenopausa, explicada.") e entrega uma rotina diária: um suplemento, conteúdo educativo e uma comunidade própria.
