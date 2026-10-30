@@ -62,3 +62,30 @@ Régua: cobertura ponderada (60) + qualidade da fórmula (25), sem o bloco regul
 Com o sono dentro a eficácia era 45; a diferença é pequena porque o sono já contava só meio ponto (triptofano 100 mg). Leitura otimista, se o RT aceitar 100 mg de fosfatidilserina como dose plena para "esquecer palavras": cobertura 27,5/60, eficácia **51**.
 
 Comparação na mesma régua sem o sono: Sonnus Caps Premium cai para 3/12 de cobertura, eficácia **~30**. Tirando o sono, a Cognição é a melhor fórmula pronta por larga margem, mas é uma fórmula **modesta**: cobre metade da lista pela metade. O que lhe falta para ser forte: magnésio bisglicinato (sono, ansiedade, cansaço), metilfolato e metilcobalamina, colina em dose maior. Isso é fórmula própria, lote 2.
+
+## Ranking de todas as fórmulas sem prometer sono (30/10)
+
+Mesma régua de eficácia (cobertura 60 + qualidade 25, base 100), com o sono fora e os pesos restantes somando 12 (esquecer 3, humor 2, ansiedade 2, cansaço 2, concentração 1, peso 1, libido 1). "prov." = catálogo sem dose, nota estimada.
+
+| # | Fórmula | Cobre sem o sono | Cobertura /12 | Eficácia | Lançável como MVP? |
+|---|---|---|---:|---:|---|
+| ref. | Ourocaps SL 023 **adulto** (catálogo) | humor ●●, ansiedade ●● (Mg 420), cansaço ●●, esquecer ◐ (DHA, B12), concentração ◐ | 8 | **71** | **Não existe**: só o KIDS foi notificado |
+| ref. | Ourocaps SL 023 KIDS (ficha) | humor ●●, cansaço ●●, esquecer ◐, ansiedade ◐ (Mg 62), concentração ◐ | 7 | 61 | Não: rótulo "para crianças de 4 a 18 anos" |
+| 1 | Personalize Metilfolato Complex (metilfolato 1.000 mcg, B6, B12) | humor ●●, cansaço ●●, esquecer ◐ (só B12) | 5,5 | 55 prov. | Só se confirmarem notificação concluída e doses de B6/B12. É um "complexo B" que a farmácia já vende |
+| 2 | **Nutrion Cognição** | esquecer ◐ (fosfatidilserina 100 mg), humor ◐, cansaço ◐, concentração ◐ | 4 | **42** (51 se a fosfatidilserina contar inteira) | **Sim**: notificado, dose publicada, 1 softgel |
+| 3 | Personalize Trio de Magnésio | ansiedade ◐, cansaço ◐, humor ◐ | 4 | 44 prov. | Só magnésio; sem dose; status a confirmar |
+| 4 | Ekobé Ômega 3 (EPA 540 + DHA 360, 3 cáps) | esquecer ◐, humor ◐, concentração ◐ | 3 | 41 | Ômega 3 genérico, 3 cápsulas; não é "fórmula" |
+| 5 | Nutrion Fosfatidilserina + Ômega 3 (PS 50, DHA 250) | esquecer ◐, humor ◐, concentração ◐ | 3 | 39 | Sim, mas é a Cognição com menos (sem B's, PS pela metade) |
+| 5 | Nutrion AZ Super Mulher (2 softgels) | humor ◐, cansaço ◐, esquecer ◐, concentração ◐ | 4 | 39 | Multivitamínico genérico, doses simbólicas |
+| 7 | Personalize Bye TPM Complex | humor ◐, ansiedade ◐, cansaço ◐ | 3 | 38 prov. | sem dose |
+| 8 | Personalize Calm Complex | ansiedade ◐, humor ◐, cansaço ◐ | 3 | 37 prov. | teanina a confirmar; sem dose |
+| 9 | Ekobé PEA + Mg + D + B6 + Zn | humor ◐, ansiedade ◐, cansaço ◐ | 3 | 35 prov. | PEA a confirmar; sem dose |
+| 10 | Nutrion Sonnus Caps Premium | humor ◐, ansiedade ◐, cansaço ◐ | 3 | 34 | Sem o sono vira um produto sem razão de existir |
+| 11 | Personalize Memory Complex (colina, ác. glutâmico, B6) | esquecer ◐, concentração ◐ | 2 | 29 prov. | fraco |
+| — | Sonnus Caps, Nigth Complex, Shot Noturno, Ekobé Melatonina + Triptofano, GABA, Caramelo Insônia | produtos de sono | ≤2 | <30 | saem junto com o sono |
+
+**Leitura:**
+- Sem o sono, **o melhor que existe e pode ser lançado hoje continua sendo a Nutrion Cognição**: é a única fórmula pronta com um ingrediente dirigido ao sintoma que passa a liderar a lista (esquecer palavras, peso 3), tem dose publicada e está notificada. A nota é modesta (42–51) porque não tem magnésio e porque as B's vêm nas formas comuns.
+- O **Metilfolato Complex da Personalize pontua acima no papel (55)**, mas por outro caminho: é forte em humor e cansaço e não tem nada para "esquecer palavras" além da B12. É um complexo B com metilfolato, produto que Pura Vida, Essential e as farmácias já vendem; a comparação de preço volta. E hoje falta dose de B6/B12 e confirmação de que a notificação está concluída. Vale fazer as três perguntas à Personalize, mas não é a aposta.
+- O SL 023 adulto teria 71 e ganharia de todos, com ou sem sono, porque é o único com magnésio em dose real. **Ele não existe.** O que ele mostra é o buraco de todos os catálogos: ninguém tem magnésio bisglicinato ≥300 mg dentro de uma fórmula pronta em cápsula.
+- Tirar o sono da promessa muda pouco o ranking e muito a comunicação: a PeriVê passa a falar de "fio da meada", clareza e energia, e deixa o sono para a educação (conteúdo) e para o lote 2.
