@@ -89,3 +89,74 @@ Mesma régua de eficácia (cobertura 60 + qualidade 25, base 100), com o sono fo
 - O **Metilfolato Complex da Personalize pontua acima no papel (55)**, mas por outro caminho: é forte em humor e cansaço e não tem nada para "esquecer palavras" além da B12. É um complexo B com metilfolato, produto que Pura Vida, Essential e as farmácias já vendem; a comparação de preço volta. E hoje falta dose de B6/B12 e confirmação de que a notificação está concluída. Vale fazer as três perguntas à Personalize, mas não é a aposta.
 - O SL 023 adulto teria 71 e ganharia de todos, com ou sem sono, porque é o único com magnésio em dose real. **Ele não existe.** O que ele mostra é o buraco de todos os catálogos: ninguém tem magnésio bisglicinato ≥300 mg dentro de uma fórmula pronta em cápsula.
 - Tirar o sono da promessa muda pouco o ranking e muito a comunicação: a PeriVê passa a falar de "fio da meada", clareza e energia, e deixa o sono para a educação (conteúdo) e para o lote 2.
+
+## Atualização 30/10 (tarde): Nutrion fora; a fórmula da Ourocaps como ela é
+
+**Nutrion não atende empresas de fora de SP.** Cognição e Sonnus saem da lista. Antes de gastar tempo com Personalize (Campinas/SP) e Ekobé, fazer a mesma pergunta a elas: atendem marca própria sediada em Minas?
+
+### A fórmula real da Ourocaps (ficha SL 023 KIDS, regularização 25351125636202651), lida inteira
+
+Dose: 1 copo dosador (5 g) em 200 mL de água. Pote 150 g, 30 doses. Sabores morango e tutti-frutti. Adoçante: estévia. Alergênicos: pode conter leite e soja. Sem glúten. Após aberto, consumir em 30 dias.
+
+| Ingrediente (forma) | Por dose | %VD 9–18 anos | Serve a quê (mulher 38–52) |
+|---|---:|---:|---|
+| Fibras: inulina de chicória + polidextrose | 4 g | 21% | intestino e saciedade; **dose real**, pode dar gases nas primeiras semanas |
+| Magnésio bisglicinato | 62 mg | 15% | ansiedade, cansaço, sono: **simbólico** (adulto precisa de 200–400) |
+| Ácido alfa-linolênico n-3 (ALA, vegetal) | 167 mg | — | "cabeça": fraco, conversão para DHA é baixa |
+| Vitamina C | 100 mg | 133% | cansaço, imunidade |
+| Colina (bitartarato) | 40 mg | 7% | concentração: simbólico |
+| Zinco bisglicinato | 7 mg | 64% | "função cognitiva" (alegação permitida), imunidade |
+| Vitamina D3 | 15 mcg (600 UI) | 100% | humor, cansaço, ossos |
+| Vitamina E | 15 mg | 100% | antioxidante |
+| Vitamina B6 (cloridrato de piridoxina) | 1,3 mg | 100% | humor, cansaço |
+| Ácido fólico (não é metilfolato) | 400 mcg | 100% | humor, sangue |
+| Iodo (iodeto de potássio) | 90 mcg | 60% | metabolismo; **atenção em mulher com tireoide (Hashimoto é comum aos 40+)** |
+| Selênio (selenometionina) | 60 mcg | 110% | tireoide, antioxidante |
+| Vitamina B12 (metilcobalamina) | 1,8 mcg | 75% | cansaço, humor |
+
+Alegações já aprovadas na ficha (IN 28): imunidade (C, D, B6, B12, Se, Zn); antioxidante (C, E, Se, Zn); **metabolismo energético** (C, B6, B12, Mg, iodo); ossos (D, Mg); **função muscular e neuromuscular** (Mg); **"o zinco auxilia na função cognitiva"**; sangue (folato, B12, B6); colina e homocisteína. Não há "B6/B12 sistema nervoso" na lista.
+
+### Nota da fórmula como ela é
+
+| | Com sono (pesos 15) | **Sem sono (pesos 12)** |
+|---|---:|---:|
+| Esquecer palavras (3): ALA, B12, colina, zinco | meio 1,5 | meio 1,5 |
+| Humor (2): B6, folato, B12, D em dose plena | 2 | 2 |
+| Ansiedade (2): Mg 62 | meio 1 | meio 1 |
+| Cansaço (2): B12, D, C, Mg, B6 | 2 | 2 |
+| Concentração (1): zinco, colina | meio 0,5 | meio 0,5 |
+| Sono (3): Mg 62 | meio 1,5 | — |
+| Peso (1): 4 g de fibra (saciedade) | meio 0,5 | meio 0,5 |
+| Libido (1) | 0 | 0 |
+| Cobertura | 9/15 → 36/60 | 7,5/12 → 37,5/60 |
+| Qualidade: formas boas (bisglicinato, metil-B12, selenometionina; ácido fólico e ALA pesam contra) 7/10; doses: vitaminas plenas, Mg e colina simbólicos 5/10; sem estimulante 5/5 | 17/25 | 17/25 |
+| **Eficácia (base 100)** | **62** | **64** |
+
+É a **melhor fórmula de todos os catálogos lidos**, com ou sem sono, descontada a Nutrion. Ganha do Metilfolato Complex da Personalize (55 prov.) porque cobre mais sintomas e tem dose publicada e notificação feita. Perde do SL 023 adulto do catálogo (71) só pelo magnésio.
+
+### O problema é um só: o grupo populacional da notificação
+
+A fórmula está notificada **para 4 a 18 anos**. Não se vende para a mulher de 40 com rótulo "indicado para crianças". A saída não é fórmula nova; é perguntar à Ourocaps se eles **notificam a mesma fórmula para 19 anos ou mais**, mantendo o estudo de estabilidade (mesma composição, mesma embalagem). Dois pontos técnicos que podem travar e que o RT deles responde em minutos:
+
+1. Para 19+, cada nutriente declarado precisa de pelo menos 15% do VD adulto. **Magnésio 62 mg dá 14,8% de 420**: no limite, pode precisar subir alguns miligramas. **Colina 40 mg dá 7% de 550**: ficaria abaixo do mínimo e teria de sair da declaração ou subir. Se isso exigir mexer na fórmula, volta o custo de estabilidade.
+2. A tabela de %VD, as advertências ("não consumir gestantes, lactantes e crianças" entra) e as alegações teriam de ser recalculadas para 19+.
+
+Se a Ourocaps disser "sim, notificamos a mesma fórmula para adulto sem mexer na composição", o SL 023 volta a ser o MVP, em pó, com a nota de 62–64. Se disser que precisa mexer, é fórmula nova e cai na mesma regra que tirou tudo o mais.
+
+### Ranking atualizado sem sono e sem Nutrion
+
+| # | Fórmula | Eficácia | O que trava |
+|---|---|---:|---|
+| 1 | **Ourocaps SL 023 (como está na ficha)** | **64** | notificação só para 4–18; pó |
+| 2 | Personalize Metilfolato Complex | 55 prov. | sem dose de B6/B12; notificação a confirmar; atende MG?; complexo B comum |
+| 3 | Personalize Trio de Magnésio | 44 prov. | só magnésio, sem dose |
+| 4 | Ekobé Ômega 3 | 41 | 3 cápsulas, genérico; atende MG? |
+| 5 | Personalize Bye TPM / Calm Complex | 37–38 prov. | sem dose |
+| 6 | Ekobé PEA + Mg + D + B6 + Zn | 35 prov. | PEA a confirmar |
+
+### Perguntas para a Ourocaps, nesta ordem
+1. Vocês notificam o SL 023 com **esta mesma composição** para o grupo 19 anos ou mais, aproveitando o estudo de estabilidade? Prazo e custo.
+2. O magnésio (62 mg = 14,8% do VD adulto) e a colina (40 mg = 7%) passam no mínimo de 15% para adulto, ou precisariam ajustar?
+3. Lote mínimo de 300 potes, custo por pote com rótulo PeriVê, prazo.
+4. Quantas marcas vendem o SL 023 hoje.
+5. Dá para trocar o aroma (morango e tutti-frutti soam infantis) sem nova estabilidade? Aroma costuma contar como alteração; confirmar com o RT.
