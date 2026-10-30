@@ -160,3 +160,22 @@ Se a Ourocaps disser "sim, notificamos a mesma fórmula para adulto sem mexer na
 3. Lote mínimo de 300 potes, custo por pote com rótulo PeriVê, prazo.
 4. Quantas marcas vendem o SL 023 hoje.
 5. Dá para trocar o aroma (morango e tutti-frutti soam infantis) sem nova estabilidade? Aroma costuma contar como alteração; confirmar com o RT.
+
+## Resposta da Ourocaps por áudio (30/10, 11h44): "pode ser consumido por adulto"
+
+Transcrição (resumo fiel): o produto foi desenvolvido nas doses para criança; tudo na composição é dose segura infantil; nada impede o adulto de usar; **não existe fórmula para adulto** (confirmado com o Mario); "é só não colocar 'kids' na rotulagem, mas ela pode ser consumida por adulto também".
+
+### O que essa resposta vale
+- **Segurança:** verdadeira. As doses são de 100% do VD para 9–18 anos e ficam abaixo dos máximos para adulto; não há risco em uma mulher de 45 tomar.
+- **Regulatório:** é uma resposta comercial, não do responsável técnico. A notificação 25351125636202651 foi feita para o grupo **4 a 18 anos**, e o rótulo notificado traz a tabela de %VD infantil e a frase "indicado para crianças de 4 a 18 anos". Tirar "kids" do rótulo e vender para adulto significa colocar no mercado um rótulo diferente do notificado. Para vender para 19+ é preciso **notificação própria para esse grupo** (é um procedimento eletrônico, mesma composição), com tabela de %VD de adulto, advertências de adulto e cada nutriente dentro dos **mínimos e máximos da IN 28 para 19+**. O produto irregular é problema da marca que está no rótulo, a PeriVê, não só da Ourocaps.
+- **Onde pode travar, pelos números da ficha:** o mínimo para declarar um nutriente em suplemento de adulto é 15% do VD. **Magnésio 62 mg = 14,8% de 420 mg** (falta 1 mg). **Colina 40 mg = 7% de 550 mg** (abaixo da metade). Os demais passam: fibra 4 g (16% de 25 g), iodo, zinco, selênio, vitaminas. Se o RT confirmar que magnésio e colina não entram na declaração de adulto, ou saem do rótulo (e das alegações do magnésio, que são as mais úteis), ou a fórmula muda e volta a estabilidade.
+
+### O que pedir à Ourocaps, por escrito, ao responsável técnico
+1. "Vocês fazem a **notificação do SL 023, com esta mesma composição, para o grupo 19 anos ou mais**, com tabela e advertências de adulto? Prazo e custo."
+2. "Magnésio 62 mg e colina 40 mg atendem o mínimo da IN 28 para 19+? Se não, o que vocês propõem sem alterar a composição?"
+3. "O estudo de estabilidade do SL 023 vale para a notificação adulta (mesma fórmula, mesma embalagem)?"
+4. "Posso usar no rótulo da PeriVê as alegações da ficha, incluindo 'o zinco auxilia na função cognitiva' e 'o magnésio auxilia no funcionamento muscular e neuromuscular'?"
+5. Lote de 300, custo por pote, prazo, quantas marcas vendem, e se trocar o aroma exige nova estabilidade.
+
+### Decisão provisória
+O SL 023 **segue como a melhor opção disponível (eficácia 64 sem sono)**, condicionado à resposta 1 por escrito. "É só tirar o kids" não basta como base para um lote de 300 potes com a marca PeriVê no rótulo. Se a Ourocaps não notificar para adulto, a fórmula sai e o que resta são Personalize e Ekobé, depois de confirmarem que atendem Minas.
