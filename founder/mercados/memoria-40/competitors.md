@@ -169,3 +169,15 @@ O site não abre daqui; tudo abaixo vem de prints da fundadora e de consultas p�
 2.461 seguidores, cerca de 2% de engajamento nos posts próprios, sustentado por uma rede próxima; método de microinfluenciadoras com cupom, fundadora na câmera, evento e farmácia de manipulação (Pólen) como ponto físico. **Terceira fórmula:** o perfil oficial listou 12 ingredientes num comentário (triptofano, sem 5-HTP; com Mg, B6, Zn e cromo). Pote, site e Instagram não batem.
 
 **Correção de data (20h27):** o primeiro post do @emme.nutrition é de 25/03/2026 e anuncia o **lançamento oficial em 01/04/2026**. A marca vende há 7 meses, não há um. Ver `emme-instagram.md`.
+
+### Farmácia Pólen: fabricante? (31/10, 20h40)
+- **Quem é:** @farmaciapolen.saj, "Farmácia Pólen SAJ", farmácia de manipulação em **Santo Antônio de Jesus (BA)**, "há mais de 20 anos", "especialista em desenvolvimento de cosméticos", 3.171 seguidores. Faz parte (ou é franquia) da rede Farmácia Pólen de Salvador ([site](https://farmaciapolen.com.br/), [lojas](https://farmaciapolen.com.br/nossas-lojas/)). O post do @emme.nutrition de 21/10 é um vídeo dentro da loja, com prateleiras cheias de Menopausei e uma repórter com microfone. O mesmo vídeo está na grade da Pólen.
+- **Hipótese da fundadora:** a Pólen fabrica o Menopausei. A fundadora da EMME teria dito que desenvolveu a fórmula com "a farmácia de manipulação dela". **Fonte ainda não localizada**; falta o print.
+- **CNPJ da Pólen SAJ:** não encontrado nas buscas. A ligação entre Vívia Brito e a Pólen também não aparece na web.
+- **Por que importa (leitura geral da norma, a confirmar com o RT e a advogada):** farmácia de manipulação (RDC 67/2007) prepara fórmulas **individualizadas**, por prescrição, para um paciente. Não pode fabricar em série um produto de marca para estoque e revenda por outra empresa pelo Brasil. Suplemento vendido assim precisa vir de uma **fábrica de alimentos com licença sanitária** e ser **notificado** na Anvisa (RDC 843/2024). Há três cenários:
+  1. A Pólen só desenvolveu a fórmula, e uma indústria fabrica. É regular.
+  2. A rede Pólen tem uma unidade industrial, com outro CNPJ e licença de fábrica. É regular, se notificado.
+  3. A farmácia manipula os potes e a EMME revende. É irregular: o produto não seria um suplemento notificado, e sim uma manipulação vendida fora da regra.
+  O verso do pote resolve: o fabricante e o CNPJ dele precisam estar no rótulo.
+- **Isso reabre a origem da empresa:** a Pólen é da Bahia, o contato do site é de São Paulo e a única "Menopausei" encontrada é de Belo Horizonte. A ligação com BH fica mais fraca.
+- **Checagens rápidas:** (a) no seletor de empresas da Anvisa, buscar "POLEN" e ver se aparece uma fábrica ou indústria (não só a farmácia); (b) o print de onde a fundadora da EMME fala da farmácia; (c) o verso do pote.
