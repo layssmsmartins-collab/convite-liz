@@ -79,4 +79,28 @@ Descartados de saída: tudo que sugere cognição ou sono ("Fio da Meada", "Clar
 4. **Teste de leitura com 5 mulheres do público:** mostrar só o nome e perguntar "que marca você imagina?" e "isso é para quê?". O nome da marca precisa ser lido como "cuidado para a mulher", e não como menopausa, remédio ou academia.
 5. **Responsável técnico do fabricante:** confirmar que o nome do produto não é lido como alegação.
 
+## 5. Varredura (31/10/2026)
+
+**O que foi possível checar:** busca na web (Google e afins) e perfis do Instagram e do TikTok indexados pela busca.
+**O que NÃO foi possível checar daqui:** o INPI (busca.inpi.gov.br) e o registro.br, porque a política de rede do ambiente bloqueia esses endereços. A busca de perfis depende do que está indexado, então um @ pequeno pode não aparecer. **Nenhum nome abaixo está confirmado como livre no INPI nem no domínio.**
+
+### Marca-mãe
+| Nome | O que apareceu | Veredito |
+|---|---|---|
+| **Vária** | Nenhuma marca de saúde, suplemento ou cosmético com esse nome. Existem nomes vizinhos em outros setores: [Virá Cosméticos](https://belezanaweb.com.br/vira-cosmeticos/) e um app de Shopify chamado "Varia" | **Segue.** Checar VARIA/VÁRIA no INPI, classe 5, e o domínio varia.com.br, que provavelmente já tem dono por ser palavra comum |
+| **Entremarés** | Nada encontrado com esse nome | **Segue**, como alternativa. É longa |
+| Ritma | [Ritma Natural Cosmetics](https://www.instagram.com/ritmacosmetics/) (Itália, cosméticos, ~49 mil seguidores) e [Groupe Ritma](https://www.instagram.com/groupe.ritma/) (França, terapias complementares) | **Cortada:** setor vizinho e @ ocupado |
+| Mene | [Menē](https://www.businesswire.com/news/home/20240527467533/en), joalheria listada em bolsa (mene.com), mais a confusão com Meno Aliv e Meno Libid | **Cortada** |
+| Lunária | [Lunaria](https://thingtesting.com/brands/lunaria) (moda feminina), linha Lunaria da Marco Bicego (joias) e Natura Luna em perfumaria | **Cortada** |
+| Cíclica | [Cíclica](https://mindmaps.femtech.health/firms/116836), marca de saúde menstrual da Costa Rica (2018): **mesmo setor** | **Cortada** |
+| Sazona (nova) | Confusão com Sazón (Ajinomoto) | **Cortada** |
+| Ondea (nova) | Próxima de [ONDA Beauty](https://orbit.beautyindependent.com/article/co-founder-larissa-thomson-reopens-clean-beauty-retailer-onda-beauty) (bem-estar, EUA) | **Cortada** |
+
+### Produto da perimenopausa
+| Nome | O que apareceu | Veredito |
+|---|---|---|
+| **Meia-Estação** | Nenhuma marca ou produto; só o termo de moda | **Segue** |
+| **Véspera** | ["Véspera" é uma coleção de roupas do Grupo Deep](https://diariodonordeste.verdesmares.com.br/ceara/grupo-deep-lanca-colecoes-vespera-e-florescer-com-foco-nas-festas-de-fim-de-ano-1.3799217) (Fortaleza, out/2026), em outra classe (vestuário) e como coleção, não como marca | **Segue**, com essa ressalva |
+| **PeriVê** | Nada encontrado | **Segue** |
+
 Isto não é parecer jurídico sobre marca: a busca no INPI e o depósito são da fundadora, de preferência com uma advogada.
