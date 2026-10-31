@@ -93,3 +93,24 @@ Quase ninguém premium fala com a **mulher 40+ com névoa mental**: só duas mar
 - **Puravida:** já vende Brain Focus para esse perfil de compradora.
 - **Cimed (Lavitan):** já tem produto de menopausa e Memo Neuro, e domina a farmácia.
 - **Kunda e Re-Age:** já têm a audiência de mulheres 40+.
+
+## Atualização 31/10/2026: EMME Nutrition / Menopausei (concorrente direta nova)
+
+Vista em anúncio patrocinado no Instagram (prints da fundadora, 31/10, 15h). Fonte oficial: https://emmenutrition.com.br/ (@emme.nutrition, 2.461 seguidores, 54 posts).
+
+| Item | O que é |
+|---|---|
+| Produto | **Menopausei**: suplemento em pó, **5 g/dia, pote de 150 g, 30 doses**, "fórmula exclusiva para mulheres 40+"; vira uma bebida rosa no copo |
+| Composição (rótulo e site) | L-triptofano, cúrcuma, feno-grego, extrato de semente de uva, coenzima Q10, resveratrol, lecitina de soja, vitaminas e minerais ("mais de 10 ativos") |
+| Preço | **R$189,90** o pote (12x de R$19,64); kits de 2 e 3 potes |
+| Fundadora | Vívia Brito, administradora, 10+ anos no setor farmacêutico; "criado por uma mulher que viveu a menopausa"; o rosto dela está em quase todo o grid |
+| Posicionamento | **Menopausa** (50 anos, calorão, fogachos, sono): "menos fogachos, mais energia, sono, bem-estar"; anúncio "Menopausei VS suplementos comuns": pó gostoso de tomar, só 5 g no suco ou na água, contra cápsulas grandes com gosto de remédio |
+| Alegações | Agressivas: "o único suplemento que realmente manda embora o calorão", "alívio natural para a menopausa", "resultados em 15 dias", "reequilibra os hormônios". **Risco Anvisa alto** (alegação de sintoma e de efeito hormonal) |
+| Canal | Instagram com a fundadora, depoimentos de clientes em vídeo, evento de lançamento com brinde (taças), mídia paga |
+
+**O que isso muda para a Períssima:**
+1. **Valida o formato e o preço.** Uma marca brasileira está vendendo exatamente o nosso formato (pó de 5 g, pote de 150 g, bebida rosa) a **R$189,90**, para mulher 40+, e usando no anúncio o mesmo argumento da fundadora ("em pó e gostoso de tomar, no suco ou na água" contra cápsulas). A objeção do conselho ("pó contra 66% que pediram cápsula") perde força: o mercado já aceita. E R$189,90 vira âncora: R$149 fica abaixo.
+2. **Ocupa a menopausa, não a peri.** Fundadora de 50, calorão, "fórmula para 40+", sintoma no centro, cara de "alívio". É o oposto da Períssima (35–48, dona da porra toda, sem sintoma, sem cara de farmácia). O espaço da millennial continua aberto.
+3. **As alegações dela são uma fraqueza, não um modelo.** "Manda embora o calorão" e "reequilibra os hormônios" são o tipo de frase que a Anvisa autua. Não copiar. A Períssima ganha ao ser a marca que conta a dose e não promete.
+4. **Velocidade.** A tese do oceano azul avisou que concorrentes estavam se movendo (Re-Age, Alright, Oest, Cimed). Agora há uma com produto na rua, no nosso formato. Cada mês sem MVP é um mês em que "pó para 40+" vira a categoria dela.
+5. **Para checar:** quem fabrica o Menopausei (terceirizado? qual?) e se a fórmula é notificada para adulto; se for um catálogo pronto, pode ser um fornecedor alternativo à Ourocaps para o stick.

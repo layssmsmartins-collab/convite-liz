@@ -51,3 +51,6 @@ A fundadora discorda da condição "pó versus cápsula". Argumento: a pesquisa 
 **Condição do pó reformulada:** teste de 14 dias **da experiência Períssima** (stick, sabor final, água fria ou suco) com 20 mulheres do perfil, perguntas "você faria isso de novo amanhã?" e "levou na bolsa?", critério ≥50% no dia 14. Sem comparação com cápsula. → `/founder-consumer`
 **Perguntas novas para a Ourocaps (RT):** sachê de 5 g sem nova estabilidade? Troca de aroma para perfil adulto? Dissolve em água fria? Prazo e custo de cada uma.
 **Se a Ourocaps não fizer stick:** procurar fabricante que faça, ou lançar o pote de 150 g assumindo que é um teste da marca, não da experiência (o conselho avisaria que isso é "pó de farmácia com marca bonita").
+
+## Evidência nova (31/10, 15h): EMME Nutrition / Menopausei
+Anúncio patrocinado visto pela fundadora: marca brasileira vendendo **pó de 5 g, pote de 150 g, bebida rosa, para mulher 40+, a R$189,90**, com o argumento "em pó e gostoso de tomar, no suco ou na água" contra cápsulas. Detalhe em `competitors.md`. Para o conselho: a objeção "pó contra 66% que pediram cápsula" perde força (o mercado já compra esse formato a esse preço); a concorrente ocupa a menopausa (50 anos, calorão, fundadora como rosto, alegações agressivas), não a peri; e a velocidade virou risco concreto.
