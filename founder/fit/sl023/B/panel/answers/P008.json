@@ -1,0 +1,13 @@
+{
+  "id": "P008",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "R$149 por um pote de pó de uma marca que eu nunca ouvi falar é caro; magnésio e vitamina D eu compro na farmácia por bem menos quando acaba. E tutti-frutti me soa como suco de criança, não algo feito para uma mulher da minha idade.",
+  "objection": "Não sei se vale pagar quase o dobro do que gasto com cápsulas só pela praticidade de um pó, e de uma marca nova que só vende pelo site. A assinatura não me interessa.",
+  "would_change_my_mind": "Um tamanho menor para experimentar, tipo 7 ou 10 doses por uns R$40, num sabor mais adulto ou neutro, com a recomendação de alguém em quem confio, como minha ginecologista.",
+  "price_too_cheap": 40,
+  "price_cheap": 79,
+  "price_expensive": 119,
+  "price_too_expensive": 160
+}

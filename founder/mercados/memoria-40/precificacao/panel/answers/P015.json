@@ -1,0 +1,13 @@
+{
+  "id": "P015",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Gostei do laudo por lote e da tabela aberta, mas é magnésio, B6, B12, vitamina D e creatina, coisas que eu já compro separado. Antes de trocar por uma marca nova com cara de 'kit menopausa', vou levar o rótulo para a minha ginecologista olhar na consulta.",
+  "objection": "Não sei se a fórmula junta traz algo a mais ou se é só o que eu já tomo com um rótulo de perimenopausa e preço maior. As doses de magnésio e vitamina D podem somar com o que já tomo.",
+  "would_change_my_mind": "Minha ginecologista olhar as doses e dizer que faz sentido substituir o que eu já tomo por isso.",
+  "price_too_cheap": 50,
+  "price_cheap": 90,
+  "price_expensive": 150,
+  "price_too_expensive": 200
+}

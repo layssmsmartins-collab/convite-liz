@@ -1,0 +1,13 @@
+{
+  "id": "P014",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Já compro Alpha Kids na farmácia por bem menos e meu filho toma sem reclamar. Pagar R$149 todo mês numa marca nova, sem nem saber se ele vai gostar do sabor, não faz sentido pra mim.",
+  "objection": "E se ele não gostar do sabor e cuspir? Aí eu fico presa numa assinatura de R$149 de uma marca que ninguém conhece, só porque tem adesivo e laudo no QR code.",
+  "would_change_my_mind": "Um kit de amostra barato ou grátis pra ele provar o sabor antes, e o pediatra dizendo que vale a troca.",
+  "price_too_cheap": 30,
+  "price_cheap": 60,
+  "price_expensive": 99,
+  "price_too_expensive": 140
+}

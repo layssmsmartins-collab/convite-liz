@@ -1,0 +1,13 @@
+{
+  "id": "P005",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Eu leio rótulo e aqui não tem a tabela: não sei quantos mg de DHA vêm, nem como cabe 100% de magnésio bisglicinato numa colher de 5 g junto com todo o resto. Sem ver a tabela nutricional completa eu não troco minhas cápsulas por um pó de marca nova vendido só no site.",
+  "objection": "Duvido da dose. 100% do magnésio em bisglicinato já ocupa boa parte de 5 g, e o ômega 3 'de algas' sem miligrama informada costuma ser uma quantidade simbólica. E 'energia' aí é só alegação de vitamina B, não é nada que eu vá sentir.",
+  "would_change_my_mind": "Tabela nutricional completa publicada no site, com mg de magnésio elementar e de DHA por dose, e um laudo de análise de lote de laboratório independente.",
+  "price_too_cheap": 50,
+  "price_cheap": 89,
+  "price_expensive": 139,
+  "price_too_expensive": 189
+}

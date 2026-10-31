@@ -1,0 +1,13 @@
+{
+  "id": "P004",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Fiz a conta por dose: R$129 por mês dá uns R$4,30 por dia, e o multivitamínico da farmácia sai por menos da metade disso, ainda mais com cupom ou promoção. Não vou pagar o Kit Teste de R$39 pra testar um produto que eu já sei que não vou assinar nesse preço.",
+  "objection": "O preço mensal é muito alto para um multivitamínico, e mesmo com cancelamento em um clique eu desconfio de assinatura; sem açúcar e com laudo é bom, mas não vale o dobro.",
+  "would_change_my_mind": "Um cupom de lançamento forte que deixasse a assinatura perto de R$70 a R$80 por mês, ou a pediatra do meu filho recomendando essa marca especificamente.",
+  "price_too_cheap": 25,
+  "price_cheap": 55,
+  "price_expensive": 85,
+  "price_too_expensive": 120
+}

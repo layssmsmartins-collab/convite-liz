@@ -1,0 +1,13 @@
+{
+  "id": "P003",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Acordo cansado, mas sei que é porque durmo tarde e fico no celular, não por falta de magnésio. R$149 num pó sabor tutti-frutti que nem promete que eu vou dormir melhor não resolve meu problema, rotina resolve.",
+  "objection": "A própria marca diz que não promete sono melhor. Então estou pagando caro por um multivitamínico com gosto de chiclete e a palavra ritual na embalagem; magnésio genérico na farmácia sai por uma fração disso.",
+  "would_change_my_mind": "Um estudo sério ou meu médico mostrando que tenho deficiência de magnésio e que isso melhora o sono, e mesmo assim só a um preço perto de farmácia.",
+  "price_too_cheap": 25,
+  "price_cheap": 45,
+  "price_expensive": 80,
+  "price_too_expensive": 120
+}

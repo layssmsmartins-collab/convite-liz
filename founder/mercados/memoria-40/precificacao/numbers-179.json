@@ -1,0 +1,80 @@
+{
+ "business": "Marca da perimenopausa (nome provisório): pote de 30 doses",
+ "unit": "pote (30 doses, 1 mês)",
+ "price": 179,
+ "variable": [
+  {
+   "label": "Produto (custo informado pela fundadora)",
+   "cost": 30
+  },
+  {
+   "label": "Impostos ~10% do preço (estimativa Simples Nacional, confirmar com contador)",
+   "cost": 17.9
+  },
+  {
+   "label": "Pagamento/gateway ~4,5% (estimativa)",
+   "cost": 8.05
+  },
+  {
+   "label": "Frete subsidiado (estimativa R$15 por pedido)",
+   "cost": 15
+  },
+  {
+   "label": "Caixa de envio, guia impresso, insumos (estimativa)",
+   "cost": 5
+  },
+  {
+   "label": "Reserva para garantia/devolução ~3% (estimativa)",
+   "cost": 5.37
+  }
+ ],
+ "fixed_monthly": [
+  {
+   "label": "Operação: site, ferramentas, contador, comunidade, conteúdo (estimativa)",
+   "cost": 3500
+  },
+  {
+   "label": "Aquisição: creators, amostras, mídia (estimativa)",
+   "cost": 5000
+  }
+ ],
+ "startup": [
+  {
+   "label": "Primeiro lote (300 potes × R$30, lote mínimo informado pela fundadora)",
+   "cost": 9000
+  },
+  {
+   "label": "Marca, embalagem, fotos",
+   "cost": 12000
+  },
+  {
+   "label": "Site, CRM, assinatura",
+   "cost": 5000
+  },
+  {
+   "label": "Laudos, responsável técnico, regulatório",
+   "cost": 5000
+  },
+  {
+   "label": "Lançamento (amostras, creators)",
+   "cost": 8000
+  }
+ ],
+ "days_per_month": 30,
+ "capacity_per_day": 100,
+ "plan_per_day": 10,
+ "ramp_per_day": [
+  1,
+  1.5,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  10
+ ]
+}

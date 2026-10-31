@@ -1,0 +1,86 @@
+{
+ "n": 20,
+ "seed": 2310,
+ "customer": {
+  "business": "Marca nova (nome provisório) de drink diário em pó com vitaminas e minerais para mulheres de 40 anos ou mais, vendido online no Brasil",
+  "target": "mulheres de 40 a 55 anos, em perimenopausa ou menopausa, classe média e média alta, que se preocupam com saúde e já procuram informação sobre a fase (você é brasileira, pensa em reais e responde em português; renda anual em reais)",
+  "where": "capitais e grandes cidades do Brasil",
+  "age": [
+   40,
+   55
+  ],
+  "segments": [
+   {
+    "name": "Classe média, trabalha fora",
+    "share": 0.4,
+    "income": [
+     72000,
+     150000
+    ]
+   },
+   {
+    "name": "Média alta, gestora ou profissional liberal",
+    "share": 0.4,
+    "income": [
+     150000,
+     360000
+    ]
+   },
+   {
+    "name": "Alta renda",
+    "share": 0.2,
+    "income": [
+     360000,
+     700000
+    ]
+   }
+  ],
+  "behaviours": [
+   {
+    "name": "Segue a ginecologista",
+    "share": 0.25,
+    "how": "Só toma o que a médica indica e leva tudo para ela olhar."
+   },
+   {
+    "name": "Já toma várias cápsulas",
+    "share": 0.2,
+    "how": "Toma vitamina D, magnésio e cálcio separados."
+   },
+   {
+    "name": "Busca comunidade da fase",
+    "share": 0.15,
+    "how": "Segue perfis sobre menopausa e participa de grupos de mulheres 40+."
+   },
+   {
+    "name": "Lê rótulo",
+    "share": 0.15,
+    "how": "Confere dose e se tem açúcar."
+   },
+   {
+    "name": "Cética com suplemento",
+    "share": 0.15,
+    "how": "Desconfia de produto 'para a menopausa' e acha que é marketing."
+   },
+   {
+    "name": "Evita assinatura",
+    "share": 0.1,
+    "how": "Prefere comprar avulso quando acaba."
+   }
+  ],
+  "objections": [
+   "R$149 por mês é caro",
+   "A minha médica não pediu isso",
+   "Isso resolve calor, insônia e humor mesmo?",
+   "Já faço reposição hormonal ou estou pensando em fazer",
+   "Sabor tutti-frutti parece coisa de criança",
+   "Marca nova que eu nunca ouvi falar"
+  ],
+  "habits": [
+   "você acorda cansada várias vezes por semana",
+   "você faz caminhada ou pilates",
+   "você tem filhos adolescentes ou adultos",
+   "você segue perfis sobre menopausa no Instagram"
+  ]
+ },
+ "pitch": "Marca nova brasileira (nome provisório) de drink diário em pó para mulheres de 40 anos ou mais, vendida só pelo site.\nUma colher de 5 g num copo de água, sabor morango ou tutti-frutti, adoçado com estévia, 0 kcal. Substitui as cápsulas: 100% do valor diário de magnésio (bisglicinato), vitamina D, E, B6, B12, ácido fólico, zinco e selênio, mais ômega 3 DHA de algas. Não é remédio e não substitui tratamento.\nO que o rótulo pode dizer: magnésio e vitamina D auxiliam na função muscular e na manutenção dos ossos; vitaminas B6 e B12 auxiliam no funcionamento do sistema nervoso; zinco e selênio auxiliam no sistema imune.\nPote de 30 doses por R$149, ou R$129 por mês na assinatura, cancelável em um clique. Se não gostar do sabor no primeiro pote, devolvemos o valor."
+}

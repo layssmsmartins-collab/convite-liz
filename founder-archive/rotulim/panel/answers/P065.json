@@ -1,0 +1,13 @@
+{
+  "id": "P065",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "O pediatra do meu filho nunca pediu multivitamínico, e eu não dou suplemento por conta própria. Marca nova, só no site, sem indicação médica: não compro.",
+  "objection": "O pediatra não pediu isso. Se ele não indicou, meu filho não precisa, e não vou arriscar com uma marca que ninguém conhece.",
+  "would_change_my_mind": "O pediatra recomendar essa marca especificamente numa consulta.",
+  "price_too_cheap": 40,
+  "price_cheap": 70,
+  "price_expensive": 120,
+  "price_too_expensive": 170
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P036",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "convenience",
+  "reason": "Chegar todo mês em casa sem eu ter que lembrar é exatamente o que eu quero, e R$149 não pesa pra mim. Testo um mês: se cancela fácil pelo site, o risco é pequeno.",
+  "objection": "Meu filho cuspir o comprimido. Não falam nada do sabor, e já joguei fora frasco de vitamina que ele recusou. Se ele não aceitar na primeira semana, eu cancelo.",
+  "would_change_my_mind": "Se o cancelamento fosse complicado ou se eu visse reclamação de sabor ruim antes de pedir, eu nem testaria.",
+  "price_too_cheap": 40,
+  "price_cheap": 90,
+  "price_expensive": 180,
+  "price_too_expensive": 260
+}

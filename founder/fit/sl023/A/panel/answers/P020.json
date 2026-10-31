@@ -1,0 +1,13 @@
+{
+  "id": "P020",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Gostei de ver bisglicinato e estévia, mas é uma marca que eu nunca ouvi falar e não vi a tabela nutricional com as doses de verdade. Caber 100% de magnésio, todas essas vitaminas e ômega 3 em 5 g de pó me parece bom demais; antes de pagar R$149 eu quero ver o rótulo completo.",
+  "objection": "Não sei quantos mg de DHA tem, nem se o magnésio de 100% é elementar ou do sal, e uma marca nova sem laudo ou avaliação não me dá confiança de que a dose do pote bate com a do rótulo.",
+  "would_change_my_mind": "Tabela nutricional completa publicada, com mg de magnésio elementar e de DHA por dose, e um laudo de laboratório independente do lote.",
+  "price_too_cheap": 60,
+  "price_cheap": 90,
+  "price_expensive": 140,
+  "price_too_expensive": 190
+}

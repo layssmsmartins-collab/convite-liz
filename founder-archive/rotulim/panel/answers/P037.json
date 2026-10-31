@@ -1,0 +1,13 @@
+{
+  "id": "P037",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "convenience",
+  "reason": "Chegar todo mês sem eu ter que lembrar nem ir à farmácia é exatamente o que eu quero, e o laudo por QR code me dá alguma segurança. Testaria primeiro com um filho só, porque com dois fica uns R$300 por mês.",
+  "objection": "Mastigável vira doce: meu filho vai querer comer mais de um e o irmão vai querer também. Preciso saber se o frasco é difícil de abrir pela criança e o que acontece se ela comer vários de uma vez.",
+  "would_change_my_mind": "Se não tiver tampa à prova de criança ou se o pediatra disser que não precisa, eu cancelo.",
+  "price_too_cheap": 40,
+  "price_cheap": 79,
+  "price_expensive": 149,
+  "price_too_expensive": 229
+}

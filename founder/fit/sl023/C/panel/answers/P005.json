@@ -1,0 +1,13 @@
+{
+  "id": "P005",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "quality",
+  "reason": "Bisglicinato com 100% do valor diário é exatamente a forma e a dose que eu procuro, e R$149 não pesa no meu orçamento. Compro um pote avulso para testar, sem assinatura, porque a devolução pelo sabor tira o risco.",
+  "objection": "Quero ver no rótulo se os 420 mg são de magnésio elementar ou do composto bisglicinato, porque se for do composto a dose real é bem menor. E tutti-frutti com estévia de noite me parece doce artificial demais.",
+  "would_change_my_mind": "Se a tabela nutricional mostrar que os 420 mg são do composto e não magnésio elementar, eu não compro.",
+  "price_too_cheap": 50,
+  "price_cheap": 90,
+  "price_expensive": 170,
+  "price_too_expensive": 230
+}

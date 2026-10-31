@@ -1,0 +1,13 @@
+{
+  "id": "P011",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Aqui em casa suplemento só entra se o pediatra mandar, e aí eu compro exatamente o que ele indicou. Uma marca nova que eu vi no Instagram não passa por cima disso, o preço nem é o problema.",
+  "objection": "O pediatra não recomendou, e eu não sei se meu filho precisa de multivitamínico. Além disso, assinatura sempre dá trabalho pra cancelar, mesmo dizendo que cancela pelo site.",
+  "would_change_my_mind": "Se o pediatra do meu filho indicasse essa marca pelo nome.",
+  "price_too_cheap": 40,
+  "price_cheap": 90,
+  "price_expensive": 180,
+  "price_too_expensive": 300
+}

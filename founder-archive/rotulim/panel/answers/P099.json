@@ -1,0 +1,13 @@
+{
+  "id": "P099",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Dinheiro não é o problema, mas R$149 por mês por um multivitamínico infantil parece caro demais pelo que é, ainda mais quando o Alpha Kids que eu já conheço sai bem mais barato. Gostei do laudo por QR code, mas não vou trocar uma marca conhecida por uma nova só vendida pelo site sem ver a tabela nutricional completa.",
+  "objection": "Não sei a lista de ingredientes nem as doses de cada vitamina, e 'sem açúcar adicionado' pode significar adoçante que eu não quero dar pro meu filho. Pagar quase o triplo de uma marca que já conheço, de uma marca sem nome definido, não fecha.",
+  "would_change_my_mind": "Ver a lista completa de ingredientes e doses no site, com adoçante natural, e um preço perto de R$89 por mês, ou um primeiro mês com desconto forte pra testar.",
+  "price_too_cheap": 30,
+  "price_cheap": 60,
+  "price_expensive": 99,
+  "price_too_expensive": 140
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P053",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Já compro multivitamínico na farmácia e estou satisfeito; R$149 por mês por criança, com dois filhos, vira quase R$300 por mês por algo que nem sei se meus filhos precisam. Não vejo motivo para trocar por uma marca nova que só vende pelo site.",
+  "objection": "Meu filho come bem, será que precisa mesmo de suplemento? E pagar várias vezes o preço do que compro na farmácia por adesivo e laudo não me convence.",
+  "would_change_my_mind": "Se o pediatra recomendasse especificamente e houvesse desconto forte para o segundo filho, deixando o custo perto do que já pago na farmácia.",
+  "price_too_cheap": 25,
+  "price_cheap": 50,
+  "price_expensive": 90,
+  "price_too_expensive": 130
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P023",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Já compro o multivitamínico do meu filho na farmácia, ele toma sem briga e o pediatra aprovou. Não vou trocar uma coisa que funciona por uma marca que ninguém conhece só porque o frasco vem com adesivo.",
+  "objection": "Mastigável vira doce: meu filho vai querer mais de um, e eu não sei o que tem nesse comprimido além de 'vitaminas essenciais'. Marca nova, só no site, sem a recomendação do pediatra, não me dá segurança, e R$149 por mês é bem mais do que pago hoje por algo que já resolve.",
+  "would_change_my_mind": "O pediatra recomendar a marca na próxima consulta, mostrando que a fórmula é melhor que a que eu já uso.",
+  "price_too_cheap": 25,
+  "price_cheap": 50,
+  "price_expensive": 95,
+  "price_too_expensive": 140
+}

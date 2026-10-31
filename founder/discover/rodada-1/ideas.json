@@ -1,0 +1,330 @@
+{
+ "budget": 60000,
+ "ideas": [
+  {
+   "id": "I01",
+   "name": "Setup de mesa premium",
+   "one_line": "Kit de home office premium (suporte de notebook em alumínio, desk mat de feltro de lã, organizador de cabos) para profissionais remotos, R$390 o kit",
+   "price": 390,
+   "variable_cost": 145,
+   "startup_cost": 45000,
+   "lenses": {
+    "offers": 6,
+    "monopoly": 4,
+    "product": 7
+   },
+   "fit": 4,
+   "gap": 3,
+   "regulatory": 1,
+   "reasons": {
+    "offers": "Resultado visível no 1º dia (mesa organizada, tela na altura dos olhos) e fácil de explicar em foto",
+    "monopoly": "Copiável por importadores genéricos; a defesa é marca, design e garantia",
+    "product": "Produto de especificação: medidas, materiais, acabamento. Dá para ser 10× melhor que o genérico em detalhe",
+    "fit": "Especificar, homologar fornecedor e controlar qualidade é exatamente operação/engenharia",
+    "gap": "Busca achou só genéricos sem marca, o Octoo (plástico) e importados como Targus/Harber; nenhuma marca BR premium",
+    "regulatory": "Sem certificação obrigatória conhecida para suporte e desk mat (confirmar Inmetro se houver itens elétricos)",
+    "variable_cost": "Estimativa: OEM ~R$90 + frete R$25 + taxas e pagamento ~R$20 + embalagem R$10"
+   }
+  },
+  {
+   "id": "I02",
+   "name": "Organizadores de gaveta sob medida",
+   "one_line": "Sistema modular de organizadores de gaveta (acrílico/bambu) calculado pelas medidas da gaveta do cliente, R$290 o kit",
+   "price": 290,
+   "variable_cost": 110,
+   "startup_cost": 35000,
+   "lenses": {
+    "offers": 5,
+    "monopoly": 4,
+    "product": 6
+   },
+   "fit": 4,
+   "gap": 2,
+   "regulatory": 1,
+   "reasons": {
+    "offers": "Dor clara (gaveta bagunçada), mas 'organização' é desejo, não urgência",
+    "monopoly": "Acrimet, OU, Ordene, Metaltru e kits de R$74 no Magalu; o 'sob medida' é a única diferença",
+    "product": "O configurador por medida é um produto de engenharia de verdade",
+    "fit": "Engenharia de produto + cadeia de fornecimento",
+    "gap": "Mercado cheio de acrílico econômico; nenhuma marca premium clara, mas muita oferta",
+    "regulatory": "Sem regulação específica",
+    "variable_cost": "Estimativa: peças R$60 + frete volumoso R$35 + taxas R$15. Volumoso para estoque em casa"
+   }
+  },
+  {
+   "id": "I03",
+   "name": "Papelaria técnica premium",
+   "one_line": "Cadernos e planners de engenharia e gestão (grade técnica, papel 120 g, layouts de reunião, OKR, 5S), R$129",
+   "price": 129,
+   "variable_cost": 38,
+   "startup_cost": 25000,
+   "lenses": {
+    "offers": 5,
+    "monopoly": 4,
+    "product": 6
+   },
+   "fit": 3,
+   "gap": 2,
+   "regulatory": 1,
+   "reasons": {
+    "offers": "Compra de desejo e presente; resultado é prazer de uso, não ganho mensurável",
+    "monopoly": "A Cícero já é premium nacional, com loja própria e preços de R$70–160",
+    "product": "Layout técnico bem pensado é diferenciável, mas fácil de copiar",
+    "fit": "Conhecimento de gestão ajuda no conteúdo; papelaria em si é fora da área",
+    "gap": "Cícero ocupa o premium; nicho 'técnico' é estreito",
+    "regulatory": "Sem regulação",
+    "variable_cost": "Estimativa: gráfica R$18 + frete R$12 + taxas R$8"
+   }
+  },
+  {
+   "id": "I04",
+   "name": "Acessórios de café especial",
+   "one_line": "Linha premium de precisão para café em casa (balança com timer, distribuidor, nivelador, jarra), R$349 o kit",
+   "price": 349,
+   "variable_cost": 140,
+   "startup_cost": 45000,
+   "lenses": {
+    "offers": 6,
+    "monopoly": 4,
+    "product": 7
+   },
+   "fit": 3,
+   "gap": 3,
+   "regulatory": 2,
+   "reasons": {
+    "offers": "Público entusiasta, que paga por precisão e por presente",
+    "monopoly": "Importados (Acaia, Baristeo, Kaffeemacher) e Tramontina no básico; copiável",
+    "product": "Precisão e acabamento são especificáveis; o kit pode ser muito bom",
+    "fit": "Precisão e metrologia conversam com engenharia, mas o nicho de café não é dela",
+    "gap": "Nenhuma marca BR premium encontrada; importados caros",
+    "regulatory": "Balança: confirmar se precisa de Inmetro (uso doméstico em geral não)",
+    "variable_cost": "Estimativa: OEM R$90 + frete R$25 + taxas R$25"
+   }
+  },
+  {
+   "id": "I05",
+   "name": "Templates de gestão para PMEs",
+   "one_line": "Sistemas digitais (planilhas e Notion) de indicadores, OEE, 5S e rotinas para pequenas empresas, R$397",
+   "price": 397,
+   "variable_cost": 45,
+   "startup_cost": 15000,
+   "lenses": {
+    "offers": 5,
+    "monopoly": 3,
+    "product": 5
+   },
+   "fit": 4,
+   "gap": 2,
+   "regulatory": 1,
+   "reasons": {
+    "offers": "Valor alto para o comprador, mas a confiança vem de quem fez: tende a virar marca pessoal",
+    "monopoly": "Extremamente copiável; cursos e planilhas aos montes (FM2S, Hotmart)",
+    "product": "Bom produto possível, mas sem barreira",
+    "fit": "Domínio total do conteúdo",
+    "gap": "Muito conteúdo gratuito e pago",
+    "regulatory": "Sem regulação",
+    "variable_cost": "Estimativa: plataforma + pagamento ~11%"
+   }
+  },
+  {
+   "id": "I06",
+   "name": "Micro-SaaS de manutenção preventiva",
+   "one_line": "App de checklists e manutenção preventiva para pequenos negócios (oficinas, academias, restaurantes), R$199/mês",
+   "price": 199,
+   "variable_cost": 30,
+   "startup_cost": 60000,
+   "lenses": {
+    "offers": 6,
+    "monopoly": 6,
+    "product": 5
+   },
+   "fit": 2,
+   "gap": 3,
+   "regulatory": 1,
+   "reasons": {
+    "offers": "Dor real (máquina parada) com resultado mensurável",
+    "monopoly": "Dados e hábito criam custo de troca; SaaS é defensável",
+    "product": "Precisa de produto de software contínuo; ela não desenvolve",
+    "fit": "Domínio do problema, mas exige venda B2B consultiva e desenvolvimento, contra as janelas de tempo dela",
+    "gap": "SafeB, Workmotor e CMMS existem; nenhum dominante para micro",
+    "regulatory": "Só LGPD",
+    "variable_cost": "Estimativa: infraestrutura + pagamento ~15%"
+   }
+  },
+  {
+   "id": "I07",
+   "name": "Clube de café especial",
+   "one_line": "Assinatura mensal de café especial de microlotes, R$89/mês",
+   "price": 89,
+   "variable_cost": 55,
+   "startup_cost": 20000,
+   "lenses": {
+    "offers": 5,
+    "monopoly": 3,
+    "product": 5
+   },
+   "fit": 2,
+   "gap": 2,
+   "regulatory": 3,
+   "reasons": {
+    "offers": "Prazer recorrente, fácil de entender",
+    "monopoly": "Moka Clube, Benaia, Orfeu, ClubeCafé e outros já fazem isso",
+    "product": "O produto é do torrefador; pouco controle",
+    "fit": "Nada do domínio dela",
+    "gap": "Mercado maduro, R$50–90/mês",
+    "regulatory": "Alimento: rotulagem e registro do fornecedor",
+    "variable_cost": "Estimativa: café R$35 + frete R$15 + taxas R$5 (margem baixa)"
+   }
+  },
+  {
+   "id": "I08",
+   "name": "Organizadores de viagem técnicos",
+   "one_line": "Cubos de compressão e nécessaires técnicas premium (ripstop, zíper YKK), R$289 o kit",
+   "price": 289,
+   "variable_cost": 100,
+   "startup_cost": 35000,
+   "lenses": {
+    "offers": 5,
+    "monopoly": 4,
+    "product": 6
+   },
+   "fit": 3,
+   "gap": 3,
+   "regulatory": 1,
+   "reasons": {
+    "offers": "Resultado claro (mala organizada e menor), compra de presente",
+    "monopoly": "Thule, Bagsmart e CabinZero importados; genéricos baratos",
+    "product": "Material e zíper bem especificados diferenciam",
+    "fit": "Especificação e fornecedor têxtil, fora da área, mas é gestão de fornecedor",
+    "gap": "Nenhuma marca BR premium encontrada",
+    "regulatory": "Sem regulação (etiqueta têxtil)",
+    "variable_cost": "Estimativa: OEM têxtil R$60 + frete R$20 + taxas R$20"
+   }
+  },
+  {
+   "id": "I09",
+   "name": "Comedouros pet de design",
+   "one_line": "Comedouros elevados de inox com altura regulável e acabamento premium para cães e gatos, R$249",
+   "price": 249,
+   "variable_cost": 110,
+   "startup_cost": 40000,
+   "lenses": {
+    "offers": 6,
+    "monopoly": 4,
+    "product": 6
+   },
+   "fit": 3,
+   "gap": 3,
+   "regulatory": 1,
+   "reasons": {
+    "offers": "Tutor paga pelo pet; ergonomia do animal é argumento simples",
+    "monopoly": "Royale Pet, The Pets Brasil, NF Pet e reguláveis a R$224–270 no Magalu",
+    "product": "Reclamação de ferrugem na base pintada é uma brecha de qualidade que engenharia resolve",
+    "fit": "Material e qualidade, sim; pet não é a área dela",
+    "gap": "Existem premium, com queixas de qualidade",
+    "regulatory": "Contato com alimento animal: baixa exigência",
+    "variable_cost": "Estimativa: inox nacional R$70 + frete R$25 + taxas R$15"
+   }
+  },
+  {
+   "id": "I10",
+   "name": "Kit de limpeza de tênis",
+   "one_line": "Linha premium de limpeza e cuidado para tênis, R$159",
+   "price": 159,
+   "variable_cost": 50,
+   "startup_cost": 40000,
+   "lenses": {
+    "offers": 5,
+    "monopoly": 3,
+    "product": 5
+   },
+   "fit": 2,
+   "gap": 2,
+   "regulatory": 4,
+   "reasons": {
+    "offers": "Público de sneakers paga, mas é um nicho",
+    "monopoly": "Petroplus e muitos importados; fácil de copiar",
+    "product": "Química é de terceiro",
+    "fit": "Fora da área",
+    "gap": "Kits a partir de R$34 por unidade",
+    "regulatory": "Provavelmente saneante: notificação ou registro na Anvisa (confirmar)",
+    "variable_cost": "Estimativa: químico + frasco R$25 + frete R$15 + taxas R$10"
+   }
+  },
+  {
+   "id": "I11",
+   "name": "Kits de onboarding corporativo",
+   "one_line": "Kits de boas-vindas premium curados para RH de empresas, R$350 o kit",
+   "price": 350,
+   "variable_cost": 220,
+   "startup_cost": 15000,
+   "lenses": {
+    "offers": 5,
+    "monopoly": 3,
+    "product": 5
+   },
+   "fit": 4,
+   "gap": 2,
+   "regulatory": 1,
+   "reasons": {
+    "offers": "RH compra, valor claro para retenção",
+    "monopoly": "Lobby (R$100 mi de receita), HuBi, Laços Corporativos, Casadei",
+    "product": "Curadoria, não produto próprio",
+    "fit": "Operação e logística são o forte dela, mas a venda B2B exige presença",
+    "gap": "Mercado já tem líder",
+    "regulatory": "Sem regulação",
+    "variable_cost": "Estimativa: itens R$170 + frete R$30 + taxas R$20 (margem de revenda)"
+   }
+  },
+  {
+   "id": "I12",
+   "name": "Potes herméticos com sistema de etiquetas",
+   "one_line": "Kit premium de potes de vidro borossilicato com sistema visual de etiquetas para despensa, R$399",
+   "price": 399,
+   "variable_cost": 170,
+   "startup_cost": 45000,
+   "lenses": {
+    "offers": 5,
+    "monopoly": 4,
+    "product": 6
+   },
+   "fit": 3,
+   "gap": 2,
+   "regulatory": 2,
+   "reasons": {
+    "offers": "Desejo estético forte (despensa de revista), não necessidade",
+    "monopoly": "Muitos kits no ML (Tesla Store, Oikos, Mascotte); copiável",
+    "product": "O sistema de etiquetas e a modularidade dão espaço de design",
+    "fit": "Fornecedor e logística, sim; frágil e pesado é ruim para estoque em casa",
+    "gap": "Mercado cheio no meio de gama, sem premium clara",
+    "regulatory": "Material em contato com alimento: confirmar a norma da Anvisa",
+    "variable_cost": "Estimativa: vidro R$90 + frete pesado/frágil R$40 + quebras R$15 + taxas R$25"
+   }
+  },
+  {
+   "id": "I13",
+   "name": "Kit de ferramentas de design",
+   "one_line": "Kit de ferramentas doméstico premium e bonito, para quem mora em apartamento e para presente, R$449",
+   "price": 449,
+   "variable_cost": 170,
+   "startup_cost": 45000,
+   "lenses": {
+    "offers": 6,
+    "monopoly": 4,
+    "product": 7
+   },
+   "fit": 4,
+   "gap": 4,
+   "regulatory": 2,
+   "reasons": {
+    "offers": "Resultado claro ('resolver sozinha sem chamar ninguém') + presente de casa nova",
+    "monopoly": "Tramontina e Bosch funcionais e baratos; o design premium é copiável, mas ninguém está lá",
+    "product": "Seleção, especificação e estojo podem ser 10× melhores que a maleta de 129 peças",
+    "fit": "Engenheira escolhendo e testando ferramenta tem credibilidade de produto, sem marca pessoal",
+    "gap": "Busca não achou nenhuma marca BR de design premium; só kits funcionais",
+    "regulatory": "Ferramenta manual: confirmar Inmetro em itens específicos (ex.: isolados)",
+    "variable_cost": "Estimativa: OEM R$120 + estojo + frete R$25 + taxas R$25"
+   }
+  }
+ ]
+}

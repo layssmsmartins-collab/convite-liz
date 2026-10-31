@@ -1,0 +1,13 @@
+{
+  "id": "P068",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "O pediatra nunca pediu multivitamínico para os meus filhos, e ainda vem em assinatura de R$149 por criança. Com dois filhos são quase R$300 por mês por uma coisa que ninguém me disse que eles precisam.",
+  "objection": "O pediatra não pediu isso, e eu não quero entrar em mais uma assinatura que depois dá trabalho para cancelar.",
+  "would_change_my_mind": "O pediatra recomendar um suplemento para eles e eu poder comprar um frasco avulso, sem assinatura.",
+  "price_too_cheap": 30,
+  "price_cheap": 60,
+  "price_expensive": 100,
+  "price_too_expensive": 150
+}

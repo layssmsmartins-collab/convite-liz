@@ -1,0 +1,13 @@
+{
+  "id": "P084",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Eu só dou suplemento quando o pediatra indica, e ele nunca falou dessa marca. Marca nova, só no site, com R$149 por mês, não entra em casa sem o aval dele.",
+  "objection": "Meu pediatra não recomendou e eu nem sei se meu filho precisa. E se ele não gostar do sabor e cuspir, como já aconteceu, são R$149 jogados fora.",
+  "would_change_my_mind": "O pediatra do meu filho indicar essa marca na consulta, e ter um kit de teste pequeno para ver se ele aceita o sabor antes de assinar.",
+  "price_too_cheap": 30,
+  "price_cheap": 60,
+  "price_expensive": 110,
+  "price_too_expensive": 160
+}

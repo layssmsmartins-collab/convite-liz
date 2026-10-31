@@ -1,0 +1,13 @@
+{
+  "id": "P048",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Com dois filhos isso vira quase R$300 por mês, contra uns R$30 do Lavitan Kids que eu já compro e que funciona. Frasco com adesivo e laudo por QR code são legais, mas não valem cinco vezes o preço.",
+  "objection": "Na farmácia tem por R$30, qual a diferença de verdade? Não vejo nada na fórmula que mostre que é melhor, só embalagem e marketing de marca nova que eu nunca ouvi falar.",
+  "would_change_my_mind": "Um preço bem mais perto do que eu pago hoje, tipo R$60 a R$70 por criança, com desconto para o segundo filho, e indicação do pediatra.",
+  "price_too_cheap": 20,
+  "price_cheap": 45,
+  "price_expensive": 80,
+  "price_too_expensive": 120
+}

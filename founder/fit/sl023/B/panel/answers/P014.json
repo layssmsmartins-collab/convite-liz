@@ -1,0 +1,13 @@
+{
+  "id": "P014",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Eu já tomo vitamina D, magnésio e cálcio separados e gasto bem menos que R$129 por mês com isso. Trocar minhas cápsulas por um pó de morango não me parece valer quase o triplo, e ainda não tem cálcio, então eu continuaria tomando cápsula de qualquer jeito.",
+  "objection": "R$149 por mês é caro para algo que eu já resolvo mais barato com cápsulas de farmácia, e nada ali promete que vou acordar menos cansada.",
+  "would_change_my_mind": "Se custasse perto de R$79 por mês e incluísse cálcio, para eu realmente parar com todas as cápsulas.",
+  "price_too_cheap": 30,
+  "price_cheap": 59,
+  "price_expensive": 89,
+  "price_too_expensive": 120
+}

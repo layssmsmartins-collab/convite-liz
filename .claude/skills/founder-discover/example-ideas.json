@@ -1,0 +1,62 @@
+{
+  "budget": 60000,
+  "ideas": [
+    {
+      "id": "I01",
+      "name": "Example that passes",
+      "one_line": "A refillable premium body-care product modelled on a US brand with years of steady growth",
+      "model": "a US DTC brand (link in reasons)",
+      "price": 119,
+      "variable_cost": 38,
+      "startup_cost": 45000,
+      "lenses": {"offers": 6, "monopoly": 5, "product": 7},
+      "demand": 4,
+      "virality": 4,
+      "brazil_fit": 3,
+      "repeat": 5,
+      "fit": 3,
+      "regulatory": 3,
+      "regulatory_outsourced": true,
+      "reasons": {
+        "offers": "Clear sensory result, easy to try",
+        "monopoly": "Brand and refill habit, not technology",
+        "product": "Formula and refill system can be distinctive",
+        "demand": "Several years of revenue growth reported: https://example.com/source",
+        "virality": "Texture and routine film well; customers post their own videos",
+        "brazil_fit": "Searches exist in Brazil, local premium players are small",
+        "repeat": "Consumable, refilled monthly",
+        "fit": "Contract manufacturer and fulfilment partner run production",
+        "regulatory": "Grade 1 cosmetic: notification held by the contract manufacturer",
+        "variable_cost": "Estimate from public contract-manufacturing ranges, no quote"
+      }
+    },
+    {
+      "id": "I02",
+      "name": "Example fad",
+      "one_line": "A novelty gadget that went viral once",
+      "price": 89,
+      "variable_cost": 20,
+      "startup_cost": 20000,
+      "lenses": {"offers": 6, "monopoly": 3, "product": 5},
+      "demand": 2,
+      "virality": 5,
+      "brazil_fit": 3,
+      "repeat": 1,
+      "fit": 3,
+      "regulatory": 1,
+      "spike": true,
+      "reasons": {
+        "offers": "Fun, impulse buy",
+        "monopoly": "Copied by dozens of sellers within months",
+        "product": "Simple gadget",
+        "demand": "One viral peak, then searches fell",
+        "virality": "Very visual",
+        "brazil_fit": "Already on marketplaces",
+        "repeat": "Bought once",
+        "fit": "Easy to run",
+        "regulatory": "None",
+        "variable_cost": "Marketplace sourcing estimate"
+      }
+    }
+  ]
+}

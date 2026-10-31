@@ -1,0 +1,222 @@
+[
+ {
+  "id": "P001",
+  "name": "Daniel",
+  "age": 55,
+  "segment": "Classe média, trabalha fora",
+  "income": 104000,
+  "behaviour": "Já toma várias cápsulas",
+  "behaviour_how": "Toma vitamina D, magnésio e cálcio separados.",
+  "objection": "A minha médica não pediu isso",
+  "habit": "você segue perfis sobre menopausa no Instagram"
+ },
+ {
+  "id": "P002",
+  "name": "Pablo",
+  "age": 40,
+  "segment": "Classe média, trabalha fora",
+  "income": 106000,
+  "behaviour": "Segue a ginecologista",
+  "behaviour_how": "Só toma o que a médica indica e leva tudo para ela olhar.",
+  "objection": "Marca nova que eu nunca ouvi falar",
+  "habit": "você tem filhos adolescentes ou adultos"
+ },
+ {
+  "id": "P003",
+  "name": "Theo",
+  "age": 47,
+  "segment": "Classe média, trabalha fora",
+  "income": 75000,
+  "behaviour": "Cética com suplemento",
+  "behaviour_how": "Desconfia de produto 'para a menopausa' e acha que é marketing.",
+  "objection": "Marca nova que eu nunca ouvi falar",
+  "habit": "você faz caminhada ou pilates"
+ },
+ {
+  "id": "P004",
+  "name": "Zara",
+  "age": 52,
+  "segment": "Média alta, gestora ou profissional liberal",
+  "income": 303000,
+  "behaviour": "Segue a ginecologista",
+  "behaviour_how": "Só toma o que a médica indica e leva tudo para ela olhar.",
+  "objection": "A minha médica não pediu isso",
+  "habit": "você faz caminhada ou pilates"
+ },
+ {
+  "id": "P005",
+  "name": "Callum",
+  "age": 54,
+  "segment": "Média alta, gestora ou profissional liberal",
+  "income": 193000,
+  "behaviour": "Busca comunidade da fase",
+  "behaviour_how": "Segue perfis sobre menopausa e participa de grupos de mulheres 40+.",
+  "objection": "Sabor tutti-frutti parece coisa de criança",
+  "habit": "você tem filhos adolescentes ou adultos"
+ },
+ {
+  "id": "P006",
+  "name": "Iris",
+  "age": 46,
+  "segment": "Média alta, gestora ou profissional liberal",
+  "income": 224000,
+  "behaviour": "Já toma várias cápsulas",
+  "behaviour_how": "Toma vitamina D, magnésio e cálcio separados.",
+  "objection": "R$149 por mês é caro",
+  "habit": "você acorda cansada várias vezes por semana"
+ },
+ {
+  "id": "P007",
+  "name": "Nora",
+  "age": 43,
+  "segment": "Média alta, gestora ou profissional liberal",
+  "income": 214000,
+  "behaviour": "Lê rótulo",
+  "behaviour_how": "Confere dose e se tem açúcar.",
+  "objection": "R$149 por mês é caro",
+  "habit": "você faz caminhada ou pilates"
+ },
+ {
+  "id": "P008",
+  "name": "Noah",
+  "age": 47,
+  "segment": "Classe média, trabalha fora",
+  "income": 150000,
+  "behaviour": "Evita assinatura",
+  "behaviour_how": "Prefere comprar avulso quando acaba.",
+  "objection": "Sabor tutti-frutti parece coisa de criança",
+  "habit": "você tem filhos adolescentes ou adultos"
+ },
+ {
+  "id": "P009",
+  "name": "Wes",
+  "age": 50,
+  "segment": "Classe média, trabalha fora",
+  "income": 133000,
+  "behaviour": "Lê rótulo",
+  "behaviour_how": "Confere dose e se tem açúcar.",
+  "objection": "R$149 por mês é caro",
+  "habit": "você acorda cansada várias vezes por semana"
+ },
+ {
+  "id": "P010",
+  "name": "Sofia",
+  "age": 51,
+  "segment": "Classe média, trabalha fora",
+  "income": 87000,
+  "behaviour": "Segue a ginecologista",
+  "behaviour_how": "Só toma o que a médica indica e leva tudo para ela olhar.",
+  "objection": "Marca nova que eu nunca ouvi falar",
+  "habit": "você faz caminhada ou pilates"
+ },
+ {
+  "id": "P011",
+  "name": "Rohan",
+  "age": 50,
+  "segment": "Alta renda",
+  "income": 616000,
+  "behaviour": "Cética com suplemento",
+  "behaviour_how": "Desconfia de produto 'para a menopausa' e acha que é marketing.",
+  "objection": "Sabor tutti-frutti parece coisa de criança",
+  "habit": "você acorda cansada várias vezes por semana"
+ },
+ {
+  "id": "P012",
+  "name": "Darius",
+  "age": 45,
+  "segment": "Alta renda",
+  "income": 423000,
+  "behaviour": "Segue a ginecologista",
+  "behaviour_how": "Só toma o que a médica indica e leva tudo para ela olhar.",
+  "objection": "Já faço reposição hormonal ou estou pensando em fazer",
+  "habit": "você segue perfis sobre menopausa no Instagram"
+ },
+ {
+  "id": "P013",
+  "name": "Eli",
+  "age": 45,
+  "segment": "Média alta, gestora ou profissional liberal",
+  "income": 341000,
+  "behaviour": "Já toma várias cápsulas",
+  "behaviour_how": "Toma vitamina D, magnésio e cálcio separados.",
+  "objection": "Isso resolve calor, insônia e humor mesmo?",
+  "habit": "você faz caminhada ou pilates"
+ },
+ {
+  "id": "P014",
+  "name": "Noor",
+  "age": 42,
+  "segment": "Classe média, trabalha fora",
+  "income": 114000,
+  "behaviour": "Já toma várias cápsulas",
+  "behaviour_how": "Toma vitamina D, magnésio e cálcio separados.",
+  "objection": "R$149 por mês é caro",
+  "habit": "você acorda cansada várias vezes por semana"
+ },
+ {
+  "id": "P015",
+  "name": "Priya",
+  "age": 43,
+  "segment": "Classe média, trabalha fora",
+  "income": 106000,
+  "behaviour": "Cética com suplemento",
+  "behaviour_how": "Desconfia de produto 'para a menopausa' e acha que é marketing.",
+  "objection": "Sabor tutti-frutti parece coisa de criança",
+  "habit": "você acorda cansada várias vezes por semana"
+ },
+ {
+  "id": "P016",
+  "name": "Nia",
+  "age": 50,
+  "segment": "Média alta, gestora ou profissional liberal",
+  "income": 198000,
+  "behaviour": "Evita assinatura",
+  "behaviour_how": "Prefere comprar avulso quando acaba.",
+  "objection": "Isso resolve calor, insônia e humor mesmo?",
+  "habit": "você acorda cansada várias vezes por semana"
+ },
+ {
+  "id": "P017",
+  "name": "Omar",
+  "age": 50,
+  "segment": "Média alta, gestora ou profissional liberal",
+  "income": 273000,
+  "behaviour": "Busca comunidade da fase",
+  "behaviour_how": "Segue perfis sobre menopausa e participa de grupos de mulheres 40+.",
+  "objection": "Marca nova que eu nunca ouvi falar",
+  "habit": "você segue perfis sobre menopausa no Instagram"
+ },
+ {
+  "id": "P018",
+  "name": "Sienna",
+  "age": 52,
+  "segment": "Alta renda",
+  "income": 678000,
+  "behaviour": "Lê rótulo",
+  "behaviour_how": "Confere dose e se tem açúcar.",
+  "objection": "Sabor tutti-frutti parece coisa de criança",
+  "habit": "você segue perfis sobre menopausa no Instagram"
+ },
+ {
+  "id": "P019",
+  "name": "Caleb",
+  "age": 53,
+  "segment": "Alta renda",
+  "income": 595000,
+  "behaviour": "Segue a ginecologista",
+  "behaviour_how": "Só toma o que a médica indica e leva tudo para ela olhar.",
+  "objection": "Marca nova que eu nunca ouvi falar",
+  "habit": "você faz caminhada ou pilates"
+ },
+ {
+  "id": "P020",
+  "name": "Jordan",
+  "age": 50,
+  "segment": "Média alta, gestora ou profissional liberal",
+  "income": 178000,
+  "behaviour": "Busca comunidade da fase",
+  "behaviour_how": "Segue perfis sobre menopausa e participa de grupos de mulheres 40+.",
+  "objection": "Já faço reposição hormonal ou estou pensando em fazer",
+  "habit": "você acorda cansada várias vezes por semana"
+ }
+]

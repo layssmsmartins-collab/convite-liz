@@ -1,0 +1,13 @@
+{
+  "id": "P005",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Eu só dou suplemento que o pediatra indica, e o que ele conhece é o Alpha Kids, que já sai bem mais barato. Os R$39 não me pesam, mas não vou comprar uma marca nova de site antes de ele aprovar.",
+  "objection": "Marca nova, sem nome, vendida só pela internet e que meu pediatra nunca indicou. R$149 por mês por um multivitamínico parece muito quando a opção da farmácia que eu já conheço custa uma fração disso.",
+  "would_change_my_mind": "O pediatra olhar a ficha e a fórmula e me dizer que é melhor que o Alpha Kids para o meu filho, que é seletivo para comer. Se ele indicar, eu compro o kit e assino.",
+  "price_too_cheap": 30,
+  "price_cheap": 60,
+  "price_expensive": 110,
+  "price_too_expensive": 170
+}

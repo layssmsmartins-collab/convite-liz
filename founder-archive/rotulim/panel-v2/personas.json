@@ -1,0 +1,222 @@
+[
+ {
+  "id": "P001",
+  "name": "Kenji",
+  "age": 43,
+  "segment": "Alta renda",
+  "income": 714000,
+  "behaviour": "Evita assinatura",
+  "behaviour_how": "Já se irritou para cancelar assinatura e prefere comprar avulso quando precisa.",
+  "objection": "Marca nova que eu nunca ouvi falar, para dar ao meu filho todo dia?",
+  "habit": "você segue duas ou três criadoras de conteúdo de maternidade no Instagram"
+ },
+ {
+  "id": "P002",
+  "name": "Keisha",
+  "age": 40,
+  "segment": "Classe média alta, dois salários, um filho",
+  "income": 280000,
+  "behaviour": "Lê rótulo",
+  "behaviour_how": "Confere açúcar, corante e lista de ingredientes antes de qualquer compra para o filho.",
+  "objection": "Na farmácia tem por R$30, qual a diferença de verdade?",
+  "habit": "você já assina pelo menos um serviço de entrega recorrente (ração, café, fraldas)"
+ },
+ {
+  "id": "P003",
+  "name": "Kai",
+  "age": 33,
+  "segment": "Alta renda",
+  "income": 456000,
+  "behaviour": "Segue o pediatra",
+  "behaviour_how": "Só dá suplemento se o pediatra indicar, e compra a marca ou as gotas que ele recomendou.",
+  "objection": "R$149 por mês é caro; o Alpha Kids que eu já conheço sai bem mais barato por mês",
+  "habit": "você faz compra de supermercado por aplicativo toda semana"
+ },
+ {
+  "id": "P004",
+  "name": "Ada",
+  "age": 34,
+  "segment": "Classe média alta, dois salários, um filho",
+  "income": 215000,
+  "behaviour": "Caçador de desconto",
+  "behaviour_how": "Compara preço por unidade, espera promoção da farmácia e usa cupom.",
+  "objection": "Assinatura é difícil de cancelar",
+  "habit": "você segue duas ou três criadoras de conteúdo de maternidade no Instagram"
+ },
+ {
+  "id": "P005",
+  "name": "Wes",
+  "age": 37,
+  "segment": "Renda muito alta",
+  "income": 1174000,
+  "behaviour": "Segue o pediatra",
+  "behaviour_how": "Só dá suplemento se o pediatra indicar, e compra a marca ou as gotas que ele recomendou.",
+  "objection": "R$149 por mês é caro; o Alpha Kids que eu já conheço sai bem mais barato por mês",
+  "habit": "seu filho é seletivo para comer e recusa verduras"
+ },
+ {
+  "id": "P006",
+  "name": "Selin",
+  "age": 29,
+  "segment": "Classe média alta, dois ou mais filhos",
+  "income": 315000,
+  "behaviour": "Já usa um concorrente",
+  "behaviour_how": "Já compra um multivitamínico infantil na farmácia (Alpha Kids, Lavitan, Dr. Good) e está razoavelmente satisfeito.",
+  "objection": "Assinatura é difícil de cancelar",
+  "habit": "a consulta com o pediatra é a cada seis meses"
+ },
+ {
+  "id": "P007",
+  "name": "Ravi",
+  "age": 34,
+  "segment": "Classe média alta, dois salários, um filho",
+  "income": 316000,
+  "behaviour": "Conveniência acima de tudo",
+  "behaviour_how": "Paga mais para não ter que lembrar nem ir à farmácia; já assina várias coisas.",
+  "objection": "Meu filho come bem, será que precisa de suplemento?",
+  "habit": "você faz compra de supermercado por aplicativo toda semana"
+ },
+ {
+  "id": "P008",
+  "name": "Hana",
+  "age": 34,
+  "segment": "Classe média alta, dois salários, um filho",
+  "income": 203000,
+  "behaviour": "Já usa um concorrente",
+  "behaviour_how": "Já compra um multivitamínico infantil na farmácia (Alpha Kids, Lavitan, Dr. Good) e está razoavelmente satisfeito.",
+  "objection": "Goma ou mastigável vira doce, e criança pede mais de um",
+  "habit": "seu filho é seletivo para comer e recusa verduras"
+ },
+ {
+  "id": "P009",
+  "name": "Ana",
+  "age": 41,
+  "segment": "Classe média alta, dois ou mais filhos",
+  "income": 291000,
+  "behaviour": "Já usa um concorrente",
+  "behaviour_how": "Já compra um multivitamínico infantil na farmácia (Alpha Kids, Lavitan, Dr. Good) e está razoavelmente satisfeito.",
+  "objection": "Na farmácia tem por R$30, qual a diferença de verdade?",
+  "habit": "você já assina pelo menos um serviço de entrega recorrente (ração, café, fraldas)"
+ },
+ {
+  "id": "P010",
+  "name": "Talia",
+  "age": 43,
+  "segment": "Classe média alta, dois ou mais filhos",
+  "income": 223000,
+  "behaviour": "Conveniência acima de tudo",
+  "behaviour_how": "Paga mais para não ter que lembrar nem ir à farmácia; já assina várias coisas.",
+  "objection": "Na farmácia tem por R$30, qual a diferença de verdade?",
+  "habit": "você faz compra de supermercado por aplicativo toda semana"
+ },
+ {
+  "id": "P011",
+  "name": "Levi",
+  "age": 34,
+  "segment": "Alta renda",
+  "income": 714000,
+  "behaviour": "Compra pelo Instagram",
+  "behaviour_how": "Descobre produtos infantis por criadoras de conteúdo de maternidade e compra pelo link.",
+  "objection": "O pediatra não pediu isso",
+  "habit": "você leva o filho na escola de carro de manhã e a rotina é corrida"
+ },
+ {
+  "id": "P012",
+  "name": "Adrian",
+  "age": 41,
+  "segment": "Classe média alta, dois ou mais filhos",
+  "income": 243000,
+  "behaviour": "Segue o pediatra",
+  "behaviour_how": "Só dá suplemento se o pediatra indicar, e compra a marca ou as gotas que ele recomendou.",
+  "objection": "Na farmácia tem por R$30, qual a diferença de verdade?",
+  "habit": "você já assina pelo menos um serviço de entrega recorrente (ração, café, fraldas)"
+ },
+ {
+  "id": "P013",
+  "name": "Yusuf",
+  "age": 40,
+  "segment": "Classe média alta, dois salários, um filho",
+  "income": 338000,
+  "behaviour": "Caçador de desconto",
+  "behaviour_how": "Compara preço por unidade, espera promoção da farmácia e usa cupom.",
+  "objection": "E se meu filho não gostar do sabor? Já perdi dinheiro com vitamina que ele cuspiu",
+  "habit": "a consulta com o pediatra é a cada seis meses"
+ },
+ {
+  "id": "P014",
+  "name": "Beatriz",
+  "age": 45,
+  "segment": "Classe média alta, dois salários, um filho",
+  "income": 332000,
+  "behaviour": "Evita assinatura",
+  "behaviour_how": "Já se irritou para cancelar assinatura e prefere comprar avulso quando precisa.",
+  "objection": "R$149 por mês é caro; o Alpha Kids que eu já conheço sai bem mais barato por mês",
+  "habit": "você faz compra de supermercado por aplicativo toda semana"
+ },
+ {
+  "id": "P015",
+  "name": "Sofia",
+  "age": 40,
+  "segment": "Alta renda",
+  "income": 717000,
+  "behaviour": "Lê rótulo",
+  "behaviour_how": "Confere açúcar, corante e lista de ingredientes antes de qualquer compra para o filho.",
+  "objection": "E se meu filho não gostar do sabor? Já perdi dinheiro com vitamina que ele cuspiu",
+  "habit": "seu filho é seletivo para comer e recusa verduras"
+ },
+ {
+  "id": "P016",
+  "name": "Lucia",
+  "age": 31,
+  "segment": "Classe média alta, dois salários, um filho",
+  "income": 199000,
+  "behaviour": "Segue o pediatra",
+  "behaviour_how": "Só dá suplemento se o pediatra indicar, e compra a marca ou as gotas que ele recomendou.",
+  "objection": "R$149 por mês é caro; o Alpha Kids que eu já conheço sai bem mais barato por mês",
+  "habit": "seu filho é seletivo para comer e recusa verduras"
+ },
+ {
+  "id": "P017",
+  "name": "Ruby",
+  "age": 36,
+  "segment": "Alta renda",
+  "income": 402000,
+  "behaviour": "Compra pelo Instagram",
+  "behaviour_how": "Descobre produtos infantis por criadoras de conteúdo de maternidade e compra pelo link.",
+  "objection": "O pediatra não pediu isso",
+  "habit": "você segue duas ou três criadoras de conteúdo de maternidade no Instagram"
+ },
+ {
+  "id": "P018",
+  "name": "Mira",
+  "age": 29,
+  "segment": "Classe média alta, dois ou mais filhos",
+  "income": 385000,
+  "behaviour": "Compra pelo Instagram",
+  "behaviour_how": "Descobre produtos infantis por criadoras de conteúdo de maternidade e compra pelo link.",
+  "objection": "Goma ou mastigável vira doce, e criança pede mais de um",
+  "habit": "você segue duas ou três criadoras de conteúdo de maternidade no Instagram"
+ },
+ {
+  "id": "P019",
+  "name": "Hamza",
+  "age": 41,
+  "segment": "Classe média alta, dois salários, um filho",
+  "income": 235000,
+  "behaviour": "Lê rótulo",
+  "behaviour_how": "Confere açúcar, corante e lista de ingredientes antes de qualquer compra para o filho.",
+  "objection": "Assinatura é difícil de cancelar",
+  "habit": "você leva o filho na escola de carro de manhã e a rotina é corrida"
+ },
+ {
+  "id": "P020",
+  "name": "Andre",
+  "age": 36,
+  "segment": "Renda muito alta",
+  "income": 849000,
+  "behaviour": "Lê rótulo",
+  "behaviour_how": "Confere açúcar, corante e lista de ingredientes antes de qualquer compra para o filho.",
+  "objection": "E se meu filho não gostar do sabor? Já perdi dinheiro com vitamina que ele cuspiu",
+  "habit": "seu filho é seletivo para comer e recusa verduras"
+ }
+]

@@ -1,0 +1,13 @@
+{
+  "id": "P060",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "R$149 por mês num multivitamínico que o pediatra nem pediu? Na farmácia eu acho polivitamínico infantil mastigável por uma fração disso, ainda mais em promoção. Frasco com adesivo não justifica pagar quase R$1.800 por ano.",
+  "objection": "O pediatra não pediu isso, e o preço por comprimido sai uns R$5. Marca nova, só pelo site, sem eu poder comparar na prateleira nem usar cupom.",
+  "would_change_my_mind": "O pediatra recomendar um suplemento para meu filho e o preço cair para perto de R$60-70 por mês, ou um primeiro mês com desconto forte para testar.",
+  "price_too_cheap": 20,
+  "price_cheap": 45,
+  "price_expensive": 80,
+  "price_too_expensive": 110
+}

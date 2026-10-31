@@ -1,0 +1,13 @@
+{
+  "id": "P012",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Dinheiro não é o problema, R$149 nem sinto. Mas o pediatra do meu filho nunca falou em multivitamínico e ele come bem; não vou dar suplemento todo dia só porque vi um post bonito.",
+  "objection": "O pediatra não pediu isso. Se a criança não tem deficiência nenhuma, para que dar vitamina todo dia? E é uma marca nova que eu nunca vi nas criadoras que sigo.",
+  "would_change_my_mind": "O pediatra recomendar um multivitamínico depois de um exame de sangue mostrando alguma carência.",
+  "price_too_cheap": 40,
+  "price_cheap": 80,
+  "price_expensive": 180,
+  "price_too_expensive": 300
+}

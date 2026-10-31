@@ -1,0 +1,13 @@
+{
+  "id": "P012",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Aqui em casa suplemento só entra se o pediatra mandar, e ele nunca mencionou multivitamínico para os meus filhos. Marca nova, vendida só pelo site, a R$129 por mês por criança, quando na farmácia tem gota por R$30: não compro antes de perguntar na consulta.",
+  "objection": "Meus filhos precisam mesmo de multivitamínico? E se precisarem, por que essa marca desconhecida e não a que o pediatra já indica e vende em qualquer farmácia por uma fração do preço?",
+  "would_change_my_mind": "O pediatra olhar a ficha e dizer que recomenda essa fórmula para eles; aí eu compraria o kit e provavelmente assinaria.",
+  "price_too_cheap": 20,
+  "price_cheap": 40,
+  "price_expensive": 80,
+  "price_too_expensive": 130
+}

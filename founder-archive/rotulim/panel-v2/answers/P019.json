@@ -1,0 +1,13 @@
+{
+  "id": "P019",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "quality",
+  "reason": "Compraria só o Kit Teste de R$39: fórmula publicada ao lado das de farmácia e laudo por lote é exatamente o que eu confiro, e sem assinatura não tenho medo de ficar preso. Assinar a R$129 por mês já é outra conversa, só depois de ler o rótulo inteiro e mostrar ao pediatra.",
+  "objection": "R$129 por mês é bem mais que um multivitamínico de farmácia. Quero ver qual adoçante usam e se a dose realmente vale a diferença, porque marca nova e pequena em pré-venda pode sumir ou mudar a fórmula.",
+  "would_change_my_mind": "Para assinar: o pediatra aprovar a ficha e o preço trimestral cair para perto de R$90 por mês.",
+  "price_too_cheap": 40,
+  "price_cheap": 79,
+  "price_expensive": 119,
+  "price_too_expensive": 159
+}

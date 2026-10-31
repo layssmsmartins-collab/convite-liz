@@ -1,0 +1,13 @@
+{
+  "id": "P020",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Já compro o Alpha Kids na farmácia, meus filhos tomam sem reclamar e o pediatra aprovou. Não vou trocar por uma marca que nunca ouvi falar, ainda mais pagando R$149 por criança, que com dois filhos vira quase R$300 por mês.",
+  "objection": "Marca nova, só vendida pelo site, para dar ao meu filho todo dia. Laudo por QR code é bonito, mas quem garante? E o preço é o dobro ou o triplo do que pago na farmácia por algo que parece bem parecido.",
+  "would_change_my_mind": "O pediatra dos meus filhos recomendar a marca na consulta, e um preço com desconto para o segundo filho.",
+  "price_too_cheap": 30,
+  "price_cheap": 60,
+  "price_expensive": 100,
+  "price_too_expensive": 150
+}

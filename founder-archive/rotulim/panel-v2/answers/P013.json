@@ -1,0 +1,13 @@
+{
+  "id": "P013",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "trust",
+  "reason": "Com a devolução dos R$39 se ele cuspir, eu pago o Kit Teste uma vez só para ver se ele aceita o sabor e levo a ficha na consulta. Agora, assinar a R$129 por mês eu não assino sem antes comparar o preço por dose com o da farmácia na promoção.",
+  "objection": "R$129 por mês é muito mais do que eu pago num multivitamínico infantil de farmácia com cupom. Mesmo que ele aceite o sabor, não sei se 'sem açúcar e sem corante' vale pagar várias vezes mais por dose.",
+  "would_change_my_mind": "Um cupom de primeira assinatura ou um preço trimestral perto de R$80 por mês, e o pediatra dizer que vale a pena.",
+  "price_too_cheap": 30,
+  "price_cheap": 60,
+  "price_expensive": 100,
+  "price_too_expensive": 140
+}

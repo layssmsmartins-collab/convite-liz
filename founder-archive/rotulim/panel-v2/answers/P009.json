@@ -1,0 +1,13 @@
+{
+  "id": "P009",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Já compro o Alpha Kids na farmácia por uns R$30 e meus filhos tomam sem reclamar. Pagar R$39 por uma semana e depois R$129 por mês por criança é quatro vezes mais por algo que, no fim, é vitamina; não vejo motivo para trocar o que já funciona.",
+  "objection": "Na farmácia tem por R$30, qual a diferença de verdade? Sem açúcar e sem corante é bom, mas não justifica pagar R$228 por mês pelos dois filhos, e uma marca nova vendida só pelo site ainda não tem histórico.",
+  "would_change_my_mind": "Se o meu pediatra olhasse a comparação de fórmula e dissesse que faz diferença real em relação ao que eles já tomam, e o preço da assinatura ficasse perto de R$60 por mês por criança.",
+  "price_too_cheap": 15,
+  "price_cheap": 35,
+  "price_expensive": 70,
+  "price_too_expensive": 110
+}

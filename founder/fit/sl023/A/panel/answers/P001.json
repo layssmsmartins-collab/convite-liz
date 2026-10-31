@@ -1,0 +1,13 @@
+{
+  "id": "P001",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Fiz exame há pouco e está tudo normal, então não vejo por que gastar R$129 a R$149 por mês num multivitamínico em pó. Com o que eu ganho, isso pesa no orçamento de quem mora sozinha.",
+  "objection": "Não sei se eu preciso disso. E fico desconfiada de caber 100% do magnésio em bisglicinato mais ômega 3 numa colher de 5 g; quero ver a tabela nutricional com as quantidades em mg antes de acreditar.",
+  "would_change_my_mind": "Um exame mostrando vitamina D ou magnésio baixo, com a médica recomendando suplementar, e a tabela completa com as doses publicada no site.",
+  "price_too_cheap": 39,
+  "price_cheap": 69,
+  "price_expensive": 99,
+  "price_too_expensive": 139
+}

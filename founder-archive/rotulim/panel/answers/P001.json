@@ -1,0 +1,13 @@
+{
+  "id": "P001",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "O pediatra nunca pediu multivitamínico para meu filho, ele come bem. Gostei do sem açúcar e do laudo, mas não vou dar suplemento todo dia sem indicação médica, ainda mais de uma marca nova que só vende pelo site.",
+  "objection": "Meu filho não precisa disso, e R$149 por mês é caro para algo que o pediatra não recomendou e de uma marca que eu nunca ouvi falar.",
+  "would_change_my_mind": "O pediatra indicar um multivitamínico para ele, e eu poder ver a lista completa de ingredientes e o laudo antes de assinar.",
+  "price_too_cheap": 35,
+  "price_cheap": 60,
+  "price_expensive": 100,
+  "price_too_expensive": 150
+}

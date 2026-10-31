@@ -1,0 +1,13 @@
+{
+  "id": "P019",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Marca nova que eu nunca ouvi falar, vendida só pelo site. Eu só tomo o que a minha ginecologista indica, e não vou trocar as cápsulas que ela passou por um pó de morango sem ela aprovar.",
+  "objection": "Não conheço a marca nem quem está por trás, e não sei se essas doses combinam com o que eu já tomo; minha médica nunca falou desse produto.",
+  "would_change_my_mind": "Minha ginecologista olhar o rótulo e me indicar o produto.",
+  "price_too_cheap": 50,
+  "price_cheap": 90,
+  "price_expensive": 180,
+  "price_too_expensive": 250
+}

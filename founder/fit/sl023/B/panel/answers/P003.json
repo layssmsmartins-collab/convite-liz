@@ -1,0 +1,13 @@
+{
+  "id": "P003",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Marca nova que eu nunca ouvi falar, vendida só pelo site, com cara de 'produto para a menopausa' — pra mim isso é marketing em cima de um multivitamínico comum. Eu já faço meu pilates e minha caminhada, e se precisar de vitamina D ou magnésio peço pra minha médica e compro na farmácia por bem menos.",
+  "objection": "Não sei quem está por trás, não vejo laudo nem estudo, e R$149 por um pó de vitaminas que eu acho na farmácia separado por uma fração do preço parece caro demais. A garantia só cobre o sabor, não se não fizer diferença nenhuma.",
+  "would_change_my_mind": "Minha ginecologista recomendar esse produto especificamente, com laudo de análise independente mostrando que tem mesmo o que diz no rótulo.",
+  "price_too_cheap": 30,
+  "price_cheap": 60,
+  "price_expensive": 100,
+  "price_too_expensive": 140
+}

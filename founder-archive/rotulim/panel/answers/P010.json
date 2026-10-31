@@ -1,0 +1,13 @@
+{
+  "id": "P010",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Dinheiro não é o problema, R$149 nem pesa. Mas eu não dou nada todo dia pro meu filho de uma marca que acabei de conhecer e que nenhuma criadora que eu sigo nem o pediatra dele indicou.",
+  "objection": "Marca nova, sem nome, sem histórico, vendida só no site próprio. O laudo por QR code é legal, mas quem garante quem fez o laudo? E será que meu filho precisa mesmo de multivitamínico se ele come bem?",
+  "would_change_my_mind": "Ver uma criadora de maternidade que eu confio usando de verdade com os filhos dela por alguns meses, de preferência com o aval de um pediatra, e um link direto dela.",
+  "price_too_cheap": 50,
+  "price_cheap": 99,
+  "price_expensive": 199,
+  "price_too_expensive": 300
+}

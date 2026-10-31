@@ -1,0 +1,33 @@
+{
+  "business": "Marca nova (nome provisório) de drink da noite em pó com magnésio, para adultos, vendido online no Brasil",
+  "target": "adultos de 25 a 45 anos, maioria mulheres, rotina estressante, que já pesquisaram magnésio ou melatonina e querem um ritual antes de dormir, classe média e média alta (você é brasileira ou brasileiro, pensa em reais e responde em português; renda anual em reais)",
+  "where": "capitais e grandes cidades do Brasil",
+  "age": [25, 45],
+  "segments": [
+    {"name": "Início de carreira", "share": 0.35, "income": [48000, 96000]},
+    {"name": "Carreira consolidada", "share": 0.40, "income": [96000, 240000]},
+    {"name": "Mãe ou pai com filho pequeno", "share": 0.25, "income": [96000, 300000]}
+  ],
+  "behaviours": [
+    {"name": "Já toma magnésio ou melatonina", "share": 0.25, "how": "Toma magnésio em cápsula ou melatonina de vez em quando para dormir."},
+    {"name": "Segue trends de bem-estar", "share": 0.20, "how": "Viu o 'drink do sono' com magnésio no TikTok e quer testar."},
+    {"name": "Lê rótulo", "share": 0.15, "how": "Confere dose e forma do magnésio."},
+    {"name": "Caçador de desconto", "share": 0.15, "how": "Compra magnésio genérico barato em farmácia ou na Shopee."},
+    {"name": "Cético", "share": 0.15, "how": "Acha que dormir mal se resolve com rotina, não com pó."},
+    {"name": "Evita assinatura", "share": 0.10, "how": "Prefere comprar avulso quando acaba."}
+  ],
+  "objections": [
+    "R$149 por mês é caro; magnésio em cápsula custa R$30",
+    "Sem melatonina, será que ajuda a dormir?",
+    "Pó com vitamina B à noite não tira o sono?",
+    "Sabor tutti-frutti de noite?",
+    "Marca nova que eu nunca ouvi falar",
+    "Já tentei magnésio e não senti nada"
+  ],
+  "habits": [
+    "você fica no celular até tarde",
+    "você acorda cansado ou cansada",
+    "você toma chá à noite às vezes",
+    "você assiste vídeos de rotina noturna no TikTok"
+  ]
+}

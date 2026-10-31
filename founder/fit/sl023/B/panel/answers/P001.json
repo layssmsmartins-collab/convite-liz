@@ -1,0 +1,13 @@
+{
+  "id": "P001",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Eu já tomo vitamina D, magnésio e cálcio porque a minha médica pediu, nas doses que ela passou. Trocar isso por um pó de marca nova que nem tem cálcio, sem falar com ela antes, eu não faço.",
+  "objection": "A minha médica não pediu isso, e não sei se as doses desse pó batem com o que ela me receitou. Também não tem cálcio, então eu continuaria tomando cápsula do mesmo jeito.",
+  "would_change_my_mind": "A minha ginecologista olhar o rótulo e dizer que pode substituir as cápsulas que eu tomo hoje.",
+  "price_too_cheap": 50,
+  "price_cheap": 79,
+  "price_expensive": 119,
+  "price_too_expensive": 160
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P018",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "convenience",
+  "reason": "Já tomo magnésio, vitamina D e ômega 3 em cápsula e trocar tudo por um copo de água me atrai; R$149 não pesa e, com devolução se eu não gostar do sabor, compro um pote de morango para testar. Tutti-frutti nem pensar, parece suco de criança.",
+  "objection": "Não acredito muito que caiba 100% do valor diário de magnésio bisglicinato mais DHA em 5 g de pó; quero ver a tabela nutricional com os miligramas de cada coisa, principalmente quanto DHA tem, antes de largar minhas cápsulas.",
+  "would_change_my_mind": "Se a tabela nutricional mostrar pouco DHA ou magnésio abaixo do que eu já tomo, eu não compro.",
+  "price_too_cheap": 50,
+  "price_cheap": 99,
+  "price_expensive": 199,
+  "price_too_expensive": 300
+}

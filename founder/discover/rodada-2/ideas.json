@@ -1,0 +1,329 @@
+{
+ "budget": 60000,
+ "ideas": [
+  {
+   "id": "R01",
+   "name": "Cuidado de pele para corredores",
+   "one_line": "Antiatrito em bastão, bálsamo pós-treino e protetor labial esportivo para quem corre em run club, R$79 o bastão",
+   "model": "Body Glide / Squirrel's Nut Butter (EUA)",
+   "price": 79,
+   "variable_cost": 24,
+   "startup_cost": 35000,
+   "lenses": {
+    "offers": 6,
+    "monopoly": 4,
+    "product": 6
+   },
+   "demand": 4,
+   "virality": 3,
+   "brazil_fit": 3,
+   "repeat": 5,
+   "fit": 3,
+   "regulatory": 3,
+   "reasons": {
+    "offers": "Dor concreta (assadura no longão) e resultado imediato",
+    "monopoly": "Pink Cheeks já é o antiatrito oficial da Maratona do Rio; O Boticário tem linha; Body Glide a ~R$120",
+    "product": "Fórmula e formato (bastão que não derrete no calor) são diferenciáveis",
+    "demand": "Brasil: 14,6 mi de corredores em 2026, +60% sobre 2022 (https://maquinadoesporte.com.br/running/corrida-de-rua-bate-146-milhoes-de-praticantes-e-ve-produto-perder-espaco-para-comunidade/); clubes de corrida no Strava 8,8× no Brasil (https://insider.fitt.co/run-clubs-reach-record-highs-strava/); categoria antiatrito global +6,9%/ano (https://www.intelmarketresearch.com/anti-chafing-balm-sticks-market-44063)",
+    "virality": "Vive dentro de comunidades (run clubs, provas), mas o produto em si não 'aparece' em vídeo",
+    "brazil_fit": "Demanda crescente, mas há players locais (Pink Cheeks, https://www.belezanaweb.com.br/pink-cheeks-sportsit-bastao-antiassaduras-13g/)",
+    "repeat": "Consumível: um bastão por um ou dois meses de treino",
+    "fit": "Terceirista fabrica e notifica; ela opera marca, fornecedor e e-commerce",
+    "regulatory": "Cosmético (provável grau 1), notificado pelo terceirista: confirmar a classificação",
+    "variable_cost": "Estimativa: terceirização R$12 + embalagem R$4 + frete e taxas R$8"
+   },
+   "regulatory_outsourced": true
+  },
+  {
+   "id": "R02",
+   "name": "Ritual de matcha premium",
+   "one_line": "Kit de matcha (tigela, batedor, matcha de origem) + refil mensal por assinatura, R$129 o refil",
+   "model": "onda de matcha nos EUA (vendas +86% em 3 anos)",
+   "price": 129,
+   "variable_cost": 58,
+   "startup_cost": 30000,
+   "lenses": {
+    "offers": 6,
+    "monopoly": 4,
+    "product": 6
+   },
+   "demand": 4,
+   "virality": 4,
+   "brazil_fit": 3,
+   "repeat": 5,
+   "fit": 3,
+   "regulatory": 3,
+   "reasons": {
+    "offers": "Ritual diário, energia sem café, estética forte",
+    "monopoly": "Namu se apresenta como a 1ª marca brasileira de matcha; insumo é commodity importada com falta de oferta",
+    "product": "Curadoria de origem e o kit do ritual dão diferença; o pó em si não",
+    "demand": "EUA: vendas +86% de 2022 a 2025 segundo NielsenIQ (https://6abc.com/amp/post/how-matcha-prices-popular-powdered-tea-soar-due-global-demand/17827300/); Brasil: menções +46% (https://centraldovarejo.com.br/?p=46579)",
+    "virality": "Bebida colorida que filma bem; o ritual vira conteúdo de cliente",
+    "brazil_fit": "Cresce em cafeterias (Starbucks, Go Coffee), Namu como concorrente direta (https://gironews.com/food-service/consumo-de-matcha-cresce-nas-cafeterias-do-brasil-gerando-demanda-para-fornecedores/)",
+    "repeat": "Consumível mensal",
+    "fit": "Importação e envase por terceiro; risco de preço do insumo (+75% na safra 2025)",
+    "regulatory": "Alimento importado: importador/envasador habilitado faz a regularização e a rotulagem",
+    "variable_cost": "Estimativa: matcha importado R$40 + embalagem R$6 + frete e taxas R$12 (sobe com a falta de oferta)"
+   },
+   "regulatory_outsourced": true
+  },
+  {
+   "id": "R03",
+   "name": "Pickleball premium",
+   "one_line": "Raquetes de carbono, bolas e acessórios de marca brasileira para o pickleball que está nascendo no país, R$799 a raquete",
+   "model": "Selkirk / JOOLA (EUA)",
+   "price": 799,
+   "variable_cost": 290,
+   "startup_cost": 55000,
+   "lenses": {
+    "offers": 6,
+    "monopoly": 5,
+    "product": 7
+   },
+   "demand": 4,
+   "virality": 4,
+   "brazil_fit": 4,
+   "repeat": 3,
+   "fit": 3,
+   "regulatory": 1,
+   "reasons": {
+    "offers": "Jogador quer jogar melhor e pertencer; raquete é o item de identidade",
+    "monopoly": "Ser a 1ª marca premium brasileira num esporte que começa cria laço com clubes e comunidade",
+    "product": "Raquete é produto de especificação (núcleo, face, peso): dá para ser excelente",
+    "demand": "EUA: 24,3 mi de jogadores em 2025, +171,8% em 3 anos, o esporte que mais cresce (https://sfia.org/research/u-s-pickleball-participation/); Brasil: ~160 mil praticantes, de 4 mil em ~2,5 anos, dado da confederação (https://www.mixvale.com.br/2026/09/29/pratica-do-pickleball-cresce-no-brasil-e-mira-jogos-pan-americanos/)",
+    "virality": "Esporte social, de clube e de vídeo curto; comunidade nasce junto",
+    "brazil_fit": "Nenhuma raquete de marca brasileira encontrada (Centauro: Ama Sport, Prokennex, Head, adidas, https://www.centauro.com.br/nav/modalidade/pickleball/idade/adulto); mercado ainda pequeno",
+    "repeat": "Bolas e grips se repõem; raquete se troca a cada 1–2 anos",
+    "fit": "Especificação técnica e importação OEM são forças dela; o ticket alto exige estoque",
+    "regulatory": "Sem regulação específica",
+    "variable_cost": "Estimativa: OEM R$150 + imposto de importação e frete ~R$100 + taxas R$40"
+   }
+  },
+  {
+   "id": "R04",
+   "name": "Protetor auricular de design",
+   "one_line": "Protetores auriculares reutilizáveis e bonitos para shows, foco e sono, em cores, R$199",
+   "model": "Loop Earplugs (Bélgica, forte nos EUA)",
+   "price": 199,
+   "variable_cost": 55,
+   "startup_cost": 40000,
+   "lenses": {
+    "offers": 7,
+    "monopoly": 5,
+    "product": 7
+   },
+   "demand": 5,
+   "virality": 5,
+   "brazil_fit": 4,
+   "repeat": 2,
+   "fit": 4,
+   "regulatory": 2,
+   "reasons": {
+    "offers": "Benefício claro (ouvir o show sem zumbido, focar, dormir) e vira acessório de estilo",
+    "monopoly": "Marca e design defendem; a Loop tem desenho protegido, então o formato precisa ser próprio",
+    "product": "Produto de engenharia (atenuação, ajuste, material): dá para ser 10× melhor que a espuma",
+    "demand": "Loop: receita de €42 mi (2020) para €190 mi (2024) (https://www.retailbrew.com/stories/2025/11/07/how-loop-earplugs-made-ear-protection-trendy, https://ecdb.com/resources/sample-data/retailer/loop-earplugs)",
+    "virality": "Acessório de moda visível em show e festival; comunidades de sono, foco e neurodivergência",
+    "brazil_fit": "Sem marca de design no Brasil: só espuma 3M e Vonder baratas (https://www.casasbahia.com.br/kit-protetor-plug-auricular-com-cordao-10-pares-vonder/p/1569620783); a Loop aparece em comparador, sem loja local (https://br.my-best.com/categories/2479)",
+    "repeat": "Ponteiras de reposição e novas cores; o produto em si dura",
+    "fit": "Molde, material e teste de atenuação são engenharia pura; ela não precisa aparecer",
+    "regulatory": "Confirmar: vendido como EPI precisa de CA; como acessório de consumo, não. Não fazer alegação de saúde",
+    "variable_cost": "Estimativa: OEM silicone + estojo R$25 + frete R$15 + taxas R$15"
+   }
+  },
+  {
+   "id": "R05",
+   "name": "Higiene masculina natural",
+   "one_line": "Sabonetes em barra e desodorante natural masculinos com marca divertida, por assinatura, R$129 o kit de 3",
+   "model": "Dr. Squatch (EUA)",
+   "price": 129,
+   "variable_cost": 38,
+   "startup_cost": 35000,
+   "lenses": {
+    "offers": 6,
+    "monopoly": 4,
+    "product": 6
+   },
+   "demand": 4,
+   "virality": 3,
+   "brazil_fit": 3,
+   "repeat": 5,
+   "fit": 3,
+   "regulatory": 3,
+   "reasons": {
+    "offers": "Troca de hábito simples, cheiro forte, presente fácil",
+    "monopoly": "Natura, Abelha Rainha e Giorno Bagno no varejo; a marca é a defesa",
+    "product": "Fórmula e fragrância bem feitas diferenciam; é copiável",
+    "demand": "Dr. Squatch: vendas anuais acima de US$400 mi, comprada pela Unilever por ~US$1,5 bi (https://www.beautyindependent.com/unilever-and-tsg-consumer-man-up-with-dr-squatch-dude-wipes-deals/)",
+    "virality": "O modelo cresceu com humor, mas muito por mídia paga; orgânico é médio",
+    "brazil_fit": "Massa (https://www.drogal.com.br/sabonete-natural-em-barra-masculino-giorno-bagno-uomo-laranja-cabelo-barba-e-corpo-180g/p); premium natural masculino sem líder claro",
+    "repeat": "Consumível mensal",
+    "fit": "Terceirista de cosméticos fabrica; ela opera",
+    "regulatory": "Sabonete grau 1 notificado pelo terceirista; desodorante antitranspirante seria grau 2 (evitar)",
+    "variable_cost": "Estimativa: 3 barras terceirizadas R$18 + embalagem R$6 + frete e taxas R$14"
+   },
+   "regulatory_outsourced": true
+  },
+  {
+   "id": "R06",
+   "name": "Spray de mãos colecionável",
+   "one_line": "Hidratante de mãos em spray, perfumado e colecionável, de bolsa, R$69",
+   "model": "Touchland (EUA)",
+   "price": 69,
+   "variable_cost": 22,
+   "startup_cost": 35000,
+   "lenses": {
+    "offers": 6,
+    "monopoly": 4,
+    "product": 6
+   },
+   "demand": 4,
+   "virality": 5,
+   "brazil_fit": 2,
+   "repeat": 5,
+   "fit": 3,
+   "regulatory": 3,
+   "reasons": {
+    "offers": "Uso diário, sensorial, cabe na bolsa, presente",
+    "monopoly": "Body splash no Brasil é dominado por O Boticário, Natura e marcas de influenciadora",
+    "product": "Embalagem e fragrância são o produto; dá para ser bonito, mas é copiável",
+    "demand": "Touchland: ~US$130 mi em 12 meses, a marca que mais cresce na categoria nos EUA, comprada por até US$880 mi (https://www.retaildive.com/news/church-and-dwight-acquires-touchland-880-million/748062/)",
+    "virality": "Cores, coleção e uso na bolsa viralizam no TikTok",
+    "brazil_fit": "Categoria vizinha (body splash) lotada; o spray de mãos ainda não tem prova de demanda local",
+    "repeat": "Consumível e colecionável",
+    "fit": "Terceirista fabrica e notifica",
+    "regulatory": "Hidratante grau 1 com o terceirista; versão antisséptica (álcool) mudaria a classe, evitar",
+    "variable_cost": "Estimativa: envase terceirizado R$9 + frasco R$5 + frete e taxas R$8"
+   },
+   "regulatory_outsourced": true
+  },
+  {
+   "id": "R07",
+   "name": "Unhas postiças premium",
+   "one_line": "Unhas press-on reutilizáveis de salão em casa, coleções mensais, R$89",
+   "model": "Glamnetic / Olive & June (EUA)",
+   "price": 89,
+   "variable_cost": 24,
+   "startup_cost": 30000,
+   "lenses": {
+    "offers": 6,
+    "monopoly": 4,
+    "product": 6
+   },
+   "demand": 3,
+   "virality": 5,
+   "brazil_fit": 2,
+   "repeat": 4,
+   "fit": 3,
+   "regulatory": 2,
+   "reasons": {
+    "offers": "Unha de salão em 10 minutos, sem marcar hora",
+    "monopoly": "Copiável; marketplaces cheios de press-on genérico",
+    "product": "Forma, cola e reuso são diferenciáveis",
+    "demand": "Glamnetic passou de US$100 mi de receita (https://www.shopify.com/au/blog/glamnetic-pivot-growth); categoria +380% entre 2021 e 2022, em parte efeito da pandemia (https://www.modernretail.co/?p=67124)",
+    "virality": "Altamente visual, troca de coleção vira conteúdo",
+    "brazil_fit": "No Brasil a manicure é barata e cultural, o que enfraquece o 'evite o salão'; sem dado local encontrado",
+    "repeat": "Coleções e reposição",
+    "fit": "Fornecedor OEM e coleção; operável",
+    "regulatory": "Acessório; a cola pode ser cosmético: confirmar",
+    "variable_cost": "Estimativa: OEM R$10 + embalagem R$4 + frete e taxas R$10"
+   }
+  },
+  {
+   "id": "R08",
+   "name": "Máscara de dormir 3D",
+   "one_line": "Máscara de dormir ajustável com bloqueio total de luz, R$249",
+   "model": "Manta Sleep (EUA)",
+   "price": 249,
+   "variable_cost": 70,
+   "startup_cost": 30000,
+   "lenses": {
+    "offers": 6,
+    "monopoly": 4,
+    "product": 6
+   },
+   "demand": 3,
+   "virality": 3,
+   "brazil_fit": 3,
+   "repeat": 2,
+   "fit": 3,
+   "regulatory": 1,
+   "reasons": {
+    "offers": "Dormir melhor é desejo forte",
+    "monopoly": "Copiável; genéricos baratos no ML",
+    "product": "Ajuste 3D e material são diferenciáveis",
+    "demand": "Manta virou negócio de 8 dígitos e cresceu 25% com expansão via TikTok (https://www.shopify.com/blog/manta-sleep-international-expansion)",
+    "virality": "Tema 'sono' é popular, mas o produto rende pouco vídeo",
+    "brazil_fit": "Genéricos baratos; premium sem líder",
+    "repeat": "Compra única, com reposição rara",
+    "fit": "Operável",
+    "regulatory": "Sem regulação",
+    "variable_cost": "Estimativa: OEM R$40 + frete R$15 + taxas R$15"
+   }
+  },
+  {
+   "id": "R09",
+   "name": "Garrafa de design",
+   "one_line": "Garrafa térmica de design com bocal duplo, R$229",
+   "model": "Owala (EUA)",
+   "price": 229,
+   "variable_cost": 90,
+   "startup_cost": 40000,
+   "lenses": {
+    "offers": 5,
+    "monopoly": 3,
+    "product": 5
+   },
+   "demand": 3,
+   "virality": 4,
+   "brazil_fit": 2,
+   "repeat": 1,
+   "fit": 3,
+   "regulatory": 1,
+   "reasons": {
+    "offers": "Hidratação com estilo",
+    "monopoly": "Stanley domina, e Pacco, Quiks e genéricos lotam o Brasil",
+    "product": "Bocal e vedação são engenharia, mas é copiável",
+    "demand": "A participação da Stanley caiu de 79% para 43% no online com o avanço de Owala e outras (https://particl.com/reports/water-wars); vendas sazonais",
+    "virality": "Muito visual, mas é a categoria da moda Stanley",
+    "brazil_fit": "Mercado saturado",
+    "repeat": "Compra única",
+    "fit": "Operável",
+    "regulatory": "Contato com alimento, leve",
+    "variable_cost": "Estimativa: OEM R$55 + frete R$20 + taxas R$15"
+   }
+  },
+  {
+   "id": "R10",
+   "name": "Meias e acessórios de run club",
+   "one_line": "Meias técnicas, bonés e cintos premium de marca de corrida, feitos para run clubs, R$219 o kit",
+   "model": "Tracksmith / Bandit (EUA)",
+   "price": 219,
+   "variable_cost": 70,
+   "startup_cost": 40000,
+   "lenses": {
+    "offers": 5,
+    "monopoly": 5,
+    "product": 6
+   },
+   "demand": 4,
+   "virality": 4,
+   "brazil_fit": 4,
+   "repeat": 4,
+   "fit": 3,
+   "regulatory": 1,
+   "reasons": {
+    "offers": "Corredor paga por conforto e identidade; o kit do clube é desejo",
+    "monopoly": "Comunidade e identidade de marca criam laço; uniformes para clubes",
+    "product": "Meia técnica tem engenharia (costura, zonas, fio)",
+    "demand": "Brasil: 14,6 mi de corredores (https://maquinadoesporte.com.br/running/corrida-de-rua-bate-146-milhoes-de-praticantes-e-ve-produto-perder-espaco-para-comunidade/) e clubes no Strava 8,8× (https://insider.fitt.co/run-clubs-reach-record-highs-strava/); dados de receita dos modelos americanos não encontrados",
+    "virality": "Run clubs postam em grupo; marca vira uniforme",
+    "brazil_fit": "Nenhuma marca BR premium de meia de corrida encontrada (https://buscamelhores.com.br/melhor-meia-corrida)",
+    "repeat": "Meia se gasta; novas cores e edições de prova",
+    "fit": "Malharia nacional e controle de qualidade; tamanhos complicam o estoque",
+    "regulatory": "Só a etiqueta têxtil",
+    "variable_cost": "Estimativa: 3 pares e boné de malharia nacional R$45 + frete R$12 + taxas R$13"
+   }
+  }
+ ]
+}

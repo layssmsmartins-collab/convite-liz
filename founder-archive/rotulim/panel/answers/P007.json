@@ -1,0 +1,13 @@
+{
+  "id": "P007",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Já compro o Alpha Kids na farmácia por uns R$50 e meus filhos tomam numa boa. Com dois filhos isso daria quase R$300 por mês só de vitamina, não faz sentido trocar algo que já funciona.",
+  "objection": "R$149 por criança é três vezes o que pago hoje, e um mastigável continua parecendo doce, meu filho vai querer comer mais de um. Laudo e frasco com adesivo não justificam essa diferença.",
+  "would_change_my_mind": "Um preço perto de R$69 por criança, ou desconto forte para o segundo filho, e vender também no app de mercado que eu já uso.",
+  "price_too_cheap": 25,
+  "price_cheap": 45,
+  "price_expensive": 80,
+  "price_too_expensive": 110
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P018",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Fiz a conta: dá uns R$5 por dose, e eu compro magnésio bisglicinato e um polivitamínico genérico na farmácia ou na Shopee por bem menos que isso por mês. Pagar quase R$150 por sabor de morango e praticidade não fecha pra mim.",
+  "objection": "Isso dá energia mesmo ou é marketing? O rótulo só fala em 'auxilia no metabolismo energético', que é o que qualquer vitamina B genérica já faz, e a marca é nova, vendida só no site, sem ninguém que eu conheça usando.",
+  "would_change_my_mind": "Um preço por dose perto do que eu já gasto com cápsulas genéricas, tipo R$79 a R$89 na assinatura, ou um kit de amostra barato pra eu testar antes.",
+  "price_too_cheap": 35,
+  "price_cheap": 69,
+  "price_expensive": 99,
+  "price_too_expensive": 129
+}

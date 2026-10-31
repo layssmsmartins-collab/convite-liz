@@ -1,0 +1,150 @@
+{
+ "business": "Marca nova (nome provisório) de drink diário em pó com vitaminas e minerais para mulheres de 40 anos ou mais, vendido online no Brasil",
+ "seed": 2310,
+ "dealt": 20,
+ "answered": 20,
+ "skipped": [],
+ "buys": 2,
+ "passes": 18,
+ "buy_rate": 0.1,
+ "by_segment": [
+  [
+   "Alta renda",
+   4,
+   0.25
+  ],
+  [
+   "Média alta, gestora ou profissional liberal",
+   8,
+   0.125
+  ],
+  [
+   "Classe média, trabalha fora",
+   8,
+   0.0
+  ]
+ ],
+ "by_behaviour": [
+  [
+   "Busca comunidade da fase",
+   3,
+   0.3333333333333333
+  ],
+  [
+   "Lê rótulo",
+   3,
+   0.3333333333333333
+  ],
+  [
+   "Já toma várias cápsulas",
+   4,
+   0.0
+  ],
+  [
+   "Segue a ginecologista",
+   5,
+   0.0
+  ],
+  [
+   "Cética com suplemento",
+   3,
+   0.0
+  ],
+  [
+   "Evita assinatura",
+   2,
+   0.0
+  ]
+ ],
+ "by_income": [
+  [
+   "$273,000 and up",
+   7,
+   0.14285714285714285
+  ],
+  [
+   "$133,000 to $273,000",
+   7,
+   0.14285714285714285
+  ],
+  [
+   "under $133,000",
+   6,
+   0.0
+  ]
+ ],
+ "why_not": [
+  [
+   "trust",
+   11,
+   [
+    "Eu já tomo vitamina D, magnésio e cálcio porque a minha médica pediu, nas doses que ela passou. Trocar isso por um pó de marca nova que nem tem cálcio, sem falar com ela antes, eu não faço.",
+    "Eu só tomo suplemento que a minha ginecologista indica, e ela nunca ouviu falar dessa marca, nem eu. Não vou comprar pelo site uma coisa nova sem levar para ela ver antes."
+   ],
+   [
+    "P001",
+    "P002"
+   ]
+  ],
+  [
+   "price",
+   5,
+   [
+    "Eu já tomo vitamina D, magnésio e cálcio separados e gasto bem menos que R$129 por mês com isso. E esse pó nem tem cálcio, então eu continuaria com uma cápsula e pagando mais caro só pela praticidade do sabor.",
+    "R$149 por mês é caro pra algo que eu já resolvo com magnésio e vitamina D de farmácia por bem menos. Sabor bom e devolução do dinheiro não pagam a diferença todo mês."
+   ],
+   [
+    "P006",
+    "P007"
+   ]
+  ],
+  [
+   "need",
+   2,
+   [
+    "O que eu quero resolver é calor, insônia e humor, e o próprio rótulo só fala de ossos, músculo, sistema nervoso e imunidade. É basicamente um multivitamínico em pó, e eu já tomo vitamina D e magnésio. Além disso não tem cálcio, então nem me livraria das cápsulas.",
+    "O que me incomoda é calor, insônia e acordar cansada, e o rótulo só fala de músculo, osso, sistema nervoso e imunidade. Parece um multivitamínico gostoso a R$149, e isso eu resolvo com o que minha ginecologista já me passou."
+   ],
+   [
+    "P013",
+    "P016"
+   ]
+  ]
+ ],
+ "why_yes": [
+  [
+   "convenience",
+   2,
+   [
+    "Já tomo magnésio, vitamina D e ômega 3 em cápsula e trocar tudo por um copo de água me atrai; R$149 não pesa e, com devolução se eu não gostar do sabor, compro um pote de morango para testar. Tutti-frutti nem pensar, parece suco de criança.",
+    "Já tomo magnésio e vitamina D em cápsula e esqueço metade dos dias; um copo saboroso de manhã pode resolver isso, e com a devolução se eu não gostar do sabor, R$149 para testar um pote não pesa no meu bolso."
+   ],
+   [
+    "P018",
+    "P020"
+   ]
+  ]
+ ],
+ "flip": [
+  "A minha ginecologista olhar o rótulo e dizer que pode substituir as cápsulas que eu tomo hoje.",
+  "A minha ginecologista olhar o rótulo e me dizer que posso trocar minhas cápsulas por isso.",
+  "Minha ginecologista recomendar esse produto especificamente, com laudo de análise independente mostrando que tem mesmo o que diz no rótulo.",
+  "A minha ginecologista olhar o rótulo e me dizer que posso trocar as cápsulas por isso.",
+  "Ver mulheres que eu sigo ou do meu grupo usando há alguns meses e contando o resultado, ou minha ginecologista dizer que a fórmula faz sentido.",
+  "Um primeiro pote mais barato para testar, ou a recomendação da minha ginecologista dizendo que a combinação vale a pena para a menopausa.",
+  "Ver a tabela nutricional completa com as doses de cada item, principalmente DHA e vitamina D, e um preço de assinatura perto de R$89.",
+  "Um tamanho menor para experimentar, tipo 7 ou 10 doses por uns R$40, num sabor mais adulto ou neutro, com a recomendação de alguém em quem confio, como minha ginecologista.",
+  "Preço da assinatura perto de R$79 a R$89 por mês, com a tabela nutricional completa mostrando as doses de cada item, inclusive quanto de DHA.",
+  "A minha ginecologista olhar a fórmula e dizer que posso tomar no lugar das cápsulas.",
+  "Minha ginecologista recomendar a fórmula especificamente, com laudo de análise independente mostrando que as doses do rótulo estão de fato no pote.",
+  "Minha ginecologista olhar o rótulo e me dizer que posso trocar as cápsulas por isso.",
+  "Um estudo ou uma recomendação da minha ginecologista mostrando que essa fórmula ajuda de verdade no sono e nos fogachos, e ter cálcio na composição.",
+  "Se custasse perto de R$79 por mês e incluísse cálcio, para eu realmente parar com todas as cápsulas.",
+  "Minha ginecologista recomendar especificamente, com doses de cada nutriente claras e laudo de análise independente, e um preço perto de R$70 por mês.",
+  "Minha médica recomendar ou um estudo mostrando melhora no sono e nos fogachos com essa fórmula, com garantia de devolução se eu não sentir diferença.",
+  "Ver uma ginecologista ou um perfil de menopausa que eu já sigo recomendando, ou mulheres do meu grupo contando que usam há alguns meses.",
+  "Minha ginecologista olhar o rótulo e me indicar o produto."
+ ],
+ "purchases_first_month_per_buyer": 1.0,
+ "price_answers": 20
+}

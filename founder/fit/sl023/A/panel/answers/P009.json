@@ -1,0 +1,13 @@
+{
+  "id": "P009",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Eu não tomo suplemento nenhum e acho que quem come razoavelmente bem não precisa. Pagar R$129 a R$149 por mês por algo que eu nem sinto falta não faz sentido pra mim.",
+  "objection": "Não vejo necessidade, e se um dia achasse que preciso, um multivitamínico de farmácia custa R$30. Cinco vezes mais caro só porque é em pó com sabor morango?",
+  "would_change_my_mind": "Um exame de sangue mostrando deficiência de vitamina D ou magnésio e meu médico recomendando, e mesmo assim só se o preço ficasse perto do de farmácia.",
+  "price_too_cheap": 15,
+  "price_cheap": 30,
+  "price_expensive": 50,
+  "price_too_expensive": 80
+}

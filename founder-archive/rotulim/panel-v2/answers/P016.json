@@ -1,0 +1,13 @@
+{
+  "id": "P016",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Eu só dou suplemento quando o pediatra indica, e ele nunca falou dessa marca. Não vou comprar nem o kit antes de perguntar na consulta, e se ele achar que precisa, provavelmente indica o Alpha Kids, que já conheço e sai bem mais barato.",
+  "objection": "R$129 a R$149 por mês é caro para um multivitamínico de uma marca nova que ninguém me recomendou, e o pediatra não indicou.",
+  "would_change_my_mind": "O meu pediatra olhar a ficha e indicar essa marca especificamente.",
+  "price_too_cheap": 25,
+  "price_cheap": 50,
+  "price_expensive": 90,
+  "price_too_expensive": 130
+}

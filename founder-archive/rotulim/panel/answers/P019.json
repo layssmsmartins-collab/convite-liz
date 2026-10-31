@@ -1,0 +1,13 @@
+{
+  "id": "P019",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "R$149 por mês é cinco vezes o que pago no multivitamínico infantil da farmácia, que eu ainda compro na promoção com cupom. Frasco com adesivo e QR code não justificam essa diferença para mim.",
+  "objection": "Na farmácia tem por R$30, qual a diferença de verdade? Vitamina é vitamina; não vejo nada na fórmula que prove que vale quase R$1.800 por ano.",
+  "would_change_my_mind": "Um primeiro mês com desconto forte ou preço perto de R$60-70 na assinatura, com comparação clara de dose por dose contra as marcas da farmácia.",
+  "price_too_cheap": 20,
+  "price_cheap": 40,
+  "price_expensive": 70,
+  "price_too_expensive": 100
+}

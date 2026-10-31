@@ -1,0 +1,13 @@
+{
+  "id": "P007",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "R$149 por 30 doses de magnésio com sabor? Eu compro bisglicinato genérico na farmácia ou na Shopee por uns R$40 e funciona igual. E é uma marca que eu nunca ouvi falar, vendida só no site, que nem promete que eu vou dormir melhor.",
+  "objection": "Estou pagando quase quatro vezes mais por um pozinho com sabor e uma embalagem bonita, de uma marca nova sem nenhuma avaliação que eu possa conferir.",
+  "would_change_my_mind": "Um cupom forte de primeira compra ou um kit de teste barato, tipo R$59 a R$69 pelo primeiro pote, com avaliações reais de clientes que eu consiga ver.",
+  "price_too_cheap": 25,
+  "price_cheap": 49,
+  "price_expensive": 79,
+  "price_too_expensive": 110
+}

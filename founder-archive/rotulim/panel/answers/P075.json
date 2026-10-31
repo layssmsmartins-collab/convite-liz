@@ -1,0 +1,13 @@
+{
+  "id": "P075",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Eu só dou suplemento quando o pediatra indica, e aí compro o que ele recomendou. Uma marca nova, vendida só pelo site, que nunca ouvi falar, eu não vou começar a dar todo dia pro meu filho por conta própria.",
+  "objection": "Marca nova que eu nunca ouvi falar, para dar ao meu filho todo dia? Laudo por QR code é bonito, mas quem me garante a fórmula e a dose é o pediatra, não o frasco.",
+  "would_change_my_mind": "O pediatra do meu filho indicar essa marca especificamente.",
+  "price_too_cheap": 40,
+  "price_cheap": 80,
+  "price_expensive": 150,
+  "price_too_expensive": 220
+}

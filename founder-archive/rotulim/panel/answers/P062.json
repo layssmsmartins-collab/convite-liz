@@ -1,0 +1,13 @@
+{
+  "id": "P062",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Gosto de ver sem açúcar, sem corante e com laudo por QR code, isso é raro. Mas R$149 por mês num multivitamínico que nem o pediatra pediu é caro demais, e ainda por cima em assinatura de uma marca que eu nunca ouvi falar.",
+  "objection": "Pagar R$149 todo mês sem o pediatra indicar, e assinatura que na prática dá trabalho para cancelar. Eu preciso ver a tabela nutricional completa antes de dar qualquer coisa para o meu filho.",
+  "would_change_my_mind": "Poder comprar um frasco avulso, sem assinatura, por uns R$80 a R$90, com a lista de ingredientes completa no site e o aval do pediatra.",
+  "price_too_cheap": 35,
+  "price_cheap": 60,
+  "price_expensive": 95,
+  "price_too_expensive": 130
+}

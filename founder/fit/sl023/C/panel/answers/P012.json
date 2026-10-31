@@ -1,0 +1,13 @@
+{
+  "id": "P012",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Eu já tenho meu magnésio em cápsula e meu chá quando preciso, e custa bem menos que R$149 por mês. Pagar isso num pó cheio de vitamina que nem promete me fazer dormir melhor não me convence.",
+  "objection": "Vitamina B6 e B12 à noite não vão me deixar mais ligado? E a própria marca diz que não promete sono melhor, então estou pagando caro por um suco de morango com magnésio.",
+  "would_change_my_mind": "Um pote pequeno de teste por uns R$40 a R$50, ou uma versão só com magnésio sem as vitaminas B, com algum estudo ou nutricionista explicando que não atrapalha o sono.",
+  "price_too_cheap": 35,
+  "price_cheap": 60,
+  "price_expensive": 99,
+  "price_too_expensive": 140
+}

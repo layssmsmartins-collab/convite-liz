@@ -1,0 +1,13 @@
+{
+  "id": "P044",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Eu só dou suplemento pro meu filho se o pediatra indicar, e ele indica marca ou gotas específicas. Uma marca nova vendida só pelo site, que eu nunca ouvi falar, não entra na rotina dele por causa de um adesivo e um QR code.",
+  "objection": "Marca nova que ninguém conhece, para dar ao meu filho todo dia, sem o pediatra ter indicado. Laudo por QR code não substitui a recomendação do médico.",
+  "would_change_my_mind": "O pediatra do meu filho recomendar essa marca especificamente.",
+  "price_too_cheap": 40,
+  "price_cheap": 70,
+  "price_expensive": 120,
+  "price_too_expensive": 160
+}
