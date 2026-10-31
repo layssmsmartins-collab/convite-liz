@@ -1,143 +1,103 @@
-# Marketing e posicionamento: marca da perimenopausa (25/10/2026)
+# Marketing e posicionamento: Períssima (31/10/2026, versão 2)
 
-Evidências usadas:
-- `competitors.md`: concorrentes e lacuna.
-- `evidencias/README.md`: Google Trends e TikTok.
-- `precificacao/panel/results.md`: 20 compradoras simuladas de 35 a 55 anos que já compram suplementos.
-- `../../fit/sl023/B/panel/results.md`: encaixe "mulher 40+".
-- `precificacao/pricing.md`: preço e margem.
+Substitui `marketing-v1-perive.md` (25/10), que fica como histórico. A direção de marca está em `brand-perissima.md`; o visual aprovado, em `marca/perissima/`.
 
-A marca, o nome, a fórmula final e o texto de rótulo ainda não existem. Tudo aqui é para testar, não para assinar.
+Evidências usadas: `pesquisa-resultados-final.md` (62 mulheres reais), `precificacao/panel/results.md` (20 compradoras simuladas), `competitors.md`, `evidencias/README.md`, `tese-oceano-azul.md`, `referencias-nomes-mundo.md` (Rezet, FLO, O Positiv), `precificacao/pricing.md`.
 
-## 1. O que a evidência diz sobre quem compra e por quê
+O nome Períssima ainda depende do INPI e do RT; o rótulo, da Ourocaps. Tudo aqui é para testar, não para assinar.
 
-- **Quem compra primeiro:**
-  - quem **já paga por marca premium** (Essential, Puravida, Ocean Drop): 1 de 3 comprou no painel, e o "começa a ficar caro" desse grupo é R$220;
-  - quem **segue criadoras de saúde feminina** e **monta a própria rotina**: elas não compraram, mas aceitam pagar até ~R$159 e dizem o que as faria comprar.
-- **Por que não compram (painel de preço):**
-  - **confiança, 11 de 20**: "é o que eu já compro separado, num pote só, com rótulo de perimenopausa"; "nenhuma médica ou nutricionista que eu sigo falou dessa marca";
-  - hábito, 3;
-  - "não sei se estou mesmo na perimenopausa", 2;
-  - pó e sabor.
-- **O que a busca mostra:**
-  - "perimenopausa" +600% em 5 anos e no maior nível agora;
-  - "o que é perimenopausa" sobe;
-  - "climatério" e "pré-menopausa" caem;
-  - "hábitos que ajudam na menopausa" tem busca diária constante no TikTok;
-  - um vídeo "qual suplementação para quem tem 44 anos" teve 6,6 mil salvamentos.
-- **Como a concorrência se posiciona:**
-  - farmácia: "Memória" barata para idoso;
-  - nootrópico premium: cafeína, "8 horas de foco", para estudante, profissional e gamer;
-  - mulher 40+: só Kunda e Bergère, pequenas.
-  - **Ninguém é dono da palavra "perimenopausa".**
+## 1. O que a evidência diz (resumo do que não mudou)
+- **Quem compra primeiro:** quem já paga por marca premium (1 de 3 no painel; "começa a ficar caro" em R$220) e quem monta a própria rotina seguindo criadoras.
+- **Por que não compra:** confiança ("é o que eu já compro separado"; "ninguém que eu sigo falou dessa marca"), 11 de 20; "não sei se estou nessa fase", 2; pó e sabor.
+- **Pesquisa real:** 97% conhecem "perimenopausa", só 40% acham que estão nela; 65% nunca tiveram ajuda; dor é sono (71%), esquecer palavras (69%), irritabilidade (65%), ansiedade (63%), cansaço (60%); calor só 18%. 85% compram por indicação profissional; 76% nunca compraram por indicação da internet; vender só pelo site, 5%.
+- **Busca:** "perimenopausa" +600% em 5 anos; "o que é perimenopausa" sobe.
+- **Concorrência:** todas as marcas brasileiras do tema falam de sintoma e alívio, na farmácia (Kunda, Meno Libid, Plenapausa). **Ninguém fala da vida da mulher.**
 
-**Conclusão:** a cliente não está comprando ingredientes, porque ela já tem os ingredientes. Ela compraria **entendimento** ("o que está acontecendo comigo") e **uma rotina pronta para a fase**, de uma marca em que alguém de confiança põe a cara. O posicionamento precisa vender isso, e o produto entra como a parte diária dessa rotina.
+**O que mudou na leitura:** a cliente não compra ingredientes nem "alívio". Ela compra **pertencer a uma marca que é a cara dela** e, dentro disso, **entender o que o corpo está fazendo**. O produto é o objeto diário dessa marca, como o café.
 
 ## 2. Posicionamento
 
-### Versão A, a recomendada: a marca da perimenopausa
-> Para a mulher de 38 a 52 anos que sente que algo mudou (cansaço que não passa com sono, palavra que some no meio da frase, humor que oscila) e ouviu que "é normal", **[Marca] é a primeira marca brasileira feita para a perimenopausa**: explica o que está acontecendo e transforma isso numa rotina diária simples. **Diferente** dos suplementos de "memória" de farmácia, feitos para outra idade, e dos nootrópicos com cafeína, feitos para quem quer render mais.
+> Para a mulher de 35 a 48 que é dona da porra toda (filhos pequenos, relação, negócio ou carreira, sexo, viagem) e desconfia que o cansaço não é só a rotina, **Períssima é a revista e a rotina da millennial que descobriu a peri**: fala da vida dela, de mulher pra mulher, conta o segredo que ninguém contou, e entrega um copo por dia com a dose de cada coisa à vista. **Diferente** das marcas de menopausa da farmácia, que falam de sintoma, e dos suplementos de "memória", feitos para outra idade.
 
-Por que esta versão:
-- **É dona da palavra que está crescendo** ("perimenopausa") num momento em que ninguém é dono dela.
-- **Responde às duas objeções principais:** "é o que eu já compro separado" (a marca vende o entendimento e a rotina, não os ingredientes) e "não sei se estou nessa fase" (a marca começa explicando).
-- **Não depende de prometer memória**, que é uma alegação proibida para suplemento. A promessa é sobre **entender a fase e ter uma rotina**. O produto só usa as alegações da lista, como "B6 e B12 auxiliam no funcionamento do sistema nervoso".
-
-### Versão B: clareza sem cafeína
-> Para a mulher 40+ que quer voltar a se sentir afiada, [Marca] é a rotina diária sem cafeína...
-
-Foi descartada porque "afiada" e "clareza" no produto viram alegação implícita de cognição (risco com a Anvisa). Também briga de frente com Puravida e Essential, que têm mais dinheiro.
-
-### Versão C: o clube da perimenopausa
-> Uma comunidade paga de mulheres na mesma fase, com produto incluso.
-
-Foi descartada como ponto de partida, porque exige moderação diária e depende muito de pessoas. Ela entra como **motor de retenção** da versão A, não como o produto.
+**Por que esta versão:**
+- Cria uma categoria (lifestyle da millennial de 40) em vez de disputar uma prateleira (suplemento de perimenopausa).
+- Responde às objeções: "é o que eu já compro separado" (ela compra a marca e a revista, não os ingredientes); "não sei se estou nessa fase" (a revista começa pela vida, e o segredo chega quando ela já se reconheceu); "ninguém que eu sigo falou" (as criadoras são as próprias leitoras).
+- É **mais seguro na Anvisa** do que a versão 1: a marca vende vida, não efeito; a palavra "perimenopausa" não precisa estar no rótulo.
 
 ### O que a marca diz e o que não diz
-| Diz (conteúdo educativo e marca) | Não diz (produto e anúncio) |
+| Diz (revista, Instagram, e-mail) | Não diz (produto, anúncio, rótulo) |
 |---|---|
-| "Perimenopausa começa anos antes da menopausa" | "Melhora a memória" ou "acaba com a névoa mental" |
-| "Você não está exagerando" | "Substitui a reposição hormonal" |
-| "Leve estas perguntas para a sua médica" | "Clinicamente comprovado" |
-| As alegações da lista (B6, B12, magnésio, vitamina D) | Antes e depois, depoimento de efeito |
+| "Dona da porra toda", "transar", "útero", "calorão" | "Sintoma", "alívio", "tratamento" |
+| "Isso é peri" (reconhecimento com humor) | "Melhora a memória", "regula o cortisol", "acaba com a névoa" |
+| "Começa aos 38. Tem nome. Ninguém te contou." | "Substitui a reposição hormonal" |
+| A dose, o laudo, "a gente te conta tudo" | Antes e depois, depoimento de efeito |
+| As alegações da lista do RT (ex.: "magnésio auxilia na função muscular") | Qualquer alegação fora da lista |
 
-**Confirmar com o responsável técnico do fabricante** se "para mulheres na perimenopausa" pode aparecer no rótulo como público, ou se precisa ficar só na comunicação.
+**Decisão pendente da fundadora:** se o rosto dela entra nos bastidores ("vocês só veem a parte bonita"). A versão 1 dizia "sem o rosto"; a Rezet mostra que o bastidor da fundadora é um dos formatos que mais conecta. Até decidir, o grid roda sem ela.
 
-## 3. Canais (começar com 3)
+## 3. Canais (três, como o conselho pediu)
 
-| Canal | Por que serve | Custo aproximado | Como saber se funcionou |
+| Canal | O que é | Custo aproximado | Como saber se funcionou |
 |---|---|---|---|
-| **1. TikTok e Instagram da marca: série educativa "Perimenopausa sem drama"** | É onde a busca está crescendo e onde ela salva vídeos. O conteúdo é da marca, sem rosto da fundadora: animação, texto na tela, voz | R$1–2 mil/mês (edição freelancer) | Salvamentos e compartilhamentos por vídeo; inscrições na lista de espera vindas da bio |
-| **2. Profissionais e criadoras parceiras** (nutricionistas e criadoras 40+) | O painel disse "nenhuma profissional que eu sigo falou dessa marca": a confiança vem delas | R$2–3 mil/mês em permuta e cachê; tudo como **#publi** | Cupom por parceira: custo por kit de teste vendido |
-| **3. Lista de espera, depois e-mail e WhatsApp** | A marca começa vendendo entendimento; a lista também valida o preço antes do lote | ~R$0–200/mês | Inscrições por semana; taxa de compra no lançamento |
+| **1. Instagram @perissima: a revista** | Grid em seções (Dona da porra toda · Na cama · Mãe, mas não só · A dois · Mala pronta · Linda, radiante · O segredo · O copo). Cinco posts de vida para um de produto. Manchete grande, foto editorial, carrosséis "isso é peri" | R$1,5–2 mil/mês (edição e design freelancer) | Salvamentos e compartilhamentos por post; seguidoras por semana; cliques no link da bio |
+| **2. "Seja uma de nós": criadoras que são leitoras** | As 16 mulheres da pesquisa que aceitaram entrevista são as primeiras. Recebem o pote, o copo e a primeira edição; publicam **o dia delas** com o copo no meio, nunca o efeito. Cupom por criadora. Tudo #publi quando houver cachê ou permuta | R$2–2,5 mil/mês (permuta, cachê pequeno, cupons) | Custo por cliente por criadora; conteúdo reaproveitado no grid |
+| **3. A revista por e-mail e WhatsApp** | Lista de espera que recebe a "edição 0" (PDF da revista: o segredo + um relato + o que perguntar na consulta). Depois, uma edição por mês para quem compra | ~R$0–200/mês | Inscrições por semana; taxa de compra da lista no lançamento; abertura das edições |
 
-**Atenção com médicas:** o código de ética médica restringe a participação de médicos em anúncios de produtos (CFM; confirmar os limites atuais). Comece com **nutricionistas** (confirmar as regras do CFN para indicação de marca) e **criadoras 40+ que vivem a fase**. Médicas podem dar entrevista para o conteúdo educativo, sem endossar o produto.
+**Nutricionistas e médicas:** fora como canal (decisão da fundadora, 28/10). Ficam como **pesquisa do mecanismo de indicação** e como entrevistadas da revista (seção Na cama, O segredo), sem endossar o produto. Médicas não podem endossar produto (CFM); nutricionistas, confirmar as regras do CFN.
 
-**O que não fazer agora:**
-- **Mídia paga em escala:** vai contra a premissa de crescer por comunidade e não cabe nos R$5 mil por mês. Só um impulsionamento pequeno dos vídeos que já funcionam no orgânico.
-- **Farmácia e Mercado Livre:** colocam a marca na prateleira da comparação por ingrediente, que é a objeção número 1.
-- **Rosto da fundadora:** a marca precisa rodar sem ela.
+**O que não fazer agora:** TikTok Shop (fora do lançamento, por decisão do conselho); farmácia e marketplace (prateleira da comparação por ingrediente); mídia paga em escala (só impulsionar o que já funcionou no orgânico).
 
-## 4. Campanha de 30 dias (D = dia do lançamento; trocar pelas datas quando houver)
+## 4. Campanha de 30 dias (D = dia do lançamento)
 
 | Dias | Canal | O que sai |
 |---|---|---|
-| D-14 | TikTok/IG | Vídeo 1, gancho 1. Bio com "lista de espera: guia grátis da perimenopausa" |
-| D-13 a D-10 | TikTok/IG | Um vídeo por dia com os ganchos 2 a 5; carrossel "os 12 sinais da perimenopausa" para salvar |
-| D-12 | Lista | Entrega do guia grátis em PDF: o que muda, o que perguntar à médica, rotina de sono e treino |
-| D-10 | Parceiras | 3 a 5 nutricionistas e criadoras recebem o produto e o guia; vídeo de "abri e expliquei a fórmula" com #publi |
-| D-9 a D-5 | TikTok/IG | Ganchos 6 a 8; uma live ou caixinha de perguntas "pergunte sobre perimenopausa" com uma nutricionista parceira |
-| D-7 | Lista | E-mail: "por que criamos a marca" e a tabela completa de doses; pré-venda aberta só para a lista |
-| D-3 | Lista + parceiras | Lembrete: a oferta de abertura começa no D0 e vai até o D+14 |
-| **D0** | Todos | Lançamento: **kit de teste com 7 doses por R$39, e o valor vira desconto no primeiro pote** até o D+14. Vídeos das parceiras com cupom |
-| D+1 a D+7 | TikTok/IG | Ganchos 9 e 10; responder comentários com vídeo; bastidores (laudo do lote, como é feito o pó) |
-| D+5 | E-mail/WhatsApp | Para quem comprou o kit: "dia 5 da sua rotina", com uma dica do guia |
-| D+8 a D+13 | TikTok/IG | Série "perimenopausa em 30 segundos" (um sintoma por dia); conteúdo das compradoras com autorização, **sem promessa de efeito** |
-| D+14 | Lista | Fim da oferta de abertura (último aviso) |
-| D+15 e D+16 | Todos | Convite para a comunidade de assinantes; ler os números da semana (seção 6) |
+| D-21 | Instagram | Perfil no ar com 9 posts prontos (grid da prancha `Perfil.dc.html`). Bio com "edição 0 grátis" |
+| D-21 a D-15 | Instagram | Um post por dia: manchete "Você não está cansada dos seus filhos" (gancho 1), "isso é peri" (gancho 7), um relato, um Na cama, um Dona da porra toda |
+| D-18 | Lista | Entrega da edição 0 em PDF |
+| D-14 | Criadoras | As 16 recebem a caixa: pote, copo, edição 0 impressa, carta da fundadora. Pedido: "mostre o seu dia, não o efeito" |
+| D-12 a D-6 | Instagram | Ganchos 2 a 6; caixinha "pergunta pra uma de nós" com uma ginecologista entrevistada (sem produto) |
+| D-7 | Lista | E-mail "por que a Períssima existe", com a tabela de doses completa; pré-venda só para a lista |
+| D-3 | Lista + criadoras | Lembrete: oferta de abertura do D0 ao D+14 |
+| **D0** | Todos | Lançamento: pote a R$149 com o copo da Períssima de brinde até D+14 (o copo é merch e é a foto da marca); garantia do primeiro pote |
+| D+1 a D+7 | Instagram | Ganchos 8 a 10; conteúdo das criadoras repostado; bastidor do laudo do lote |
+| D+5 | E-mail/WhatsApp | "Dia 5 do seu copo": um capítulo da revista, não uma dica de efeito |
+| D+8 a D+13 | Instagram | Série "isso é peri" em vídeo curto, um sinal por dia; conteúdo das compradoras com autorização, sem promessa de efeito |
+| D+14 | Lista | Último aviso da oferta |
+| D+15 e D+16 | Todos | Convite à assinatura (R$129/mês, edição mensal inclusa); ler os números (seção 6) |
 
-**Quando não houver nada novo:** perguntas reais dos comentários respondidas em vídeo, "o que perguntar à ginecologista", bastidores do laudo de cada lote, mitos da perimenopausa.
+**Mudança em relação à v1:** sai o kit de 7 doses a R$39 (não existe em pote de 150 g; volta se a Ourocaps fizer stick). Entra o copo como oferta de abertura.
 
-## 5. Os 10 ganchos (cada um responde a uma objeção ou usa um motivo de compra)
+## 5. Os 10 ganchos, por seção da revista
 
-| # | Primeira linha (3 segundos) | Responde a |
+| # | Seção | Primeira linha | Responde a |
+|---|---|---|---|
+| 1 | Mãe, mas não só | "Você não está cansada dos seus filhos. Você está cansada de uma coisa que ninguém te contou." | "Não sei se estou nessa fase" |
+| 2 | Dona da porra toda | "Abri um negócio aos 41 com dois filhos e um útero em transição. Relato." | Identificação: ela se vê |
+| 3 | Na cama | "Libido não é só hormônio. É sono, carga mental e ressentimento. Uma ginecologista e uma terapeuta de casal respondem." | Tabu; a marca fala o que ninguém fala |
+| 4 | A dois | "Como explicar pro seu parceiro o que está acontecendo, sem virar aula." | A mulher que carrega tudo sozinha |
+| 5 | Mala pronta | "Calorão, insônia e um bebê no avião: o que vai na minha mala." | Vida, não sintoma |
+| 6 | Linda, radiante | "Dos 38 aos 48 a pele muda. O que é cosmético e o que é fase." | "Me sentir linda" sem promessa |
+| 7 | O segredo | Carrossel "isso é peri": esqueceu a palavra · acordou às 3h · calor na reunião · "ouvi que é normal" → "mas isso também é…" | 40% não sabem se estão na fase |
+| 8 | O segredo | "97% das mulheres conhecem a palavra. 40% não sabem se estão nela. Começa aos 38." | Falta de informação (Trends) |
+| 9 | O copo | "O que tem no meu copo, miligrama por miligrama. E o que a lei deixa a gente dizer sobre isso." | "É o que eu já compro separado"; transparência |
+| 10 | O copo / bastidor | "Este é o laudo do lote que você vai tomar." (+ bastidor: "vocês só veem a parte bonita") | "Marca nova que nunca ouvi falar" |
+
+## 6. Orçamento e números (sem mudança de valor)
+R$5 mil/mês de aquisição: R$2,5 mil criadoras; R$1,5 mil conteúdo e design; R$700 caixas para criadoras e copos; R$300 impulsionamento.
+
+Custo por cliente alvo **até R$70** (o primeiro pote avulso paga a aquisição); teto R$150 só com assinantes ficando 3 meses ou mais. Equilíbrio a R$149 ≈ 117 potes/mês (`precificacao/pricing.md`, a refazer com o custo real da Ourocaps).
+
+| Número semanal | Bom | Mudar algo se |
 |---|---|---|
-| 1 | "Se você tem 42 anos e ouviu que seu cansaço é 'normal', este vídeo é pra você." | "Não sei se estou nessa fase" |
-| 2 | "Perimenopausa começa até 10 anos antes da menopausa. Ninguém te contou isso." | Falta de informação (Trends: "o que é perimenopausa") |
-| 3 | "Esquecer palavra no meio da frase aos 45: o que pode estar por trás." (conteúdo educativo, sem citar o produto) | O motivo que as compradoras citaram |
-| 4 | "Climatério, pré-menopausa, perimenopausa: qual é a diferença?" | A mudança de vocabulário |
-| 5 | "3 perguntas para levar na sua próxima consulta com a ginecologista." | "Só tomo o que a médica indica": a marca se põe ao lado da médica |
-| 6 | "Eu já tomava magnésio e vitamina D separados. Por que juntamos numa rotina." (tabela de doses na tela) | "É o que eu já compro separado" |
-| 7 | "Este é o laudo do lote que você vai tomar." | "Marca nova que eu nunca ouvi falar" |
-| 8 | "O que tem dentro, dose por dose, e o que a lei deixa a gente dizer sobre isso." | Confiança e transparência |
-| 9 | "7 dias para testar o sabor antes de decidir." | Pó e gosto ruim; "deixa eu provar antes" |
-| 10 | "Ela é nutricionista e tem 47 anos. Pedimos que ela abrisse o pote e explicasse a fórmula." (#publi) | "Nenhuma profissional que eu sigo falou dessa marca" |
-
-## 6. Orçamento e números
-
-**Divisão dos R$5 mil por mês de aquisição (das contas do CFO):**
-- R$2,5 mil para parceiras: cachê, permuta e cupons;
-- R$1,5 mil para produção de conteúdo;
-- R$700 em kits de teste e amostras;
-- R$300 para impulsionar os vídeos que já funcionaram no orgânico.
-
-**O máximo que dá para pagar por cliente:**
-- Sobra por pote: R$73 a R$149 avulso e R$56 a R$129 na assinatura (estimativa).
-- **Alvo:** custo por cliente de **até R$70**, para que o primeiro pote avulso pague a aquisição.
-- **Teto: R$150**, e só depois que dados reais mostrarem assinantes ficando **3 meses ou mais** (3 × R$56 = R$168). Até lá, considerar o teto de R$70.
-
-**Três números para olhar toda semana:**
-| Número | Bom | Mudar algo se |
-|---|---|---|
-| Inscrições na lista de espera por semana (pré-lançamento) | 150 ou mais | menos de 50 por 2 semanas: trocar ganchos ou parceiras |
-| Kit de teste que vira pote ou assinatura | 25% ou mais | menos de 15%: o problema é produto ou sabor, não marketing |
-| Custo por cliente (gasto em parceiras e conteúdo ÷ novas clientes) | até R$70 | acima de R$100 por 2 semanas: cortar a parceira ou o formato mais caro |
-
-O equilíbrio, a R$149, é de ~117 potes por mês (`precificacao/pricing.md`).
+| Inscrições na lista (pré-lançamento) | 150+ | <50 por 2 semanas: trocar manchetes ou criadoras |
+| Salvamentos por post de revista | crescendo semana a semana | caindo por 3 semanas: a pauta não é a vida dela; ouvir as 16 |
+| Custo por cliente | até R$70 | >R$100 por 2 semanas: cortar a criadora ou o formato mais caro |
+| Recompra em 45 dias (lote de 300) | 30%+ | <30%: o copo não virou hábito; rever sabor, formato (stick) ou a edição mensal |
 
 ## Regras seguidas
 - Nenhum depoimento inventado, antes e depois, número de seguidores ou "visto em".
-- As frases do painel são pesquisa e nunca entram em anúncio como depoimento.
-- Toda parceria paga leva #publi.
-- Nenhuma alegação de memória ou cognição para o produto.
-- Isto não é parecer jurídico: confirmar com o responsável técnico e com as regras do CFM e do CFN antes de publicar.
+- Frases da pesquisa e do painel são pesquisa, nunca anúncio.
+- Toda parceria com cachê ou permuta leva #publi.
+- Nenhuma alegação de memória, cognição, sono, humor ou "hormonal" para o produto.
+- Palavrão: no Instagram, no e-mail e no merch. Rótulo e site usam "Dona de tudo. Inclusive dessa fase." (decisão pendente da fundadora sobre ir além).
+- Isto não é parecer jurídico: confirmar com o RT da Ourocaps e com as regras do CFM e do CFN antes de publicar.
