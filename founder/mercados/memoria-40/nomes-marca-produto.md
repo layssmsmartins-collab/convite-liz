@@ -179,3 +179,18 @@ O nome não pode lembrar **sintoma, doença ou tratamento**, nem pelo som. Sinto
 Aplicando o critério à rodada 5:
 - **Ternna** passa (ternura, afeto).
 - **Alenta** passa no som, mas "dar alento" pressupõe alguém que precisa de consolo. Fica como reserva.
+
+## 10. Rodada 6: trocadilhos (31/10/2026, tarde)
+
+**Pedido da fundadora:** explorar jogos de palavras, como Sekey (secar) e Desinchá, e ser mais criativa. O mercado completo está em `referencias-nomes-mundo.md`, seção 5.
+
+| Nome | O jogo | Fala com todas as gerações? | Web | Veredito |
+|---|---|---|---|---|
+| **Zela** | "zelar" + "ela": zela por ela | Sim: "zelar" é palavra de avó e de neta | Nada exato; existe a Vizzela (maquiagem), que contém o som | segue para o INPI (ZELA; ver se VIZZELA aparece como colidente) |
+| **Cuidela** | "cuida dela" | Sim; lê-se na hora | Nada encontrado | segue para o INPI (CUIDELA) |
+| **Viço** | viço = frescor, vigor, viva; "estar com viço" | Sim; palavra antiga que a jovem entende | Nada encontrado (Vicky Beauty é outra coisa) | segue para o INPI (VIÇO e VICO) |
+| **Brota** | "brotar": florescer, surgir; na gíria jovem, "brota" = aparece | Sim: "broto" e "brotar" atravessam gerações, e a gíria dá frescor | Nada encontrado | segue para o INPI (BROTA) |
+| **Bem-me-quer** | a flor da infância + "bem me quer": amor-próprio | Sim, todas conhecem a brincadeira | Nada em cosméticos ou suplemento; expressão comum, o INPI deve ter registros | segue para o INPI (BEM ME QUER), com ressalva |
+| Aflora | "aflorar": vir à tona, florescer | Sim | Nada exato, mas a raiz "flora" é dominada: Flora (J&F, US$560 mi), Acquaflora, Flora Maia | cortada: risco de colisão com "Flora" |
+| Hormonia | "hormônio" + "harmonia" | Sim | Existe a **Ormona** (suplemento hormonal feminino, Drogasil) e a Hormone Harmony (Happy Mammoth); "hormônio" no nome é alegação para a Anvisa | cortada |
+| Ciclara | "ciclo" + "clara" | Sim | **Cyklar**, marca de corpo na Sephora (EUA), com o mesmo som | cortada |
