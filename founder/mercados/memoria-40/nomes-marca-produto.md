@@ -88,7 +88,7 @@ Descartados de saída: tudo que sugere cognição ou sono ("Fio da Meada", "Clar
 | Nome | O que apareceu | Veredito |
 |---|---|---|
 | **Vária** | Nenhuma marca de saúde, suplemento ou cosmético com esse nome. Existem nomes vizinhos em outros setores: [Virá Cosméticos](https://belezanaweb.com.br/vira-cosmeticos/) e um app de Shopify chamado "Varia" | **Segue.** Checar VARIA/VÁRIA no INPI, classe 5, e o domínio varia.com.br, que provavelmente já tem dono por ser palavra comum |
-| **Entremarés** | Nada encontrado com esse nome | **Segue**, como alternativa. É longa |
+| Entremarés | A busca na web não achou nada, **mas o INPI (print da fundadora, 31/10, 08:58) mostrou**: registro **em vigor na classe 35** (Vitória Maria Silva Teixeira, proc. 932603793) e pedido **aguardando exame na classe 41** (Marcello Perego Ursini, proc. 944171710). No Instagram, o nome está muito disputado: banda @entremares_oficial (248 mil, verificada), @entremaressushi (verificado), hotel, pousada, turismo e uma psicóloga | **Cortada:** classes 35 e 41 ocupadas. Lição: a busca na web não substitui o INPI |
 | Ritma | [Ritma Natural Cosmetics](https://www.instagram.com/ritmacosmetics/) (Itália, cosméticos, ~49 mil seguidores) e [Groupe Ritma](https://www.instagram.com/groupe.ritma/) (França, terapias complementares) | **Cortada:** setor vizinho e @ ocupado |
 | Mene | [Menē](https://www.businesswire.com/news/home/20240527467533/en), joalheria listada em bolsa (mene.com), mais a confusão com Meno Aliv e Meno Libid | **Cortada** |
 | Lunária | [Lunaria](https://thingtesting.com/brands/lunaria) (moda feminina), linha Lunaria da Marco Bicego (joias) e Natura Luna em perfumaria | **Cortada** |
