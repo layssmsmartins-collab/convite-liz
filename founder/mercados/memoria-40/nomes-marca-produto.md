@@ -226,3 +226,25 @@ Aplicando o critério à rodada 5:
 | Peri Up, Peri Mais | — | genéricos; "Peri+" existe lá fora | cortados |
 
 **Recomendação:** Perifeita (1ª) e PeriVê (2ª).
+
+## 13. Nome do produto com "Peri", leva 2 (31/10/2026, tarde)
+
+"Try harder": leva maior, só "Peri + português". Varredura na web; INPI e domínio não checados daqui.
+
+| # | Nome | Jogo | Web | Veredito |
+|---|---|---|---|---|
+| 1 | **Perifeita** | perfeita com peri dentro | nada | segue (PERIFEITA) |
+| 2 | **Peritude** | peri + plenitude + atitude | nada | segue (PERITUDE) |
+| 3 | **Períssima** | superlativo: "muito peri" | nada | segue (PERISSIMA) |
+| 4 | **Perita** | "perita em mim" | nada no setor; palavra real, haverá marcas de perícia em outras classes | segue (PERITA, só classes 5/35/41) |
+| 5 | **Experiente** | ex-PERI-ente: experiência, não idade | nada (Exímia é outra coisa) | segue (EXPERIENTE); palavra comum, registro mais fraco |
+| 6 | **Imperiosa** | im-PERI-osa | nada | segue (IMPERIOSA); tom pode soar mandão |
+| 7 | **Perilua** | peri + lua | nada exato; **Perilac** (laxante, Arte Nativa) começa igual | segue com ressalva |
+| 8 | **Perisim** | "Peri? Sim." | nada | segue, opção brincalhona |
+| — | Periosa | poderosa/preciosa | soa "perigosa" | cortada |
+| — | Peribela | bela | Peripera (K-beauty, Clio) | cortada |
+| — | Perinha, Perina, Periana | nome próprio | Perini Cosméticos (ES) | cortadas |
+| — | Perifase | descritivo | — | cortada (registro fraco) |
+| — | Periluz | luz | ressalva Perilac; menos forte que Perilua | cortada |
+
+**Ordem recomendada:** Perifeita, Peritude, Períssima; Perita como opção séria e curta.
