@@ -157,3 +157,19 @@ A raiz "plena" não pode ser usada: já existem Plenna (MX), Plenapausa (BR), Pl
 | Sanna | "sã" | Muito perto de **Sanavita**, suplementos (Farmax), na mesma classe 5 | cortada |
 | Amma | "mãe" em várias línguas | Amma Living (bem-estar ayurvédico), marca AMMA registrada em cosméticos (EUA), app de gestação amma | cortada |
 | Allma | "alma" | **ALLMA**, suplementos em Portugal; Alma Secret, nutricosméticos na Espanha | cortada |
+
+### INPI da rodada 4 (prints da fundadora, 31/10, 09:14–09:20)
+- **Amenna:** cortada. Registros **em vigor** de Karina Spini Schvartzman nas classes 16, 25 e **35** (procs. 926835122, 926837192, 926837907), mais a classe 14 (joias, Luana Santiago Felix, proc. 920013473). Há uma marca de moda ativa com a classe 35.
+- **Serenna:** cortada. Registro **em vigor na 41** (Julia Figueiredo de Castro, proc. 928649962); pedidos aguardando exame nas classes **03, 25 e 35** (Mirella Sierra Fernandez) e 16 (Katia Ongaro de Lima).
+- **Vivva:** no INPI aparece só a classe 36 (Ivo Zarzur, proc. 906413761). **Cortada pela web:** a [Viva Beauty](https://www.vivabeauty.com.br/blogs/news/para-quem-cada-suplemento-viva-beauty-e-indicado), marca brasileira de suplementos femininos, tem o mesmo som. Existem também a Vivva Cosméticos (cabelos) e a Vivá Cosméticos.
+- **Sintonna:** cortada pela fundadora (som).
+
+**Lição:** dobrar a letra não escapa da comparação do INPI, que é feita pelo som (Amenna = Amena). A palavra de base precisa ser pouco usada como marca, e a busca no INPI sempre cobre as duas grafias.
+
+## 9. Rodada 5 (31/10/2026)
+| Nome | Base | Web | Veredito |
+|---|---|---|---|
+| **Ternna** | "terna" (afetuosa) | Nada; o mais próximo é a Terns (protetor solar, EUA) | segue para o INPI (TERNNA e TERNA) |
+| **Alenta** | "alento" (fôlego, ânimo, conforto) | Nada | segue para o INPI (ALENTA e ALENTO) |
+| Ledda | "leda" (alegre) | Ledda, marca de perfumes (EUA, 2022); Leda Comércio de Cosméticos (BR) | cortada |
+| Callida | "cálida" | Som perto de Caldê, suplemento de farmácia | cortada |
