@@ -96,3 +96,6 @@ Uma cor só + branco + acento; pó em stick que vira bebida bonita; memes de rec
 - Nenhum nome, cor, frase ou foto copiado de concorrente.
 - Só fontes com licença livre.
 - Isto não é parecer jurídico nem regulatório.
+
+## 10. Aprovação (31/10/2026)
+A fundadora aprovou o conceito visual com o vermelho-morango. As pranchas estão em `marca/perissima/` (README com as decisões) e no canvas editável https://claude.ai/artifact/9R7dmLKHh9Ab3EWCdPq1ze.

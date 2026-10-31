@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<title>Post 1: manchete</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,900;1,9..144,400&family=Inter:wght@400;500;600;700&display=swap">
+<style>
+body{margin:0}
+a{color:#2B2B2B}a:hover{color:#E63946}
+</style>
+</helmet>
+<div style="width:1080px;height:1350px;box-sizing:border-box;background:#FAF6F0;color:#2B2B2B;font-family:Inter,system-ui,sans-serif;padding:84px;display:flex;flex-direction:column;justify-content:space-between">
+  <div style="display:flex;justify-content:space-between;align-items:center">
+    <div style="font-family:Fraunces,serif;font-weight:900;font-size:40px;letter-spacing:-0.03em">per<span style="color:{{accent}}">í</span>ssima</div>
+    <div style="font-size:18px;letter-spacing:0.18em;text-transform:uppercase;font-weight:600;color:#7A7068">mãe, mas não só</div>
+  </div>
+  <div style="display:flex;flex-direction:column;gap:40px">
+    <div style="font-family:Fraunces,serif;font-weight:900;font-size:118px;line-height:0.98;letter-spacing:-0.035em">Você não está cansada dos seus filhos.</div>
+    <div style="font-family:Fraunces,serif;font-style:italic;font-size:54px;line-height:1.1;color:{{accent}}">Você está cansada de uma coisa que ninguém te contou.</div>
+  </div>
+  <div style="display:flex;justify-content:space-between;align-items:flex-end">
+    <div style="font-size:22px;line-height:1.4;max-width:620px">Começa aos 38. Tem nome. E a gente conta, de mulher pra mulher. Arrasta.</div>
+    <div style="width:64px;height:64px;border-radius:50%;background:{{accent}};display:flex;align-items:center;justify-content:center"><svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#FAF6F0" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg></div>
+  </div>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"accent":{"editor":"color","default":"#E63946","options":["#E63946","#E8562A","#C8102E","#D94F6B"]},"$preview":{"width":1080,"height":1350}}'>
+class Component extends DCLogic {
+  renderVals() {
+    return { accent: this.props.accent ?? '#E63946' };
+  }
+}
+</script>
+</body>
+</html>

@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<title>Post 2: isso é peri</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,900;1,9..144,400&family=Inter:wght@400;500;600;700&display=swap">
+<style>
+body{margin:0}
+a{color:#FAF6F0}a:hover{color:#2B2B2B}
+</style>
+</helmet>
+<div style="width:1080px;height:1350px;box-sizing:border-box;background:{{accent}};color:#FAF6F0;font-family:Inter,system-ui,sans-serif;padding:84px;display:flex;flex-direction:column;justify-content:space-between">
+  <div style="display:flex;justify-content:space-between;align-items:center">
+    <div style="font-family:Fraunces,serif;font-weight:900;font-size:40px;letter-spacing:-0.03em">períssima</div>
+    <div style="font-size:18px;letter-spacing:0.18em;text-transform:uppercase;font-weight:600;opacity:0.9">o segredo</div>
+  </div>
+  <div style="display:flex;flex-direction:column;gap:48px">
+    <div style="font-family:Fraunces,serif;font-weight:900;font-size:150px;line-height:0.95;letter-spacing:-0.04em">isso é peri</div>
+    <div style="display:grid;grid-template-columns:repeat(2, minmax(0, 1fr));gap:20px">
+      <div style="background:#FAF6F0;color:#2B2B2B;border-radius:16px;padding:28px 30px;display:flex;flex-direction:column;gap:14px"><div style="height:150px;border-radius:10px;background:#E5DCD2;display:flex;align-items:flex-end;padding:10px;box-sizing:border-box;font-size:13px;color:#7A7068">[frame de filme / boneca]</div><div style="font-family:Fraunces,serif;font-weight:900;font-size:28px;line-height:1.05">esqueceu a palavra no meio da frase</div></div>
+      <div style="background:#FAF6F0;color:#2B2B2B;border-radius:16px;padding:28px 30px;display:flex;flex-direction:column;gap:14px"><div style="height:150px;border-radius:10px;background:#E5DCD2;display:flex;align-items:flex-end;padding:10px;box-sizing:border-box;font-size:13px;color:#7A7068">[frame de filme / boneca]</div><div style="font-family:Fraunces,serif;font-weight:900;font-size:28px;line-height:1.05">acordou às 3h sem motivo</div></div>
+      <div style="background:#FAF6F0;color:#2B2B2B;border-radius:16px;padding:28px 30px;display:flex;flex-direction:column;gap:14px"><div style="height:150px;border-radius:10px;background:#E5DCD2;display:flex;align-items:flex-end;padding:10px;box-sizing:border-box;font-size:13px;color:#7A7068">[frame de filme / boneca]</div><div style="font-family:Fraunces,serif;font-weight:900;font-size:28px;line-height:1.05">calor do nada na reunião</div></div>
+      <div style="background:#FAF6F0;color:#2B2B2B;border-radius:16px;padding:28px 30px;display:flex;flex-direction:column;gap:14px"><div style="height:150px;border-radius:10px;background:#E5DCD2;display:flex;align-items:flex-end;padding:10px;box-sizing:border-box;font-size:13px;color:#7A7068">[frame de filme / boneca]</div><div style="font-family:Fraunces,serif;font-weight:900;font-size:28px;line-height:1.05">“ouvi que é normal”</div></div>
+    </div>
+  </div>
+  <div style="font-family:Fraunces,serif;font-style:italic;font-size:40px;line-height:1.15">mas isso também é… →</div>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"accent":{"editor":"color","default":"#E63946","options":["#E63946","#E8562A","#C8102E","#D94F6B"]},"$preview":{"width":1080,"height":1350}}'>
+class Component extends DCLogic {
+  renderVals() {
+    return { accent: this.props.accent ?? '#E63946' };
+  }
+}
+</script>
+</body>
+</html>

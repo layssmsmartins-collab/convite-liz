@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<title>Períssima — identidade</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,700;0,9..144,900;1,9..144,400;1,9..144,900&family=Inter:wght@400;500;600;700&display=swap">
+<style>
+body{margin:0}
+a{color:#2B2B2B}a:hover{color:#E63946}
+</style>
+</helmet>
+<div style="width:1200px;height:820px;box-sizing:border-box;background:#FAF6F0;color:#2B2B2B;font-family:Inter,system-ui,sans-serif;display:grid;grid-template-columns:repeat(2, minmax(0, 1fr));gap:0">
+  <div style="box-sizing:border-box;background:{{accent}};color:#FAF6F0;padding:64px;display:flex;flex-direction:column;justify-content:space-between">
+    <div style="display:flex;flex-direction:column;gap:12px">
+      <div style="font-size:13px;letter-spacing:0.18em;text-transform:uppercase;font-weight:600;opacity:0.9">a marca</div>
+      <div style="font-family:Fraunces,serif;font-weight:900;font-size:124px;line-height:0.95;letter-spacing:-0.03em">períssima</div>
+    </div>
+    <div style="display:flex;flex-direction:column;gap:20px">
+      <div style="font-family:Fraunces,serif;font-style:italic;font-weight:400;font-size:34px;line-height:1.15">Dona de tudo.<br>Inclusive dessa fase.</div>
+      <div style="font-size:15px;line-height:1.5;opacity:0.92;max-width:420px">A revista da millennial que descobriu a peri. De mulher pra mulher. Um copo por dia.</div>
+    </div>
+  </div>
+  <div style="box-sizing:border-box;padding:56px 64px;display:flex;flex-direction:column;gap:36px">
+    <div style="display:flex;flex-direction:column;gap:14px">
+      <div style="font-size:12px;letter-spacing:0.18em;text-transform:uppercase;font-weight:600;color:#7A7068">cor</div>
+      <div style="display:grid;grid-template-columns:repeat(4, minmax(0, 1fr));gap:12px">
+        <div style="display:flex;flex-direction:column;gap:8px"><div style="height:84px;border-radius:6px;background:{{accent}}"></div><div style="font-size:13px;font-weight:600">Morango</div><div style="font-size:12px;color:#7A7068">#E63946 · principal</div></div>
+        <div style="display:flex;flex-direction:column;gap:8px"><div style="height:84px;border-radius:6px;background:#FAF6F0;border:1px solid #E5DCD2"></div><div style="font-size:13px;font-weight:600">Off-white</div><div style="font-size:12px;color:#7A7068">#FAF6F0 · fundo</div></div>
+        <div style="display:flex;flex-direction:column;gap:8px"><div style="height:84px;border-radius:6px;background:#2B2B2B"></div><div style="font-size:13px;font-weight:600">Grafite</div><div style="font-size:12px;color:#7A7068">#2B2B2B · texto</div></div>
+        <div style="display:flex;flex-direction:column;gap:8px"><div style="height:84px;border-radius:6px;background:#F7B6C2"></div><div style="font-size:13px;font-weight:600">Bebida</div><div style="font-size:12px;color:#7A7068">#F7B6C2 · o copo</div></div>
+      </div>
+    </div>
+    <div style="display:flex;flex-direction:column;gap:14px">
+      <div style="font-size:12px;letter-spacing:0.18em;text-transform:uppercase;font-weight:600;color:#7A7068">tipografia</div>
+      <div style="display:flex;flex-direction:column;gap:6px">
+        <div style="font-family:Fraunces,serif;font-weight:900;font-size:44px;line-height:1.05;letter-spacing:-0.02em">Fraunces, manchete</div>
+        <div style="font-family:Fraunces,serif;font-style:italic;font-size:26px;line-height:1.2">Fraunces itálico, a frase que fica</div>
+        <div style="font-size:16px;line-height:1.5;max-width:460px">Inter para o texto corrido, legendas e rótulo. Direta, legível no celular e no verso do pote.</div>
+      </div>
+    </div>
+    <div style="display:flex;flex-direction:column;gap:14px">
+      <div style="font-size:12px;letter-spacing:0.18em;text-transform:uppercase;font-weight:600;color:#7A7068">o acento é a marca</div>
+      <div style="display:flex;align-items:center;gap:24px">
+        <div style="width:96px;height:96px;border-radius:50%;background:{{accent}};color:#FAF6F0;display:flex;align-items:center;justify-content:center;font-family:Fraunces,serif;font-weight:900;font-size:64px;line-height:1">p</div>
+        <div style="font-family:Fraunces,serif;font-weight:900;font-size:56px;letter-spacing:-0.03em;line-height:1">per<span style="color:{{accent}}">í</span>ssima</div>
+      </div>
+      <div style="font-size:14px;line-height:1.5;color:#7A7068;max-width:480px">O acento agudo do “í” em morango é o traço da marca: aparece no ícone, na tampa e no copo.</div>
+    </div>
+  </div>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"accent":{"editor":"color","default":"#E63946","options":["#E63946","#E8562A","#C8102E","#D94F6B"]},"$preview":{"width":1200,"height":820}}'>
+class Component extends DCLogic {
+  renderVals() {
+    return { accent: this.props.accent ?? '#E63946' };
+  }
+}
+</script>
+</body>
+</html>
