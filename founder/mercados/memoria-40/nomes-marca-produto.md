@@ -125,3 +125,18 @@ Isto não é parecer jurídico sobre marca: a busca no INPI e o depósito são d
 | **Auge** | produto | Nenhum suplemento com esse nome | segue para o INPI |
 | **Zênite** | produto | Nada no Brasil; existe Zenii, suplementos no Reino Unido | segue para o INPI |
 | **Era** (ex.: "[Marca] Era Peri") | produto | Nada exato. Lá fora, "Peri" + palavra positiva é padrão: MPowder Peri-Boost, Sunday Peri Energy, NNABI Peri-Essential, Perelel Peri Support | segue para o INPI |
+
+## 7. Rodada 3: marca para várias gerações (31/10/2026)
+
+**Premissa nova da fundadora:** a marca precisa falar com várias gerações, da adolescente da menarca à mulher da menopausa, por causa da gama de produtos. **Critério:** atemporal, sem gíria nem tendência, fácil de falar e de entender aos 13 e aos 60, caloroso e sem cara de clínica.
+
+Saem por esse critério: **Oscila** (conceitual; pode soar como instabilidade) e **Era** (linguagem de uma geração só).
+
+| Nome | O que apareceu na web | Veredito |
+|---|---|---|
+| **Elã** | Nada exato e nenhum perfil achado. O mais próximo é "Ela Usa" (varejo de cosméticos, Brasília) | segue para o INPI |
+| **Mátria** | Nada encontrado | segue para o INPI |
+| **Inteira** | Nada encontrado. Existe a INTT Cosméticos (íntimos), com nome diferente | segue para o INPI |
+| **Toda** | Nada encontrado, mas é palavra muito comum: o INPI deve ter muitos registros | segue para o INPI, com ressalva |
+| Ciranda | A Natura tem a marca "Ciranda da Beleza" (cosméticos); existe o "Ciranda Talks" (evento de saúde da mulher, Salvador); e a Ciranda Cultural (editora infantil) | cortada |
+| Elas | Elas Kosmetik & Wellness, BD'elas, Ela Usa: muito disputado | cortada |
