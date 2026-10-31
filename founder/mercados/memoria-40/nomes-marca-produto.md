@@ -248,3 +248,16 @@ Aplicando o critério à rodada 5:
 | — | Periluz | luz | ressalva Perilac; menos forte que Perilua | cortada |
 
 **Ordem recomendada:** Perifeita, Peritude, Períssima; Perita como opção séria e curta.
+
+## 14. Escolha da fundadora: Períssima (31/10/2026, 13h)
+
+Dos nomes da leva 2, a fundadora gostou só de **Períssima**.
+
+**Varredura:**
+- Web: nada em suplemento, saúde ou cosmético.
+- INPI (print 13:08): PERÍSSIMA **registrada em vigor só na classe 31** (agrícola), Esperança Verde Holding Ltda, proc. 934893055, prioridade 06/06/2024. Nada nas classes 5, 35 e 41. Coexistência em classes diferentes é possível, mas a advogada precisa avaliar "afinidade".
+- Instagram (print 13:05): @perissima exato não aparece; existem @peri.sima e @perissima_ (pessoais). Checar direto em instagram.com/perissima.
+- Domínio: não checado.
+- **Risco de leitura:** "Períssima" pode ser lida como "pera" (a marca da classe 31 provavelmente é de pera). Entra no teste de leitura com 5 mulheres.
+
+**Próximos passos:** reservar @perissima; registrar perissima.com.br; advogada sobre depósito nas classes 5 e 35 com a classe 31 ocupada; RT da Ourocaps sobre o nome no rótulo; teste de leitura. Grafia: "Períssima" com acento; "perissima" em @ e domínio.
