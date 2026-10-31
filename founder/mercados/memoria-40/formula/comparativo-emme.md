@@ -14,7 +14,7 @@ Mostrar o rótulo é obrigatório no pote, mas não no site nem no anúncio. Qua
 | Formato | pó, 5 g/dia, 150 g, 30 doses, bebida rosa | pó, 5 g/dia, 150 g, 30 doses, bebida rosa |
 | Preço | R$189,90 | R$149 (hipótese) |
 | Doses publicadas | **nenhuma** | **todas** (tabela com %VD no rótulo) |
-| Ativos | L-triptofano, cúrcuma, feno-grego, extrato de semente de uva, CoQ10, resveratrol, lecitina de soja, "vitaminas e minerais" (quais, não diz), magnésio (citado no anúncio) | magnésio bisglicinato 110 mg, inulina 3 g, D3 15 mcg, E 14 mg, B6 1,3 mg, ácido fólico 200 mcg, B12 1,2 mcg, zinco 5 mg, selênio 40 mcg, ômega 3 vegetal (ALA) 167 mg |
+| Ativos | L-triptofano (pote) **ou 5-HTP (site)**, cúrcuma, feno-grego, extrato de semente de uva, CoQ10, resveratrol, lecitina de soja, vitaminas D e B12 (site), outros "vitaminas e minerais" (quais, não diz), magnésio (citado no anúncio) | magnésio bisglicinato 110 mg, inulina 3 g, D3 15 mcg, E 14 mg, B6 1,3 mg, ácido fólico 200 mcg, B12 1,2 mcg, zinco 5 mg, selênio 40 mcg, ômega 3 vegetal (ALA) 167 mg |
 | Lógica da fórmula | **menopausa**: fitoestrógenos (lecitina de soja, feno-grego) para calorão; triptofano para sono e humor; CoQ10 e resveratrol como "antioxidante e energia" | **nutrição de base** para a mulher de 38–48: magnésio, D, B's, zinco, selênio, fibra. Nada para calorão |
 | Promessa | efeito ("menos fogachos, mais energia, sono"; "resultados em 15 dias") | rotina e transparência; nenhuma alegação além da lista do RT |
 | Adoçante / extras | não informado | sucralose; alergênicos por contaminação cruzada (crustáceos, soja, pinoli); 30 kcal |
@@ -23,7 +23,7 @@ Mostrar o rótulo é obrigatório no pote, mas não no site nem no anúncio. Qua
 
 | Dor (% que marcou) | Menopausei cobre com | Períssima cobre com | Leitura |
 |---|---|---|---|
-| Dormir mal (71%) | triptofano (+ magnésio, se houver) | magnésio 110 mg (fraco) | **EMME mais forte no papel**, se a dose de triptofano for real (precisa de ≥250 mg para contar) |
+| Dormir mal (71%) | triptofano ou 5-HTP (+ magnésio, se houver) | magnésio 110 mg (fraco) | **EMME mais forte no papel**, se a dose de triptofano for real (precisa de ≥250 mg para contar) |
 | Esquecer palavras (69%) | nada direto | ALA, B12, zinco (fraco) | empate fraco; ninguém cobre |
 | Irritabilidade (65%) | triptofano | B6, D, folato | EMME leva se a dose for real |
 | Ansiedade (63%) | triptofano | magnésio 110 mg (fraco) | EMME leva se a dose for real |
@@ -35,6 +35,7 @@ Mostrar o rótulo é obrigatório no pote, mas não no site nem no anúncio. Qua
 ## 4. Regulação: o que chama atenção na lista dela
 A confirmar na IN 28 atualizada com o RT, não é parecer:
 - **Triptofano, CoQ10, lecitina de soja, cúrcuma, vitaminas e minerais:** constam ou são permitidos como ingrediente de suplemento, com limites.
+- **5-HTP (se estiver mesmo na fórmula, como diz o site):** não encontrado na lista positiva nas buscas; em Portugal foi tratado como fronteira com medicamento. Pergunta para o RT. Se o produto tiver 5-HTP, falta a advertência de interação com antidepressivo.
 - **Feno-grego, extrato de semente de uva e resveratrol:** extratos vegetais e bioativos têm lista fechada para suplemento no Brasil; a ashwagandha foi restrita por isso. Se algum desses não estiver na lista, o produto estaria fora da categoria "suplemento alimentar". É pergunta para o RT da Ourocaps, que conhece a lista; se a resposta for "não consta", a EMME tem um problema maior que as alegações.
 - **"Reequilibra os hormônios" e "manda embora o calorão"** são alegações de efeito sobre sintoma, proibidas para suplemento. A Anvisa tem suspendido propagandas assim.
 
@@ -46,3 +47,9 @@ A confirmar na IN 28 atualizada com o RT, não é parecer:
 
 ## 6. Para fechar a comparação
 Falta o verso do pote da EMME. Duas formas de conseguir: pedir a alguém que comprou uma foto do rótulo, ou comprar um pote (R$189,90) e ler tudo: fabricante, regularização, doses, advertências, adoçante. Um pote da concorrente é a pesquisa de mercado mais barata que existe neste momento.
+
+## 7. Atualização 31/10, 19h30 (trecho do site no buscador)
+O site não abriu daqui de novo; o buscador guardou um trecho dele com **5-HTP, vitamina D e B12** na lista e duas doses diferentes (5 g e 15 g por dia). Detalhes em `../competitors.md`. Para esta comparação:
+- **Sono e humor:** 5-HTP é mais forte por miligrama que triptofano, então a vantagem da EMME no papel aumenta, **se** o 5-HTP for permitido e a dose for real. Se não for permitido, vira o contrário: um produto fora da categoria.
+- **Cansaço:** D e B12 aparecem nos dois. A diferença continua sendo que a Períssima mostra quanto tem.
+- **Direção do lote 2 sem mudança:** triptofano (permitido, com limite) e magnésio ≥300 mg, nunca 5-HTP sem o RT confirmar.

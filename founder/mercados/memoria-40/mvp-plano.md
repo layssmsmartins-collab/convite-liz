@@ -19,6 +19,7 @@ Decisão da fundadora: **lançar um MVP para validar de verdade, agora**, com o 
 |---|---|---|
 | **03/11** | Mensagem única para a Ourocaps (abaixo) | fundadora |
 | **03/11** | Criar @perissima; registrar perissima.com.br; pesquisar PERIFEITA no INPI não é mais preciso; pedir à advogada o parecer sobre PERÍSSIMA (classes 5 e 35, com a 31 ocupada) | fundadora |
+| **07/11** | Comprar 1 pote do Menopausei (R$189,90) e fotografar o verso: fabricante, notificação, doses, triptofano ou 5-HTP, dose de 5 ou 15 g (`competitors.md`, 31/10 19h30) | fundadora |
 | **07/11** | Começar o teste de 14 dias com as 5 mulheres (roteiro abaixo) | fundadora |
 | **14/11** | **Decisão de formato do lote 1** com a resposta da Ourocaps que houver | fundadora |
 | **21/11** | Fim do teste de 14 dias; ler os resultados; conta refeita com o custo real (`/founder-cfo`) | fundadora + eu |
@@ -58,6 +59,7 @@ Decisão da fundadora: **lançar um MVP para validar de verdade, agora**, com o 
 > 3. **Embalagens, sem nova estabilidade:** (a) pote de 150 g com copo dosador; (b) **stand-up pouch com zíper e colher**; (c) **sachê de dose única de 5 g (stick)**. Para cada uma: é possível, custo por unidade com rótulo nosso, prazo, lote mínimo (300 é possível?).
 > 4. **Aroma:** dá para trocar morango/tutti-frutti por um perfil adulto (ex.: frutas vermelhas, limão) sem nova estabilidade? O pó dissolve bem em água fria e em suco?
 > 5. **Comercial:** quantas marcas vendem o SL 023 hoje; exclusividade possível?
+> 6. **Para a próxima fórmula:** L-triptofano, 5-HTP, feno-grego, resveratrol e extrato de semente de uva constam na lista positiva de suplementos (IN 28 atualizada)? Com quais limites para adulto? Vocês têm algum desses em catálogo?
 > Preciso das respostas até **14/11** para decidir a embalagem do primeiro lote. Obrigada.
 
 ## O que fica registrado para o conselho
