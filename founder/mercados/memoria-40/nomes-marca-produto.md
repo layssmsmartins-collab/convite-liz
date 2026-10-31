@@ -140,3 +140,20 @@ Saem por esse critério: **Oscila** (conceitual; pode soar como instabilidade) e
 | **Toda** | Nada encontrado, mas é palavra muito comum: o INPI deve ter muitos registros | segue para o INPI, com ressalva |
 | Ciranda | A Natura tem a marca "Ciranda da Beleza" (cosméticos); existe o "Ciranda Talks" (evento de saúde da mulher, Salvador); e a Ciranda Cultural (editora infantil) | cortada |
 | Elas | Elas Kosmetik & Wellness, BD'elas, Ela Usa: muito disputado | cortada |
+
+## 8. Rodada 4: lógica "Plenna" (31/10/2026)
+
+**Decisão da fundadora:** seguir a lógica da Plenna. É uma palavra em português que todas as gerações entendem, com uma grafia própria (letra dobrada) que a torna registrável. As referências estão em `referencias-nomes-mundo.md`.
+A raiz "plena" não pode ser usada: já existem Plenna (MX), Plenapausa (BR), Plena Cosméticos e @plenaunicaoficial.
+
+**Reação da fundadora à rodada 3:** Era tem muitos registros no INPI. Auge soa como "daqui para frente só piora". Oscila tem um quê de disfuncional. Ela/Elã devem ter muitos registros.
+
+| Nome | Palavra de origem | O que apareceu na web | Veredito |
+|---|---|---|---|
+| **Amenna** | "amena": suave, agradável. Tem "men" dentro, a raiz grega de **men**arca, **men**struação e **men**opausa | Nada encontrado | segue para o INPI |
+| **Serenna** | "serena" | Nada exato. Existem SerenSkin (pedido de marca de cosméticos no Reino Unido, 2025) e Sereena Pharmacy (Emirados) | segue para o INPI; perguntar ao RT se "serena" é lido como promessa de calma |
+| **Sintonna** | "sintonia": estar em sintonia com o próprio corpo em cada fase | Nada encontrado | segue para o INPI |
+| **Vivva** | "viva" | Nada exato com essa grafia; "Viva" é palavra muito usada | segue para o INPI, com ressalva |
+| Sanna | "sã" | Muito perto de **Sanavita**, suplementos (Farmax), na mesma classe 5 | cortada |
+| Amma | "mãe" em várias línguas | Amma Living (bem-estar ayurvédico), marca AMMA registrada em cosméticos (EUA), app de gestação amma | cortada |
+| Allma | "alma" | **ALLMA**, suplementos em Portugal; Alma Secret, nutricosméticos na Espanha | cortada |
