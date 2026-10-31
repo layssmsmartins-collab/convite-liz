@@ -53,7 +53,7 @@ Decisão da fundadora: **lançar um MVP para validar de verdade, agora**, com o 
 ## Mensagem para a Ourocaps (enviar ao responsável técnico, por escrito)
 
 > Olá, [nome]. Para fechar o primeiro lote do SL 023 com a nossa marca, preciso das respostas abaixo por escrito, por favor:
-> 1. **Regularização para adultos:** vocês notificam o SL 023, com esta mesma composição (a da amostra que recebemos: magnésio 110 mg, inulina 3 g etc.), para o grupo 19 anos ou mais, com tabela de %VD e advertências de adulto? Prazo e custo. O estudo de estabilidade vale para essa notificação? Qual é o número de regularização da versão da amostra, e para qual grupo?
+> 1. **Regularização para adultos (RDC 843/2024):** vocês notificam o SL 023, com esta mesma composição (a da amostra que recebemos: magnésio 110 mg, inulina 3 g etc.), para o grupo 19 anos ou mais, com tabela de %VD e advertências de adulto? Prazo e custo. O estudo de estabilidade vale para essa notificação? Qual é o número de processo da versão da amostra, e para qual grupo? Por favor, enviem o **comprovante de notificação** e a frase exata ("Alimento notificado na Anvisa nº …") que deve constar no nosso rótulo.
 > 2. **Rótulo:** posso usar o nome **Períssima** como marca no rótulo? Quais alegações da ficha posso usar (zinco e função cognitiva; magnésio muscular; metabolismo energético)?
 > 3. **Embalagens, sem nova estabilidade:** (a) pote de 150 g com copo dosador; (b) **stand-up pouch com zíper e colher**; (c) **sachê de dose única de 5 g (stick)**. Para cada uma: é possível, custo por unidade com rótulo nosso, prazo, lote mínimo (300 é possível?).
 > 4. **Aroma:** dá para trocar morango/tutti-frutti por um perfil adulto (ex.: frutas vermelhas, limão) sem nova estabilidade? O pó dissolve bem em água fria e em suco?
@@ -62,3 +62,6 @@ Decisão da fundadora: **lançar um MVP para validar de verdade, agora**, com o 
 
 ## O que fica registrado para o conselho
 A fundadora optou por não travar na condição do stick: o lote 1 testa a marca e o hábito no formato disponível; o stick é a trilha B com prazo. O teste de uso é com 5 mulheres, não 20, por limite de amostras; os critérios acima são o compromisso de leitura honesta.
+
+## Nota regulatória (31/10, 16h30)
+Desde a RDC 843/2024 (IN 281/2024), suplemento é **notificado** à Anvisa e recebe número de processo; os produtos antigos tiveram até 01/09/2026 para migrar (RDC 990/2025). O rótulo deve trazer "Alimento notificado na Anvisa" com o número. A consulta pública consultas.anvisa.gov.br lista os **registrados**; não encontramos consulta pública dos notificados por nome. **Prova pública = rótulo.** Requisito do lote 1: a frase e o número da notificação **para adulto** no rótulo da Períssima.
