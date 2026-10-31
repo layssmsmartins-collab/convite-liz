@@ -104,3 +104,24 @@ Descartados de saída: tudo que sugere cognição ou sono ("Fio da Meada", "Clar
 | **PeriVê** | Nada encontrado | **Segue** |
 
 Isto não é parecer jurídico sobre marca: a busca no INPI e o depósito são da fundadora, de preferência com uma advogada.
+
+## 6. Rodada 2 (31/10/2026)
+
+**Reação da fundadora à rodada 1:**
+- **Vária:** não gosta da sonoridade.
+- **Meia-Estação:** remete a "meia-idade", a idosa. O produto precisa falar com a **millennial** (30 a 45 anos) e perderia força.
+- **Véspera:** parece que a mulher está só esperando a menopausa, e volta ao problema.
+
+**Critérios novos:** o som precisa ser agradável. Nada que lembre idade, espera ou fim. Os nomes devem ser ativos, do presente e com a cara da millennial.
+
+### Varredura na web (o INPI fica com a fundadora)
+| Nome | Para | O que apareceu | Veredito |
+|---|---|---|---|
+| **Elã** | marca | Nada exato. O mais próximo é "Ela Usa", varejo de cosméticos | segue para o INPI |
+| **Oscila** | marca | Nada encontrado | segue para o INPI |
+| Seiva | marca | [Vita Seiva Cosméticos](https://www.belezanaweb.com.br/vita-seiva/cabelos/), há 20 anos no mercado | cortada |
+| Sinuá | marca | Lembra remédio de sinusite (Sinuva, Sinex, Sinutab) | cortada |
+| Fluxa | marca | Lembra só menstruação; perto de Fluyda (saúde menstrual) e Fluxene (remédio) | cortada |
+| **Auge** | produto | Nenhum suplemento com esse nome | segue para o INPI |
+| **Zênite** | produto | Nada no Brasil; existe Zenii, suplementos no Reino Unido | segue para o INPI |
+| **Era** (ex.: "[Marca] Era Peri") | produto | Nada exato. Lá fora, "Peri" + palavra positiva é padrão: MPowder Peri-Boost, Sunday Peri Energy, NNABI Peri-Essential, Perelel Peri Support | segue para o INPI |
