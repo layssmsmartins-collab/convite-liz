@@ -194,3 +194,13 @@ Aplicando o critério à rodada 5:
 | Aflora | "aflorar": vir à tona, florescer | Sim | Nada exato, mas a raiz "flora" é dominada: Flora (J&F, US$560 mi), Acquaflora, Flora Maia | cortada: risco de colisão com "Flora" |
 | Hormonia | "hormônio" + "harmonia" | Sim | Existe a **Ormona** (suplemento hormonal feminino, Drogasil) e a Hormone Harmony (Happy Mammoth); "hormônio" no nome é alegação para a Anvisa | cortada |
 | Ciclara | "ciclo" + "clara" | Sim | **Cyklar**, marca de corpo na Sephora (EUA), com o mesmo som | cortada |
+
+## 11. Decisão: a marca-mãe não é pré-requisito do MVP (31/10/2026)
+
+**Insight da fundadora:** para lançar o MVP, basta o nome do produto no rótulo. A marca-mãe vem depois, quando houver mais de um produto. Precedente: a FLO (2018) virou produto da O Positiv anos depois, sem perder a confiança construída.
+
+**O que o MVP precisa:** um nome de produto de fase (que funcione embaixo de qualquer marca-mãe futura), depósito no INPI na classe 5 (e 35), @ no Instagram e domínio desse nome. Razão social livre.
+**O que fica para depois:** marca-mãe, classes 41 e 44, logo guarda-chuva, arquitetura da família.
+**Migração futura:** @ do Instagram pode ser trocado mantendo seguidores; domínio redireciona; o lote 2 sai com "[Marca-mãe] · [Produto]".
+
+**Status:** busca da marca-mãe **congelada** (rodadas 1 a 6 ficam como histórico). Candidata ao rótulo: **PeriVê** (trabalho de marca pronto, nada na web; falta PERIVE no INPI). A fundadora pode pedir uma leva pequena de nomes de produto, sempre com varredura antes.
