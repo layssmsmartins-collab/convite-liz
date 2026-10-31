@@ -53,3 +53,6 @@ O site não abriu daqui de novo; o buscador guardou um trecho dele com **5-HTP, 
 - **Sono e humor:** 5-HTP é mais forte por miligrama que triptofano, então a vantagem da EMME no papel aumenta, **se** o 5-HTP for permitido e a dose for real. Se não for permitido, vira o contrário: um produto fora da categoria.
 - **Cansaço:** D e B12 aparecem nos dois. A diferença continua sendo que a Períssima mostra quanto tem.
 - **Direção do lote 2 sem mudança:** triptofano (permitido, com limite) e magnésio ≥300 mg, nunca 5-HTP sem o RT confirmar.
+
+## 8. Atualização 31/10, 17h (prints do site)
+O site lista **sete** ingredientes: lecitina de soja, CoQ10, resveratrol, vitamina D, vitamina B12, cúrcuma e **5-HTP** (confirmado). Triptofano, feno-grego e extrato de semente de uva, da faixa do pote no anúncio, não estão entre os sete. Para a comparação de dores (seção 3), o sono e o humor dela vêm do **5-HTP**, não do triptofano. Continua sem nenhuma dose. Detalhes em `../competitors.md`.

@@ -141,3 +141,26 @@ O que o trecho do site traz e **muda o que tínhamos**:
 **Sem mudança:** preço (R$189,90), formato, fundadora, alegações agressivas. Continuam **sem doses publicadas**, sem fabricante e sem número de notificação à vista.
 
 **Para a fundadora (5 minutos, no celular dela):** abrir emmenutrition.com.br e anotar (1) se a lista diz triptofano, 5-HTP ou os dois; (2) se a dose é 5 g ou 15 g; (3) o rodapé (CNPJ, razão social); (4) se há "Alimento notificado na Anvisa nº". Um print de cada basta; eu atualizo esta seção.
+
+### Prints do site, Anvisa, domínio e checkout (fundadora, 31/10, 16h–17h)
+O site não abre daqui; tudo abaixo vem de prints da fundadora e de consultas públicas.
+
+**Fórmula segundo o site ("Dentro da fórmula"):** "Conheça os **sete** ingredientes": 01 lecitina de soja ("compostos com ação fitoestrogênica que **interagem com os receptores hormonais**, apoiando o equilíbrio do corpo na **perimenopausa**"); 02 coenzima Q10; 03 resveratrol; 04 vitamina D; 05 vitamina B12; 06 cúrcuma; 07 **5-HTP** ("precursor da serotonina … humor, relaxamento e qualidade do sono"). Outra seção do site: "Equilíbrio hormonal", "Sono e bem-estar", "Energia celular", "Proteção antioxidante", com selos "fitoestrógenos", "adaptógenos", "antioxidantes", "vitaminas + minerais". O pote na foto diz "contém 30 doses diárias de 5 g", "fórmula exclusiva para mulheres 40+", 150 g.
+- **5-HTP confirmado no site.** A faixa do pote no anúncio dizia **L-triptofano, feno-grego e extrato de semente de uva**, que **não estão** entre os sete do site; o site antes falava em "mais de 10 ativos". Site e pote não batem. Só o verso do pote resolve.
+- **"Adaptógenos"** aparece como selo, mas nenhum dos sete é um adaptógeno. Promessa sem ingrediente correspondente.
+- **"Perimenopausa"** aparece no texto: a EMME encosta no território da Períssima, embora o resto mire a menopausa.
+- **Alegações:** vitamina D (cálcio e ossos) e B12 (metabolismo energético, sistema nervoso) parecem as permitidas; "interagem com os receptores hormonais" e "equilíbrio hormonal" descrevem efeito de medicamento.
+- **Doses:** nenhuma, em nenhuma parte.
+
+**Consulta da Anvisa (correção da nota das 16h10):** a conclusão "a consulta pública não lista suplementos notificados" foi apressada. Segundo a Regularium, o portal mostra o status das notificações ("ATIVO" = notificação concluída, não produto avaliado) ([Regularium](https://regularium.com.br/anvisa-apresenta-resultados-de-avaliacoes-de-notificacoes-de-alimentos-e-embalagens/)). O Desinchá pode ter sido um controle ruim (é chá). **Refazer o controle** com um suplemento notificado certo (ex.: empresa CIMED → Lavitan).
+- **Seletor de empresas da Anvisa, busca "emme":** nenhuma EMME Nutrition nem Menopausei (só imobiliária, distribuidoras de remédio, café, engenharia). Falta buscar "MENOPAUSEI" e o CNPJ 63891994.
+
+**Domínio (registro.br, consulta pública):** emmenutrition.com.br registrado em **19/03/2026**, em nome da fundadora como **pessoa física** (CPF, não CNPJ). A empresa de BH foi aberta em 12/2025: a ordem (empresa em dezembro, site em março) é coerente com ser a mesma, mas segue **não confirmado**.
+
+**CNPJ no site:** a fundadora procurou e **não aparece em lugar nenhum** (rodapé, páginas, checkout). O Decreto 7.962/2013 obriga a loja virtual a mostrar razão social e CNPJ em local de destaque; é falha de conformidade (fiscalização do Procon). O suporte foi contatado e ainda não respondeu.
+
+**Checkout:** a plataforma é a **Payt** (Payt Tecnologia e Educação Digital Ltda, CNPJ 39.478.394/0001-23), com o Pix processado pelo Pagar.me; o recebedor do Pix é a Payt, não a EMME. A tela do Pix tem cronômetro "Sua oferta encerra em 01:23:59". A Payt é usada sobretudo por **infoprodutores**.
+
+**Leitura:** a EMME vende um suplemento com a **lógica de infoproduto** (fundadora no centro, tráfego pago, página de vendas, depoimentos, evento, urgência artificial, checkout de infoproduto, empresa com "Cursos" no nome). Isso explica as alegações agressivas e a falta de rótulo e de CNPJ à vista: o funil serve à conversão, não à confiança. **Para a Períssima:** o contraste não é só "mostramos o rótulo", é "somos uma marca de produto, com rótulo, CNPJ, fabricante e notificação à vista", sem cronômetro. Sem citar a EMME.
+
+**Pendências:** resposta do suporte (CNPJ, fabricante, número de notificação); seletor da Anvisa com "MENOPAUSEI", com o CNPJ e com o controle CIMED; verso do pote (compra até 07/11, no `mvp-plano.md`).
