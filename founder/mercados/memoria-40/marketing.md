@@ -17,15 +17,15 @@ O nome Períssima ainda depende do INPI e do RT; o rótulo, da Ourocaps. Tudo aq
 
 ## 2. Posicionamento
 
-> Para a mulher de 35 a 48 que é dona da porra toda (filhos pequenos, relação, negócio ou carreira, sexo, viagem) e desconfia que o cansaço não é só a rotina, **Períssima é a revista e a rotina da millennial que descobriu a peri**: fala da vida dela, de mulher pra mulher, conta o segredo que ninguém contou, e entrega um copo por dia com a dose de cada coisa à vista. **Diferente** das marcas de menopausa da farmácia, que falam de sintoma, e dos suplementos de "memória", feitos para outra idade.
+> Para a mulher de 35 a 48 que é dona da porra toda (filhos pequenos, relação, negócio ou carreira, sexo, viagem) e desconfia que o cansaço não é só a rotina, **Períssima é a marca da millennial que descobriu a peri**: fala da vida dela, de mulher pra mulher, conta o segredo que ninguém contou, e entrega um copo por dia com a dose de cada coisa à vista. **Diferente** das marcas de menopausa da farmácia, que falam de sintoma, e dos suplementos de "memória", feitos para outra idade.
 
 **Por que esta versão:**
 - Cria uma categoria (lifestyle da millennial de 40) em vez de disputar uma prateleira (suplemento de perimenopausa).
-- Responde às objeções: "é o que eu já compro separado" (ela compra a marca e a revista, não os ingredientes); "não sei se estou nessa fase" (a revista começa pela vida, e o segredo chega quando ela já se reconheceu); "ninguém que eu sigo falou" (as criadoras são as próprias leitoras).
+- Responde às objeções: "é o que eu já compro separado" (ela compra a marca, não os ingredientes); "não sei se estou nessa fase" (a marca começa pela vida, e o segredo chega quando ela já se reconheceu); "ninguém que eu sigo falou" (as criadoras são as próprias clientes).
 - É **mais seguro na Anvisa** do que a versão 1: a marca vende vida, não efeito; a palavra "perimenopausa" não precisa estar no rótulo.
 
 ### O que a marca diz e o que não diz
-| Diz (revista, Instagram, e-mail) | Não diz (produto, anúncio, rótulo) |
+| Diz (Instagram, e-mail, conteúdo) | Não diz (produto, anúncio, rótulo) |
 |---|---|
 | "Dona da porra toda", "transar", "útero", "calorão" | "Sintoma", "alívio", "tratamento" |
 | "Isso é peri" (reconhecimento com humor) | "Melhora a memória", "regula o cortisol", "acaba com a névoa" |
@@ -39,11 +39,11 @@ O nome Períssima ainda depende do INPI e do RT; o rótulo, da Ourocaps. Tudo aq
 
 | Canal | O que é | Custo aproximado | Como saber se funcionou |
 |---|---|---|---|
-| **1. Instagram @perissima: a revista** | Grid em seções (Dona da porra toda · Na cama · Mãe, mas não só · A dois · Mala pronta · Linda, radiante · O segredo · O copo). Cinco posts de vida para um de produto. Manchete grande, foto editorial, carrosséis "isso é peri" | R$1,5–2 mil/mês (edição e design freelancer) | Salvamentos e compartilhamentos por post; seguidoras por semana; cliques no link da bio |
-| **2. "Seja uma de nós": criadoras que são leitoras** | As 16 mulheres da pesquisa que aceitaram entrevista são as primeiras. Recebem o pote, o copo e a primeira edição; publicam **o dia delas** com o copo no meio, nunca o efeito. Cupom por criadora. Tudo #publi quando houver cachê ou permuta | R$2–2,5 mil/mês (permuta, cachê pequeno, cupons) | Custo por cliente por criadora; conteúdo reaproveitado no grid |
-| **3. A revista por e-mail e WhatsApp** | Lista de espera que recebe a "edição 0" (PDF da revista: o segredo + um relato + o que perguntar na consulta). Depois, uma edição por mês para quem compra | ~R$0–200/mês | Inscrições por semana; taxa de compra da lista no lançamento; abertura das edições |
+| **1. Instagram @perissima: a marca na vida dela** | Grid por territórios (Dona da porra toda · Na cama · Mãe, mas não só · A dois · Mala pronta · Linda, radiante · O segredo · O copo). Cinco posts de vida para um de produto. Manchete grande, foto editorial, carrosséis "isso é peri" | R$1,5–2 mil/mês (edição e design freelancer) | Salvamentos e compartilhamentos por post; seguidoras por semana; cliques no link da bio |
+| **2. "Seja uma de nós": criadoras que são clientes** | As 16 mulheres da pesquisa que aceitaram entrevista são as primeiras. Recebem o pote, o copo e o guia 'o segredo'; publicam **o dia delas** com o copo no meio, nunca o efeito. Cupom por criadora. Tudo #publi quando houver cachê ou permuta | R$2–2,5 mil/mês (permuta, cachê pequeno, cupons) | Custo por cliente por criadora; conteúdo reaproveitado no grid |
+| **3. E-mail e WhatsApp** | Lista de espera que recebe o guia "o segredo" (PDF: a fase explicada de mulher pra mulher + um relato + o que perguntar na consulta). Depois, conteúdo por território para quem compra | ~R$0–200/mês | Inscrições por semana; taxa de compra da lista no lançamento; abertura dos e-mails |
 
-**Nutricionistas e médicas:** fora como canal (decisão da fundadora, 28/10). Ficam como **pesquisa do mecanismo de indicação** e como entrevistadas da revista (seção Na cama, O segredo), sem endossar o produto. Médicas não podem endossar produto (CFM); nutricionistas, confirmar as regras do CFN.
+**Nutricionistas e médicas:** fora como canal (decisão da fundadora, 28/10). Ficam como **pesquisa do mecanismo de indicação** e como fontes de conteúdo (territórios Na cama e O segredo), sem endossar o produto. Médicas não podem endossar produto (CFM); nutricionistas, confirmar as regras do CFN.
 
 **O que não fazer agora:** TikTok Shop (fora do lançamento, por decisão do conselho); farmácia e marketplace (prateleira da comparação por ingrediente); mídia paga em escala (só impulsionar o que já funcionou no orgânico).
 
@@ -51,25 +51,25 @@ O nome Períssima ainda depende do INPI e do RT; o rótulo, da Ourocaps. Tudo aq
 
 | Dias | Canal | O que sai |
 |---|---|---|
-| D-21 | Instagram | Perfil no ar com 9 posts prontos (grid da prancha `Perfil.dc.html`). Bio com "edição 0 grátis" |
+| D-21 | Instagram | Perfil no ar com 9 posts prontos (grid da prancha `Perfil.dc.html`). Bio com "o guia 'o segredo' grátis" |
 | D-21 a D-15 | Instagram | Um post por dia: manchete "Você não está cansada dos seus filhos" (gancho 1), "isso é peri" (gancho 7), um relato, um Na cama, um Dona da porra toda |
-| D-18 | Lista | Entrega da edição 0 em PDF |
-| D-14 | Criadoras | As 16 recebem a caixa: pote, copo, edição 0 impressa, carta da fundadora. Pedido: "mostre o seu dia, não o efeito" |
+| D-18 | Lista | Entrega do guia em PDF |
+| D-14 | Criadoras | As 16 recebem a caixa: pote, copo, guia impresso, carta da fundadora. Pedido: "mostre o seu dia, não o efeito" |
 | D-12 a D-6 | Instagram | Ganchos 2 a 6; caixinha "pergunta pra uma de nós" com uma ginecologista entrevistada (sem produto) |
 | D-7 | Lista | E-mail "por que a Períssima existe", com a tabela de doses completa; pré-venda só para a lista |
 | D-3 | Lista + criadoras | Lembrete: oferta de abertura do D0 ao D+14 |
 | **D0** | Todos | Lançamento: pote a R$149 com o copo da Períssima de brinde até D+14 (o copo é merch e é a foto da marca); garantia do primeiro pote |
 | D+1 a D+7 | Instagram | Ganchos 8 a 10; conteúdo das criadoras repostado; bastidor do laudo do lote |
-| D+5 | E-mail/WhatsApp | "Dia 5 do seu copo": um capítulo da revista, não uma dica de efeito |
+| D+5 | E-mail/WhatsApp | "Dia 5 do seu copo": um capítulo do guia, não uma dica de efeito |
 | D+8 a D+13 | Instagram | Série "isso é peri" em vídeo curto, um sinal por dia; conteúdo das compradoras com autorização, sem promessa de efeito |
 | D+14 | Lista | Último aviso da oferta |
-| D+15 e D+16 | Todos | Convite à assinatura (R$129/mês, edição mensal inclusa); ler os números (seção 6) |
+| D+15 e D+16 | Todos | Convite à assinatura (R$129/mês, conteúdo exclusivo das assinantes); ler os números (seção 6) |
 
 **Mudança em relação à v1:** sai o kit de 7 doses a R$39 (não existe em pote de 150 g; volta se a Ourocaps fizer stick). Entra o copo como oferta de abertura.
 
-## 5. Os 10 ganchos, por seção da revista
+## 5. Os 10 ganchos, por território
 
-| # | Seção | Primeira linha | Responde a |
+| # | Território | Primeira linha | Responde a |
 |---|---|---|---|
 | 1 | Mãe, mas não só | "Você não está cansada dos seus filhos. Você está cansada de uma coisa que ninguém te contou." | "Não sei se estou nessa fase" |
 | 2 | Dona da porra toda | "Abri um negócio aos 41 com dois filhos e um útero em transição. Relato." | Identificação: ela se vê |
@@ -90,9 +90,9 @@ Custo por cliente alvo **até R$70** (o primeiro pote avulso paga a aquisição)
 | Número semanal | Bom | Mudar algo se |
 |---|---|---|
 | Inscrições na lista (pré-lançamento) | 150+ | <50 por 2 semanas: trocar manchetes ou criadoras |
-| Salvamentos por post de revista | crescendo semana a semana | caindo por 3 semanas: a pauta não é a vida dela; ouvir as 16 |
+| Salvamentos por post de vida | crescendo semana a semana | caindo por 3 semanas: o assunto não é a vida dela; ouvir as 16 |
 | Custo por cliente | até R$70 | >R$100 por 2 semanas: cortar a criadora ou o formato mais caro |
-| Recompra em 45 dias (lote de 300) | 30%+ | <30%: o copo não virou hábito; rever sabor, formato (stick) ou a edição mensal |
+| Recompra em 45 dias (lote de 300) | 30%+ | <30%: o copo não virou hábito; rever sabor, formato (stick) ou o conteúdo das assinantes |
 
 ## Regras seguidas
 - Nenhum depoimento inventado, antes e depois, número de seguidores ou "visto em".

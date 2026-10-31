@@ -16,7 +16,7 @@ A fundadora aprovou o conceito em 31/10/2026 ("Adorei o conceito!"). A direção
 | Logo | "períssima" em minúsculas; o acento do "í" em morango é o traço da marca; monograma "p" em círculo morango para ícone e tampa |
 | Assinatura no pote | "Dona de tudo. Inclusive dessa fase." |
 | Grito de campanha | "Dona da porra toda." |
-| Grid | Cinco posts de vida para um de produto; seções da revista como destaques |
+| Grid | Cinco posts de vida para um de produto; territórios como destaques |
 | Rótulo | Sem ícone de saúde; verso com tabela de %VD completa e QR do laudo |
 
 ## Arquivos

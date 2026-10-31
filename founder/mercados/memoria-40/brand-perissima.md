@@ -19,11 +19,11 @@ Nome do produto: **Períssima** (ver `nomes-marca-produto.md`, seção 14). Este
 
 **Por que isso é oceano azul de verdade:** toda marca brasileira do tema fala de "sintomas", "alívio", "menopausa". Nenhuma fala da vida da mulher. A pesquisa já mostrou o caminho: 97% conhecem a palavra, 40% não sabem se estão na fase, 65% nunca foram ajudadas. Elas não precisam de mais um médico; precisam de uma mulher que conte.
 
-## 2. A revista: os editoriais da Períssima
+## 2. Os territórios: onde a Períssima entra na vida dela
 
-A marca se organiza como uma revista, com seções fixas. Cada seção é um tipo de post, um destaque no Instagram e uma pasta do site.
+**Correção (31/10, tarde):** a Períssima **não é uma publicação**. A Capricho é a analogia do **papel**, não do formato: uma marca que permeava a vida da adolescente millennial e tocava várias áreas dela ao mesmo tempo (música, paquera, escola, beleza). A Períssima faz isso com a millennial de 35–48. Cada território abaixo é um assunto que a marca tem o direito de falar, um destaque no Instagram, um tipo de conteúdo e, no futuro, uma linha de produto. Não há edições, pauta nem redação.
 
-| Seção | O que é | Exemplo de pauta |
+| Território | O que é | Exemplo de conteúdo |
 |---|---|---|
 | **Dona da porra toda** | Trabalho, negócio próprio, dinheiro, ambição | "Abri minha empresa aos 41 com dois filhos e um útero em transição. Relato." |
 | **Na cama** | Sexo e desejo, sem eufemismo | "Libido não é só hormônio: é sono, é carga mental, é ressentimento. Uma ginecologista e uma terapeuta de casal respondem" |
@@ -61,11 +61,11 @@ Recomendação: a 2 como assinatura oficial (rótulo, site) e a 1 como grito de 
 
 ## 5. Visual: editorial, não farmácia
 
-A referência deixa de ser "suplemento bonito" (Rezet) e passa a ser **revista e marca de moda**: capa, manchete, foto editorial, tipografia grande.
+A referência deixa de ser "suplemento bonito" (Rezet) e passa a ser **marca de moda e cultura pop**: capa, manchete, foto editorial, tipografia grande.
 
 - **Fotografia:** mulheres reais de 35–48, em movimento: no carro, na reunião, com o bebê no colo e o copo na outra mão, na cama rindo, no aeroporto. Luz natural, pouco retoque, roupa dela. Nunca jaleco, nunca mão de médico, nunca fundo de consultório.
-- **Tipografia:** uma display forte e feminina para manchetes (serifa com personalidade, tipo **Fraunces** ou **Playfair Display**, ou uma sans pesada como **Archivo Black**), e **Inter** para o texto. O logo "períssima" em minúsculas, grande, como cabeçalho de revista.
-- **Cor:** uma assinatura quente e ousada, longe do rosa-menopausa, do azul-bebê da Rezet e do lilás das marcas de menopausa. Propostas: **vermelho-morango `#E63946`** como cor principal (é o sabor do produto, é sexo, é energia, é capa de revista) sobre **off-white `#FAF6F0`**, com grafite `#2B2B2B` no texto. Alternativa: **laranja-queimado `#E8562A`**. A escolha é da fundadora.
+- **Tipografia:** uma display forte e feminina para manchetes (serifa com personalidade, tipo **Fraunces** ou **Playfair Display**, ou uma sans pesada como **Archivo Black**), e **Inter** para o texto. O logo "períssima" em minúsculas, grande, como uma marca de moda.
+- **Cor:** uma assinatura quente e ousada, longe do rosa-menopausa, do azul-bebê da Rezet e do lilás das marcas de menopausa. Propostas: **vermelho-morango `#E63946`** como cor principal (é o sabor do produto, é sexo, é energia, é capa) sobre **off-white `#FAF6F0`**, com grafite `#2B2B2B` no texto. Alternativa: **laranja-queimado `#E8562A`**. A escolha é da fundadora.
 - **Embalagem do MVP:** pote off-white com "períssima" em vermelho, grande, como uma capa. Nada de ícones de saúde. No verso, a tabela de doses completa e o QR do laudo, com a frase: "A gente te conta tudo. Leve este rótulo na próxima consulta, se quiser."
 - **O copo:** peça de merch desde o dia 1 (copo com "períssima"), como a Rezet faz. A bebida rosa (morango) sobre a mesa de trabalho é a foto da marca.
 - **Evitar:** olho, lupa, flor, silhueta feminina, ampulheta, cérebro, raio, cruz, qualquer ícone que lembre farmácia.
@@ -79,15 +79,15 @@ Uma cor só + branco + acento; pó em stick que vira bebida bonita; memes de rec
 - **Lote 2:** sticks de 5 g (perguntar à Ourocaps junto com o aroma) e um segundo copo para a noite.
 
 ## 8. As primeiras cinco coisas que ela vê
-1. **Perfil:** @perissima. Bio: "dona da porra toda. a revista da millennial que descobriu a peri. 🍓 um copo por dia · perissima.com.br". Destaques por seção: Dona da porra toda · Na cama · Mãe, mas não só · O segredo · O copo · Vocês.
+1. **Perfil:** @perissima. Bio: "dona da porra toda. a marca da millennial que descobriu a peri. 🍓 um copo por dia · perissima.com.br". Destaques por território: Dona da porra toda · Na cama · Mãe, mas não só · O segredo · O copo · Vocês.
 2. **Primeiro post:** manchete em vermelho sobre off-white: "Você não está cansada dos seus filhos. Você está cansada de uma coisa que ninguém te contou." → carrossel "isso é peri".
 3. **Primeiro relato:** uma mulher de 42 (das 16 entrevistadas) contando um dia inteiro, do despertador ao sexo, com o copo no meio.
 4. **Bastidor da fundadora:** "abri uma marca de suplemento com um emprego, uma casa e um útero em transição. vocês só veem a parte bonita."
-5. **Confirmação do pedido:** "recebido 🍓 enquanto o pote chega: a primeira edição da revista, só para quem comprou."
+5. **Confirmação do pedido:** "recebido 🍓 enquanto o pote chega: o guia 'o segredo', só para quem comprou."
 
 ## 9. O que muda nos outros arquivos
-- `marketing.md`: posicionamento passa de "a primeira marca brasileira feita para a perimenopausa" para "a marca da millennial dona da porra toda, que descobriu a peri". Os 10 ganchos são reescritos pelas seções da revista. Programa de criadoras entra no lançamento.
-- `board/brief.md`: o conselho precisa reavaliar: a marca de lifestyle responde à crítica de "commodity sem resposta" (Monopoly), porque o fosso passa a ser a revista e a comunidade, não a cápsula.
+- `marketing.md`: posicionamento passa de "a primeira marca brasileira feita para a perimenopausa" para "a marca da millennial dona da porra toda, que descobriu a peri". Os 10 ganchos são reescritos pelos territórios. Programa de criadoras entra no lançamento.
+- `board/brief.md`: o conselho precisa reavaliar: a marca de lifestyle responde à crítica de "commodity sem resposta" (Monopoly), porque o fosso passa a ser a identidade e a comunidade, não a cápsula.
 - `precificacao/pitch.md`: reescrever a abertura com a promessa da seção 1.
 - `validacao.md`, teste de leitura: além de "o que você lê?", perguntar "isso é para quem?". Queremos ouvir "para mim", não "para mulher na menopausa".
 - Rótulo e alegações: continuam dependendo do RT da Ourocaps; a nova abordagem exige menos.
