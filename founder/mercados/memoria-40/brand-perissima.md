@@ -1,84 +1,98 @@
-# Períssima: direção de marca a partir da referência Rezet (31/10/2026)
+# Períssima: a marca (31/10/2026, versão 2)
 
-Nome do produto escolhido: **Períssima** (ver `nomes-marca-produto.md`, seção 14). Este arquivo substitui as seções 3 e 4 do `brand.md` (feitas para PeriVê), que ficam como histórico.
+Nome do produto: **Períssima** (ver `nomes-marca-produto.md`, seção 14). Este arquivo substitui as seções 3 e 4 do `brand.md`, que ficam como histórico de PeriVê.
 
-Referência da fundadora: **@userezet_** (Rezet | Anti-Stress Beauty), prints de 31/10, 13h10. "Quero algo assim, mais moderno, com leveza. A mulher millennial se conecta com isso."
+## 0. A premissa da fundadora (31/10, 13h30), na íntegra
+> "Eu não quero falar de perimenopausa como um médico. Eu quero que a Períssima seja uma marca de mulher pra mulher. Quase que uma revista Contigo da millennial na perimenopausa. Não é pra ter cara de farmácia de remédio. É pra ter a essência da mulher millennial. Mulher que é dona da porra toda. Que acabou de parir os filhos. Que tá aí equilibrando casamento, que gosta de transar, que quer viajar, ter seu próprio negócio, dominar o mundo todo. E que quer fazer isso sem ficar extremamente sobrecarregada, com energia, se sentindo linda e radiante. Não quero que a Períssima seja mais uma marca de perimenopausa. Eu tô criando algo novo, e pra caber no lifestyle da millennial."
 
-## 1. O que a Rezet faz (lido nos prints)
+**Tradução em uma frase:** a Períssima não é uma marca de perimenopausa. É **a marca da mulher millennial que é dona da porra toda**, e a perimenopausa é o segredo que ela descobre lá dentro, contado por outra mulher, não por um médico.
 
-| Elemento | Como a Rezet faz | O que ensina |
+## 1. Posicionamento
+
+**Categoria que a marca cria:** não "suplemento para perimenopausa" (categoria de farmácia, onde moram Kunda, Meno Libid, Plenapausa). A Períssima entra na categoria **lifestyle da mulher de 35 a 48**, ao lado de marcas de moda, viagem, sexo e negócios que ela já segue. O suplemento é o objeto diário dessa vida, como o café e o skincare.
+
+**A pessoa:** 35–48, filhos pequenos ou recém-nascidos, casamento ou relação que ela está construindo, carreira ou negócio próprio, vida sexual que ela quer manter, viagens que ela planeja. Ela não se acha "na menopausa". Ela se acha cansada, e desconfia que não é só a rotina.
+
+**A promessa:** "Você vai continuar sendo dona da porra toda. Só que com energia, sem a sobrecarga, se sentindo linda. E vai entender, entre mulheres, o que o seu corpo está fazendo nessa fase, porque ninguém te contou."
+
+**O lugar da perimenopausa:** é a **revelação**, não o rótulo. A marca fala de tudo o que a mulher vive e, no meio disso, conta o segredo: "sabe esse cansaço que você jura que é dos filhos? Parte dele tem nome, e começa aos 38". Dito como uma amiga conta num café, não como um médico explica no consultório.
+
+**Por que isso é oceano azul de verdade:** toda marca brasileira do tema fala de "sintomas", "alívio", "menopausa". Nenhuma fala da vida da mulher. A pesquisa já mostrou o caminho: 97% conhecem a palavra, 40% não sabem se estão na fase, 65% nunca foram ajudadas. Elas não precisam de mais um médico; precisam de uma mulher que conte.
+
+## 2. A revista: os editoriais da Períssima
+
+A marca se organiza como uma revista, com seções fixas. Cada seção é um tipo de post, um destaque no Instagram e uma pasta do site.
+
+| Seção | O que é | Exemplo de pauta |
 |---|---|---|
-| **Nome** | "Reset" com Z: grafia fonética de uma palavra em inglês que todo mundo entende. Marca escrita em minúsculas | Mesma lógica de Sekey e Períssima: palavra conhecida + grafia própria |
-| **Posicionamento** | "Anti-Stress Beauty": **um vilão com nome** (cortisol) e uma promessa de estilo de vida ("o novo luxo da nova geração é ter uma vida com cortisol equilibrado") | Dá nome ao que ela sente, antes de vender. É o nosso "perimenopausa, explicada", só que com atitude |
-| **Produto** | **Pó em stick** de 10 g, sabor morango cremoso, L-teanina + glicina, 0 açúcar, 0 cal. Vira uma **bebida rosa** num copo com a marca | O pó é o formato dela, não um problema. **O nosso MVP é pó de morango também**: a bebida bonita vira a peça central do conteúdo |
-| **Visual** | **Uma cor só** (azul-bebê) + branco + o vermelho do morango como acento. Fundo chapado. Tipografia sans-serif, minúsculas, uma palavra em negrito ou em cor por frase | Reconhecível em 1 segundo no feed. Barato de produzir |
-| **Fotografia** | Close de boca com morango, modelo segurando o produto, stick entre os dentes, copo rosa em Times Square. Modelos de 25–35 anos, pele real, pouco retoque | Produto sempre em mãos, nunca "pack shot" de farmácia |
-| **Conteúdo** | Memes com bonecas Barbie ("isso é cortisol alto": puffy face, queda de cabelo, gordura abdominal); frames de filmes ("sua vontade de doce aumenta quando…"); frases curtas em fundo chapado; **bastidores da fundadora** ("vocês só veem a parte bonita"); vlog "um dia comigo em SP" | 1/3 educação com humor, 1/3 produto, 1/3 bastidores. A fundadora aparece, mas o grid não depende dela |
-| **Comunidade** | Destaque "Seja creator" (programa de criadoras), "Vocês 💙" (reposts de clientes), "Comece aqui" | UGC desde o dia 1, com 1.076 seguidores. Não esperou ficar grande |
-| **Alegações** | "regular o cortisol", "diminuir a sobrecarga mental", "nada é tão anti-inflamatório quanto cuidar da saúde mental" | **Não copiar.** São alegações de efeito que a Anvisa autua. A leveza da Rezet vem do tom, não da promessa |
+| **Dona da porra toda** | Trabalho, negócio próprio, dinheiro, ambição | "Abri minha empresa aos 41 com dois filhos e um útero em transição. Relato." |
+| **Na cama** | Sexo e desejo, sem eufemismo | "Libido não é só hormônio: é sono, é carga mental, é ressentimento. Uma ginecologista e uma terapeuta de casal respondem" |
+| **Mãe, mas não só** | Filhos pequenos, puerpério, a mulher que sobrou | "Pari há 8 meses e já sinto a peri? Pode, sim. O que muda" |
+| **A dois** | Casamento, relação, divisão da carga | "Como explicar ao parceiro o que está acontecendo (sem virar aula)" |
+| **Mala pronta** | Viagem, planos, a vida que ela quer | "Viajar com calorão, insônia e um bebê: o kit" |
+| **Linda, radiante** | Beleza, pele, cabelo, corpo, sem promessa | "O que a pele faz dos 38 aos 48 e o que é cosmético, o que é fase" |
+| **O segredo** | A perimenopausa, explicada de mulher para mulher | "Isso é peri: esquecer a palavra no meio da frase, acordar às 3h, calor do nada, humor de montanha-russa" |
+| **O copo** | O produto, a dose, o laudo, a rotina | "O que tem dentro do meu copo, miligrama por miligrama" |
 
-Estágio: 31 posts e 1.076 seguidores. É uma marca de meses, com produção já profissional. Serve como referência de **tom e formato**, não de resultado.
+Regra de proporção no feed: **cinco de vida para um de produto**. O produto aparece dentro da vida (no copo da manhã, na mala, na mesa de trabalho), nunca como pack shot.
 
-## 2. O que a Períssima pega emprestado
+## 3. Voz
 
-1. **Um vilão com nome, dito com humor.** A Rezet tem o cortisol. A Períssima tem a **perimenopausa que ninguém te contou**. Formato pronto para adaptar: *"isso é peri"* com bonecas ou frames de filme: esquece a palavra no meio da frase · acorda às 3h · calor do nada · humor de montanha-russa · "ouvi que é normal".
-2. **A bebida como protagonista.** O MVP (Ourocaps, 5 g em 200 mL, morango ou tutti-frutti) vira uma bebida colorida no copo com a marca. Fotografar a bebida, não o pote.
-3. **Uma cor só + branco + o acento da fruta.** Fundo chapado, frase curta, uma palavra em destaque.
-4. **Grid em terços:** educação com humor / produto em mãos / bastidores.
-5. **"Seja creator" desde o lançamento**, com as 16 mulheres da pesquisa que aceitaram entrevista como primeiras criadoras.
-6. **Minúsculas, frases curtas, uma ideia por post.**
+**Ela fala como:** a amiga mais informada da mesa, que leu tudo, pergunta ao médico o que você não teve coragem, e conta em duas frases, com palavrão quando cabe.
 
-## 3. O que a Períssima faz diferente (de propósito)
-
-| Rezet | Períssima |
+| Faz | Não faz |
 |---|---|
-| Promete regular o cortisol | **Explica a fase e mostra a dose.** O humor está no reconhecimento ("é você?"), não na promessa. Tabela de doses e laudo continuam à vista: é o que a pesquisa pediu (85% compram por indicação; a marca precisa chegar "aprovável" na consulta) |
-| Modelos de 25–35 | Mulheres de **38–48**, com a mesma estética (pele real, pouco retoque, riso, boca com fruta). A millennial de 40 quer se ver bonita e atual, não "madura" |
-| Inglês ("Anti-Stress Beauty", "reset everyday") | **Português com uma piscadela**: "Períssima" já é o trocadilho; o resto é direto |
-| Azul-bebê (calma) | Cor própria (abaixo) |
+| Diz "transar", "útero", "calorão", "porra" | Diz "intimidade", "aquela fase", "desconforto" |
+| Ri da situação **com** ela ("acordou às 3h de novo? bem-vinda ao clube") | Ri **dela** ou a trata como frágil ("calma, amiga, vai passar") |
+| Conta a dose e mostra o laudo, porque transparência é respeito | Promete memória, energia, sono ou libido no rótulo ou na legenda |
+| Fala de dinheiro, sexo, ambição e filhos no mesmo post | Separa a mulher em "paciente" e "pessoa" |
+| Usa "você" e primeira pessoa, com relatos reais | Usa jargão médico sem traduzir ou tom de bula |
 
-## 4. Promessa, assinatura e voz
+**Palavra proibida no front da marca:** "sintoma". Trocar por "sinal", "isso é peri", "o que o corpo faz".
+**Palavra permitida, mas no lugar certo:** "perimenopausa" aparece na seção O segredo e no site; não é o título da marca.
 
-**Promessa:** "Você vai entender o que está acontecendo com você, rir disso, e ter uma rotina de um copo por dia para atravessar a fase com a dose de cada coisa à vista."
+## 4. Assinatura (opções)
+1. **"Períssima. Dona da porra toda."** (a frase da fundadora; forte, mas limita onde pode ser impresso)
+2. **"Dona de tudo. Inclusive dessa fase."**
+3. **"A fase que ninguém te contou. Contada por uma de nós."**
+4. **"Peri, e muito."**
 
-**Assinatura (opções para testar):**
-1. **"Períssima. Peri, e muito bem."**
-2. **"É peri. E é muito."** (joga com o superlativo)
-3. **"Perimenopausa, explicada. Sem drama."** (herda a linha anterior, com a leveza nova)
+Recomendação: a 2 como assinatura oficial (rótulo, site) e a 1 como grito de campanha (Instagram, camiseta, merch).
 
-**Voz:** direta, engraçada, honesta. Fala como a amiga que leu tudo sobre o assunto e conta em duas frases. Nunca condescendente, nunca "calma, amiga". Nunca promete memória, sono ou energia: mostra a tabela.
+## 5. Visual: editorial, não farmácia
 
-## 5. Visual
+A referência deixa de ser "suplemento bonito" (Rezet) e passa a ser **revista e marca de moda**: capa, manchete, foto editorial, tipografia grande.
 
-**Cor assinatura: uma só.** Propostas (escolher uma, nunca as três):
-| Opção | Hex | Por quê | Risco |
-|---|---|---|---|
-| **Manteiga** | `#F6E27A` | Quente, otimista, "sol do meio-dia", tendência 2025–26, longe do rosa-menopausa e do azul da Rezet | Texto escuro obrigatório (branco sobre manteiga não passa no contraste) |
-| **Lavanda** | `#C9B8F0` | Suave e moderna; combina com a bebida rosa | Muito usada em menopausa (Kindra, Womaness): menos própria |
-| **Menta** | `#BFE8D8` | Fresca, "clareza" sem dizer | Lembra farmácia/hortelã; mais fria |
+- **Fotografia:** mulheres reais de 35–48, em movimento: no carro, na reunião, com o bebê no colo e o copo na outra mão, na cama rindo, no aeroporto. Luz natural, pouco retoque, roupa dela. Nunca jaleco, nunca mão de médico, nunca fundo de consultório.
+- **Tipografia:** uma display forte e feminina para manchetes (serifa com personalidade, tipo **Fraunces** ou **Playfair Display**, ou uma sans pesada como **Archivo Black**), e **Inter** para o texto. O logo "períssima" em minúsculas, grande, como cabeçalho de revista.
+- **Cor:** uma assinatura quente e ousada, longe do rosa-menopausa, do azul-bebê da Rezet e do lilás das marcas de menopausa. Propostas: **vermelho-morango `#E63946`** como cor principal (é o sabor do produto, é sexo, é energia, é capa de revista) sobre **off-white `#FAF6F0`**, com grafite `#2B2B2B` no texto. Alternativa: **laranja-queimado `#E8562A`**. A escolha é da fundadora.
+- **Embalagem do MVP:** pote off-white com "períssima" em vermelho, grande, como uma capa. Nada de ícones de saúde. No verso, a tabela de doses completa e o QR do laudo, com a frase: "A gente te conta tudo. Leve este rótulo na próxima consulta, se quiser."
+- **O copo:** peça de merch desde o dia 1 (copo com "períssima"), como a Rezet faz. A bebida rosa (morango) sobre a mesa de trabalho é a foto da marca.
+- **Evitar:** olho, lupa, flor, silhueta feminina, ampulheta, cérebro, raio, cruz, qualquer ícone que lembre farmácia.
 
-Recomendação: **manteiga**, com texto em grafite `#2B2B2B` e o **vermelho-morango `#E63946` como acento** (o morango é o sabor do produto). A bebida rosa sobre fundo manteiga fica mais quente e mais própria do que sobre azul.
+## 6. O que a Rezet ensina (mantido da versão 1)
+Uma cor só + branco + acento; pó em stick que vira bebida bonita; memes de reconhecimento ("isso é cortisol alto" → "isso é peri"); grid com bastidores da fundadora; programa de criadoras desde 1.076 seguidores; minúsculas e uma ideia por post. **Não copiar as alegações** ("regular o cortisol"): a Anvisa autua, e a Períssima não precisa delas, porque vende vida, não efeito.
 
-**Tipografia:** uma sans-serif geométrica em minúsculas para o logo e os títulos (ex.: **Outfit** ou **Plus Jakarta Sans**, Google Fonts, SIL); **Inter** para texto e rótulo. Sai a Fraunces (serifada, premium-clássica): não combina com a leveza pedida.
+## 7. Produto dentro dessa marca
+- **O que é:** "o copo de um dia da mulher que faz tudo". Pó de morango (Ourocaps, 5 g em 200 mL), um copo por dia.
+- **Como se fala dele:** pela transparência ("o que tem no meu copo") e pela rotina ("faz parte da manhã"), nunca pelo efeito. Isso é **mais seguro na Anvisa** do que a abordagem anterior: a marca não precisa nem da palavra "perimenopausa" no rótulo.
+- **Lote 2:** sticks de 5 g (perguntar à Ourocaps junto com o aroma) e um segundo copo para a noite.
 
-**Logo:** "períssima" em minúsculas, com o acento agudo do "í" desenhado como o acento da marca (um traço em morango). Monograma "p" para o ícone. Evitar: olho, lupa, flor, silhueta, ampulheta, cérebro, raio.
+## 8. As primeiras cinco coisas que ela vê
+1. **Perfil:** @perissima. Bio: "dona da porra toda. a revista da millennial que descobriu a peri. 🍓 um copo por dia · perissima.com.br". Destaques por seção: Dona da porra toda · Na cama · Mãe, mas não só · O segredo · O copo · Vocês.
+2. **Primeiro post:** manchete em vermelho sobre off-white: "Você não está cansada dos seus filhos. Você está cansada de uma coisa que ninguém te contou." → carrossel "isso é peri".
+3. **Primeiro relato:** uma mulher de 42 (das 16 entrevistadas) contando um dia inteiro, do despertador ao sexo, com o copo no meio.
+4. **Bastidor da fundadora:** "abri uma marca de suplemento com um emprego, uma casa e um útero em transição. vocês só veem a parte bonita."
+5. **Confirmação do pedido:** "recebido 🍓 enquanto o pote chega: a primeira edição da revista, só para quem comprou."
 
-**Embalagem do MVP (pote de 150 g da Ourocaps):** pote branco ou manteiga com "períssima" grande em grafite, o acento em morango, e no verso a tabela de doses completa + QR do laudo + "Leve este rótulo na próxima consulta". **Para o lote 2:** sticks de 5 g, como a Rezet, se a Ourocaps fizer sem nova estabilidade (perguntar junto com o aroma).
-
-## 6. As primeiras cinco coisas que ela vê
-1. **Perfil:** @perissima, bio "perimenopausa, explicada. sem drama. 🍓 um copo por dia · tabela de doses à vista · perissima.com.br". Destaques: "Comece aqui", "É peri?", "Dose", "Vocês", "Seja creator".
-2. **Primeiro carrossel:** "isso é peri" (bonecas/frames com 4 sintomas) → "mas isso também é…" → "40% das mulheres não sabem que estão nela. a gente explica."
-3. **Post de produto:** mão segurando o copo com a bebida rosa, fundo manteiga, "um copo por dia. a dose de cada coisa está no rótulo."
-4. **Bastidor:** a fundadora lendo o rótulo da Ourocaps com caneta na mão: "vocês só veem a parte bonita. hoje foi dia de conferir %VD."
-5. **Confirmação do pedido:** "recebido 🍓 enquanto o pote chega: capítulo 1, o que muda no seu corpo agora."
-
-## 7. O que muda nos outros arquivos
-- `marketing.md`: os ganchos continuam; o formato muda para o da seção 2 (memes de reconhecimento + bebida + bastidores). Programa de criadoras entra no lançamento.
-- `precificacao/pitch.md`: trocar "PeriVê" por "Períssima" e a frase de abertura por: "Perimenopausa começa anos antes da menopausa e quase ninguém explica. A Períssima explica, sem drama, e vira um copo por dia."
-- `marca/`: os carrosséis e capas PeriVê ficam como histórico; gerar peças novas depois da escolha da cor.
-- Alegações: tudo o que for para o rótulo e o site continua dependendo da lista do RT da Ourocaps.
+## 9. O que muda nos outros arquivos
+- `marketing.md`: posicionamento passa de "a primeira marca brasileira feita para a perimenopausa" para "a marca da millennial dona da porra toda, que descobriu a peri". Os 10 ganchos são reescritos pelas seções da revista. Programa de criadoras entra no lançamento.
+- `board/brief.md`: o conselho precisa reavaliar: a marca de lifestyle responde à crítica de "commodity sem resposta" (Monopoly), porque o fosso passa a ser a revista e a comunidade, não a cápsula.
+- `precificacao/pitch.md`: reescrever a abertura com a promessa da seção 1.
+- `validacao.md`, teste de leitura: além de "o que você lê?", perguntar "isso é para quem?". Queremos ouvir "para mim", não "para mulher na menopausa".
+- Rótulo e alegações: continuam dependendo do RT da Ourocaps; a nova abordagem exige menos.
 
 ## Regras
-- Nada copiado da Rezet além do que é formato de mercado (cor única, pó em stick, memes). Nome, cor, frases e fotos são próprios.
+- Nenhum nome, cor, frase ou foto copiado de concorrente.
 - Só fontes com licença livre.
 - Isto não é parecer jurídico nem regulatório.
