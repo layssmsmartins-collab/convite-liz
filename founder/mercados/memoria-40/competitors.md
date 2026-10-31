@@ -167,3 +167,5 @@ O site não abre daqui; tudo abaixo vem de prints da fundadora e de consultas p�
 
 ### Instagram (31/10, 17h): análise completa em `emme-instagram.md`
 2.461 seguidores, cerca de 2% de engajamento nos posts próprios, sustentado por uma rede próxima; método de microinfluenciadoras com cupom, fundadora na câmera, evento e farmácia de manipulação (Pólen) como ponto físico. **Terceira fórmula:** o perfil oficial listou 12 ingredientes num comentário (triptofano, sem 5-HTP; com Mg, B6, Zn e cromo). Pote, site e Instagram não batem.
+
+**Correção de data (20h27):** o primeiro post do @emme.nutrition é de 25/03/2026 e anuncia o **lançamento oficial em 01/04/2026**. A marca vende há 7 meses, não há um. Ver `emme-instagram.md`.

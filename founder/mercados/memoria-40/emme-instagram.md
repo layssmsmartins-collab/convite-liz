@@ -7,7 +7,8 @@ Fonte: 38 prints do perfil @emme.nutrition feitos pela fundadora em 31/10, entre
 - **Bio:** "Menos fogachos - mais energia - sono - bem estar e qualidade de vida. Tudo em uma dose. Garanta agora o seu Menopausei". O link vai direto para a página de venda (emmenutrition.com.br/menopausei).
 - **Destaques:** "Depoimentos" e "Menopausei". Não há FAQ, "como tomar" nem composição.
 - **Fixados:** a fundadora com o copo e o texto "O único suplemento que realmente manda embora o calorão"; "MENOPAUSEI"; "O que o Menopausei faz por você?".
-- **Linha do tempo visível:** teasers de pré-lançamento ("Um novo ciclo está começando…", "Decisão", "50 anos", "achei que a Menopausa fosse o começo do fim"); depois, um **evento de lançamento** com mais de 20 mulheres, taças e pirâmide de potes; depois, posts de 30/09 a 30/10. **O produto está no ar há cerca de um mês.**
+- **Linha do tempo visível:** teasers de pré-lançamento ("Um novo ciclo está começando…", "Decisão", "50 anos", "achei que a Menopausa fosse o começo do fim"); depois, um **evento de lançamento** com mais de 20 mulheres, taças e pirâmide de potes; posts de 30/09 a 30/10 nos prints.
+- **Correção (print da fundadora, 20h27):** o primeiro post é de **25/03/2026** (98 curtidas, 49 comentários, 33 envios: "Calorões. Cansaço constante. Oscilações de humor… Menos calorões, mais disposição… 01/04: lançamento oficial"). **O lançamento foi em 01/04/2026**, seis dias depois do domínio (19/03). O produto está no ar há **7 meses**, não um. O evento com a pirâmide de potes (~30/09) foi uma ação de meio de ano, não o lançamento.
 
 ## 2. Engajamento (9 posts com números)
 
@@ -25,7 +26,8 @@ Fonte: 38 prints do perfil @emme.nutrition feitos pela fundadora em 31/10, entre
 
 - **Média dos 9:** 53 curtidas e 10 comentários, ou **2,5% dos seguidores**. A conta superestima, porque os collabs somam a audiência das duas contas.
 - **Só os posts próprios (3):** 1,1% a 2,4%, **média de 1,8%**. Para perfis de 1 a 5 mil seguidores, o normal é 3% a 6%. **Está abaixo.**
-- **Tendência:** cai depois do lançamento. Os dois melhores posts são de influenciadoras na semana do evento (30/09); em outubro, os próprios ficam entre 25 e 52 curtidas.
+- **Tendência:** o post de pré-lançamento (25/03) teve 98 curtidas e 49 comentários, mais que qualquer post próprio de outubro (25 a 52). O pico de atenção foi a rede da fundadora no anúncio; os eventos e as influenciadoras dão picos curtos (108 e 139), e a base própria não cresce junto.
+- **Ritmo:** 54 posts em 7 meses (cerca de 2 por semana) e **2.461 seguidores em 7 meses**, cerca de 350 por mês, mesmo com anúncio pago, evento e influenciadoras. É crescimento lento.
 - **Envios** (compartilhamentos) altos só no post do lançamento (35). O conteúdo de dor ("é a idade, aguenta") quase não é compartilhado.
 
 ## 3. Quem comenta
@@ -69,7 +71,7 @@ A fundadora da Períssima tem razão: **não é uma infoprodutora**. A fundadora
 - tireoide respondida pela metade.
 
 ## 7. O tamanho da ameaça
-- **Hoje, baixa.** São 2,5 mil seguidores com cerca de 2% de engajamento, sustentado por uma rede próxima. Os sinais reais de compra são poucos (uns 4 "onde compro" em 9 posts). Mira os 50 e a menopausa.
+- **Hoje, baixa.** São 2,5 mil seguidores **depois de 7 meses** de venda, com cerca de 2% de engajamento, sustentado por uma rede próxima. Não é uma marca que acabou de nascer e ainda vai acelerar: é uma marca que já tentou por 7 meses e segue pequena. Os sinais reais de compra são poucos (uns 4 "onde compro" em 9 posts). Mira os 50 e a menopausa.
 - **Pode crescer rápido**, porque o método é bom e barato: rosto da fundadora, mais microinfluenciadoras com cupom, mais farmácia e evento. Se acertar o anúncio, ocupa "pó para mulher 40+" antes da Períssima. **E já usa a palavra "perimenopausa" em hashtags.**
 - **O maior risco dela é regulatório**, não comercial: alegações fixadas, influenciadoras prometendo efeito e 5-HTP no site. Uma denúncia ou uma fiscalização tira a vitrine do ar.
 
@@ -88,7 +90,7 @@ A fundadora da Períssima tem razão: **não é uma infoprodutora**. A fundadora
 5. **Sem cronômetro falso.**
 
 ## 9. Pendências
-- Ver o post mais antigo do perfil (data do primeiro teaser).
+- ~~Post mais antigo~~: 25/03/2026; lançamento em 01/04/2026.
 - Onde fica a farmácia Pólen e qual a relação dela com o produto.
 - Biblioteca de Anúncios da Meta: quantos anúncios estão rodando e desde quando.
 - Verso do pote: qual das três fórmulas é a real.
