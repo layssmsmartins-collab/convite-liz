@@ -56,3 +56,6 @@ O site não abriu daqui de novo; o buscador guardou um trecho dele com **5-HTP, 
 
 ## 8. Atualização 31/10, 17h (prints do site)
 O site lista **sete** ingredientes: lecitina de soja, CoQ10, resveratrol, vitamina D, vitamina B12, cúrcuma e **5-HTP** (confirmado). Triptofano, feno-grego e extrato de semente de uva, da faixa do pote no anúncio, não estão entre os sete. Para a comparação de dores (seção 3), o sono e o humor dela vêm do **5-HTP**, não do triptofano. Continua sem nenhuma dose. Detalhes em `../competitors.md`.
+
+## 9. Atualização 31/10, 17h30 (Instagram)
+O perfil oficial respondeu a uma seguidora com 12 ingredientes: lecitina de soja, feno-grego, CoQ10, **triptofano**, magnésio, B6, B12, D3, resveratrol, zinco, cúrcuma e **cromo**, **sem 5-HTP**. É a terceira lista diferente (pote, site, Instagram); a mais provável é a do Instagram, com o site errado. Se for ela, a EMME tem Mg, B6, B12, D3 e Zn como a Períssima, mais triptofano e fitoestrógenos, e ainda sem nenhuma dose. Ver `../emme-instagram.md`.
