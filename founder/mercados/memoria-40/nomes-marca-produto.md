@@ -204,3 +204,25 @@ Aplicando o critério à rodada 5:
 **Migração futura:** @ do Instagram pode ser trocado mantendo seguidores; domínio redireciona; o lote 2 sai com "[Marca-mãe] · [Produto]".
 
 **Status:** busca da marca-mãe **congelada** (rodadas 1 a 6 ficam como histórico). Candidata ao rótulo: **PeriVê** (trabalho de marca pronto, nada na web; falta PERIVE no INPI). A fundadora pode pedir uma leva pequena de nomes de produto, sempre com varredura antes.
+
+## 12. Nome do produto com "Peri" (31/10/2026, tarde)
+
+**Pedido da fundadora:** explorar nomes de produto com "Peri"; gostou de "Peri Boost".
+
+**Peri Boost: cortado.**
+1. É o produto da **MPowder** (Reino Unido), pó para perimenopausa, vendido em Boots, Superdrug, Selfridges e Cult Beauty. Mesma fase, mesmo formato. Copiar viola a regra do `brand.md`; o Brasil está no Protocolo de Madri.
+2. "Boost" sugere efeito (energia); a Anvisa autua marca que "indica propriedades" (decisões na biblioteca digital da Anvisa).
+3. INPI não checado daqui.
+
+**Lição:** "Peri + inglês" é lotado lá fora (Peri-Boost, Peri Energy/Skin/Cort/Basics da Sunday, Peri Support da Perelel, Peri-MenoFriend). O espaço aberto é "Peri + português".
+
+| Nome | Jogo | Web | Veredito |
+|---|---|---|---|
+| **Perifeita** | "perfeita" com peri dentro | nada encontrado | segue para o INPI (PERIFEITA); confirmar com o RT que "perfeita" não é lida como alegação |
+| **PeriVê** | peri + ver | nada encontrado | segue para o INPI (PERIVE) |
+| **Peri Bem** | estar bem na peri | nada encontrado | segue, com ressalva de alegação ("bem") |
+| **Peri Flor** | florescer na fase | nada encontrado | segue; menos marcante |
+| Peri Viva | — | raiz "viva" ocupada (Viva Beauty) | cortada |
+| Peri Up, Peri Mais | — | genéricos; "Peri+" existe lá fora | cortados |
+
+**Recomendação:** Perifeita (1ª) e PeriVê (2ª).
