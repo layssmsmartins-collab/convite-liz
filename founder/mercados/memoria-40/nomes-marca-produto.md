@@ -173,3 +173,9 @@ A raiz "plena" não pode ser usada: já existem Plenna (MX), Plenapausa (BR), Pl
 | **Alenta** | "alento" (fôlego, ânimo, conforto) | Nada | segue para o INPI (ALENTA e ALENTO) |
 | Ledda | "leda" (alegre) | Ledda, marca de perfumes (EUA, 2022); Leda Comércio de Cosméticos (BR) | cortada |
 | Callida | "cálida" | Som perto de Caldê, suplemento de farmácia | cortada |
+
+### Critério da fundadora (31/10): bem-estar e plenitude, nunca doença
+O nome não pode lembrar **sintoma, doença ou tratamento**, nem pelo som. Sintonna foi cortada porque soa como "sintoma"; Oscila soa disfuncional; Auge sugere que "daqui para frente só piora". A marca vai para o lado de **bem-estar, plenitude e cuidado**.
+Aplicando o critério à rodada 5:
+- **Ternna** passa (ternura, afeto).
+- **Alenta** passa no som, mas "dar alento" pressupõe alguém que precisa de consolo. Fica como reserva.

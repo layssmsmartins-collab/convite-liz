@@ -11,4 +11,6 @@ Antes de sugerir qualquer nome, fazer uma varredura e mostrar o resultado junto 
 Para cada nome, informar o que foi encontrado, com link, e o que **não** foi possível checar.
 - Se o ambiente bloquear o INPI, o registro.br ou as redes, dizer isso de forma explícita. Nunca apresentar um nome como "livre" sem ter checado.
 - Cortar da lista os nomes já usados no mesmo setor antes de apresentá-la.
+- Critério de marca da fundadora: o nome não pode lembrar sintoma, doença ou tratamento, nem pelo som. A direção é bem-estar e plenitude. Precisa falar com várias gerações (da menarca à menopausa) e ter som agradável.
+- A busca no INPI cobre a grafia estilizada e a palavra de origem (ex.: AMENNA e AMENA), porque o INPI compara pelo som.
 - A busca daqui não substitui a busca oficial no INPI nem uma advogada de marcas.
