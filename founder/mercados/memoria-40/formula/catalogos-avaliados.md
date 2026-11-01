@@ -164,3 +164,31 @@ Com esse filtro, só entram fórmulas **prontas, já notificadas, com estabilida
 1. O produto está **notificado na Anvisa com estudo de estabilidade concluído**? Qual o número da notificação e a validade?
 2. **Lote mínimo, custo por unidade e prazo** para marca própria com o rótulo da PeriVê.
 3. **Quantas marcas já vendem essa mesma fórmula**, e se há alguma exclusividade possível de rótulo, sabor ou canal.
+
+## Catálogo 5: produto notificado encontrado na consulta da Anvisa (print de 01/11)
+
+Print de `consultas.anvisa.gov.br` (nome do produto, empresa, nº de regularização e doses não aparecem no recorte). Lista de ingredientes: **inositol, glicina, bisglicinato de magnésio**, ácido cítrico, aroma idêntico ao natural de maracujá, **L-triptofano, L-treonina**, maltodextrina, **taurina**, fosfato tricálcico, sucralose, goma xantana, **corante tartrazina, corante amarelo crepúsculo** e **melatonina**. Alergênicos: pode conter leite e soja.
+
+**O que é:** um pó para bebida (maltodextrina + goma xantana + aroma) **de noite**: melatonina, glicina, triptofano, magnésio bisglicinato, inositol, taurina, treonina. É a mesma família do Sonnus Caps Premium (Nutrion), do Nigth Complex e do Shot Noturno (Personalize), com uma diferença a favor: **tem glicina e magnésio em bisglicinato**, os dois ingredientes de sono com melhor literatura depois da melatonina, e nenhum estimulante.
+
+| Sintoma (peso) | Ingrediente | Leitura (sem dose: provisória) |
+|---|---|---|
+| Sono (3) | melatonina (≤0,21 mg por lei), glicina, triptofano, Mg bisglicinato, inositol | ●●● peso cheio; se glicina ≥ 3 g e Mg ≥ 200 mg, é a melhor fórmula de noite vista até hoje |
+| Ansiedade (2) | Mg, taurina, inositol, glicina | ◐ (● se Mg em dose real) |
+| Humor (2) | triptofano, inositol | ◐ |
+| Cansaço (2) | Mg | ◐ |
+| Esquecer palavras (3), concentração (1), peso (1), libido (1) | — | nada |
+
+**Notas (provisórias, sem dose):**
+- Com sono: cobertura 6/15 → 24; qualidade: formas boas (bisglicinato, glicina livre) 7, doses desconhecidas 5, sem estimulante 5 = 17; regulatório: todos os constituintes permitidos e melatonina dentro do limite legal 8, máximos a conferir 2, alegação do magnésio 3 = 13. **Total ~54; eficácia 48.** Com as doses confirmadas em nível útil, pode chegar a **~62 / eficácia 58**, acima de Sonnus Premium (54) e Nigth Complex (53).
+- Sem sono: cobertura 3/12 → 15; eficácia **~38**. Como tudo o que é "de noite", não serve para a rota sem sono.
+
+**Contra:**
+- **Corantes tartrazina e amarelo crepúsculo.** São corantes artificiais azo; a tartrazina exige a advertência obrigatória no rótulo ("contém o corante tartrazina, que pode causar reações alérgicas") e os dois batem de frente com uma marca premium que vende transparência. Na régua não entra (não é eficácia), mas na marca pesa: é o tipo de ingrediente que a mulher que lê rótulo fotografa e posta.
+- **Pó** de novo (maltodextrina, goma xantana): 1% da pesquisa prefere pó.
+- Promessa estreita: é um produto de sono, não "a rotina da perimenopausa".
+- Sem dose, sem nome, sem empresa: não dá para pontuar de verdade nem saber se o fabricante atende marca própria e Minas.
+
+**O que perguntar (ou procurar no mesmo cadastro da Anvisa):** nome do produto e empresa detentora; nº de regularização e grupo populacional (precisa ser 19+, por causa da melatonina); dose de cada ingrediente por porção (melatonina deve ser 0,21 mg; glicina e magnésio são as que decidem); se há versão sem corante; se a empresa faz marca própria, lote mínimo, custo, e se atende fora de SP.
+
+**Onde isso entra na decisão:** se a fundadora voltar a querer o sono na promessa, esta fórmula disputa o MVP de noite com o Sonnus Premium (fora, SP) e o Nigth Complex (Personalize, a confirmar), e tende a ganhar pela glicina e pelo bisglicinato, se as doses forem reais. Se a rota continuar "sem sono", ela não entra.
