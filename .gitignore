@@ -1,2 +1,5 @@
 __pycache__/
 *.pyc
+
+# skill eval workspaces (test-run outputs, not project content)
+.claude/skills/*-workspace/
