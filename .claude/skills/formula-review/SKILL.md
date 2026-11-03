@@ -69,6 +69,13 @@ Os limiares de dose, as populações estudadas, o tamanho de efeito e a resposta
 | Irritabilidade, impaciência, oscilação de humor; ansiedade | `references/humor-ansiedade.md` |
 | Ondas de calor; ganho de peso e inchaço; libido | `references/calorao-peso-libido.md` |
 | O que a Anvisa permite: constituintes, limites para 19+, alegações, o que é proibido dizer | `references/regulatorio-brasil.md` |
+| Dose que funciona × dose legal, por queixa; o teto do que uma fórmula brasileira consegue; a fórmula-base do modo inverso | `references/matriz-legal-eficaz.md` |
+
+Leia primeiro `matriz-legal-eficaz.md`: é curta e diz, por queixa, o que é alcançável, o que fica na borda, o que é inalcançável por lei e o que é proibido. Os dossiês por queixa dão a evidência e os números por trás; o regulatório dá a norma e o que ainda não foi confirmado.
+
+Duas verdades que os dossiês deixaram claras e que o relatório precisa carregar:
+- **Para sono, memória, irritabilidade, cansaço e ansiedade, o teto legal no Brasil é "Ajuda em parte".** Os ingredientes com efeito moderado ou grande (ashwagandha, açafrão, lavanda Silexan, triptofano em 1 g, curcumina em 500 mg) estão proibidos ou têm máximo legal abaixo do piso dos estudos. Uma fórmula brasileira honesta promete melhora pequena, perceptível para parte das mulheres, em 4 a 8 semanas. Dar "Resolve" a uma fórmula brasileira para essas queixas exige evidência que hoje não existe; se um dia aparecer, atualize o dossiê.
+- **A alegação "o zinco auxilia na função cognitiva" não foi encontrada no Anexo V da IN 28** por dois pesquisadores independentes, embora conste na ficha técnica da Ourocaps. Trate como "a confirmar com o RT", não como permitida.
 
 Cada dossiê termina com um "Resumo para a régua" que diz o mínimo que uma fórmula precisa ter para aquela queixa. Use esse mínimo como piso do veredito "Resolve". Se o dossiê diz "não encontrado" para um ingrediente ou dose, diga "não checado" no relatório; não preencha com opinião.
 
@@ -113,9 +120,9 @@ Escreva em português do Brasil, direto, sem adjetivos de marketing. "Fraco" e "
 Quando a pergunta for "o que eu coloco na fórmula?", faça o caminho contrário:
 
 1. Liste as queixas-alvo em ordem de prioridade (na Períssima, pela pesquisa de 71 mulheres: dormir mal 72%, esquecer palavras 70%, irritabilidade 66%, cansaço 62%, ansiedade 61%, concentração 52%, peso 52%, libido 39%, calor 17%).
-2. Para cada queixa, pegue do dossiê o mínimo que dá "Resolve" ou, se não existir suplemento com essa força, o melhor "Ajuda em parte", e diga qual dos dois é.
-3. Monte a fórmula somando, e depois **leia o todo**: elimine competição, cheque interações, some o que age junto, veja o volume por dose (3 g de glicina + 2 g de sal de magnésio + 3 g de creatina já são 8 g: é pó, não cápsula).
-4. Passe cada ingrediente pelo `references/regulatorio-brasil.md`: está na lista? dose dentro do máximo para 19+? que alegação sobra? Marque o que precisa de confirmação do RT.
+2. Para cada queixa, pegue da `matriz-legal-eficaz.md` o que é **alcançável dentro da lei** e dá "Resolve" ou, se não existir (é o caso das cinco queixas principais), o melhor "Ajuda em parte", e diga qual dos dois é. Nunca proponha o que está "não permitido" ou "inalcançável", mesmo com evidência boa; cite-o na lista do que ficou de fora e por quê.
+3. Monte a fórmula somando, e depois **leia o todo**: elimine competição, cheque interações, some o que age junto, veja o volume por dose (2,9 g de glicina + 2,3 g de sal de magnésio + 3 g de creatina já são 8 g: é pó, não cápsula).
+4. Passe cada ingrediente pelo `references/regulatorio-brasil.md`: dose entre o mínimo e o máximo para 19+ (creatina é 3 g exatos; fibra só conta a partir de 5,7 g); que alegação sobra; que advertência entra. Marque o que precisa de confirmação do RT.
 5. Entregue a fórmula com a mesma tabela da seção "A fórmula, lida", mais o veredito esperado por queixa, mais uma lista do que **não** dá para resolver com suplemento e precisa de médico (terapia hormonal, ISRS, TCC-i), porque a marca precisa dizer isso com honestidade.
 
 ## Armadilhas que esta skill existe para evitar
