@@ -31,3 +31,9 @@ Só as do magnésio: "auxilia na formação de ossos e dentes", "no metabolismo 
 - Confirmar: magnésio é bisglicinato e 350 é elementar? (define glicina total e a nota de sono.)
 - Sair: treonina, taurina (sem evidência), inositol (dose de outra indicação). Libera ~2,7 g de volume.
 - Entrar, para cobrir os cinco sintomas do briefing: vitamina D3 50 mcg, CoQ10 200, creatina 3 g (cansaço); colina 300, cúrcuma 100 (névoa); feno-grego padronizado 500, B6 25 (irritabilidade); teanina 200, GABA 200, Lactium 300, vitamina E 400 UI (sono e ansiedade); triptofano a 860 ou fora.
+
+## Atualização (04/11): Ourocaps confirmou magnésio bisglicinato, 350 mg elementar
+- Glicina total ≈ 2,1 g (do sal) + 1,2 g (declarada) ≈ 3,3 g: dose de estudo. Sono: 5 → **6**. Nota da fórmula: 2,9 → **3,2** (direto) / ~3,8 (com o efeito indireto do sono).
+- Base deles: bisglicinato + inositol + melatonina. Inositol 2 g é dose de SOP, sem ensaio para sono ou ansiedade; aceitável como veículo, não conta.
+- Pendência regulatória: se a glicina do sal contar no teto de 2.980 mg, reduzir a glicina adicionada para ~0,85 g.
+- Continua sem nada para cansaço e esquecer palavras; pedido de inclusão (D3, CoQ10, creatina, colina, cúrcuma, feno-grego, B6, teanina, GABA, vitamina E) mantido.
