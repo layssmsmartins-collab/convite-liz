@@ -28,6 +28,21 @@ A resposta é um veredito, não um número:
 
 Dê o veredito **por queixa**, nunca uma nota única para a fórmula. Uma fórmula pode resolver cansaço e não resolver sono. É assim que a mulher vive, e é assim que a marca vai ser cobrada.
 
+### Recalibração (04/11/2026): as três premissas e a âncora da escala
+
+A primeira versão desta régua pesava a mão: ancorava o "10" em efeito de medicamento, julgava todo produto contra as queixas da Períssima (mesmo produtos de beleza ou de esporte) e chamava de "placebo" o que a cliente sente. Isso fazia tudo parecer "não funciona". A fundadora apontou, com razão, que uma marca séria não vende placebo e que existe uma premissa legal diferente da clínica. A régua passa a perguntar três coisas, nesta ordem:
+
+1. **Premissa legal: tem o mínimo para alegar?** No Brasil um suplemento "serve para" algo só com as frases do Anexo V da IN 28, e a condição é ter, na dose diária, pelo menos o mínimo do Anexo III (≈15% do VD para vitaminas e minerais; o mínimo definido para cada bioativo). Não se exige estudo. Um produto que cumpre isso é legal e honesto: é o padrão da indústria séria (Puravida, Essential), e vale nota 5 a 6 contra a própria promessa, não zero.
+2. **Premissa clínica: tem a dose que os estudos usaram, para a cliente sentir?** É o que separa "pode alegar" de "a mulher percebe". Dose abaixo do piso dos estudos continua contando zero **para a queixa**, mas conta para a premissa 1.
+3. **Premissa da brasileira A/B: repõe o que ela tem baixo contra o alvo da medicina atual?** Vitamina D (alvo 40 a 60), magnésio, ômega 3, colina, selênio e B12 estão abaixo na maioria mesmo com renda (`references/brasileira-ab-estado-nutricional.md`). Repor em dose plena é "ajuda a maioria", não "ajuda se deficiente".
+
+Regras que decorrem disso:
+- **A âncora do 10 é "o melhor que um suplemento legal consegue entregar para essa queixa, em dose real, para a maioria das clientes"**, não "cura". Com essa âncora, a fórmula v2 da Períssima fica perto de 8,5; um multivitamínico honesto, 5 a 6; uma fórmula de nomes em dose simbólica, 3 a 4.
+- **Primeiro a nota contra a promessa do próprio produto; depois, separada, "e para a mulher da Períssima?".** Um café de energia e beleza não tira nota baixa por não tratar sono; ele tira nota pelo que promete, e à parte se diz o que faz para a perimenopausa.
+- **Linha "benefício percebido esperado"**, que soma três coisas legítimas: correção de lacuna da A/B, ativo em dose de estudo, e ritual e expectativa (30 a 40% em sono e humor). A ciência desconta a terceira; a cliente e a recompra não. O relatório diz as três, separadas.
+- **Vocabulário:** sai "não funciona", "placebo", "pó de fada"; entra "faz X, não faz Y" e "dose abaixo do estudo". "Simbólico" fica reservado a dose abaixo do mínimo legal ou abaixo de 20% do piso de estudo.
+- Os limiares de dose não mudam: vêm dos estudos dos próprios ingredientes (ch-OSA 10 mg, Lactium 300 mg, magnésio 250 a 300). Quando um rótulo traz 7% disso, é fato, não rigor.
+
 ### Olhar o todo, não o ingrediente
 
 A avaliação é da fórmula inteira. Isso muda a leitura em cinco pontos:
