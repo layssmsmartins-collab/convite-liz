@@ -64,8 +64,9 @@ Há duas bases, e a ordem de leitura importa.
 
 **1. Os guias da fundadora** (`references/guias-fundadora.md`, índice consolidado; extrações completas em `references/guias/`, uma por guia, com dose e página; os PDFs originais em `founder/mercados/memoria-40/guias/`). São 48 guias clínicos da Dra. Priscila Antunes (Comunidade Saúde Conectada) que a fundadora decidiu tratar como **fonte de verdade**. Leia `guias-fundadora.md` inteiro antes de qualquer veredito. Onde ele contradiz a literatura, **o guia prevalece**, e o relatório anota a divergência numa linha ("guia diz X; literatura diz Y; usei X"). Se precisar da dose exata ou do contexto de um guia, abra a extração correspondente em `references/guias/`.
 
-Três regras dos guias que mudam a leitura de qualquer fórmula:
-- **Exame antes do veredito.** Para cansaço, névoa mental e humor, o relatório pergunta se há ferritina (>70), B12 (>500), vitamina D (40 a 60), TSH (1 a 2,5), homocisteína (5 a 9) e, quando couber, progesterona (dia 21, >10). Sem exame, ferro, B12, D e zinco são aposta; com exame alterado, nenhum pó resolve até corrigir.
+Decisão da fundadora (04/11/2026) que enquadra tudo: **a Períssima é um suplemento de prateleira, uma fórmula única, para venda; não vende consulta nem depende de exame.** A clínica é soberana e os sintomas da perimenopausa não aparecem em exame, o que é característico da fase. Por isso os alvos de exame dos guias (ferritina, B12, D, TSH, homocisteína) **não entram no veredito nem condicionam a fórmula**; podem aparecer, no máximo, numa linha de "Fora da régua" como conteúdo educativo. Calorão fica fora por ora.
+
+Duas regras dos guias que mudam a leitura de qualquer fórmula:
 - **Poucos ativos, por fase, com horário.** A autora usa 2 a 3 suplementos por 3 meses e rotaciona; separa manhã (energia: dimalato, CoQ10), 16h (teanina, chá) e noite (magnésio com glicina, glicina, fosfatidilserina). Uma fórmula "tudo em um, uma vez ao dia" contraria os guias; prefira dia/noite.
 - **Inflamação, intestino e fígado como causa.** Despertar entre 1 e 4 h, "acorda cansada mesmo dormindo", vontade de doce à tarde, pavio curto: os guias leem isso como inflamação, cortisol e metilação antes de ler como "falta de ingrediente". O relatório deve dizer quando a queixa pede esse caminho, não um suplemento.
 
