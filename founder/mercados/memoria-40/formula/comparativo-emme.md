@@ -46,3 +46,13 @@ A confirmar na IN 28 atualizada com o RT, não é parecer:
 
 ## 6. Para fechar a comparação
 Falta o verso do pote da EMME. Duas formas de conseguir: pedir a alguém que comprou uma foto do rótulo, ou comprar um pote (R$189,90) e ler tudo: fabricante, regularização, doses, advertências, adoçante. Um pote da concorrente é a pesquisa de mercado mais barata que existe neste momento.
+
+## 7. Nota pela nova lógica (04/11/2026)
+
+Régua: sintoma × o que a medicina atual preconiza × nível da brasileira A/B × lei (ver `cruzamento-sintoma-medicina-ab.md`). Nota por queixa de 0 a 10 (5 = ajuda em parte; 10 = resolve na maioria), ponderada pela frequência na pesquisa.
+
+- Camada "repõe o que falta na A/B": cobre 1,5 de 6 lacunas (vitamina D 2.000 UI no teto legal; B12 no teto). Magnésio 63 mg é o mínimo legal declarável, simbólico contra 300 a 400 preconizados; sem ômega 3, colina, selênio.
+- Camada "age no sintoma": 2 de 13 ativos em dose de estudo (curcumina 285 mg, acima do máximo legal de 130; vitamina D). Triptofano 200, feno-grego em pó 200, lecitina, uva 50, CoQ10 50, resveratrol 50, cromo 50: simbólicos ou forma errada.
+- Notas: sono 1 · esquecer palavras 3 · irritabilidade 4 · cansaço 4 · ansiedade 1,5 → **2,7/10**.
+- Referências na mesma régua: SL 023 Ourocaps ~2; Períssima v2 ~6 a 6,5.
+- O acerto que explica os depoimentos: vitamina D no teto, numa cliente que em sua maioria está abaixo de 40 ng/mL.
