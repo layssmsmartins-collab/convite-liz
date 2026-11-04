@@ -4,10 +4,4 @@ Documentos enviados pela fundadora em novembro de 2026. Por decisão dela, o con
 
 Para adicionar um documento: coloque o PDF nesta pasta, faça commit e push pelo GitHub Desktop (até 100 MB por arquivo). Nomes de arquivo sem espaços nem acentos ajudam.
 
-| Arquivo | Tema | Recebido | Processado na skill |
-|---|---|---|---|
-| alimentos_x_sintomas.pdf | alimentos × sintomas | 04/11/2026 | não |
-| ansiedade.pdf | ansiedade | 04/11/2026 | não |
-| candidiase.pdf | candidíase | 04/11/2026 | não |
-| celulite.pdf | celulite | 04/11/2026 | não |
-| endometriose_adenomiose.pdf | endometriose e adenomiose | 04/11/2026 | não |
+Os 48 PDFs foram lidos por OCR em 04/11/2026 e extraídos para `.claude/skills/formula-review/references/guias/` (um markdown por guia, com doses e páginas; índice em `INDEX.md`). A consolidação por queixa, com a comparação contra a literatura e a Anvisa, está em `.claude/skills/formula-review/references/guias-fundadora.md`.

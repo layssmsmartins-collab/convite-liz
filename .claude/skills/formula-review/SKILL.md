@@ -60,7 +60,16 @@ Regras de leitura:
 
 ## Onde está a evidência
 
-Os limiares de dose, as populações estudadas, o tamanho de efeito e a resposta ao placebo estão nos dossiês em `references/`. Leia o dossiê de cada queixa que a fórmula promete ou que o público tem, antes de dar o veredito. Não decida de memória: a memória foi exatamente o que falhou antes.
+Há duas bases, e a ordem de leitura importa.
+
+**1. Os guias da fundadora** (`references/guias-fundadora.md`, índice consolidado; extrações completas em `references/guias/`, uma por guia, com dose e página; os PDFs originais em `founder/mercados/memoria-40/guias/`). São 48 guias clínicos da Dra. Priscila Antunes (Comunidade Saúde Conectada) que a fundadora decidiu tratar como **fonte de verdade**. Leia `guias-fundadora.md` inteiro antes de qualquer veredito. Onde ele contradiz a literatura, **o guia prevalece**, e o relatório anota a divergência numa linha ("guia diz X; literatura diz Y; usei X"). Se precisar da dose exata ou do contexto de um guia, abra a extração correspondente em `references/guias/`.
+
+Três regras dos guias que mudam a leitura de qualquer fórmula:
+- **Exame antes do veredito.** Para cansaço, névoa mental e humor, o relatório pergunta se há ferritina (>70), B12 (>500), vitamina D (40 a 60), TSH (1 a 2,5), homocisteína (5 a 9) e, quando couber, progesterona (dia 21, >10). Sem exame, ferro, B12, D e zinco são aposta; com exame alterado, nenhum pó resolve até corrigir.
+- **Poucos ativos, por fase, com horário.** A autora usa 2 a 3 suplementos por 3 meses e rotaciona; separa manhã (energia: dimalato, CoQ10), 16h (teanina, chá) e noite (magnésio com glicina, glicina, fosfatidilserina). Uma fórmula "tudo em um, uma vez ao dia" contraria os guias; prefira dia/noite.
+- **Inflamação, intestino e fígado como causa.** Despertar entre 1 e 4 h, "acorda cansada mesmo dormindo", vontade de doce à tarde, pavio curto: os guias leem isso como inflamação, cortisol e metilação antes de ler como "falta de ingrediente". O relatório deve dizer quando a queixa pede esse caminho, não um suplemento.
+
+**2. Os dossiês de literatura**, que dão os limiares de dose dos ensaios clínicos, as populações estudadas, o tamanho de efeito e a resposta ao placebo. Leia o dossiê de cada queixa que a fórmula promete ou que o público tem. Não decida de memória: a memória foi exatamente o que falhou antes.
 
 | Queixa | Arquivo |
 |---|---|
@@ -102,6 +111,9 @@ Use sempre esta estrutura. A fundadora lê isso para decidir onde pôr dinheiro;
 
 ## O todo
 [O que se soma, o que anula, o que é indireto, o que depende de deficiência. 1 parágrafo.]
+
+## O que os guias da fundadora dizem sobre esta fórmula
+[Onde a fórmula segue ou contraria as regras dos guias: horário, número de ativos, forma do magnésio, exame prévio, o que a autora receitaria para estas queixas e não está aqui. Divergências guia × literatura usadas no veredito, uma linha cada.]
 
 ## Regulatório (Brasil)
 [Constituinte fora da lista? Dose acima do máximo para 19+? Alegação proibida na comunicação? Erro de rótulo? Cada item com a norma e o que falta confirmar com o RT.]
