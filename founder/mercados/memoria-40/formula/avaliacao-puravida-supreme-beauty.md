@@ -20,7 +20,7 @@ Em uma frase: **é um multivitamínico de 100% do VD com 100 mg de ácido hialur
 
 ## Pela régua nova
 
-**Para o que ele promete (pele, cabelo, unhas):** pele, "ajuda em parte" (hidratação, via hialurônico, efeito pequeno em 8 a 12 semanas); cabelo e unhas, "ajuda em parte, só se deficiente" (ferro, zinco, biotina). Silício não conta. Nota para a promessa dele: **3,5/10**.
+**Correção (04/11, depois da objeção da fundadora):** a promessa da Puravida, no texto dela, é modesta e honesta ("complemento para quando a alimentação não fornece esses nutrientes", "apoio à manutenção de cabelo, pele e unhas", que é a alegação autorizada). O "Verisol" e o exagero são do revendedor. Avaliado contra o que **ela** promete, o produto entrega: nutrição de base em formas químicas boas, que corrige lacunas reais da A/B (vitamina E 96% de ingestão inadequada, A 65%, zinco 20%, ferritina baixa em 10%) e dá resultado visível em unha e cabelo para quem está baixa. Não é placebo. O único ponto fora da dose de estudo é o silício (0,7 mg contra 10 mg do ch-OSA). Nota para o que ele promete: **6/10** (faz o que diz, com um ingrediente de marketing).
 
 **Para as queixas da Períssima (sono, esquecer palavras, irritabilidade, cansaço, ansiedade):**
 | Queixa | Nota | Por quê |
