@@ -43,3 +43,13 @@ Só as do magnésio: "auxilia na formação de ossos e dentes", "no metabolismo 
 - A proposta da Ourocaps é esse molde com bisglicinato (glicina ~3,3 g → sono 6) + taurina e treonina. Lançar como está = versão de categoria a R$5/dose contra R$2 a R$3/dose na farmácia.
 - Sachê de 10 g recebido de número 17 (fibra 8 g, Mg 200, astaxantina 4, resveratrol 100, CoQ10 100, carnitina 100, glicina 100, B's): nota 2,8; nenhum ingrediente em dose de estudo; 8 g de polidextrose/dia. Origem a confirmar.
 - Ficha da Apisnutri traz "auxiliar no tratamento dos distúrbios do sono" (alegação proibida) e "isento de registro RDC 240/2018" (regime antigo).
+
+## Decisão da fundadora (05/11/2026): lote 1 = proposta da Ourocaps, sem alteração
+Regra: nenhuma fórmula será alterada; segue o catálogo. Entre tudo que está pronto nos oito catálogos avaliados (`catalogos/RANKING.md`), a proposta da Ourocaps (Mg bisglicinato 350 elementar, inositol 2 g, melatonina 0,21, glicina 1,2 g, taurina 200, treonina 500; 8 g) é a melhor fórmula pronta (~4,4; SL 018 ~4,0).
+
+O que a decisão carrega:
+1. Produto de sono: sono 6/10, ansiedade e irritabilidade 4/10 pelo magnésio; não atua em cansaço nem em esquecer palavras. O lançamento fala de sono, não dos cinco sintomas.
+2. Produto de categoria ("Magnésio Inositol", cinco marcas de farmácia a R$2 a R$3/dose); a Períssima a R$5/dose diferencia-se por bisglicinato (glicina), formato e marca.
+3. Rótulo: só as alegações do magnésio e as advertências da melatonina.
+4. Pendências (não são alteração): glicina do bisglicinato no teto de 2.980 mg; custo por unidade, lote e prazo para 300 sticks/dosadores.
+5. A camada de cansaço, névoa e reposição (D, colina, selênio, B12) fica para um segundo produto, quando houver fabricante.
