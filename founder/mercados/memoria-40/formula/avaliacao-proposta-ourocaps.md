@@ -37,3 +37,9 @@ Só as do magnésio: "auxilia na formação de ossos e dentes", "no metabolismo 
 - Base deles: bisglicinato + inositol + melatonina. Inositol 2 g é dose de SOP, sem ensaio para sono ou ansiedade; aceitável como veículo, não conta.
 - Pendência regulatória: se a glicina do sal contar no teto de 2.980 mg, reduzir a glicina adicionada para ~0,85 g.
 - Continua sem nada para cansaço e esquecer palavras; pedido de inclusão (D3, CoQ10, creatina, colina, cúrcuma, feno-grego, B6, teanina, GABA, vitamina E) mantido.
+
+## 05/11: a "base" é um produto de categoria ("Magnésio Inositol")
+- Apisnutri Magnésio Inositol (6 g: Mg 350 malato, inositol 2 g, triptofano 200, melatonina 0,21, B6 2,6): R$160,98/300 g (50 doses) na Drogasil. True Source Relief 2.0/3.0, Body Action, FTW e Force Full Labz vendem o mesmo molde. Nota pela régua: 2,9 (sono 5 sem glicina; cansaço e névoa 0).
+- A proposta da Ourocaps é esse molde com bisglicinato (glicina ~3,3 g → sono 6) + taurina e treonina. Lançar como está = versão de categoria a R$5/dose contra R$2 a R$3/dose na farmácia.
+- Sachê de 10 g recebido de número 17 (fibra 8 g, Mg 200, astaxantina 4, resveratrol 100, CoQ10 100, carnitina 100, glicina 100, B's): nota 2,8; nenhum ingrediente em dose de estudo; 8 g de polidextrose/dia. Origem a confirmar.
+- Ficha da Apisnutri traz "auxiliar no tratamento dos distúrbios do sono" (alegação proibida) e "isento de registro RDC 240/2018" (regime antigo).
