@@ -12,7 +12,7 @@ Registro das perguntas e respostas que vão virar o brief da rodada 4 do conselh
 | Status da Ourocaps (RT, custo, stick) | A fórmula de sono **já é notificada na Anvisa**. Stick: **R$60 a caixa** (confirmar: 30 sticks? caixa impressa incluída?). |
 | Teste de 14 dias com 5 mulheres | Sim, com a **fórmula de sono**. |
 | @, domínio, advogada, notificação | Notificação ok. **Nome em revisão** (Períssima pode mudar). |
-| O que o conselho decide | _pendente_ |
+| O que o conselho decide | **Julgar o plano de lançamento e trazer pontos de atenção.** |
 
 ### Pontos que a resposta abre (para o brief)
 - Stick de **8 g** (não 5 g): confirmar com a Ourocaps se o sachê comporta a dose, custo por unidade e se exige nova estabilidade.
@@ -104,4 +104,12 @@ Restam **~435 para vender**. Para ler recompra é preciso **≥150 compradoras**
 - **Seeding em ondas, não de uma vez:** ~40 caixas no lançamento (dia X) e ~20 guardadas para ondas mensais com as criadoras que performarem.
 - **Ciclo do lote 2:** com produção de ~50 dias, o pedido do lote 2 sai quando restarem ~2 meses de estoque. Vendendo 60–80 caixas/mês, isso cai no mês 4; até lá a receita do lote 1 (~R$125 líquidos por caixa depois de imposto, frete e taxas) precisa ter juntado ~R$30 mil.
 - **R$60 mil distribuídos:** lote R$30 mil · custos únicos de lançamento ~R$14 mil (arte, advogada/INPI, site, vídeo e fotos, copos, kits) · ~R$16 mil para os primeiros 3 meses de motor (agência, UGC, mídia). Do mês 4 em diante, o motor roda com a receita.
-- **Métricas viram sinais de tração por fase, não critério de parada em 60 dias** (proposta, a confirmar com a fundadora).
+- **Métricas viram sinais de tração por fase, não critério de parada em 60 dias** (aprovado pela fundadora em 06/11).
+
+## Fechamento (06/11)
+- **Agência:** custo ainda desconhecido; a fundadora vai cotar.
+- **Sinais por fase:** aprovados.
+- **Lote 1 não precisa pagar o lote 2 inteiro.** Empresa nova tem curva de aprendizado: o lote 1 serve para entender e corrigir (quais criadoras, quais mensagens, qual oferta), não para se autofinanciar.
+- **Arte do stick:** decidida junto com o fabricante dos sticks.
+- **Nome:** não é bloqueio; tratado à parte.
+- **Pedido ao conselho:** julgar este plano e trazer pontos de atenção.
