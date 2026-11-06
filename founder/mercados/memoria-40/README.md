@@ -13,7 +13,8 @@
 | Posicionamento | lifestyle, territórios de vida (não é publicação); "sintoma" é palavra proibida; nada com cara de farmácia | `brand-perissima.md` |
 | Visual | vermelho-morango `#E63946`, off-white, Fraunces minúsculas, acento do "í"; aprovado em 31/10 | `marca/perissima/README.md` + canvas https://claude.ai/artifact/9R7dmLKHh9Ab3EWCdPq1ze |
 | Canais | Instagram por territórios; "Seja uma de nós" (as 16 da pesquisa); e-mail com o guia "o segredo"; sem profissionais, sem TikTok Shop | `marketing.md` |
-| Conselho, rodada 3 | 3 FUND IF, média 5,0; fundadora contestou "pó vs cápsula"; condição reformulada como teste da experiência; EMME como evidência nova | `board/board.md` |
+| Conselho, rodada 4 (06/11) | plano de lançamento: 3 FUND IF, média 5,0; condições em `board/board.md` | `board/board.md` |
+| Conselho, rodada 3 | 3 FUND IF, média 5,0; fundadora contestou "pó vs cápsula"; condição reformulada como teste da experiência; EMME como evidência nova | `board/rodada-3/board.md` |
 | MVP | duas trilhas (pote/pouch agora; stick com prazo 14/11); teste de 14 dias com 5 mulheres; mensagem única para a Ourocaps | `mvp-plano.md` |
 | Fórmula | SL 023 Ourocaps (amostra adulta, eficácia 63/100); pendente parecer do RT e notificação 19+ (RDC 843/2024) | `formula/decisao-mvp.md` |
 | Concorrente nova | EMME / Menopausei: mesmo formato, R$189,90, posicionada em menopausa, alegações agressivas, rótulo nunca mostrado | `competitors.md` (fim) + `formula/comparativo-emme.md` |
@@ -49,6 +50,7 @@
 - `nomes-marca-produto.md`, `referencias-nomes-mundo.md`: todo o caminho do nome.
 - `brand-perissima.md`, `marca/perissima/`: a marca.
 - `marketing.md`: posicionamento, canais, campanha, ganchos.
-- `board/`: rodadas 1, 2 e 3 do conselho; `board.md` na raiz é cópia da rodada atual.
+- `lancamento-brief.md`: perguntas e respostas da estratégia de lançamento (06/11).
+- `board/`: rodadas 1, 2, 3 (em `rodada-N/`) e 4 (na raiz de `board/`); `board.md` na raiz é cópia da rodada atual.
 - `validacao.md`, `entrevistas-nutricionistas.md`: roteiros de validação.
 - `mvp-plano.md`: o plano com datas.
