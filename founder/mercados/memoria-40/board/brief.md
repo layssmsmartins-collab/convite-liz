@@ -1,36 +1,58 @@
-# Briefing do conselho, rodada 3: Períssima, a marca da millennial dona da porra toda (31/10/2026)
+# Briefing do conselho, rodada 4: o plano de lançamento da Períssima (06/11/2026)
 
-Responda em português. Você não viu nenhuma conversa anterior; este briefing basta. Os arquivos citados existem em `/home/user/convite-liz/founder/mercados/memoria-40/` e podem ser lidos se precisar de detalhe: `brand-perissima.md`, `marketing.md`, `marca/perissima/README.md`, `nomes-marca-produto.md`, `referencias-nomes-mundo.md`, `formula/decisao-mvp.md`, `pesquisa-resultados-final.md`, `tese-oceano-azul.md`, `precificacao/pricing.md`, e as rodadas anteriores em `board/rodada-1/board.md` e `board/rodada-2/board.md`.
+Responda em português. Você não viu nenhuma conversa anterior; este briefing basta. Arquivos de apoio em `/home/user/convite-liz/founder/mercados/memoria-40/`: `lancamento-brief.md` (perguntas e respostas da fundadora, com as contas), `board/rodada-3/board.md` (rodada anterior), `formula/avaliacao-proposta-ourocaps.md` (a fórmula), `brand-perissima.md` e `marketing.md` (marca), `competitors.md`, `pesquisa-resultados-final.md` (62 mulheres reais), `precificacao/pricing.md`.
 
-## O que a rodada 2 decidiu (28/10): 3 FUND IF, média 5,3
-Riscos principais: canais demais para R$60 mil; a prova dependia de uma nutricionista que ninguém entrevistou; **commodity sem resposta** (cápsula de magnésio e B's que qualquer terceirizado faz; "se a Kunda lançar 'Peri' em seis meses, o que fica é o conteúdo"); números abertos; o mês 1 não desenhado. A versão mais forte que o conselho enxergou: "uma explicação com um suplemento, não um suplemento com conteúdo"; um produto, uma frase, dois canais.
+## O pedido da fundadora
+**Julgar o plano de lançamento e trazer pontos de atenção.** O conselho deve avaliar o negócio pelo potencial de construção de marca em 12 meses, não por um resultado de 60 dias.
 
-## O que mudou desde então (decisões da fundadora)
-1. **Posicionamento novo (31/10).** A marca deixou de ser "a primeira marca brasileira feita para a perimenopausa" e passou a ser **a marca de lifestyle da mulher millennial de 35 a 48 que é dona da porra toda** (filhos pequenos, relação, negócio ou carreira, sexo, viagem). Permeia várias áreas da vida dela, como a Capricho permeava a da adolescente millennial (não é uma publicação); os territórios são fixos (Dona da porra toda · Na cama · Mãe, mas não só · A dois · Mala pronta · Linda, radiante · O segredo · O copo). A perimenopausa é **o segredo** que ela descobre lá dentro, contado de mulher pra mulher, não por um médico. Proporção: cinco posts de vida para um de produto. Palavra proibida: "sintoma". Nada com cara de farmácia. Referência de tom: a Rezet (@userezet_, anti-stress beauty, pó em stick que vira bebida rosa) e a FLO/O Positiv (gomas de TPM que viraram uma empresa de US$225 mi).
-2. **Nome do produto: Períssima** (superlativo de "peri"; a mulher períssima). Web limpa no setor; **INPI: registrada só na classe 31 (agrícola)**, por outra empresa; classes 5, 35 e 41 sem ocorrência; advogada ainda não consultada; @ e domínio a confirmar. A marca-mãe (para a família futura: menarca, ciclo, gestação) foi **adiada de propósito**: o MVP precisa só do nome do produto, como a FLO antes da O Positiv.
-3. **Visual aprovado (31/10):** vermelho-morango `#E63946` sobre off-white, Fraunces em minúsculas, logo "períssima" com o acento do "í" em vermelho, pote sem ícone de saúde, copo da marca como merch. Pranchas em `marca/perissima/`.
-4. **100% digital, sem programa de profissionais** (28/10). Nutricionistas e médicas viram pesquisa do mecanismo de indicação e fontes de conteúdo. **TikTok Shop fora do lançamento**, como o conselho pediu.
-5. **Produto: voltou a ser pó.** A única fórmula pronta, notificada e com dose publicada que sobrou é o **SL 023 da Ourocaps**, em pó (5 g em 200 mL, morango ou tutti-frutti), pote de 150 g. Composição da amostra: magnésio bisglicinato 110 mg, inulina 3 g, D3, E, B6, B9, B12, zinco, selênio, ALA. Eficácia na régua interna: 63/100 (modesta: magnésio abaixo do ideal). **Pendência regulatória central:** a ficha está notificada para 4–18 anos; a amostra parece rotulada para adulto; falta o parecer por escrito do RT e o número de regularização para 19+. Nutrion saiu (não atende MG). A pesquisa disse "cápsula 66%, pó 2%", mas a Rezet mostra que o pó em stick que vira bebida bonita é o formato que a millennial posta; o pote de 150 g é o MVP, stick é lote 2.
-6. **Canais do lançamento (3):** Instagram por territórios; "Seja uma de nós" (as 16 mulheres da pesquisa como primeiras criadoras, mostrando o dia delas com o copo, nunca o efeito); e-mail (guia 'o segredo' grátis para a lista). Oferta de abertura: pote R$149 com o copo de brinde; assinatura R$129 com conteúdo exclusivo. Sem kit de 7 doses (não existe no pote).
-7. **Pendente da fundadora:** se o rosto dela entra nos bastidores; até onde vai o palavrão (Instagram e merch sim; rótulo e site com "Dona de tudo. Inclusive dessa fase.").
+**Decisões da fundadora que não estão em discussão nesta rodada:** o nome; o formato stick; não haverá teste antes do lote (o lote 1 é o teste); não haverá assinatura. O conselho pode apontar riscos que decorrem dessas decisões, mas não votar contra elas.
 
-## O que não mudou
-- Restrições: R$100 mil, R$40 mil de reserva, R$60 mil antes da primeira venda; lote mínimo de 300; fundadora com emprego; fabricação terceirizada; notificação com o fabricante.
-- Preço: R$149 avulso, R$129 assinatura. Conta não refeita com o custo real da Ourocaps (R$30/pote continua hipótese).
-- Metas do lote de 300: 200 vendidos em 90 dias, recompra ≥30% em 45 dias, custo por cliente ≤R$100; parada automática se duas falharem.
-- Regulação: nenhuma alegação de memória, cognição, sono, humor ou "hormonal"; a nova marca precisa de **menos** alegações, porque vende vida, não efeito. "Perimenopausa" não precisa ir no rótulo.
+## O que a rodada 3 decidiu (31/10): 3 FUND IF, média 5,0
+Avaliou outro produto (SL 023, um pó multivitamínico de "energia" em pote, com copo). Disse: "a tese melhorou e a evidência não". Pediu: parecer do RT para adulto; conta refeita com custo real; três territórios de conteúdo em vez de oito; teste de uso antes do lote; uma dona do conteúdo que não seja a fundadora; advogada para o nome; metas do lote (200 clientes em 90 dias, recompra ≥30%, custo por cliente ≤R$100, ≥10% das compradoras postando o copo sem pagamento).
 
-## As perguntas desta rodada
-1. **O posicionamento de lifestyle responde à crítica de "commodity sem resposta"?** O fosso passa a ser a identidade, a comunidade de clientes-criadoras e a identidade "dona da porra toda", não a fórmula. A Kunda copia o pó em seis meses; copia uma identidade que permeia a vida dela?
-2. **O custo oculto é operacional:** uma marca que fala de oito territórios exige conteúdo, relatos e fotografia todo mês, com uma fundadora que trabalha em paralelo. É sustentável com R$1,5–2 mil/mês de produção? O que precisa ser verdade para isso rodar sem ela?
-3. **Pó versus pesquisa:** 66% pediram cápsula. A aposta é que a bebida bonita (copo, cor, foto) vale mais que a cápsula para esta marca. Como testar isso antes do lote?
-4. **A fórmula é modesta (63/100) e a notificação para adulto não está confirmada.** Dado que a marca vende vida e transparência, a fórmula modesta é aceitável no MVP? O que é condição de parada?
-5. **Períssima com a classe 31 ocupada:** risco aceitável para depositar nas classes 5 e 35, ou condição de parada até a advogada opinar?
-6. **Nota e voto**, pela mesma régua das rodadas 1 e 2.
+## O que mudou desde então
+- **Produto do lote 1:** fórmula de sono pronta da Ourocaps, **já notificada na Anvisa**. Por dose de 8 g: magnésio bisglicinato 350 mg elementar, inositol 2 g, melatonina 0,21 mg, glicina 1,2 g (≈3,3 g de glicina total), taurina 200 mg, treonina 500 mg. Nenhuma alteração de fórmula.
+- **Avaliação técnica interna da fórmula:** atua em sono (6/10) e, pelo magnésio, em ansiedade e irritabilidade (4/10); não atua em cansaço nem em "esquecer palavras" (sintomas nº 2 e nº 5 da pesquisa). É da categoria de farmácia "Magnésio Inositol" (Apisnutri, True Source, Body Action e outras), vendida a R$2–3 por dose; a Períssima fica em ~R$6 por dose. Diferencia-se por bisglicinato (glicina), formato stick e marca.
+- **Rótulo e propaganda:** só as alegações do magnésio (ossos e dentes, metabolismo energético, eletrólitos, função muscular e neuromuscular). Nenhuma alegação de sono. A melatonina obriga advertência sobre gestantes, lactantes, crianças e atividades que requerem atenção constante.
+- **Formato:** stick de dose única, 30 por caixa, **R$60 a caixa** (custo). Produção ~50 dias. Arte decidida junto com o fabricante dos sticks.
 
-## O que ainda não se sabe
-- Parecer do RT da Ourocaps (notificação 19+, alegações, nome no rótulo, aroma, stick); custo real por pote; se 300 unidades são possíveis.
-- Advogada sobre PERÍSSIMA nas classes 5 e 35; @perissima e perissima.com.br.
-- Intenção de compra e preço com as 16 mulheres (entrevistas não feitas).
-- Teste de leitura do nome ("peri" ou "pera"?) e do posicionamento ("é para mim" ou "é para mulher na menopausa"?).
-- Custo por cliente, conversão e recompra reais.
+## O plano de lançamento
+**Marca:** lifestyle da mulher millennial de 35 a 48, "dona da porra toda"; o sono é o **primeiro produto**, e toda a comunicação dele fala com a mulher na perimenopausa. A tese do stick: mulher que trabalha e viaja a trabalho joga na bolsa e toma à noite onde estiver.
+
+**Pesquisa real (62 mulheres):** dores mais citadas: sono 71%, esquecer palavras 69%, irritabilidade 65%, ansiedade 63%, cansaço 60%. 85% compram suplemento por indicação profissional; 76% nunca compraram por indicação da internet.
+
+**Lote 1:** 500 caixas (R$30 mil). ~60 caixas para seeding e teste; ~435 para vender.
+
+**Oferta e preço:** só o suplemento. Faixa da fundadora R$168–180; recomendação na mesa: **R$179 a caixa** e **combo de 3 + copo a R$479**. Copo como brinde do combo e no kit das influenciadoras. Sem assinatura.
+
+| Oferta | Sobra por caixa (depois de produto, imposto ~10%, gateway 4,5%, frete, caixa, reserva 3%) |
+|---|---:|
+| 1 caixa a R$168 | R$59 (35%) |
+| 1 caixa a R$179 | R$68 (38%) |
+| Combo 3 + copo a R$479 | R$53 (33%) |
+
+**Aquisição: founder-led + criadoras.**
+- A fundadora (3 mil seguidoras no Instagram) grava o "antes": como estava, os sintomas, e a criação da marca. Objetivo: rosto e credibilidade, não alcance. A marca começa do zero no Instagram.
+- **Seeding em ondas:** ~40 kits no lançamento (35 influenciadoras nano/micro de 5–80 mil seguidoras + imprensa) com copo e carta; ~20 guardados para ondas mensais com quem performar; 5 para um teste de uso de 14 dias.
+- **Três papéis:** criadoras UGC pagas por vídeo (R$200–500, direito de anúncio por 90 dias), que alimentam a mídia paga; influenciadoras de seeding sem pagamento, com pedido de embargo até o dia X; 3–5 influenciadoras pagas com contrato e #publi.
+- **Sequência:** D-21 a fundadora começa a contar a história e abre lista VIP no WhatsApp · D-7 kits chegam · D-1 lista VIP compra 24h antes · D0 vendas e posts coordenados ("buzz") · D+10 mídia paga com os melhores vídeos de UGC.
+- **Conteúdo:** agência contratada (custo ainda não cotado).
+- **Regra regulatória:** nada de depoimento de efeito ("dormi melhor") em anúncio, repost ou conteúdo pago.
+
+**Canais:** site próprio (principal), lista VIP no WhatsApp, Instagram com loja. TikTok Shop só a partir do D+30, se a UGC funcionar. Fora: Mercado Livre, Amazon, farmácia.
+
+**Dinheiro (~R$60 mil):** lote R$30 mil · custos únicos de lançamento ~R$14 mil (arte, advogada/INPI, site, vídeo e fotos, copos, kits) · ~R$16 mil para os três primeiros meses (agência, UGC, influenciadoras, mídia). Do mês 4 em diante, a receita entra no motor. Vendendo as ~435 caixas, entram ~R$54 mil líquidos de imposto, frete e taxas (~R$125 por caixa). Com produção de ~50 dias e venda de 60–80 caixas/mês, o pedido do lote 2 (~R$30 mil) cairia por volta do mês 4. **Posição da fundadora:** o lote 1 não precisa pagar o lote 2 inteiro; empresa nova tem curva de aprendizado, e o lote 1 serve para entender e corrigir. A origem do dinheiro que faltar para o lote 2 não está definida.
+
+**Horizonte e métricas (aprovados pela fundadora):** 12 meses, "juros compostos". Sinais por fase, não critérios de parada:
+| Fase | Sinal |
+|---|---|
+| Meses 1–2 | quais criadoras trazem cliente e o custo por cliente de cada uma |
+| Meses 3–4 | parte da venda que chega sem mídia paga; recompra de quem comprou caixa avulsa (dia 30–45); posts espontâneos |
+| Meses 6–12 | custo por cliente caindo; mais venda por indicação e orgânico; lote 2 financiado em parte pela receita |
+
+Nota de medição: quem compra o combo de 3 só recompra no mês 3; recompra medida nas compradoras de caixa avulsa.
+
+**Concorrência direta no formato:** EMME / Menopausei vende pó para mulher 40+ (menopausa, calorão) a R$189,90, com alegações agressivas. As marcas de farmácia do tema (Kunda, Plenapausa, Meno Libid) falam de sintoma.
+
+## Fatos que ninguém tem ainda
+Custo da agência; custo real por cliente em mídia; taxa de post das influenciadoras sem pagamento; recompra; a origem do dinheiro que faltar para o lote 2.
