@@ -92,4 +92,16 @@ Restam **~435 para vender**. Para ler recompra é preciso **≥150 compradoras**
 | **Total** | **66.500** | **98.400** |
 | Sem o lote | 36.500 | 68.400 |
 
-**Leitura honesta:** vendendo as 435 caixas, entram cerca de **R$54 mil** depois de impostos, frete e taxas. O lote 1 não se paga no enxuto (falta ~R$12 mil) nem no recomendado (falta ~R$44 mil). É o custo do teste; o retorno depende da recompra e do lote 2.
+**Leitura (revista em 06/11 com a fundadora):** o lote 1 não é para se pagar; é o primeiro investimento numa construção de marca de 12 meses. O que importa é o ciclo de caixa: a venda do lote 1 precisa financiar o lote 2 e manter o motor de conteúdo ligado (ver rodada 3).
+
+## Rodada 3: respostas de 06/11
+- **Stick:** 30 sticks por caixa. **Prazo de produção: ~50 dias.**
+- **Fundadora:** 3 mil seguidoras no Instagram. Os vídeos dela servem para dar **credibilidade e um rosto** à marca, não alcance. A marca começa do zero.
+- **Orçamento: ~R$60 mil.**
+- **Horizonte:** a fundadora rejeita ler o negócio em 60 dias. É um jogo de **juros compostos**: construção de marca com UGC e influenciadoras ao longo do tempo, descobrindo quais funcionam e tracionando com elas, para que os lotes seguintes ganhem tração. O conselho deve avaliar o **potencial**, não números de mercado avulsos.
+
+### O que isso muda no plano
+- **Seeding em ondas, não de uma vez:** ~40 caixas no lançamento (dia X) e ~20 guardadas para ondas mensais com as criadoras que performarem.
+- **Ciclo do lote 2:** com produção de ~50 dias, o pedido do lote 2 sai quando restarem ~2 meses de estoque. Vendendo 60–80 caixas/mês, isso cai no mês 4; até lá a receita do lote 1 (~R$125 líquidos por caixa depois de imposto, frete e taxas) precisa ter juntado ~R$30 mil.
+- **R$60 mil distribuídos:** lote R$30 mil · custos únicos de lançamento ~R$14 mil (arte, advogada/INPI, site, vídeo e fotos, copos, kits) · ~R$16 mil para os primeiros 3 meses de motor (agência, UGC, mídia). Do mês 4 em diante, o motor roda com a receita.
+- **Métricas viram sinais de tração por fase, não critério de parada em 60 dias** (proposta, a confirmar com a fundadora).
